@@ -1,0 +1,115 @@
+body {
+	font-family: "proxima-nova-soft";
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+p {
+	font-size: 1.2em;
+	line-height: 1.4;
+	color: #606060;
+}
+
+h1, h2, h3, h4 {
+	font-family: "nimbus-sans-condensed";
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.8em;
+}
+
+
+/* Header */
+
+header {
+	text-align: center;
+	border-top: 20px solid #393839;
+	padding-top: 15px;
+}
+
+header svg {
+	width: 225px;
+	margin-bottom: 1em;
+	padding-bottom: 0;
+	margin-top: .25em;
+}
+
+main {
+	padding: 1em;
+}
+
+.tagline {
+	padding: 0;
+	font-size: 2.5em;
+	margin-top: .5em;
+	color: rgb(26,117,138);
+	line-height: 1.2;
+	font-family: "nimbus-sans";
+	border-bottom: 1px solid rgb(26,117,138);
+	padding-bottom: .5em;
+}
+
+.tagline strong {
+	font-weight: bold;
+}
+
+nav {
+	display: block;
+	font-family: "proxima-nova-soft";
+	border-top: 5px solid rgb(240,99,116);
+	padding: 1.5em;
+	margin-top: 1.5em;
+	margin: 0 auto;
+	background-color: rgba(188,188,188,.2);
+}
+
+nav a {
+	text-decoration: none;
+	color: #393839;
+	letter-spacing: 2px;
+	font-size: 1.3em;
+	font-family: nimbus-sans-condensed;
+	text-transform: uppercase;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: table;
+	width: 100%;
+}
+
+nav ul li {
+	display: table-cell;
+	text-align: center;
+}
+
+main {
+	margin-top: 0;
+	padding-top: 0.5em;
+}
+
+footer {
+	background-color: rgb(26,117,138);
+	color: white;
+}
+
+footer p {
+	color: white;
+}
+
+.introduction p {
+	font-family: "nimbus-sans";
+	font-size: 1.3em;
+}
