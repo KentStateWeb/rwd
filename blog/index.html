@@ -7,5 +7,25 @@ title: Blog
 		<h1>Blog</h1>
 		<p>In the RWD blog, we talk about the process of creating a new responsive web design course.  The blog will also house recaps of our individual class sessions.  You can get more updates by <a href="http://www.twitter.com/rwdkent">following @RWDKent on Twitter</a>.</p>
 		<h2>Latest Posts</h2>
+
+		{% for post in site.posts %}
+			<div class="blog-post group">
+				<a href="{{ post.url }}">
+					<div class="blog-post-date">
+						<div class="blog-post-month">{{ post.date | date: '%B' }}</div>
+						<div class="blog-post-day">{{ post.date | date: '%d' }}</div>
+					</div>
+					<div class="blog-post-blurb">
+						<div class="blog-post-title">
+							<h3>{{ post.title }}</h3>
+						</div>
+						<div class="blog-post-summary">
+							{{ post.excerpt }}
+						</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+
 	</section>
 </main>

@@ -35,6 +35,7 @@ ul {
     -webkit-column-width: 200px;
    -moz-column-width: 200px;
     column-width: 200px;
+    margin-bottom: 2em;
 }
 
 li {
@@ -70,8 +71,9 @@ h1 {
 
 h2 {
 	font-size: 1.8em;
-	border-bottom: 2px solid rgb(240,99,116);
-	padding-bottom: .5em;
+	border-top: 2px solid rgb(240,99,116);
+	padding-top: .5em;
+	margin-top: 0;
 }
 
 h2:before {
@@ -89,6 +91,7 @@ h2:after {
 h3 {
 	font-size: 1.6em;
 	color: rgb(26,117,138);
+	margin-top: 0;
 }
 
 h4 {
@@ -122,9 +125,10 @@ h4 {
 	}
 }
 
-.blog-post h4 {
+.blog-post h3, h4 {
 	margin-top: 0;
 	padding-top: 0;
+	margin-bottom: 0;
 }
 
 .blog-post a {
@@ -509,9 +513,10 @@ footer img {
 
 /* Main Content Area */
 
-.main-content-area p {
+.main-content-area p, .main-content-area-full p {
 	font-family: "nimbus-sans";
 	font-size: 1.3em;
+	margin-bottom: 1.5em;
 }
 
 
@@ -534,7 +539,7 @@ main {
 	border-radius: 40px;
 	margin-top: .5em;
 	border-bottom: 5px solid #19687A;
-	margin-bottom: 1.5em;
+	margin-bottom: 3.5em;
 	transition: .3s background-color ease-in-out;
 }
 
