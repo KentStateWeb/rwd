@@ -17,23 +17,16 @@ body {
 
 /* Basic Typography */
 
-p {
+p, ul {
 	font-size: 1.1em;
-	line-height: 1.4;
+	line-height: 1.6;
 	color: #606060;
-}
-
-@media screen and (min-width: 1000px) {
-	p {
-		line-height: 1.6;
-	}
 }
 
 p a {
 	color: rgb(26,117,138);
-	font-weight: Bold;
+	font-weight: bold;
 	text-decoration: none;
-	text-transform: uppercase;
 	transition: .3s color ease-in-out;
 }
 
@@ -41,19 +34,22 @@ p a:hover, p a:focus {
 	color: #393839;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	font-family: "nimbus-sans-condensed";
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
 
 h1 {
-	font-size: 2.5em;
+	font-size: 3em;
+	margin-bottom: 0em;
+	margin-top: 0;
+	color: rgb(26,117,138);
 }
 
 h2 {
 	font-size: 1.8em;
-	border-bottom: 1px solid rgb(240,99,116);
+	border-bottom: 2px solid rgb(240,99,116);
 	padding-bottom: .5em;
 }
 
@@ -69,19 +65,75 @@ h2:after {
 	padding-left: .25em;
 }
 
+h3 {
+	font-size: 1.6em;
+	color: rgb(26,117,138);
+}
+
+h4 {
+	font-size: 1em;
+	font-family: "proxima-nova-soft";
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+
+/* Teasers */
+
+.blog-post {
+	margin-bottom: 1em;
+	display: block;
+}
+
+.blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
+	background-color: #606060;
+}
+
+@media screen and (min-width: 625px) and (max-width: 1300px) {
+	.blog-post {
+		float: left;
+		width: 50%;
+		padding-right: 5%;
+	}
+}
+
+.blog-post h4 {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.blog-post a {
+	text-decoration: none;
+	color: rgb(26,117,138);
+}
+
+.blog-post a:hover, .blog-post a:focus {
+	color: rgb(26,117,138);
+}
+
+.blog-post-summary {
+	font-size: .9em;
+}
+
+.blog-post-blurb {
+	float: left;
+	width: 65%;
+}
 
 
 /* Header */
 
 header {
 	text-align: center;
-	border-top: 20px solid #393839;
 	padding-top: 15px;
+	border-top: 20px solid #393839;
+	border-bottom: 5px solid rgb(240,99,116);
+	margin-bottom: 1.5em;
 }
 
 header svg {
 	width: 225px;
-	margin-bottom: 1em;
+	margin-bottom: 0;
 	padding-bottom: 0;
 	margin-top: .25em;
 }
@@ -89,12 +141,12 @@ header svg {
 @media screen and (min-width:880px) {
 	header {
 		text-align: left;
-		border-bottom: 5px solid rgb(240,99,116);
-		margin-bottom: 1.5em;
+		
 	}
 	header svg {
 		margin-left: 2.5em;
 		float: left;
+		margin-bottom: 1.5em;
 		width: 35%;
 		max-width: 250px;
 		padding-bottom: .3em;
@@ -103,7 +155,7 @@ header svg {
 
 @media screen and (min-width:1200px) {
 	header svg {
-		max-width: 300px;
+		max-width: 275px;
 	}
 }
 
@@ -122,7 +174,7 @@ main {
 @media screen and (min-width:1000px) {
 
 main {
-	padding: 6em;
+	padding: 0 6em;
 }
 
 }
@@ -130,17 +182,17 @@ main {
 @media screen and (min-width:1300px) {
 
 main {
-	padding: 8em;
+	padding: 0 8em;
 	max-width: 1500px;
 	margin: 0 auto;
 }
 
-.introduction {
-	width: 70%;
+.main-content-area {
+	width: 68%;
 	float: left;
 }
 
-.news {
+aside {
 	float: right;
 	width: 25%;
 }
@@ -148,18 +200,19 @@ main {
 }
 
 .tagline {
-	margin-top: 1em;
+	margin-top: 0;
 }
 
 @media screen and (min-width: 600px) {
 	.tagline {
 		margin-bottom: 1em;
+		margin-top: 1em;
 	}
 }
 
 @media screen and (min-width: 1100px) {
 	.tagline {
-		max-width: 70%;
+		max-width: 95%;
 	}
 }
 
@@ -201,24 +254,25 @@ main {
 nav {
 	display: block;
 	font-family: "proxima-nova-soft";
-	border-top: 5px solid rgb(240,99,116);
 	padding: 1em;
-	margin-top: 1.5em;
 	margin: 0 auto;
+	margin-top: 0em;
+	margin-bottom: .5em;
 }
+
 
 nav a {
 	text-decoration: none;
 	color: #393839;
 	letter-spacing: 2px;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	font-family: nimbus-sans-condensed;
 	text-transform: uppercase;
 	transition: .2s color ease-in-out;
 }
 
 nav a:hover, nav a:focus {
-	color: rgb(240,99,116);
+	color: #19687A;
 }
 
 nav ul {
@@ -286,6 +340,17 @@ nav ul li:last-child:after {
 
 }
 
+@media screen and (min-width: 1200px) {
+	nav {
+		margin-top: .5em;
+		margin-bottom: 0;
+	}
+
+	nav a {
+		font-size: 1.7em;
+	}
+}
+
 
 /* Footer */
 
@@ -297,6 +362,12 @@ footer {
 	margin-top: 2em;
 	text-align: center;
 	border-bottom: 20px solid #393839;
+}
+
+@media screen and (min-width: 800px) {
+	footer {
+		padding: 2em;
+	}
 }
 
 footer p {
@@ -343,13 +414,36 @@ footer img {
 	padding-bottom: 1em;
 	display: inline-block;
 	font-size: 1.1em;
+	display: block;
+	margin-top: 1em;
 }
 
+@media screen and (min-width: 1100px) {
+	footer {
+		text-align: left;
+		padding-left: 6em;
+		padding-right: 6em;
+	}
+	.footer-contact-information {
+		float: left;
+		width: 50%;
+	}
+	.footer-logo {
+		text-align: right;
+	}
+}
 
+@media screen and (min-width: 1300px) {
+	footer {
+		padding-left: 8em;
+		padding-right: 8em;
+	}
+
+}
 
 /* Main Content Area */
 
-.introduction p {
+.main-content-area p {
 	font-family: "nimbus-sans";
 	font-size: 1.3em;
 }
@@ -372,6 +466,7 @@ main {
 	padding: 1.25em 1.5em;
 	display: inline-block;
 	border-radius: 40px;
+	margin-top: .5em;
 	border-bottom: 5px solid #19687A;
 	margin-bottom: 1.5em;
 	transition: .3s background-color ease-in-out;
@@ -390,4 +485,31 @@ main {
 
 .button.small:hover {
 	background-color: #DE5667;
+}
+
+
+/* Calendars */
+
+.blog-post-date {
+	background-color: #393839;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	font-family: "proxima-nova-soft";
+	padding: .75em;
+	border-radius: 5px;
+	box-shadow: 4px 4px 0px rgb(240,99,116);
+	float: left;
+	margin-right: 1.75em;
+	margin-bottom: 1em;
+	transition: .2s background-color ease-in-out;
+}
+
+.blog-post-month {
+	text-transform: uppercase;
+}
+
+.blog-post-day {
+	font-weight: bold;
+	font-size: 2.1em;
 }
