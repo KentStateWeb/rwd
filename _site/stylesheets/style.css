@@ -17,10 +17,31 @@ body {
 
 /* Basic Typography */
 
-p, ul {
+p, ul, ol, li {
 	font-size: 1.1em;
 	line-height: 1.6;
 	color: #606060;
+}
+
+ul {
+	-moz-column-count: 2;
+    -moz-column-gap: 25%;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 25%;
+	column-count: 2;
+    column-gap: 25%;
+    margin-left: 0;
+    padding-left: 0;
+    -webkit-column-width: 200px;
+   -moz-column-width: 200px;
+    column-width: 200px;
+}
+
+li {
+	margin-bottom: .25em;
+	margin-left: 0;
+	padding-left: 0;
+	font-family: "nimbus-sans"
 }
 
 p a {
@@ -43,7 +64,7 @@ h1, h2, h3 {
 h1 {
 	font-size: 3em;
 	margin-bottom: 0em;
-	margin-top: 0;
+	margin-top: .5em;
 	color: rgb(26,117,138);
 }
 
@@ -89,11 +110,15 @@ h4 {
 	background-color: #606060;
 }
 
-@media screen and (min-width: 625px) and (max-width: 1300px) {
+@media screen and (min-width: 625px) and (max-width: 1200px) {
 	.blog-post {
 		float: left;
 		width: 50%;
 		padding-right: 5%;
+	}
+
+	.instructor-aside {
+		max-width: 40%;
 	}
 }
 
@@ -179,7 +204,15 @@ main {
 
 }
 
-@media screen and (min-width:1300px) {
+aside img {
+	max-width: 20%;
+	height: auto;
+	float: left;
+	margin-right: 1.5em;
+	box-shadow: 4px 4px 0px rgb(240,99,116);
+}
+
+@media screen and (min-width:1200px) {
 
 main {
 	padding: 0 8em;
@@ -188,13 +221,28 @@ main {
 }
 
 .main-content-area {
-	width: 68%;
+	width: 60%;
 	float: left;
+}
+
+.main-content-area-full {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.instructor-aside {
+	max-width: 100%;
 }
 
 aside {
 	float: right;
-	width: 25%;
+	width: 32%;
+}
+
+aside img {
+	max-width: inherit;
+	width: 200px;
+	float: inherit;
 }
 
 }
@@ -213,6 +261,8 @@ aside {
 @media screen and (min-width: 1100px) {
 	.tagline {
 		max-width: 95%;
+		margin-bottom: 2em;
+		margin-top: 2em;
 	}
 }
 
@@ -265,10 +315,16 @@ nav a {
 	text-decoration: none;
 	color: #393839;
 	letter-spacing: 2px;
-	font-size: 1.3em;
+	font-size: 1em;
 	font-family: nimbus-sans-condensed;
 	text-transform: uppercase;
 	transition: .2s color ease-in-out;
+}
+
+@media screen and (min-width: 550px) {
+	nav a {
+		font-size: 1.2em;
+	}
 }
 
 nav a:hover, nav a:focus {
@@ -316,8 +372,8 @@ nav ul li:last-child:after {
 	color: rgb(240,99,116);
 	font-weight: bold;
 	font-size: 1.5em;
-	padding-left: .65em;
-	padding-right: .65em;
+	padding-left: .5em;
+	padding-right: .5em;
 }
 }
 
@@ -325,7 +381,7 @@ nav ul li:last-child:after {
 	nav {
 		display: inline-block;
 		float: right;
-		width: 60%;
+		width: 66%;
 		background-color: inherit;
 		border-top: none;
 	}
@@ -335,7 +391,7 @@ nav ul li:last-child:after {
 	}
 
 	nav a {
-		font-size: 1.6em;
+		font-size: 1.5em;
 	}
 
 }
@@ -344,6 +400,11 @@ nav ul li:last-child:after {
 	nav {
 		margin-top: .5em;
 		margin-bottom: 0;
+	}
+
+	nav ul li:after {
+		padding-left: .75em;
+		padding-right: .75em;
 	}
 
 	nav a {
@@ -423,6 +484,7 @@ footer img {
 		text-align: left;
 		padding-left: 6em;
 		padding-right: 6em;
+		margin-top: 3em;
 	}
 	.footer-contact-information {
 		float: left;
@@ -431,9 +493,13 @@ footer img {
 	.footer-logo {
 		text-align: right;
 	}
+
+	.footer-logo img {
+		  width: 225px;
+	}
 }
 
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 1200px) {
 	footer {
 		padding-left: 8em;
 		padding-right: 8em;
