@@ -3,4 +3,30 @@ layout: wide
 title: Schedule
 ---
 
-<p>The Schedule Goes Here</p>
+<h2>Part 1</h2>
+{% for classes in site.classes %}
+	{% if classes.part == '1' %}
+	  {% include class.html %}
+	{% endif %}
+{% endfor %}
+
+<h2>Part 2</h2>
+{% for classes in site.classes %}
+	{% if classes.part == '2' %}
+	  {% include class.html %}
+	{% endif %}
+{% endfor %}
+
+<h2>Part 3</h2>
+{% for classes in site.classes %}
+	{% if classes.part == '3' %}
+	  {% include class.html %}
+	{% endif %}
+{% endfor %}
+
+<h2>Part 4</h2>
+{% for classes in site.classes %}
+	{% if classes.part == '4' %}
+	  {% include class.html %}
+	{% endif %}
+{% endfor %}
