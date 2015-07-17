@@ -133,6 +133,7 @@ h4 {
 		width: 30%;
 		float: left;
 		margin-left: -11.5%;
+		-webkit-shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);	
 		shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);	}
 }
 
