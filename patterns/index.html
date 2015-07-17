@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html lang="en-us">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-	</head>
-	<link rel="stylesheet" type="text/css" href="../stylesheets/style.css" media="screen">
-	<body>
-		<main>
-		<h1>Pattern Library</h1>
+---
+layout: default
+title: Pattern Library
+---
 
-		<h2>Header/Navigation</h2>
-		<header>
+<main>
+		<h1>Pattern Library</h1>
+<hr>
+		<h3>Header/Navigation</h3>
+		<header class="group">
+		<a href="/index-new.html">
 			<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg viewBox="0 0 206 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <title>RWD Kent</title>
@@ -30,19 +28,19 @@
         </g>
     </g>
 </svg>
-			<p class="tagline"><strong>Responsive Web Design</strong> Classes from Kent State University</p>
-
+</a>
 		<nav>
-			<ul>
-				<li><a href="#" class="active">Class</a></li>
-				<li><a href="#">Workshop</a></li>
-				<li><a href="#">Blog</a></li>
-				<li><a href="#">About</a></li>
+			<ul class="group">
+				<li><a href="/class/">Class</a></li>
+				<li><a href="/workshop/">Workshop</a></li>
+				<li><a href="/blog/">Blog</a></li>
+				<li><a href="/about/">About</a></li>
 			</ul>
 		</nav>
 		</header>
-
-		<h2>Footer</h2>
+		<br>
+		<hr>
+		<h3>Footer</h3>
 
 		<footer>
 			<p>Instructor: <a href="mailto:challahan@gmail.lcom">Christopher Hallahan</a></p>
@@ -51,25 +49,59 @@
 			<p>Kent State University</p>
 			<p>Kent State Logo</p>
 		</footer>
+<br>
+<hr>
+		<h3>Introductory Paragraphs</h3>
 
-		<h2>Introductory Paragraphs</h2>
-
-		<p class="tagline">Responsive Web Design Classes from Kent State University.</p>
-
-		<h2>Paragraphs</h2>
+		<div class="group tagline"><p>Responsive Web Design Classes from Kent State University.</p></div>
+<hr>
+		<h3>Paragraphs</h3>
 
 		<p>In Kent State University's first-ever Responsive Web Design course, you will learn the fundamental principles for developing standards-based web sites from a mobile-first and content-first perspective. We will explore each aspect of an agile-inspired process, during which you’ll learn each step of what it takes to build a responsive website and ensure its functionality for users in terms of both usability and performance.</p>
 
-
-		<h2>Buttons</h2>
+<hr>
+		<h3>Buttons</h3>
 
 		<a href="#" class="button">Large Button</a>
 
 		<a href="#" class="button small">Small Button</a>
-		
-		</main>
-	<script src="//use.typekit.net/gbh5snd.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
-	</body>
 
-</html>
+<hr>
+
+	<h3>Lists</h3>
+
+	<ul>
+				<li>Atomic Design</li>
+				<li>Pattern Libraries and Style Guides</li>
+				<li>Sketching</li>
+				<li>User Research Techniques</li>
+				<li>Rapid Prototyping</li>
+				<li>HTML/CSS/JavaScript</li>
+				<li>Modern Web Design Workflows</li>
+				<li>Mobile Content Strategy</li>
+				<li>Browser Testing</li>
+				<li>Git and GitHub Version Control</li>
+				<li>Paired and Team Coding</li>
+				<li>Mobile-First Design</li>
+				</ul>
+	<h3>Date/Blog Items</h3>
+			{% for post in site.posts limit:2 %}
+			<div class="blog-post group">
+				<a href="{{ post.url }}">
+					<div class="blog-post-date">
+						<div class="blog-post-month">{{ post.date | date: '%B' }}</div>
+						<div class="blog-post-day">{{ post.date | date: '%d' }}</div>
+					</div>
+					<div class="blog-post-blurb">
+						<div class="blog-post-title">
+							<h4>{{ post.title }}</h4>
+						</div>
+						<div class="blog-post-summary">
+							<p>{{ post.excerpt }}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+
+		</main>
