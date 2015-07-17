@@ -5,6 +5,7 @@ body {
 }
 
 .group:after {
+  display: block;
   content: "";
   display: table;
   clear: both;
