@@ -1,7 +1,34 @@
-<h3>{{ classes.title }}</h3>
+
+<div class="class-entry group">
+	  <div class="blog-post-date">
+			<div class="blog-post-month">
+				{% assign m = classes.date | date: "%B" %}
+				{% case m %}
+				  {% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
+				  {% when 'September' %}Sept
+				  {% when 'October' %}Oct
+				  {% when 'November' %}Nov
+				  {% when 'December' %}Dec
+				  {% when 'January' %}Jan
+				  {% when 'February' %}Feb
+				  {% when 'March' %}Mar
+				  {% when 'August' %}Aug
+				  {% else %}{{ classes.date | date: "%b" }}.
+				  {% endcase %}
+			</div>
+			<div class="blog-post-day">{{ classes.date | date: '%d' }}</div>
+	</div>
+<div class="class-summary">
+  	  <h3>{{ classes.title }}</h3>
 	  <p>{{ classes.description }}</p>
-	  <p>{{ classes.assignment }}</p>
-	  <p>{{ classes.date }}</p>
-	  <p>{{ classes.reading }}</p>
-	  <p>{{ classes.due }}</p>
-	  <p>{{ classes.part }}</p>
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd>{{ classes.reading }}</dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd>{{ classes.assignment }}</dd>
+	  	<dt>Due Today</dt>
+	  	<dd>{{ classes.due }}</dd>
+	  </dl>
+</div>
+
+</div>

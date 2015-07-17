@@ -3,30 +3,36 @@ layout: wide
 title: Schedule
 ---
 
-<h2>Part 1</h2>
+<p class="introduction">You can find the class schedule below. The dates and plans are subject to change.  I'll notify you of any modifications during class or via email.</p>
+
+<h2>Part 1: Principles of RWD (HTML)</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '1' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 2</h2>
+<h2>Part 2: Content Strategy and Mobile-First</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '2' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 3</h2>
+<h2>Part 3: Visual Design and Development (CSS)</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '3' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 4</h2>
+<h2>Part 4: Prototyping, Testing and Style Guides</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '4' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
+
+<h2>Final Exam: Tuesday, Dec 15 - 5:45 - 8:00 p.m.</h2>
+
+<p>We'll continue presnetations and critiques during the final exam period, if needed.</p>

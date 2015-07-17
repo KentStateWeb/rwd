@@ -17,6 +17,23 @@ Responsive web design isn’t just a technical solution for web design - it’s 
 
 In this course you will learn the fundamental principles for developing standards-based web sites from a mobile-first and content-first perspective.  We will explore each aspect of an agile-inspired process, during which you’ll learn each step of what it takes to build a website and ensure its functionality for its users in terms of both usability and performance.
 
+####Topics
+
+Just a few of the topics planned to be covered in the Responsive Web Design course include:
+
+* Atomic Design
+* Pattern Libraries and Style Guides
+* Sketching
+* User Research Techniques
+* Rapid Prototyping
+* HTML/CSS/JavaScript
+* Modern Web Design Workflows
+* Mobile Content Strategy
+* Browser Testing
+* Git and GitHub Version Control
+* Paired and Team Coding
+* Mobile-First Design
+
 ### Prerequisites
 Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and work with others from different backgrounds to solve complex problems.
 
