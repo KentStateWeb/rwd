@@ -204,6 +204,7 @@ The following policies and procedures apply to students enrolled at Kent State U
 ####Course enrollment and withdrawal
 University policy requires all students to be officially registered in each class they are attending. Students who are not officially registered for a course by published deadlines should not be attending classes and will not receive credit or a grade for the course. Each student must confirm enrollment by checking his/her class schedule (using Student Tools in FlashFast) prior to the deadline indicated. Registration errors must be corrected prior to the deadline.
 To determine the last dates to drop or withdraw from the course, follow the steps below:
+
 * Visit the [Class Schedule](https://keys.kent.edu:44220/ePROD/bwlkffcs.p_adv_unsecure_sel_crse_search)
 * Search by Term
 * Select "Detailed Class Search" option
