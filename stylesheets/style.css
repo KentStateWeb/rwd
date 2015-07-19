@@ -765,7 +765,8 @@ main {
 	border-radius: 5px;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
 	float: left;
-	margin-right: 1.75em;
+	width: 70px;
+	margin-right: 5%;
 	margin-bottom: 1em;
 	transition: .2s background-color ease-in-out;
 }
@@ -785,11 +786,20 @@ main {
 	padding-top: 1em;
 	border-top: 1px solid gray;
 }
+
+.class-title {
+	float: left;
+	margin-left: 1em;
+	width: 65%;
+}
+
+@media screen and (min-width: 600px) {
+	.class-title {
+		width: 80%;
+	}
+}
 .class-entry h3 {
 	margin-bottom: 0em;
 }
 .class-summary {
-	float: left;
-	width: 75%;
-	margin-left: 2%;
 }
