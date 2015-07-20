@@ -1,0 +1,24 @@
+---
+layout: wide
+title: Assignments
+---
+
+<p class="introduction">You can find the assignments and projects below.</p>
+
+<h2>Mini Assignments</h2>
+<ul>
+{% for assignments in site.assignments %}
+	{% if assignments.type == 'mini' %}  
+	  {% include assignments.html %}
+	{% endif %}
+{% endfor %}
+</ul>
+
+<h2>Project Assignments</h2>
+<ul>
+{% for assignments in site.assignments %}
+	{% if assignments.type == 'project' %}
+	  {% include assignments.html %}
+	{% endif %}
+{% endfor %}
+</ul>

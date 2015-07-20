@@ -75,11 +75,11 @@ Most importantly, by the end of this course, students will be able to:
 ### Course Textbook and Materials
 There are 3 required textbooks for the course.  One provides detailed examples and instructions for HTML/CSS, and the others provide more practical knowledge on web design topics:
 
-* *HTML and CSS: Design and Build Websites* by Jon Duckett, November 2011, Wiley. ($29.99 List Price)
-* Mobile-First Design by Luke Wroblewski, October 2011, A Book Apart. ($18.00 List Price)
-* Responsive Web Design by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($18.00 List Price)
+* *[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* by Jon Duckett, November 2011, Wiley. ($17.39 on Amazon)
+* *[Mobile-First Design](http://abookapart.com/products/mobile-first)* by Luke Wroblewski, October 2011, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
+* *[Responsive Web Design](http://abookapart.com/products/responsive-web-design)* by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
 
-You will receive 20% off your order of Mobile-First Design and Responsive Web Design if you order both books at once from A Book Apart (www.abookapart.com)
+You will receive 20% off your order of *Mobile-First Design* and *Responsive Web Design* if you order both books at once from [A Book Apart](www.abookapart.com).
 
 This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
@@ -96,8 +96,9 @@ Students are expected to come to class prepared.  This means:
 * Completing assignments on time and submitting them properly to GitHub each week.
 
 ###Course Schedule
-This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the class website on GitHub.  
-Please see the “Detailed Course Schedule”, available on the course website and Blackboard, for specific dates, times and assignments.
+This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the class website on GitHub.
+
+Please see the [Detailed Course Schedule](/class/schedule) for specific dates, times and assignments.
 
 ####Part 1: Principles of Responsive Web Design and HTML
 Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML + CSS elements and selectors in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section, and will refer to the HTML and CSS textbook frequently.
@@ -120,8 +121,8 @@ There are **100** total possible points for the semester.
 
 | Assignment       | Points  |
 | :------------- | :-------------|
-| In-Class Participation and Attendance |  5 |
-| RWD Case Study | 5   |
+| [In-Class Participation and Attendance](/assignments/participation.html) |  5 |
+| [RWD Case Study](/assignments/casestudy.html) | 5   |
 | HTML Basics | 5  |
 | HTML Basics 2 | 5  |
 | CSS Basics | 5  |
@@ -139,10 +140,10 @@ There are **100** total possible points for the semester.
 | Sketching |  5 |
 | Content & Architecture |  5 |
 | Style Tiles/Personality |  10 |
-| HTML Content Templates |  5 |
+| HTML Content Wireframes |  5 |
 | Technical and Usability Testing |  10 |
+| HTML/CSS Final Prototype/Templates |  10 |
 | HTML/CSS Style Guide and Patterns |  5 |
-| HTML/CSS Final Templates |  10 |
 | Project Timeline, Presentation & Critiques |  5 |
 | Group and Self Assessment |  5 |
 | **TOTAL** |  **65** |

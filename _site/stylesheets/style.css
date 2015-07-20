@@ -815,6 +815,11 @@ footer img {
 	width: 65%;
 }
 
+.class-title a {
+	text-decoration: none;
+	color: rgb(26,117,138) ;
+}
+
 @media screen and (min-width: 600px) {
 	.class-title {
 		width: 80%;

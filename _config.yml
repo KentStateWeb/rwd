@@ -1,4 +1,5 @@
 collections:
  classes:
    output: true
-
+ assignments:
+   output: true
