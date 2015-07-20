@@ -6,4 +6,4 @@ points: 10
 layout: wide
 ---
 
-This is the main content.
+Assignment details will be posted shortly.
