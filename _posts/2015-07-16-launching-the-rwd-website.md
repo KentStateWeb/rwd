@@ -14,7 +14,7 @@ I've spent the summer planning, designing and developing a website to accompany 
 
 ## Building the Website
 
-Because I'm going to run the RWD class using GitHub and Jekyll, I wanted to dogfood this process first-hand.  The site is statically generated on my local computer using Jekyll, and then pushed via Git to GitHub pages, which also allows me to host the site for free.  Jekyll also includes built-in blogging functionality -- which was an added bonus.  
+Because I am going to run the RWD class using GitHub and Jekyll, I wanted to dogfood this process first-hand.  The site is statically generated on my local computer using Jekyll, and then pushed via Git to GitHub pages, which also allows me to host the site for free.  Jekyll also includes built-in blogging functionality -- which was an added bonus.  
 
 A few techniques I used in the site planning process were:
 
