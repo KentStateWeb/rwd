@@ -718,7 +718,7 @@ footer img {
 	border-radius: 40px;
 	margin-top: .5em;
 	border-bottom: 5px solid #19687A;
-	margin-bottom: 3.5em;
+	margin-bottom: 1.5em;
 	transition: .3s background-color ease-in-out;
 }
 
@@ -737,10 +737,12 @@ footer img {
 
 .button:hover {
 	background-color: #19687A;
+	color: white;
 }
 
 .button.small:hover {
 	background-color: #DE5667;
+	color: white;
 }
 
 
