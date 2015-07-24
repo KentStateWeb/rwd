@@ -257,11 +257,12 @@ header {
 	margin: 0 auto;
 }
 
-header svg {
+header .rwd-logo {
 	width: 200px;
 	margin-bottom: 0;
 	padding-bottom: 0;
 	margin-top: .05em;
+	height: 100px;
 }
 
 @media screen and (min-width:880px) {
@@ -269,7 +270,7 @@ header svg {
 		text-align: left;
 		
 	}
-	header svg {
+	header .rwd-logo {
 		margin-left: 2.5em;
 		float: left;
 		margin-bottom: 1.5em;
@@ -281,7 +282,7 @@ header svg {
 }
 
 @media screen and (min-width:1200px) {
-	header svg {
+	header .rwd-logo {
 		max-width: 265px;
 		margin-bottom: 1.25em;
 		margin-top: .35em;
