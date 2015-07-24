@@ -1,8 +1,8 @@
 ---
 title: "Group 1"
-description: "Barb’s Bridal Boutique"
-members: "Name and Name"
+client: "Barb’s Bridal Boutique"
+members: "Ben B. and Emily H."
 layout: group
+link: TBD
+description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
 ---
-
-Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear.

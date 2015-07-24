@@ -7,8 +7,9 @@ title: Assignments
 
 <h2>Mini Assignments</h2>
 <ul>
-{% for assignments in site.assignments %}
-	{% if assignments.type == 'mini' %}  
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'mini' %}  
 	  {% include assignments.html %}
 	{% endif %}
 {% endfor %}
@@ -17,8 +18,9 @@ title: Assignments
 <h2>Project Assignments</h2>
 <a class="button small" href="/assignments/project-summary.html">Semester Project Overview</a>
 <ul>
-{% for assignments in site.assignments %}
-	{% if assignments.type == 'project' %}
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'project' %}
 	  {% include assignments.html %}
 	{% endif %}
 {% endfor %}

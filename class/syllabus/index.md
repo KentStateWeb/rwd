@@ -128,14 +128,15 @@ There are **100** total possible points for the semester.
   <th style="text-align:left;">Points</th>
 </thead>
 <tbody>
-{% for assignments in site.assignments %}
-	{% if assignments.type == 'mini' %}  
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'mini' %}  
 	<tr>
 		<td>
-			<a href="{{assignments.url }}">{{ assignments.title }}</a>
+			<a href="{{ item.url }}">{{ item.title }}</a>
 		</td>
 		<td>
-			{{ assignments.points }}
+			{{ item.points }}
 		</td>
 	</tr>
 	{% endif %}
@@ -156,14 +157,15 @@ There are **100** total possible points for the semester.
   <th style="text-align:left;">Points</th>
 </thead>
 <tbody>
-{% for assignments in site.assignments %}
-	{% if assignments.type == 'project' %}  
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'project' %}  
 	<tr>
 		<td>
-			<a href="{{assignments.url }}">{{ assignments.title }}</a>
+			<a href="{{ item.url }}">{{ item.title }}</a>
 		</td>
 		<td>
-			{{ assignments.points }}
+			{{ item.points }}
 		</td>
 	</tr>
 	{% endif %}

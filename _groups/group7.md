@@ -1,8 +1,8 @@
 ---
 title: "Group 7"
-description: "William Thomas & Associates"
-members: "Name and Name"
+client: "William Thomas & Associates"
+members: "Amber J., Ken S. and Janet W."
 layout: group
+link: TBD
+description: "William Thomas & Associates: A small, but growing, accounting firm that has prided itself in serving its local clientele across many generations."
 ---
-
-William Thomas & Associates: A small accounting firm who has prided itself in serving its local clientele across many generations.
