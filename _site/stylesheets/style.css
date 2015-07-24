@@ -675,6 +675,7 @@ footer img {
 
 .footer-supplemental a {
 	margin-right: 3em;
+	padding: .5em 0;
 	display: inline-block;
 }
 
