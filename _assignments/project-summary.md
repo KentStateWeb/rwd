@@ -14,17 +14,19 @@ layout: wide
 
 *Note: In this scenario, I will play the client and the business, while based on some actual businesses, will be fictional*
 
+## Project Goals
+
+Why this type of project?  This allows you, the student, to apply what you're learning in class to a real-world scenario.  By thinking critically and using these principles, you're developing long-lasting development and design skills that can be used to land you a job or complement your existing areas of expertise.
+
 ## Project Groups
 
 You'll work in pairs on this project (except for one group, which will be 3 people).  Each pair will work on a slightly different (but largely equivalent) web project.  The projects are as follows:
 
-* Group 1: Barb's Bridal Boutique, a small boutique in Ohio that specializes in bridal wear.
-* Group 2: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
-* Group 3: AROMA Coffee & Tea, a family-owned coffee company who specializes in locally-sourced coffee.
-* Group 4: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
-* Group 5: Off the Vine:  A local winery who operates a small walk-in wine-bar.
-* Group 6: Buckeye Bed & Breakfast: A posh bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life.
-* Group 7: William Thomas & Associates: A small accounting firm who has prided itself in serving its local clientele across many generations.
+<ul>
+{% for groups in site.groups %}
+	  {% include groups.html %}
+{% endfor %}
+</ul>
 
 
 ## Project Schedule
@@ -115,7 +117,3 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll submit your final prototype, style guide and project timeline.
 
 <a class="button small" href="assessment.html">View Group/Self Assessment Project</a>
-
-## Project Goals
-
-Why this type of project?  This allows you, the student, to apply what you're learning in class to a real-world scenario.  By thinking critically and using these principles, you're developing long-lasting development and design skills that can be used to land you a job or complement your existing areas of expertise.

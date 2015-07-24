@@ -117,37 +117,64 @@ Student learning will be assessed through three types of work: in-class particip
 
 There are **100** total possible points for the semester.
 
-####Mini Assignments
 
-| Assignment       | Points  |
-| :------------- | :-------------|
-| [In-Class Participation and Attendance](/assignments/participation.html) |  5 |
-| [RWD Case Study](/assignments/casestudy.html) | 5   |
-| HTML Basics | 5  |
-| HTML Basics 2 | 5  |
-| CSS Basics | 5  |
-| CSS Basics 2 | 5  |
-| Layout/Media Queries | 5  |
-| **TOTAL** | **35**  |
+<div class="table-float">
 
+<h4>Mini Assignments</h4>
 
-####Semester Project Assignments
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+{% for assignments in site.assignments %}
+	{% if assignments.type == 'mini' %}  
+	<tr>
+		<td>
+			<a href="{{assignments.url }}">{{ assignments.title }}</a>
+		</td>
+		<td>
+			{{ assignments.points }}
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>35</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
 
-
-| Assignment       | Points  |
-| :------------- | :-------------|
-| Research/Competitive Analysis |  5 |
-| Sketching |  5 |
-| Content & Architecture |  5 |
-| Style Tiles/Personality |  10 |
-| HTML Content Wireframes |  5 |
-| Technical and Usability Testing |  10 |
-| HTML/CSS Final Prototype/Templates |  10 |
-| HTML/CSS Style Guide and Patterns |  5 |
-| Project Timeline, Presentation & Critiques |  5 |
-| Group and Self Assessment |  5 |
-| **TOTAL** |  **65** |
-
+<div class="table-float">
+<h4>Semester Project Assignments</h4>
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+{% for assignments in site.assignments %}
+	{% if assignments.type == 'project' %}  
+	<tr>
+		<td>
+			<a href="{{assignments.url }}">{{ assignments.title }}</a>
+		</td>
+		<td>
+			{{ assignments.points }}
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>65</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
 
 ###Late Submissions
 The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). 

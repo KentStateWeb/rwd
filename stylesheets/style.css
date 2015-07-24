@@ -65,10 +65,21 @@ table {
 	border-collapse: collapse;
 }
 
+table a {
+	color: rgb(26,117,138);
+}
+
 table th {
 		text-transform:uppercase;
 		color: rgb(26,117,138);
 		padding-bottom: .5em;
+}
+
+@media screen and (min-width: 900px) {
+	.table-float {
+		float: left;
+		width: 50%;
+	}
 }
 
 table td {

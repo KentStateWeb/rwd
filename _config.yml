@@ -3,3 +3,5 @@ collections:
    output: true
  assignments:
    output: true
+ groups:
+   output: true

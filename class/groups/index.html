@@ -1,0 +1,12 @@
+---
+layout: wide
+title: Groups & Projects
+---
+
+<p>You can learn more about the semester project in general by reading the <a href="/assignments/project-summary.html">Project Summary</a>.</p>
+
+<ul>
+{% for groups in site.groups %}
+	  {% include groups.html %}
+{% endfor %}
+</ul>
