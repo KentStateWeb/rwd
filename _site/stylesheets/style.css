@@ -257,12 +257,26 @@ header {
 	margin: 0 auto;
 }
 
-header .rwd-logo {
+header .svg {
 	width: 200px;
 	margin-bottom: 0;
 	padding-bottom: 0;
 	margin-top: .05em;
-	height: 100px;
+	height: 80px;
+}
+
+a.svg {
+  position: relative;
+  display: inline-block; 
+}
+
+a.svg:after {
+  content: ""; 
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left:0;
 }
 
 @media screen and (min-width:880px) {
@@ -270,22 +284,24 @@ header .rwd-logo {
 		text-align: left;
 		
 	}
-	header .rwd-logo {
+	header .svg {
 		margin-left: 2.5em;
 		float: left;
 		margin-bottom: 1.5em;
-		width: 35%;
 		padding-top: .5em;
+		width: 25%;
 		max-width: 250px;
 		padding-bottom: 0em;
+		height: auto;
 	}
 }
 
 @media screen and (min-width:1200px) {
-	header .rwd-logo {
+	header .svg {
 		max-width: 265px;
 		margin-bottom: 1.25em;
 		margin-top: .35em;
+		width: 50%;
 		padding-top: 0;
 	}
 }
