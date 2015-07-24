@@ -79,7 +79,7 @@ There are 3 required textbooks for the course.  One provides detailed examples a
 * *[Mobile-First Design](http://abookapart.com/products/mobile-first)* by Luke Wroblewski, October 2011, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
 * *[Responsive Web Design](http://abookapart.com/products/responsive-web-design)* by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
 
-You will receive 20% off your order of *Mobile-First Design* and *Responsive Web Design* if you order both books at once from [A Book Apart](www.abookapart.com).
+You will receive 15% off your order of *Mobile-First Design* and *Responsive Web Design* if you order both books at once from [A Book Apart](www.abookapart.com).
 
 This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
