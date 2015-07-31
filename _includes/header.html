@@ -79,13 +79,18 @@
 		}
 		loadCSS( "{{ site.baseurl }}/stylesheets/style.css" );
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/style.css">
+		</noscript>
 	</head>
 	<body>
-		<header class="group">
-		<a href="/" class="svg">
-			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg">Responsive Web Design</object>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg"></object>
 		</a>
-		<nav>
+		<nav role="navigation">
 			<ul class="group">
 				<li><a href="/class/">Class</a></li>
 				<li><a href="/workshop/">Workshop</a></li>

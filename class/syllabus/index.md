@@ -178,6 +178,14 @@ There are **100** total possible points for the semester.
 </table>
 </div>
 
+###Attendance Policy
+
+We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absenses will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
+
+Students who miss more than two classes without proper documnetation will receive a 0 for their class participation grade for the semester.
+
+If you miss class, you are still responsibile for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
+
 ###Late Submissions
 The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). 
 
@@ -185,7 +193,7 @@ My policy for late assignments has 3 rules:
 
 * Late assignments will be accepted so long as you contact the instructor to indicate that it will be late and provide an explanation.
 * Late assignments must be submitted within 1 week of the original due date, without penalty, so long as the student meets the first rule. After 1 week the assignment will be marked as 0.
-* An additional extension may be possible in exceptional circumstances. This requires a face-to-face conversation between the student and the instructor.
+* An additional extension may be possible in exceptional circumstances, with documentation. This requires a face-to-face conversation between the student and the instructor.
 
 ### Grading
 

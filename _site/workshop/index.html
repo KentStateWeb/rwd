@@ -79,13 +79,18 @@
 		}
 		loadCSS( "/stylesheets/style.css" );
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+		</noscript>
 	</head>
 	<body>
-		<header class="group">
-		<a href="/" class="svg">
-			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg">Responsive Web Design</object>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg"></object>
 		</a>
-		<nav>
+		<nav role="navigation">
 			<ul class="group">
 				<li><a href="/class/">Class</a></li>
 				<li><a href="/workshop/">Workshop</a></li>
@@ -95,8 +100,8 @@
 		</nav>
 		</header>
 
-	<main class="group">
-	<h1>The Workshop</h1>
+<main role="main" class="group" id="content">
+		<h1>The Workshop</h1>
 	<section class="main-content-area">
 			<p class="introduction">In the Responsive Web Design workshop, participants get an interactive overview of several key aspects of the responsive web design process.  Designed to be accessible to users who are at a beginner or intermediate level, the responsive web design workshop will concentrate on the following 3 key objectives:</p>
 				<ol>
@@ -118,7 +123,7 @@
 		<p>If computers are not available, participants will work in groups to sketch out a mobile-first wireframe of a sample website on paper using pencils and markers.  Groups will be challenged to design in a way that places the most important content first, while ensuring the design is usable on small screens.  Groups will briefly present their sketches and explain how they made their design decisions.</p>
 		
 	</section>
-	<aside>
+	<aside role="complementary">
 		<section>
 			<h3>On-Site Workshops Available</h3>
 			<p>The Responsive Web Design workshop is coordinated by IdeaBase, a student-powered agency in downtown Kent, OH.  Our costs are based on number of participants and travel.  If you're interested in holding a workshop for your group, please get in touch.</p>
@@ -132,7 +137,7 @@
 	</aside>
 </main>
 
-<footer class="group">
+<footer class="group" role="contentinfo">
 	<div class="footer-contact-information">
 			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
 			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>

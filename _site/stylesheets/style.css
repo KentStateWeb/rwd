@@ -32,7 +32,9 @@ p, ul, ol, li, table, dl {
 
 dt {
 	font-weight: bold;
-	color: rgb(26,117,138);
+	color:#606060;
+	font-size: 1.1em;
+	margin-bottom: .25em;
 }
 
 dd {
@@ -54,6 +56,7 @@ main ul {
     margin-bottom: 2em;
     padding-left: 0;
     list-style-type: none;
+    margin-top: 0;
 }
 
 table {
@@ -106,7 +109,7 @@ main ul li:before {
     font-size: 1.1em;
 }
 
-p a, ul a, ol a {
+p a, ul a, ol a, dd a {
 	color: rgb(26,117,138);
 	font-weight: bold;
 	text-decoration: none;
@@ -155,6 +158,13 @@ h3 {
 	font-size: 1.6em;
 	color: rgb(26,117,138);
 	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 1em;
+}
+
+aside h3 {
+	padding-top: 0;
+	padding-bottom: 1em;
 }
 
 h4 {
@@ -622,6 +632,39 @@ nav ul li:last-child:after {
 }
 
 
+/* Accessible Skip to Content Link */
+
+
+#skip-to-content {
+  padding: 1em;
+  position: absolute;
+  top: -40px;
+  left: 1em;
+  z-index: 1000;
+  color: white;
+}
+
+#skip-to-content:focus {
+  position: absolute;
+  top: 0;
+  background: #4593ff;
+}
+
+
+/* Accessible Way to Hide Content */
+
+.visually-hidden { /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+    clip: rect(1px, 1px, 1px, 1px);
+    padding:0 !important;
+    border:0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+} 
+body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; } 
+
 
 /* Footer */
 
@@ -691,9 +734,16 @@ footer img {
 }
 
 .footer-supplemental a {
-	margin-right: 3em;
+	margin: 0 1.5em;
 	padding: .5em 0;
 	display: inline-block;
+}
+
+@media screen and (min-width: 1100px) {
+	.footer-supplemental a {
+		margin-right: 3em;
+		margin-left: 0;
+	}
 }
 
 .footer-instructor {

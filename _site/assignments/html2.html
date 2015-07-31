@@ -79,13 +79,18 @@
 		}
 		loadCSS( "/stylesheets/style.css" );
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+		</noscript>
 	</head>
 	<body>
-		<header class="group">
-		<a href="/" class="svg">
-			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg">Responsive Web Design</object>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg"></object>
 		</a>
-		<nav>
+		<nav role="navigation">
 			<ul class="group">
 				<li><a href="/class/">Class</a></li>
 				<li><a href="/workshop/">Workshop</a></li>
@@ -95,7 +100,7 @@
 		</nav>
 		</header>
 
-<main class="group">
+<main class="group" role="main" id="content">
 	<section class="main-content-area-wide">
 	<h1>HTML Basics 2</h1>
 	<p>Assignment details will be posted shortly.</p>
@@ -103,7 +108,7 @@
 	</section>
 </main>
 
-<footer class="group">
+<footer class="group" role="contentinfo">
 	<div class="footer-contact-information">
 			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
 			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>

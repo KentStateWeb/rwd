@@ -79,13 +79,18 @@
 		}
 		loadCSS( "/stylesheets/style.css" );
 		</script>
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+		</noscript>
 	</head>
 	<body>
-		<header class="group">
-		<a href="/" class="svg">
-			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg">Responsive Web Design</object>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<object type="image/svg+xml" class="rwd-logo" data="/img/rwd.svg"></object>
 		</a>
-		<nav>
+		<nav role="navigation">
 			<ul class="group">
 				<li><a href="/class/">Class</a></li>
 				<li><a href="/workshop/">Workshop</a></li>
@@ -95,7 +100,7 @@
 		</nav>
 		</header>
 
-<main class="group">
+<main class="group" role="main" id="content">
 	<section class="main-content-area-wide">
 	<h1>Syllabus - Responsive Web Design</h1>
 	<h2 id="cci-special-topics-course-40095-001">CCI Special Topics Course 40095-001</h2>
@@ -487,6 +492,14 @@
 </table>
 </div>
 
+<h3 id="attendance-policy">Attendance Policy</h3>
+
+<p>We’ll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow <strong>two missed classes</strong> for the semester.  All subsequent absenses will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach’s note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  </p>
+
+<p>Students who miss more than two classes without proper documnetation will receive a 0 for their class participation grade for the semester.</p>
+
+<p>If you miss class, you are still responsibile for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.</p>
+
 <h3 id="late-submissions">Late Submissions</h3>
 <p>The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). </p>
 
@@ -495,7 +508,7 @@
 <ul>
   <li>Late assignments will be accepted so long as you contact the instructor to indicate that it will be late and provide an explanation.</li>
   <li>Late assignments must be submitted within 1 week of the original due date, without penalty, so long as the student meets the first rule. After 1 week the assignment will be marked as 0.</li>
-  <li>An additional extension may be possible in exceptional circumstances. This requires a face-to-face conversation between the student and the instructor.</li>
+  <li>An additional extension may be possible in exceptional circumstances, with documentation. This requires a face-to-face conversation between the student and the instructor.</li>
 </ul>
 
 <h3 id="grading">Grading</h3>
@@ -614,7 +627,7 @@ To determine the last dates to drop or withdraw from the course, follow the step
 	</section>
 </main>
 
-<footer class="group">
+<footer class="group" role="contentinfo">
 	<div class="footer-contact-information">
 			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
 			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
