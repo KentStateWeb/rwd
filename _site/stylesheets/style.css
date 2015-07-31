@@ -142,17 +142,19 @@ h2 {
 	margin-top: 0;
 }
 
-h2:before {
+/*h2:before {
 	content: "<";
 	color: rgb(240,99,116);
 	padding-right: .25em;
+	speak: none;
 }
 
 h2:after {
 	content: ">";
 	color: rgb(240,99,116);
 	padding-left: .25em;
-}
+	speak: none;
+}*/
 
 h3 {
 	font-size: 1.6em;
@@ -840,6 +842,14 @@ footer img {
 	.blog-post-container .blog-post {
 		width: 100%;
 	}
+}
+
+.blog-post a {
+	display: inline-block;
+}
+
+.blog-post a:hover, .blog-post a:focus {
+	color: #393839;
 }
 
 .blog-post-container .blog-post {
