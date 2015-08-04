@@ -232,7 +232,7 @@ h4 {
 	}
 }
 
-.blog-post h3, h4 {
+.blog-post h3, .blog-post h4, .class-title h3 {
 	margin-top: 0;
 	padding-top: 0;
 	margin-bottom: 0;
