@@ -166,7 +166,7 @@ h3 {
 
 aside h3 {
 	padding-top: 0;
-	padding-bottom: 1em;
+	padding-bottom: 0;
 }
 
 h4 {
@@ -395,6 +395,7 @@ aside {
 aside img {
 	max-width: 70%;
 	height: auto;
+	margin-top: 1em;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
 }
 
