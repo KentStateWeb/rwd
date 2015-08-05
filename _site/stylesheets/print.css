@@ -16,7 +16,7 @@ nav {
 
 p, ul, ol, li, table, dl {
   color: black;
-  font-size: 1em;
+  font-size: .95em;
 }
 
 table td {
@@ -62,6 +62,10 @@ h1,h2,h3,h4,h5,h6 {
   page-break-after: avoid; // Prevent headings from being printed at the bottom of the page
 }
 
+h3 {
+  padding-top: .25em;
+}
+
 p, h1, h2, h3, h4, h5, h6 {
   orphans: 3;
   widows: 3;
@@ -101,7 +105,7 @@ main ul li {
   color: black;
   padding: 0;
   box-shadow: none;
-  margin-right: 0;
+  width: auto;
 }
 
 main ul li:before {
