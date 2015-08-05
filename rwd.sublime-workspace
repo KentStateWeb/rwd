@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 28.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jekyll",
+				"Build With: Jekyll"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: CSS - clearfix"
+			],
+			[
+				":5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"terminal settings",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"terminal user",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"settings - user",
+				"Preferences: Settings - User"
+			],
+			[
+				"package control: disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control: list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"set syntax: scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/challahan/Documents/Repositories/rwd"
+	],
+	"file_history":
+	[
+		"/Users/challahan/Dropbox/Sublime/User/builds/jekyll.sublime-build",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/challahan/Documents/Repositories/rwd/apple-touch-icon-152x152.png",
+		"/Users/challahan/Documents/Repositories/rwd/apple-touch-icon-76x76.png",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_layouts/default.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_layouts/article.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_layouts/subsection.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_includes/header.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_scss/_banner.scss",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_includes/header-article.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_scss/_accordions.scss",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/apple-touch-icon-72x72.png",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/apple-touch-icon-120x120.png",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_scss/_news-teaser.scss",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/js/custom-scripts.js",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/js/custom-scripts.min.js",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/js/modernizer.js",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/.gitignore",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_includes/buildingchampions.md",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/js/image-collage.js",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/challahan/Documents/Repositories/rwd/index-old.html",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/prototype/index.md",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/assets/img/final/headshots/Joel_Nielsen_2010.jpg",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/italiano.md",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/grad_success.md",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_scss/slick/slick.scss",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_scss/_buttons.scss",
+		"/Users/challahan/Downloads/sublime-replacement-round/README.md",
+		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/html2.md",
+		"/Users/challahan/Documents/Repositories/rwd/stylesheets/style.css",
+		"/Users/challahan/Documents/Repositories/rwd/class/schedule/index.html",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/groups.html",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/group-single.html",
+		"/Users/challahan/Documents/Repositories/rwd/_layouts/group.html",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group7.md",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/project-summary.md",
+		"/Users/challahan/Documents/Repositories/rwd/class/groups/index.html",
+		"/Users/challahan/Documents/Repositories/rwd/class/syllabus/index.md",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/assignments.html",
+		"/Users/challahan/Documents/Repositories/rwd/_config.yml",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/class.html",
+		"/Users/challahan/Documents/Repositories/rwd/class/assignments/index.html",
+		"/Users/challahan/Documents/Repositories/rwd/index.html",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/Gruntfile.js",
+		"/Users/challahan/Documents/Repositories/annual-report-2015/_site/assets/main.min.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jquery",
+			"body",
+			"paragraph",
+			".",
+			"paragraph",
+			"tag",
+			"wrap selection with tag",
+			"tags",
+			"wrap",
+			"*.md",
+			"banner",
+			"1em",
+			".news-teaser {\n",
+			"padding",
+			"				",
+			"margin",
+			"padding",
+			"margin",
+			"background-image",
+			"eventie",
+			"slick",
+			"});\n",
+			"table",
+			"banner",
+			"lazy",
+			"appendchild(c)",
+			"photo-gallery"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/builds/jekyll.sublime-build",
+	"project": "rwd.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"_scss/_news-teaser.scss"
+			],
+			[
+				"buildingcha",
+				"_includes/buildingchampions.md"
+			],
+			[
+				"20",
+				"assets/img/final/headshots/Joel_Nielsen_2010.jpg"
+			],
+			[
+				".md",
+				"prototype/index.md"
+			],
+			[
+				"grad_success",
+				"grad_success.md"
+			],
+			[
+				"slick.scss",
+				"_scss/slick/slick.scss"
+			],
+			[
+				"buttons",
+				"_scss/_buttons.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Repositories/rwd/rwd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
