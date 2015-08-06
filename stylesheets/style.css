@@ -365,6 +365,12 @@ p.introduction {
 	margin-top: 0;
 }
 
+@media screen and (min-width:800px) {
+	p.introduction {
+		font-size: 1.4em;
+	}
+}
+
 
 main {
 	margin-top: 0;
@@ -381,7 +387,7 @@ main {
 	 display: inline-block;
 	 font-size: .9em;
 	 margin-top: 1em;
-	 width: 70%;
+	 width: 100%;
 	 box-shadow: 4px 4px 0px #393839;
 }
 
@@ -403,10 +409,15 @@ aside {
 	margin-top: 1em;
 }
 aside img {
-	max-width: 70%;
+	max-width: 100%;
 	height: auto;
 	margin-top: 1em;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
+}
+
+.instructor-aside {
+	width: 80%;
+	margin: 0 auto;
 }
 
 @media screen and (min-width: 600px) {
@@ -416,10 +427,15 @@ aside img {
 		margin-right: 1.5em;
 	}
 
+	.instructor-aside {
+		margin: inherit;
+	}
+
 	.supplemental-information {
 		float: left;
 		width: inherit;
-		margin-top: 0;
+		margin-top: 1em;
+		width: 45%;
 	}
 }
 
@@ -427,10 +443,12 @@ aside img {
 aside img {
 	float: inherit;
 	margin-bottom: 1em;
+	width: 100%;
+	max-width: inherit;
 }
 
 .supplemental-information {
-	width: 70%;
+	width: 100%;
 	float: inherit;
 }
 
@@ -458,11 +476,6 @@ aside {
 	float: right;
 	width: 32%;
 	margin-top: 0;
-}
-
-aside img {
-	max-width: inherit;
-	width: 70%;
 }
 
 }
