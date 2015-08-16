@@ -208,7 +208,7 @@ Final letter grades will be assigned on the basis of the following table:
 | B- |  80-82% |
 | C |  70-79% |
 | D |  60-70% |
-| F |  < 60% |
+| F |  > 60% |
 
 
 ###Hardware & Software

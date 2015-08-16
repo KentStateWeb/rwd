@@ -7,6 +7,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 13634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/html.md",
+			"settings":
+			{
+				"buffer_size": 5346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/casestudy.md",
+			"settings":
+			{
+				"buffer_size": 4292,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -93,10 +117,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/challahan/Documents/Repositories/rwd"
+		"/Users/challahan/Documents/Repositories/rwd",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments",
+		"/Users/challahan/Documents/Repositories/rwd/about",
+		"/Users/challahan/Documents/Repositories/rwd/stylesheets"
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/about/index.html",
+		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-08-5-rustbelt-refresh-scholarships.md",
 		"/Users/challahan/Dropbox/Sublime/User/builds/jekyll.sublime-build",
 		"/Users/challahan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/challahan/Documents/Repositories/rwd/apple-touch-icon-152x152.png",
@@ -152,7 +181,7 @@
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -168,6 +197,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"aside img",
+			"min-width: 1200",
+			"instructor-aside",
+			"introduction",
 			"jquery",
 			"body",
 			"paragraph",
@@ -212,8 +245,102 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6372,
+								6372
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css3",
+							"buffer_scroll_name": "decbc61f",
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_assignments/html.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1824,
+								1824
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "028c59e2",
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1748.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_assignments/casestudy.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4291,
+								3086
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "01d1fb12",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2976.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
