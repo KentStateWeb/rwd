@@ -1,13 +1,13 @@
 ---
 title: "HTML Basics"
-description: "Description of the assignment"
+description: "You've received content for a website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen. "
 type: "mini"
 points: 5
 layout: assignment
 date: 2015-9-15 12:00:00
 ---
 
-You've received content for a website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen.  Don't worry about presentation for this assignment.  
+You've received content for a conference website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen.  Don't worry about presentation for this assignment.  
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
