@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Launching the RWD Kent State Website
+category: blog
 ---
 
 It's finally here - the RWD Kent State class and workshop website.  

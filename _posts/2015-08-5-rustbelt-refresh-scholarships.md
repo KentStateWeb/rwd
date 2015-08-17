@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Web Design Conference Scholarships Available
+category: blog
 ---
 
 On September 25th the 3rd annual Rustbelt Refresh web design conference will be held at the Cleveland Public Library.  

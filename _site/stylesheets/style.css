@@ -584,8 +584,9 @@ nav a {
 	}
 }
 
-nav a:hover, nav a:focus {
+nav a:hover, nav a:focus, .active a {
 	color: #19687A;
+	border-bottom: 3px solid #19687A;
 }
 
 nav ul {

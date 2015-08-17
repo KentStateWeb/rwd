@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Influential Web Designers and Podcasts
+category: blog
 ---
 
 A great way to stay connected with responsive web design is to follow influential web designers and listen to podcasts.
