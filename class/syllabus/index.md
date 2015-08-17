@@ -268,3 +268,5 @@ It is a standard practice of Kent State University to distribute and administer 
 
 ####Notice of my copyright and intellectual property rights
 Any intellectual property displayed or distributed to students during this course (including but not limited to powerpoints, notes, quizzes, examinations) by the professor/lecturer/instructor remains the intellectual property of the professor/lecturer/instructor. This means that the student may not distribute, publish or provide such intellectual property to any other person or entity for any reason, commercial or otherwise, without the express written permission of the professor/lecturer/instructor.
+
+<a href="/class" class="button small">Return to Class</a>
