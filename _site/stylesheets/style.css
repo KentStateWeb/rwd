@@ -271,7 +271,7 @@ h4 {
 }
 
 .blog-post-summary {
-	font-size: .9em;
+	font-size: .8em;
 }
 
 .blog-post-summary p {
@@ -282,6 +282,10 @@ h4 {
 .blog-post-blurb {
 	float: left;
 	width: 65%;
+}
+
+.blog-post h4 {
+	font-size: 1.1em;
 }
 
 
