@@ -15,7 +15,9 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 ## What To Do
 
-1. Open your HTML Basics 2 assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - Layout/Media Queries". 
+1. Open your HTML Basics 2 assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - Layout/Media Queries".
+
+It should look [something like this](/img/layout-screenshot.jpg).
 
 
 
