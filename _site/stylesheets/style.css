@@ -59,6 +59,10 @@ main ul {
     margin-top: 0;
 }
 
+main ol li {
+	margin-bottom: 1em;
+}
+
 table {
 	margin: 1.5em 0 1.5em 0;
 	font-size: 1.1em;
@@ -363,6 +367,7 @@ p.introduction {
 	font-family: "nimbus-sans";
 	font-size: 1.3em;
 	margin-top: 0;
+	line-height: 1.7;
 }
 
 @media screen and (min-width:800px) {
