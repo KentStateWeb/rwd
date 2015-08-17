@@ -1,7 +1,10 @@
 collections:
  classes:
    output: true
+   permalink: /class/schedule/:path/
  assignments:
    output: true
+   permalink: /class/assignments/:path/
  groups:
    output: true
+   permalink: /class/groups/:path/
