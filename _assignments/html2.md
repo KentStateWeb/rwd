@@ -11,11 +11,6 @@ You've been tasked with creating a landing page for Kent State's Destination Ken
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
-images (figure) with caption (figcaption)
-div with class
-definition list
-comments
-
 **Do not copy and paste another student's code.  If I catch you doing so, you'll receive a 0 for the assignment.**
 
 ## What To Do
