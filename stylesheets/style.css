@@ -30,6 +30,13 @@ p, ul, ol, li, table, dl {
 	color: #606060;
 }
 
+hr {
+	margin-top: 2em;
+	margin-bottom: 1em;
+	padding: 0;
+	border: 1px solid rgba(0,0,0,.1);
+}
+
 dt {
 	font-weight: bold;
 	color:#606060;
@@ -66,7 +73,6 @@ main ol li {
 table {
 	margin: 1.5em 0 1.5em 0;
 	font-size: 1.1em;
-	table-layout: fixed;
 	width: 100%;
 	max-width: 800px;
 	border-collapse: collapse;
@@ -87,10 +93,18 @@ table th {
 		float: left;
 		width: 50%;
 	}
+
+	.table-float table {
+		width: 80%;
+	}
 }
 
 table td {
 	padding: .5em 1em .5em 0;
+}
+
+table tr td:first-child {
+	width: 80%;
 }
 
 ol {
