@@ -23,10 +23,13 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 6. YouTube videos should be embedded as an iframe.
 7. When creating the contact information, use definition lists to connect the labels (for example, Phone) to the corresponding content (for example, Phone Number).
 8. Quotations should be marked up in proper blockquote and cite tags.
-9. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
-10. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
-11. View your newly completed website as a web page on different devices.  Does everything render correctly? 
-12. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
+9. Before the YouTube video, add an HTML comment that has the link to the YouTube video so that you can find it later if you need to.  Use proper HTML comment syntax.  Remember that HTML comments are only there for you, the developer, and do not display to the end-user.
+
+### Submitting the Assignment
+1. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
+2. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
+3. View your newly completed website as a web page on different devices.  Does everything render correctly? 
+4. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
 
 ## The Content 
 

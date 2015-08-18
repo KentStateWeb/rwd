@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>RWD: HTML Basics 2</title>
+		<meta name="description" content="Web design courses and workshops from Kent State University.">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#1c7489">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<style>
+			object, svg {
+				max-width: 300px;
+			}
+			.svg img {
+				max-width: 300px;
+			}
+			.floated-feature-image {
+				max-width: 250px;
+			}
+		</style>
+		<script>
+		    function loadCSS( href, before, media, callback ){
+		    "use strict";
+		    // Arguments explained:
+		    // `href` is the URL for your CSS file.
+		    // `before` optionally defines the element we'll use as a reference for injecting our <link>
+		    // By default, `before` uses the first <script> element in the page.
+		    // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
+		    // If so, pass a different reference element to the `before` argument and it'll insert before that instead
+		    // note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+		    var ss = window.document.createElement( "link" );
+		    var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+		    var sheets = window.document.styleSheets;
+		    ss.rel = "stylesheet";
+		    ss.href = href;
+		    // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
+		    ss.media = "only x";
+		    // DEPRECATED
+		    if( callback ) {
+		        ss.onload = callback;
+		    }
+
+		    // inject link
+		    ref.parentNode.insertBefore( ss, ref );
+		    // This function sets the link's media back to `all` so that the stylesheet applies once it loads
+		    // It is designed to poll until document.styleSheets includes the new sheet.
+		    ss.onloadcssdefined = function( cb ){
+		        var defined;
+		        for( var i = 0; i < sheets.length; i++ ){
+		            if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+		                defined = true;
+		            }
+		        }
+		        if( defined ){
+		            cb();
+		        } else {
+		            setTimeout(function() {
+		                ss.onloadcssdefined( cb );
+		            });
+		        }
+		    };
+		    ss.onloadcssdefined(function() {
+		        ss.media = media || "all";
+		    });
+		    return ss;
+		}
+		loadCSS( "/stylesheets/style.css" );
+		</script>
+		<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+	</head>
+	<body>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<img class="rwd-logo" src="/img/rwd.svg" alt="RWD" />
+		</a>
+		<nav role="navigation">
+			<ul class="group">
+				<li ><a href="/class/">Class</a></li>
+				<li ><a href="/workshop/">Workshop</a></li>
+				<li ><a href="/blog/">Blog</a></li>
+				<li ><a href="/about/">About</a></li>
+			</ul>
+		</nav>
+		</header>
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide">
+	<h1>HTML Basics 2</h1>
+	<dl>
+		<dt>Points</dt>
+		<dd>5</dd>
+		<dt>Due Date</dt>
+		<dd>September 20, 2015</dd>
+	</dl>
+	<hr>
+	<p>You’ve been tasked with creating a landing page for Kent State’s Destination Kent State program.  Using the content and instructions below, create this webpage on CodePen using sementic markup.  Do not worry about presentation for this assignment.</p>
+
+<p>This is an individual assignment, and it will be turned in via Blackboard Learn.  </p>
+
+<p><strong>Do not copy and paste another student’s code.  If I catch you doing so, you’ll receive a 0 for the assignment.</strong></p>
+
+<h2 id="what-to-do">What To Do</h2>
+
+<ol>
+  <li>Create a new <strong>public pen</strong> and name it using this structure: “Your Last Name - HTML Basics 2”.</li>
+  <li>Take the plain text content (provided below) and structure it into HTML in your pen.  As before, you must use semantic headings to indicate hierarchy.  Lines must be properly indented.  Pay attention to the client notes - they’re important.</li>
+  <li>All images must have alt text for accessibility</li>
+  <li>When creating an image with a caption, use the figure and figcaption tags.</li>
+  <li>Tables must include a header row and be set up in a proper grid format.</li>
+  <li>YouTube videos should be embedded as an iframe.</li>
+  <li>When creating the contact information, use definition lists to connect the labels (for example, Phone) to the corresponding content (for example, Phone Number).</li>
+  <li>Quotations should be marked up in proper blockquote and cite tags.</li>
+  <li>Before the YouTube video, add an HTML comment that has the link to the YouTube video so that you can find it later if you need to.  Use proper HTML comment syntax.  Remember that HTML comments are only there for you, the developer, and do not display to the end-user.</li>
+</ol>
+
+<h3 id="submitting-the-assignment">Submitting the Assignment</h3>
+<ol>
+  <li>CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings &gt; HTML &gt; Insert the most common viewport meta tag) </li>
+  <li>Once you’re satisfied, go to Choose a View &gt; Full Page &gt; Copy the Live URL. </li>
+  <li>View your newly completed website as a web page on different devices.  Does everything render correctly? </li>
+  <li>After you’ve completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments &gt; Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.</li>
+</ol>
+
+<h2 id="the-content">The Content</h2>
+
+<p><strong><em>Client Note - Add the Welcome Weekend logo at the top</em></strong> <a href="https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png">https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png</a></p>
+
+<p><strong>Welcome Weekend</strong></p>
+
+<p><strong><em>Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: “Students Attend Back to School Blastoff on the Student Green.”</em></strong> <a href="http://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKSPage_WWImage.JPG">http://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKSPage_WWImage.JPG</a></p>
+
+<p><strong>What Is Welcome Weekend?</strong>
+Welcome Weekend 2015 is a weekend packed full of fun activities and events starting Thursday, August 27th through Sunday, August 30th. Students will move into their residence halls and attend their first hall meeting. Throughout the weekend, students will have the opportunity to meet fellow classmates in their FYE class, and get to know their way around Kent’s campus. This year’s events include a comedian, Convocation, FYE Common Reading, Discover Downtown Kent, and Blastoff! Other events include: bingo, movies, broomball, ice skating, and karaoke.</p>
+
+<p>“Welcome Weekend is a great time to meet new friends and get acclimated with Kent State’s magnificent campus.” - President Warren</p>
+
+<p><strong>Welcome Weekend Schedule</strong></p>
+
+<p><strong><em>Client Note:  Set this up in a 3 column table please.</em></strong></p>
+
+<p>Table Headings: Time, Event, Location</p>
+
+<p><strong>8:00 A.M. - 7:00 P.M.</strong></p>
+
+<p>RESIDENCE HALL MOVE IN
+Follow your assigned move-in times from Residence Services mailing.</p>
+
+<p>YOUR RESIDENCE HALL</p>
+
+<p><strong>9:00 A.M. - 10:00 A.M.</strong></p>
+
+<p>Air Force ROTC New Cadet Orientation Program (NCOP) and Parent reception</p>
+
+<p>New Air Force ROTC cadets and their families are encouraged to attend an
+exposition presenting scholarship opportunities, AFROTC requirements, cadet life and possible future careers in the United States Air Force.  </p>
+
+<p>TERRACE HALL</p>
+
+<p><strong>10:00 A.M. - 8:00 P.M.</strong></p>
+
+<p>WELCOME WEEKEND CHECK-IN</p>
+
+<p>Pick up your Welcome Weekend schedule and work with Welcome Weekend staff to learn about all events for Welcome Weekend 2015.</p>
+
+<p>KENT STUDENT CENTER BALLROOM</p>
+
+<p><strong>6:00 - 7:30 P.M.</strong></p>
+
+<p>PARENTS &amp; FAMILIES EVENING RECEPTION WITH THE ALUMNI ASSOCIATION</p>
+
+<p>Relax and network with other KSU parents at this informal reception. Brief program at 6:30. Complimentary refreshments, soft drinks and cash bar. (Beer and wine only)</p>
+
+<p>KENT MARKET II
+KENT STUDENT CENTER</p>
+
+<p><strong>7:30 - 8:30 P.M.</strong></p>
+
+<p>HILLEL’S KOSHER ICE CREAM SOCIAL</p>
+
+<p>Unpacked and not sure what to do next? Hillel at Kent State invites students to our house for delicious kosher ice cream creations! Come mix-in toppings and mix with new friends at this laid back social event that includes summer’s perfect dessert.</p>
+
+<p>COHN JEWISH STUDENT CENTER
+613 EAST SUMMIT STREET</p>
+
+<p><strong>9:00 - 10:00 P.M.</strong></p>
+
+<p>RESIDENCE HALL MEETINGS</p>
+
+<p>Residence Hall staff members will cover important hall and safety information and introduce you to resources available to assist you in enjoying a safe and fun living environment.</p>
+
+<p>VARIOUS LOCATIONS</p>
+
+<p><strong>9:00 - 11:00 P.M.</strong></p>
+
+<p>KARAOKE</p>
+
+<p>Show off your vocal skills or just cheer on your friends while music from Taylor Swift, Rihanna, and Maroon 5 play! Sponsored by Kent Student Center Programming.</p>
+
+<p>RATHSKELLER
+KENT STUDENT CENTER</p>
+
+<p><strong>10:00 - 11:30 P.M.</strong></p>
+
+<p>KENT STATE SHUFFLE</p>
+
+<p>So you think you can dance? Show off your moves or just stop by to meet other KSU students.</p>
+
+<p>STUDENT GREEN</p>
+
+<p><strong>Welcome Weekend Video</strong></p>
+
+<p>Embed this video directly on the page <a href="https://www.youtube.com/watch?v=tQmdT99jiYY">https://www.youtube.com/watch?v=tQmdT99jiYY</a></p>
+
+<p><strong>Student Success Programs</strong> </p>
+
+<p><strong><em>Use definition lists to mark up this content</em></strong></p>
+
+<p>Address: Center for Undergraduate Excellence - Suite 135; 975 Lefton Esplanade Kent, OH 44242
+Phone:330-672-9292
+Email:newatKSU@kent.edu <strong>make this a clickable email address</strong></p>
+
+<h2 id="rubric">Rubric</h2>
+
+<p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
+
+<ul>
+  <li><strong>4 - 5</strong>: HTML is structured appropriately and with proper indentation.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately, image and tables are marked up properly.  The client’s notes were followed along with the 11 steps and the appropriate links were posted to Learn.</li>
+  <li><strong>2 - 3</strong>: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Images are not appropriate size.  Some of the client’s notes were missed.</li>
+  <li><strong>0 - 1</strong>: HTML does not use appropriate tags for the types of content.  Few tags are formatted appropriately, client notes were missed and the pen was not set up or submitted according to instructions.  </li>
+</ul>
+
+	<a class="button small" href="/class/assignments">Return to Assignments</a>
+	</section>
+</main>
+
+<footer class="group" role="contentinfo">
+	<div class="footer-contact-information">
+			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
+			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
+			<a class="footer-instructor" href="mailto:challahan@gmail.com">Instructor: Christopher Hallahan</a>
+			<div class="footer-supplemental">
+				<a href="http://www.twitter.com/rwdkent">Follow @RWDkent on Twitter</a>
+				<a href="https://github.com/KentStateWeb/rwd/tree/gh-pages">View this Site on GitHub</a>
+			</div>
+	</div>
+	<div class="footer-logo">
+			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
+	</div>
+</footer>
+<script src="/js/fonts.js" defer></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52690730-5', 'auto');
+  ga('send', 'pageview');
+</script>	
+</body>
+</html>
