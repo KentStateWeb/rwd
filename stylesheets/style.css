@@ -132,6 +132,7 @@ p a, ul a, ol a, dd a {
 	font-weight: bold;
 	text-decoration: none;
 	transition: .3s color ease-in-out;
+	word-wrap: break-word;
 }
 
 p a:hover, p a:focus {
