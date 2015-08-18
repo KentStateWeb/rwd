@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>RWD: CSS Basics</title>
+		<meta name="description" content="Web design courses and workshops from Kent State University.">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#1c7489">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<style>
+			object, svg {
+				max-width: 300px;
+			}
+			.svg img {
+				max-width: 300px;
+			}
+			.floated-feature-image {
+				max-width: 250px;
+			}
+		</style>
+		<script>
+		    function loadCSS( href, before, media, callback ){
+		    "use strict";
+		    // Arguments explained:
+		    // `href` is the URL for your CSS file.
+		    // `before` optionally defines the element we'll use as a reference for injecting our <link>
+		    // By default, `before` uses the first <script> element in the page.
+		    // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
+		    // If so, pass a different reference element to the `before` argument and it'll insert before that instead
+		    // note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+		    var ss = window.document.createElement( "link" );
+		    var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+		    var sheets = window.document.styleSheets;
+		    ss.rel = "stylesheet";
+		    ss.href = href;
+		    // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
+		    ss.media = "only x";
+		    // DEPRECATED
+		    if( callback ) {
+		        ss.onload = callback;
+		    }
+
+		    // inject link
+		    ref.parentNode.insertBefore( ss, ref );
+		    // This function sets the link's media back to `all` so that the stylesheet applies once it loads
+		    // It is designed to poll until document.styleSheets includes the new sheet.
+		    ss.onloadcssdefined = function( cb ){
+		        var defined;
+		        for( var i = 0; i < sheets.length; i++ ){
+		            if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+		                defined = true;
+		            }
+		        }
+		        if( defined ){
+		            cb();
+		        } else {
+		            setTimeout(function() {
+		                ss.onloadcssdefined( cb );
+		            });
+		        }
+		    };
+		    ss.onloadcssdefined(function() {
+		        ss.media = media || "all";
+		    });
+		    return ss;
+		}
+		loadCSS( "/stylesheets/style.css" );
+		</script>
+		<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+	</head>
+	<body>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/"class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<img class="rwd-logo" src="/img/rwd.svg" alt="RWD" />
+		</a>
+		<nav role="navigation">
+			<ul class="group">
+				<li  class="active"><a href="/class/">Class</a></li>
+				<li ><a href="/workshop/">Workshop</a></li>
+				<li ><a href="/blog/">Blog</a></li>
+				<li ><a href="/about/">About</a></li>
+			</ul>
+		</nav>
+		</header>
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide">
+	<h1>CSS Basics</h1>
+	<dl>
+		<dt>Points</dt>
+		<dd>5</dd>
+		<dt>Due Date</dt>
+		<dd>October 01, 2015</dd>
+	</dl>
+	<hr>
+	<p>You’re happy with the content on your Media Ethics conference website (that you made in HTML 1).  It’s time to add some visual styles to the website using CSS.</p>
+
+<p>CodePen makes adding CSS easy because it automatically links your stylesheet to your HTML.  When we begin coding outside of CodePen, you will have to set your CSS using a <link /> tag.</p>
+
+<p>This is an individual assignment, and it will be turned in via Blackboard Learn.  </p>
+
+<p><strong>Do not copy and paste another student’s code.  If I catch you doing so, you’ll receive a 0 for the assignment.</strong></p>
+
+<h2 id="what-to-do">What To Do</h2>
+
+<p>Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click the “Fork” option at the top.  Click Settings and rename the forked pen using this structure: “Your Last Name - CSS Basics 1”.</p>
+
+<h3 id="heading-styles">Heading Styles</h3>
+<ol>
+  <li>Set the main heading (H1) to be the conference’s brand color of green: #57b9cb.  Set the Heading 1 to appear larger at 2.5em.  Set the Heading 1 to appear in all uppercase.</li>
+  <li>Set the remaining headings (H2, H3) to be the conference’s brand color of red: rgb(222,26,32) - remember you can set colors using a hexcode, RGB or HSL value, which can be found in a program like Photoshop.</li>
+</ol>
+
+<h3 id="header-styles">Header Styles</h3>
+<ol>
+  <li>Add a gray background color behind the H1 to make it more readable and appear as a banner.  Use the color #646464.</li>
+  <li>Set the Heading 2 to appear in italics.</li>
+  <li>Increase the spacing between the letters on the H1 so that they’re spaced out for better readability.  Make the letter spacing 1px.</li>
+  <li>Center align the H1 and H2 text.</li>
+  <li>Add a subtle text shadow onto the H1.  Use 1px 1px 3px rgba(0,0,0,.3) .</li>
+  <li>Add the following padding property to the Heading 1.  Note: we’ll learn more about this in the next lesson - padding: .5em 1em;</li>
+</ol>
+
+<h3 id="body-styles">Body Styles</h3>
+
+<ol>
+  <li>Set all of the text to display in a sans-serif typeface by default.  This should all be done using a single rule (hint: target the body).  You should always specify “sans-serif” as a backup, in case the system does not have the typeface you specified installed.</li>
+  <li>Set all links to appear bold to make them stand out.  Also, set the links to appear in the brand green: #57b9cb;</li>
+  <li>Change the line-height of the paragraph text (P’s) and list items (LI’s) to be 1.3, so that there’s a bit more spacing between lines.</li>
+  <li>Set all links to darken when the mouse hovers over them.  Use this slightly darker green: #3c8b99;</li>
+  <li>Remove the bullets from the unordered bulleted lists.  Add a property to make unordered bulleted lists have a left padding of 1em:  padding-left: 1em;</li>
+  <li>Set padding on each side of the body element of 2em.  Note: we’ll learn more about this in the next lesson - padding: 1em;</li>
+</ol>
+
+<h3 id="add-a-class-for-the-register-link">Add a Class for the Register Link</h3>
+
+<ol>
+  <li>We want to style the Register Now link differently from the rest of the links on the page.  In order to do that, we need to edit the HTML and add on a class called “button”.  By adding a class, we can now target only that specific link with CSS.  Note - “button” is something I picked randomly.  It could have been anything.</li>
+  <li>Set items with the class of “button” to have the following properties: (a) Font-size: 1.2em, (b) text-decoration: none, (c) margin-bottom: 1em, (d) display: inline-block .  Remember that links are inline elements, so margin doesn’t appear until we set them to be inline-block.</li>
+</ol>
+
+<h3 id="add-css-comments">Add CSS Comments</h3>
+
+<ol>
+  <li>Attempt to group and organize your CSS styles into groups separated with CSS comments.  The groups should be Header (basically the H1), Headings, Body, Links, Paragraphs and Lists.</li>
+  <li>Adding comments and organizing your CSS styles makes them easier to locate, especailly when your stylesheet gets to be several hundred lines.</li>
+</ol>
+
+<h3 id="submitting-the-assignment">Submitting the Assignment</h3>
+
+<ol>
+  <li>Once you’re satisfied, go to Choose a View &gt; Full Page &gt; Copy the Live URL. </li>
+  <li>View your newly completed website as a web page on different devices.  Does everything render correctly?  Your final product should look something <a href="/img/css-assignment-screenshot.png">close to this</a>.</li>
+  <li>After you’ve completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments &gt; Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.</li>
+</ol>
+
+<h2 id="rubric">Rubric</h2>
+
+<p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
+
+<ul>
+  <li><strong>4 - 5</strong>: CSS is written appropriately and with proper indentation.  All steps were followed and correct styles are applied.  Styles are added efficiently, for example, multiple H1 styles are grouped together, as opposed to separate styles for everything.  </li>
+  <li><strong>2 - 3</strong>: CSS is mostly structured correctly, but there are some syntax issues (for example, you forgot to close a rule with a semicolon.  Some of the steps were missed.  Similar styles are not grouped together.</li>
+  <li><strong>0 - 1</strong>: CSS does not use appropriate style attributes.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.  </li>
+</ul>
+
+	<a class="button small" href="/class/assignments">Return to Assignments</a>
+	</section>
+</main>
+
+<footer class="group" role="contentinfo">
+	<div class="footer-contact-information">
+			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
+			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
+			<a class="footer-instructor" href="mailto:challahan@gmail.com">Instructor: Christopher Hallahan</a>
+			<div class="footer-supplemental">
+				<a href="http://www.twitter.com/rwdkent">Follow @RWDkent on Twitter</a>
+				<a href="https://github.com/KentStateWeb/rwd/tree/gh-pages">View this Site on GitHub</a>
+			</div>
+	</div>
+	<div class="footer-logo">
+			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
+	</div>
+</footer>
+<script src="/js/fonts.js" defer></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52690730-5', 'auto');
+  ga('send', 'pageview');
+</script>	
+</body>
+</html>
