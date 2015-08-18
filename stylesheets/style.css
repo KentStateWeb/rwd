@@ -67,7 +67,8 @@ main ul {
 }
 
 main ol li {
-	margin-bottom: 1em;
+	margin-bottom: .75em;
+	font-size: 1em;
 }
 
 table {
@@ -142,7 +143,7 @@ p a:hover, p a:focus {
 /* Headings */
 
 h1, h2, h3 {
-	font-family: "nimbus-sans-condensed";
+	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
@@ -578,7 +579,7 @@ nav a {
 	color: #393839;
 	letter-spacing: 2px;
 	font-size: 1.2em;
-	font-family: nimbus-sans-condensed;
+	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
 	text-transform: uppercase;
 	transition: .2s color ease-in-out;
 }
@@ -756,7 +757,7 @@ footer img {
 }
 
 .footer-heading  {
-	font-family: nimbus-sans-condensed;
+	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
 	text-transform: uppercase;
 	padding-bottom: .5em;
 }

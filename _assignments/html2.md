@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2015-9-20 12:00:00
+date: 2015-9-29 12:00:00
 ---
 
 You've been tasked with creating a landing page for Kent State's Destination Kent State program.  Using the content and instructions below, create this webpage on CodePen using sementic markup.  Do not worry about presentation for this assignment.

@@ -43,7 +43,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * Get a list of competitors in preparation for doing a brief competitive analysis.
 * Put together a project in GitHub that will house all future project deliverables so that they're easy to access by the client.
 
-<a class="button small" href="research.html">View Research Project</a>
+<a class="button small" href="/class/assignments/research">View Research Project</a>
 
 ###  2: Content & Architecture
 
@@ -52,7 +52,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * Ask the client for any missing content
 * Put together a sitemap in Google Docs
 
-<a class="button small" href="content.html">View Content Project</a>
+<a class="button small" href="/class/assignments/content">View Content Project</a>
 
 ###  3: Sketching
 
@@ -60,14 +60,14 @@ You and your boss have worked together to develop a brief project schedule - bas
 * The sketches will show some of the main templates that you'll be developing.  You may choose to show them at different breakpoints.
 * Using the sketches, you'll identify the repeatable patterns present in your design
 
-<a class="button small" href="sketching.html">View Sketching Project</a>
+<a class="button small" href="/class/assignments/sketching">View Sketching Project</a>
 
 ###  4:  Style Tiles/Personality
 
 * Using the goals you discovered in your client meeting, you'll develop 2 sets of style tiles that show the colors, design aesthetic and personality of the website.
 * You'll show these to the "client" in class, and the class will ask questions.
 
-<a class="button small" href="style.html">View Style Tiles Project</a>
+<a class="button small" href="/class/assignments/style">View Style Tiles Project</a>
 
 ###  5:  HTML Content Wireframes
 
@@ -75,7 +75,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll prioritize the most important content up top
 * The content wireframes will demonstrate to the client how the site will respond at different breakpoints.
 
-<a class="button small" href="wireframes.html">View Wireframe Project</a>
+<a class="button small" href="/class/assignments/wireframes">View Wireframe Project</a>
 
 ###  6:  HTML/CSS Final Prototype/Templates
 
@@ -83,7 +83,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll create some repeatable template elements using Jekyll
 * You'll determine how each repeatable element looks and functions
 
-<a class="button small" href="templates.html">View Template Project</a>
+<a class="button small" href="/class/assignments/templates">View Template Project</a>
 
 ###  7:  Technical and Usability Testing
 
@@ -91,7 +91,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll see how the site renders on different browsers and devices, and make adjustments.
 * You'll run performance tests to see how you can optimize and improve your prototype
 
-<a class="button small" href="testing.html">View Testing Project</a>
+<a class="button small" href="/class/assignments/testing">View Testing Project</a>
 
 ### 8:  HTML/CSS Style Guide and Patterns
 
@@ -99,7 +99,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll include documentation on how to use these elements
 * You'll include some guidelines for content, such as voice and personality
 
-<a class="button small" href="style.html">View Style Guide Project</a>
+<a class="button small" href="/class/assignments/style">View Style Guide Project</a>
 
 ### 9:  Project Timeline, Presentation & Critiques
 
@@ -108,7 +108,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 * The class will participate, asking questions and making suggestions
 * The class will evaluate the success of your design based on the client's initial goals
 
-<a class="button small" href="timeline-presentation.html">View Timeline/Presentation Project</a>
+<a class="button small" href="/class/assignments/timeline-presentation">View Timeline/Presentation Project</a>
 
 ### 10:  Group and Self Assessment
 
@@ -116,4 +116,4 @@ You and your boss have worked together to develop a brief project schedule - bas
 * You'll evaluate yourself and your team member.
 * You'll submit your final prototype, style guide and project timeline.
 
-<a class="button small" href="assessment.html">View Group/Self Assessment Project</a>
+<a class="button small" href="/class/assignments/">View Group/Self Assessment Project</a>
