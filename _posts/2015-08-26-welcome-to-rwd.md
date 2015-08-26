@@ -34,7 +34,7 @@ I have a love-hate relationship with Blackboard Learn, so it will only be used f
 
 ## Getting to IdeaBase:
 
-IdeaBase is a collaborative, student-powered agency that’s run through the College of Communication & Information in Downtown Kent.  It’s the perfect place for this type of class, but it may not be on your normal campus route.  IdeaBase is located in Acorn Alley on the second floor above 4 Cats Art Studio and Flashers Cleaners.  Visit [http://ideabasekent.com/contact-us](http://ideabasekent.com/contact-us) to get more detailed directions.  
+IdeaBase is a collaborative, student-powered agency that’s run through the College of Communication & Information in Downtown Kent.  It’s the perfect place for this type of class, but it may not be on your normal campus route.  IdeaBase is located in Acorn Alley on the second floor above 4 Cats Art Studio and Flashers Cleaners.  Visit [the IdeaBase website](http://ideabasekent.com/contact-us) to get more detailed directions.  
 
 You can of course walk or bike to class along the esplanade, but if you’re driving, you can park for FREE in any of the public or metered spots on Main Street after 5:00 p.m.  Plus, you have access to all of the amenities that downtown Kent has to offer before and after class, including [Tree City Coffee](http://www.rootedinkent.com) (my favorite).
 
