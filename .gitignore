@@ -1,4 +1,3 @@
-
 *.codekit
-
-*.codekit
+_site/
+.sass-cache/

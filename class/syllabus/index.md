@@ -50,7 +50,7 @@ In this course, students will:
 * Create interactive prototypes and wireframes in HTML/CSS, using standards-compliant HTML and CSS, media queries and responsive layouts.
 * Test prototypes for common performance, usability and web browser issues.
 * Use version control, Git and GitHub to create a staging server on which websites will be hosted and updated.
-# Work in a team environment, collaborating with students from a variety of disciplines.
+* Work in a team environment, collaborating with students from a variety of disciplines.
 * Solve common web design problems both independently and as a group, through the use of online resources, books, videos and fellow web designers.
 
 ###Learning outcomes
