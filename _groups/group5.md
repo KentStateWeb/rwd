@@ -21,9 +21,3 @@ description: "Off the Vine: A local winery who operates a small walk-in wine-bar
 ### Brand Colors
 
 Blue: #1b3658, Teal: #60808c, Neutral White: #f2f2f2, Grape Green: #82a53e, Deep Green: #667432
-
-### Typefaces Used in Logo
-
-[FF More Pro](https://typekit.com/fonts/ff-more-web-pro)
-
-[Monarcha](https://typekit.com/fonts/monarcha)
