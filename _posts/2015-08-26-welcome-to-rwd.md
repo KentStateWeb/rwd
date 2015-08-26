@@ -14,7 +14,8 @@ This is also the first (but hopefully not last) time this class is being taught 
 ## Things You Need:
 
 If you would like to get a jump start, here are the 4 things you'll need for this class.  We will discuss these in detail during the first class, and you are not expected to have them the first day:
-* Design notebook: You are expected to obtain a design notebook, or sketchbook, and bring it to class. You will use this to collect ideas, sketch out designs, and capture your design thoughts on paper. You can use something fancy (e.g., a Moleskine) or something cheap (e.g., a composition notebook). Whatever you choose, you are expected to have a design notebook, carry it with you throughout the term, and bring it to class.
+
+**Design notebook**: You are expected to obtain a design notebook, or sketchbook, and bring it to class. You will use this to collect ideas, sketch out designs, and capture your design thoughts on paper. You can use something fancy (e.g., a Moleskine) or something cheap (e.g., a composition notebook). Whatever you choose, you are expected to have a design notebook, carry it with you throughout the term, and bring it to class.
 
 There are 3 required textbooks for the course. One provides detailed examples and instructions for HTML/CSS, and the others provide more practical knowledge on web design topics.  They’re easy to read and inexpensive.
 
