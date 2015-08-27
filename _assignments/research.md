@@ -41,12 +41,14 @@ Since this is the first assignment, we will need to create a GitHub repository t
 After creating your repository:
 
 1.  Create a new folder (subdirectory) within your site called "research".
-2.  Create a new index.html file with the research folder.
-3.  Either paste the content from your research directory in this file, or create a link to a PDF file that contains the research.
-4.  Create a new index.html file within the root of your website folder.
-5.  On your root index.html file, add an H1 called Project Timeline and afterward, Date: Research/Competitive Analysis.
-6.  Add a link to view the research project.  The link should be /research.
-7.  After you've commited and pushed your changes, you can submit both the timeline hyperlink and research hyperlink via Blackboard Learn.
+2.  Output a PDF file with the contents of your research and place it in the "research" directory.
+3.  Create a new index.html file within the root of your website folder.
+4.  Add the required DOCTYPE information to the HTML file.  You can use <a href="https://gist.github.com/challahan/0f8d805423259882cbc2">this template</a> (also embedded below).
+4.  On your root index.html file, add an H1 called Project Timeline and afterward, an H2 with Date: Research/Competitive Analysis.
+6.  Add a link to your Research PDF file under the H2.  The link point to research/YOURPDFFILE.pdf.
+7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the research document (PDF) via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.  It should be something like: http://rwd-test.github.io/sample-project
+
+<script src="https://gist.github.com/challahan/0f8d805423259882cbc2.js"></script>
 
 ## Rubric
 
