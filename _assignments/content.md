@@ -9,7 +9,7 @@ date: 2015-9-29 12:00:00
 
 Content drives your website's design and your design, in turn, drives your content.  While we can't expect to have all of the content formatted and written before the website is designed, we need to have a starting point.  In this assignment, you'll take some existing content, edit it and format it to work on a website.  The content will eventually make its way into the website templates, where you'll edit it to better fit the design.
 
-This is a team project.  Your team repository should have your content posted on the due date.
+This is a team project.  Your content should be posted to your team repository on the due date.
 
 ## What To Do
 
