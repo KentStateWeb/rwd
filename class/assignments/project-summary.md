@@ -31,7 +31,7 @@ You'll work in pairs on this project (except for one group, which will be 3 peop
 
 ## Project Schedule
 
-You and your boss have worked together to develop a brief project schedule - based on her previous experience.  She knows this may need to be adjusted, but it's a good starting point.
+You and your boss have worked together to develop a brief project schedule - based on her previous experience.  He or she knows this may need to be adjusted, but it's a good starting point.
 
 
 ### 1: Kickoff Meeting and Research
@@ -69,7 +69,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/style">View Style Tiles Project</a>
 
-###  5:  HTML Content Wireframes
+###  5:  HTML Wireframes
 
 * You'll begin putting together the content you gathered into an HTML template structure
 * You'll prioritize the most important content up top
@@ -89,31 +89,28 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 * Using your content templates, you'll begin to add CSS styling to your CSS
 * You'll create some repeatable template elements using Jekyll
-* You'll determine how each repeatable element looks and functions
+* You'll determine how each repeatable element looks and functions together
 
 <a class="button small" href="/class/assignments/templates">View Template Project</a>
 
-### 8:  HTML/CSS Style Guide and Patterns
+### 8:  HTML/CSS Pattern Library
 
 * Based on your final prototypes, you'll develop a pattern library that demonstrates the typography, colors and primary atomic elements used in the design
-* You'll include documentation on how to use these elements
-* You'll include some guidelines for content, such as voice and personality
 
-<a class="button small" href="/class/assignments/style">View Style Guide Project</a>
+<a class="button small" href="/class/assignments/style">View Pattern Library Project</a>
 
-### 9:  Project Timeline, Presentation & Critiques
+### 9:  Project Hub, Review Session & Critiques
 
-* You'll invite the client in for a hands-on walkthrough of the final prototype
-* You'll show a retrospective of what you did to get to this point
+* You'll invite the client in for a hands-on walkthrough of the final prototype and style guide
+* You'll show a retrospective of what you did to get to this point via the Project Hub
 * The class will participate, asking questions and making suggestions
 * The class will evaluate the success of your design based on the client's initial goals
 
-<a class="button small" href="/class/assignments/timeline-presentation">View Timeline/Presentation Project</a>
+<a class="button small" href="/class/assignments/timeline-presentation">View Project Hub/Review Session Project</a>
 
 ### 10:  Group and Self Assessment
 
 * Your boss wants to know how you think the project went and what you could do better.
 * You'll evaluate yourself and your team member.
-* You'll submit your final prototype, style guide and project timeline.
 
 <a class="button small" href="/class/assignments/">View Group/Self Assessment Project</a>

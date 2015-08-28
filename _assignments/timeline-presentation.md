@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2015-12-15 12:00:00
+date: 2015-12-08 12:00:00
 ---
 
 We're almost done!  Now that you've developed template prototypes and a pattern library, it's time to do a final review with your "client" and the class.  There won't be any slides or reports to turn in - you'll only be showing your project timeline, prototypes and style guide.
