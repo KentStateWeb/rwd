@@ -986,3 +986,9 @@ footer img {
 .class-entry h3 {
 	margin-bottom: 0em;
 }
+
+/* Embedded Code */
+
+.gist {
+	margin-top: 1em;
+}

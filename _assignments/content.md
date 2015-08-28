@@ -23,6 +23,8 @@ Lets take some of the content your client has provided and begin organizing it a
 
 4.  Identify missing content.  List the missing content as highlighted text so that your client can easily spot it.  While we won't be completing all of the information on the website for this project, this is still good practice.
 
+5.  Images and files are content too.  You can place the images and files you'll need to display on the website right along with the content in the same folder.
+
 ## How To Organize the Content
 
 While there are many ways to organize and edit your content, my favorite way is by creating a shared [Google Drive](http://drive.google.com) folder.  Inside that folder, you can place your sitemap as a Google Doc.  You can also place your content in individual subfolders that match your site's architecture.  This makes it simple for the client to visualize when reviewing the content.
