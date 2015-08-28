@@ -77,21 +77,21 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/wireframes">View Wireframe Project</a>
 
-###  6:  HTML/CSS Final Prototype/Templates
+###  6:  Technical and Usability Testing Plan
+
+* You'll prepare a testing plan for your prototypes, having some real users perform some simple tasks
+* You'll see how the site renders on different browsers and devices, and make adjustments.
+* You'll run performance tests to see how you can optimize and improve your prototype
+
+<a class="button small" href="/class/assignments/testing">View Testing Project</a>
+
+###  7:  HTML/CSS Final Prototype/Templates
 
 * Using your content templates, you'll begin to add CSS styling to your CSS
 * You'll create some repeatable template elements using Jekyll
 * You'll determine how each repeatable element looks and functions
 
 <a class="button small" href="/class/assignments/templates">View Template Project</a>
-
-###  7:  Technical and Usability Testing
-
-* You'll test your prototypes with some real users, having them perform some simple tasks
-* You'll see how the site renders on different browsers and devices, and make adjustments.
-* You'll run performance tests to see how you can optimize and improve your prototype
-
-<a class="button small" href="/class/assignments/testing">View Testing Project</a>
 
 ### 8:  HTML/CSS Style Guide and Patterns
 

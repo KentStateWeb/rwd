@@ -34,8 +34,8 @@
 				max-width: 250px;
 			}
 		</style>
-		<link rel="canonical" href="/class/assignments/templates/">
-		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="/feed.xml" />
+		<link rel="canonical" href="http://www.rwdkent.com/class/assignments/templates/">
+		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
 	</head>
 	<body>
 		<header class="group" role="banner">
@@ -64,7 +64,88 @@
 		<dd>December 08, 2015</dd>
 	</dl>
 	<hr>
-	<p>Assignment details will be posted shortly.</p>
+	<p>We’re now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.</p>
+
+<h2 id="what-to-do">What To Do</h2>
+
+<p>This will likely be the most challenging part of the project because it involves putting everything together that you’ve learned thus far.  </p>
+
+<ol>
+  <li>Take the folder that you previously created for your HTML wireframes and duplicate it.  </li>
+  <li>Name the duplicated folder “templates”.</li>
+  <li>These are the three template files that you’ll be working with for the rest of the semester.</li>
+</ol>
+
+<h2 id="adding-styles">Adding Styles</h2>
+
+<p>You’ve already created a stylesheet (style.css).  This is where you’ll style each of your elements, using the appropriate class and HTML element names.  I’m not going to be too specific here, because each of your projects will vary.  However, when completed, your HTML templates will be fully styled with CSS that follows the design language you created in your style tiles.</p>
+
+<p>You may find that you need to create a few page layout mockups in Sketch in order to visualize all of your elements together in a single view.  This is totally fine.  I won’t be reviewing your mockups - only the final templates.  If you are doing mockups, just design enough to get you started.  You should refine your designs using your HTML templates.</p>
+
+<p>Your templates should be fully responsive and use appropriate media queries and breakpoints.</p>
+
+<h2 id="install-jekyll">Install Jekyll</h2>
+
+<p>We’ve created three prototype files, but there are some problems.  What happens if we change the content of a global element like the header or footer?  Right now if we make a change, we have to change it in all three documents.  By setting these global elements up in a template, we can make changes just once and have them automatically update everywhere.</p>
+
+<p>First, we need to setup Jekyll, a popular static website generator.  We’ll do this together in class.</p>
+
+<ol>
+  <li>Open terminal.  “Sudo gem install bunder”.</li>
+  <li>Create a new file in your project repository called “Gemfile” - there is no file extension.</li>
+  <li>Inside Gemfile, add the following line: gem ‘github-pages’</li>
+  <li>Back in the terminal, run “bundle install”</li>
+  <li>You’re ready to run Jekyll.  In terminal, run “bundle exec jekyll serve”.</li>
+  <li>In your browser, go to http://localhost:4000 .  You’ll see your site, just as you expected.</li>
+</ol>
+
+<h2 id="make-your-templates-dynamic">Make Your Templates Dynamic</h2>
+
+<p>We’re now running a Jekyll site, but we aren’t benefiting from Jekyll yet.</p>
+
+<ol>
+  <li>Create a folder in your project called “_includes”.  The underscore is required.</li>
+  <li>In your includes folder, create a file called “header.html” and “footer.html”.</li>
+  <li>Copy the code that makes up everything above the start of your main content area and paste it into your header file.</li>
+  <li>Do the same with the footer file.  Everything below the end of your main content area.</li>
+  <li>Create another new folder called “_layouts”.</li>
+  <li>Inside layouts, create a new file called “default.html”.</li>
+  <li>Inside default.html, place the code under Default Layout Template below.</li>
+  <li>Open up each of your 3 templates.  Delete the header and footer from each of them.  At the very top of each, paste the code below called Default Frontmatter.</li>
+  <li>Open your site back up in your web browser at http://localhost:4000 and navigate to your templates.  You’ll see that all three pages display as expected with the same header and footer.  The difference now is that the header/footer is shared.  Try making a change to the header under the “_includes” folder.  You’ll notice that the change is reflected automatically on all three templates!</li>
+  <li>Move your stylesheet.css file into the root folder calledd “style” (it should have been created automatically by Jekyll).  We’re going to be referencing this file from different places, so it’s best that it’s in the root directory.</li>
+  <li>Finally, in your includes/footer file, change the reference to your stylesheet to be ../style/style.css (we’re going up one level since we’re in the templates folder.).  Make sure your stylesheet link hasn’t broken!</li>
+  <li>Sync your files back up to GitHub.</li>
+</ol>
+
+<h3 id="default-layout-template">Default Layout Template</h3>
+
+<script src="https://gist.github.com/challahan/a96842301446e9eab594.js"></script>
+
+<h3 id="default-frontmatter">Default Frontmatter</h3>
+
+<script src="https://gist.github.com/challahan/ffac402d02474ab67ade.js"></script>
+
+<h2 id="how-to-turn-in-the-assignment">How to Turn In the Assignment</h2>
+
+<p>You’ll be submitting your templates via your GitHub repository.</p>
+
+<ol>
+  <li>Make sure your three templates are placed in the “templates” folder and that they are actively using Jekyll.</li>
+  <li>On your root index.html file, which is the Project Hub, add an H2 with Date: Templates.</li>
+  <li>Add a link to your three templates under the Templates section.  Name each link with the title of the template, for example “Product Page Template”.</li>
+  <li>After you’ve commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link your three templates via Blackboard Learn.  Note: Don’t link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.</li>
+</ol>
+
+<h2 id="rubric">Rubric</h2>
+
+<p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
+
+<ul>
+  <li><strong>8-10</strong>: You’ve put everything you’ve learned so far together.  Your templates’ HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  You’ll successfully installed and are using Jekyll for any global or shared elements, such as the header and footer, so that content isn’t repeated.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS.</li>
+  <li><strong>4-7</strong>: You’ve put together the templates, but they don’t always show a unified design system.  Some of the content is missing or not in appropriate places.  Jekyll may have been installed, but you’re still repeating some shared components like the header and footer.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens.  There are also a few HTML and CSS errors.</li>
+  <li><strong>0 - 3</strong>: The design system for your templates is week and templates don’t follow the structure of your content.  HTML and CSS structure is weak and doesn’t follow what you’ve learned in class.  Jekyll wasn’t installed correctly or the assignment instructions weren’t followed fully.  A lot more work is required to make the templates ready for client review.</li>
+</ul>
 
 	<a class="button small" href="/class/assignments">Return to Assignments</a>
 	</section>
