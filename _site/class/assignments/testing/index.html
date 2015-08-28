@@ -34,68 +34,10 @@
 				max-width: 250px;
 			}
 		</style>
-		<script>
-		    function loadCSS( href, before, media, callback ){
-		    "use strict";
-		    // Arguments explained:
-		    // `href` is the URL for your CSS file.
-		    // `before` optionally defines the element we'll use as a reference for injecting our <link>
-		    // By default, `before` uses the first <script> element in the page.
-		    // However, since the order in which stylesheets are referenced matters, you might need a more specific location in your document.
-		    // If so, pass a different reference element to the `before` argument and it'll insert before that instead
-		    // note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
-		    var ss = window.document.createElement( "link" );
-		    var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
-		    var sheets = window.document.styleSheets;
-		    ss.rel = "stylesheet";
-		    ss.href = href;
-		    // temporarily, set media to something non-matching to ensure it'll fetch without blocking render
-		    ss.media = "only x";
-		    // DEPRECATED
-		    if( callback ) {
-		        ss.onload = callback;
-		    }
-
-		    // inject link
-		    ref.parentNode.insertBefore( ss, ref );
-		    // This function sets the link's media back to `all` so that the stylesheet applies once it loads
-		    // It is designed to poll until document.styleSheets includes the new sheet.
-		    ss.onloadcssdefined = function( cb ){
-		        var defined;
-		        for( var i = 0; i < sheets.length; i++ ){
-		            if( sheets[ i ].href && sheets[ i ].href === ss.href ){
-		                defined = true;
-		            }
-		        }
-		        if( defined ){
-		            cb();
-		        } else {
-		            setTimeout(function() {
-		                ss.onloadcssdefined( cb );
-		            });
-		        }
-		    };
-		    ss.onloadcssdefined(function() {
-		        ss.media = media || "all";
-		    });
-		    return ss;
-		}
-		loadCSS( "/stylesheets/style.css" );
-		</script>
-		<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
 		<link rel="canonical" href="/class/assignments/testing/">
 		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="/feed.xml" />
 	</head>
 	<body>
-		<!-- Google Tag Manager -->
-		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-533NR7"
-		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-533NR7');</script>
-		<!-- End Google Tag Manager -->
 		<header class="group" role="banner">
 		<a id="skip-to-content" href="#content">skip to main content</a>
 		<a href="/"class="svg">
@@ -122,7 +64,62 @@
 		<dd>November 24, 2015</dd>
 	</dl>
 	<hr>
-	<p>Assignment details will be posted shortly.</p>
+	<p>As you begin building your templates/prototype, you’ll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.</p>
+
+<p>We will run through your testing plan in class, on November 24, 2015. </p>
+
+<h2 id="creating-your-usability-plan">Creating Your Usability Plan</h2>
+
+<p>First, we need to consider the top goals for your website.  Then,  we’ll develop some actionable tasks that you can test with real users based on your goals.  Your goals and tasks can be listed in a Google Doc or PDF file - your choice.</p>
+
+<ol>
+  <li>
+    <p>Develop and write down 5 of your website’s top goals.  You may have defined many of these already in your previous assignments.  A goal is something like “Allow a customer to quickly find our hours of operation”.</p>
+  </li>
+  <li>
+    <p>Based on each goal, create a task that a user will be able to complete using your website templates.  Note:  It’s okay that your website is not complete yet.  You can test much of the functionality even when the website is not complete.  In fact, it’s better to test early.  A task is typically scenario based and is something like “It’s Saturday night around 8 and you’d like to see if Business Name is still open.  Find the answer using the website.”  Tasks should frame real-life scenarios that your users might encounter and should not lead them directly to the answer.</p>
+  </li>
+</ol>
+
+<h2 id="creating-your-technical-testing-plan">Creating Your Technical Testing Plan</h2>
+
+<p>Unlike usability testing, technical testing resolves around technology.  When developing your testing plan:</p>
+
+<ol>
+  <li>
+    <p>Create a grid in Google Sheets.  In your sheet, list your 5 user testing tasks.  These will be the same as your usability test, but you’re going to run through them on different devices and browsers to ensure they can be completed.</p>
+  </li>
+  <li>
+    <p>In each column of your spreadsheet, list the following browsers and devices, which you’ll test:  Internet Explorer 9, Internet Explorer 10, Safari (Mac), Chrome (PC), Firefox (Mac), Mobile Safari (iOS), Chrome (Android).</p>
+  </li>
+  <li>
+    <p>When conducting your tests, you’ll note whether each task passed/failed and any applicable notes.  You’re looking for any visual problems or technical issues that you encounter while completing the tasks.</p>
+  </li>
+  <li>
+    <p>On the day of our testing, you’re going to run a few performance/speed tests to identify ways to improve your website’s speed.  </p>
+  </li>
+</ol>
+
+<h2 id="how-to-turn-in-the-assignment">How to Turn In the Assignment</h2>
+
+<p>You’ll be submitting the sketches as image or PDF files to your project repositiy on GitHub, just like the last assignment.  </p>
+
+<ol>
+  <li>Create a publicly shareable Google Drive link that points to your content.</li>
+  <li>On your root index.html file, which is the Project Hub, add an H2 with Date: Content.</li>
+  <li>Add a link to your Google folder under the H2.  You might link the words “View Website Content”.  There’s nothing else to upload to your site for this assignment, since it is in Google Drive.</li>
+  <li>After you’ve commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the Google folder via Blackboard Learn.  Note: Don’t link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.</li>
+</ol>
+
+<h2 id="rubric">Rubric</h2>
+
+<p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
+
+<ul>
+  <li><strong>4 - 5</strong>: Your site map is organized in a thoughtful architecture that matches your site’s goals.  Your content is structured into sections according to your architecture.  The content has been edited according to the standards above, with extraneous information removed, bullets, and headings.  The voice and tone matches your brand goals.  Everything was submitted according to directions using Google Drive and GitHub.</li>
+  <li><strong>2 - 3</strong>: You organized the content into sections, but the sections don’t always match your website goals.  The content has been edited, but its structure could be improved. The content was submitted according to directions.</li>
+  <li><strong>0 - 1</strong>: Content has not been organized into a logical architecture.  The content was very lightly or not at all edited according to web best practices and does not show thoughtfulness.  The content does not reflect your website’s goals and your tone is inconsistent.   </li>
+</ul>
 
 	<a class="button small" href="/class/assignments">Return to Assignments</a>
 	</section>
@@ -142,7 +139,9 @@
 			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
 	</div>
 </footer>
-<script src="/js/fonts.js" defer></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+<script src="/js/fonts.js" async></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
