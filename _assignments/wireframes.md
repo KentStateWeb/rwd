@@ -42,7 +42,7 @@ You'll be submitting the style tiles to your project repository on GitHub as thr
 
 1.  Save the three HTML files according to the directions above.  They should be in a subdirectory called "wireframes".
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Wireframes.
-3.  Add a link to the three HTML templates/wireframes under your Wireframes section.  The links should be something like "wireframes/index.html".
+3.  Add a link to the three HTML templates/wireframes under your Wireframes section.  The links should be something like "wireframes/index.html".  Name your templates in your hyperlink text so they can be differentiated.  For example: Wireframe 1 - Product Page.
 4.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the three live wireframe HTML files via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
 
 Your wireframes might look something like <a href="http://rwdkent.com/wireframes/index.html">these wireframes, used to create the RWD website</a>.
