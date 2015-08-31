@@ -32,6 +32,10 @@
 	  	<dd>{{ classes.due }}</dd>
 	  	<dt>Assigned Today</dt>
 	  	<dd>{{ classes.assignment }}</dd>
+	  	{% if classes.slides %}
+	  	  <dt>Slides from Class</dt>
+	  	  <dd><a href="{{ classes.slides }}">View Slides From Class</a></dd>
+	  	{% endif %}
 	  </dl>
 </div>
 
