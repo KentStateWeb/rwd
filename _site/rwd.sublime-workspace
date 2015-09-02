@@ -206,6 +206,7 @@
 	"expanded_folders":
 	[
 		"/Users/challahan/Documents/Repositories/rwd",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments",
 		"/Users/challahan/Documents/Repositories/rwd/_classes",
 		"/Users/challahan/Documents/Repositories/rwd/_groups",
 		"/Users/challahan/Documents/Repositories/rwd/_includes",
@@ -216,8 +217,8 @@
 	],
 	"file_history":
 	[
-		"/Users/challahan/Documents/Repositories/rwd/_assignments/css2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/casestudy.md",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/css2.md",
 		"/Users/challahan/Documents/Repositories/rwd/class/syllabus/index.md",
 		"/Users/challahan/Documents/Repositories/rwd/stylesheets/style.css",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/html2.md",
@@ -591,6 +592,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "e04077f3",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -622,6 +624,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "96ed8ef9",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -652,6 +655,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "7196dde7",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -682,6 +686,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "6e5ecedb",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -712,6 +717,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "203f70c4",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -742,6 +748,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "991f2f82",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -772,6 +779,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "0ee781dc",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,

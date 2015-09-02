@@ -33,7 +33,7 @@ The link included with each website is a starting point.  There may be other inf
 * [The Boston Globe - Ryan](http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d)
 * [Gov.uk - Emily](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/)
 * [Entertainment Weekly - Amber](http://bradfrost.com/blog/post/entertainment-weekly/) - actually uses adaptive design, not responsive.
-* [Regent College](http://domain7.com/work/regent-college)
+* [Regent College - Neil](http://domain7.com/work/regent-college)
 
 ## Rubric
 
