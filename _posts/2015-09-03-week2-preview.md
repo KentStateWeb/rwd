@@ -15,7 +15,7 @@ You'll remember that during the first class we:
 * Learned about the history of web design and watched a video on Jeffery Zeldman
 * Ate a lot of popcorn
 
-I tweeted out a link to the Zeldman video on the @rwdKent account and Mr. Zeldman retweeted and replied saying:
+I tweeted out a link to the Zeldman video on the @rwdKent account and Mr. Zeldman (@zeldman) retweeted and replied saying:
 
 >"All credit belongs to the http://lynda.com  staff, who turned my nonsensical ramblings into a watchable video. :)"
 
