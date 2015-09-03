@@ -1000,3 +1000,23 @@ footer img {
 .gist {
 	margin-top: 1em;
 }
+
+/* Quotes */
+
+blockquote {
+	font-size: 1.3em;
+	border-left: 5px solid rgb(240,99,116);
+	padding-left: 1.5em;
+	margin-left: 0em;
+	margin: 2em 0;
+}
+
+blockquote p {
+	color: rgb(26,117,138);
+}
+
+@media screen and (min-width: 800px) {
+	blockquote {
+		width: 80%;
+	}
+}
