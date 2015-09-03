@@ -162,6 +162,14 @@ h2 {
 	margin-top: 0;
 }
 
+.post h2 {
+	margin-bottom: .45em;
+}
+
+.post h3 {
+	padding-top: .5em;
+}
+
 /*h2:before {
 	content: "<";
 	color: rgb(240,99,116);
