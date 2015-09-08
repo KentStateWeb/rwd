@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* Set body type and consistent margins/padding */
 
 body {
@@ -952,10 +954,24 @@ footer img {
 	border-radius: 5px;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
 	float: left;
+	position: relative;
 	width: 70px;
 	margin-right: 25px;
 	margin-bottom: 1em;
 	transition: .2s background-color ease-in-out;
+}
+
+.blog-post-date--past:after {
+	content: "\2713";
+	font-size: .7em;
+	width: 15px;
+	left: -7px;
+	box-shadow: 1px 1px 2px rgba(0,0,0,.1);
+	padding: 0.65em;
+	border-radius: 25px;
+	background-color: rgb(26,117,138);
+	position: absolute;
+	text-transform: uppercase;
 }
 
 .blog-post-month {
