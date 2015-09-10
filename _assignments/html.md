@@ -17,11 +17,11 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 1. Set up a [CodePen](http://www.codepen.io) account (in class).
 2. Create a new **public pen** and name it using this structure: "Your Last Name - HTML Basics 1".
-3. Take the plain text content (provided below) and structure it into HTML in your pen.  You must use semantic headings to indicate hierarchy.  Links must be functional.  Lists should be formatted as unordered or ordered lists.  Lines must be properly indented.  Pay attention to the client notes - they're important.
+3. Take the plain text content (provided below) and structure it into HTML in your pen.  You must use semantic headings to indicate hierarchy.  Links must be functional.  Lists should be formatted as unordered or ordered lists.   Pay attention to the client notes - they're important.
 4. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
-6. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
+6. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL (View > Debug is also acceptable.  Pretty much the same thing). 
 7. View your newly completed website as a web page on different devices.  Does everything render correctly? 
-8. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
+8. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View URL.  Click Submit.
 
 ## The Content 
 
@@ -29,14 +29,12 @@ Enduring Trauma?
 
 Poynter KSU Media Ethics Workshop 2015
 
-***(Client note - ^ this is the most important thing on the page)***
+***(Client note - ^ these are the most important things on the page)***
 
 About the Conference
 Covering trauma -- a tragic accident, a horrendous attack, a sickening court case, a catastrophic weather event – exposes journalists and victims to complicated questions about ethics and responsibility. This year’s Poynter KSU Media Ethics Workshop will delve into significant topics including privacy, re-victimization and the trauma that journalists themselves often deny. Best practices for PR and other media professionals also will be covered.
 
 The Poynter KSU Media Ethics Workshop is a one-day training program for professionals, educators and students that examines critical issues and perspectives in media ethics. Moderated by distinguished ethics faculty from The Poynter Institute, the Media Ethics Workshop provides a unique forum for professionals and students alike to confront and discuss significant issues crucial to understanding media ethics and its effect on our world. Previous Workshops have addressed online ethics, sports media ethics, political media ethics, entertainment media ethics and the ethics of data mining. Established in 2004, the Poynter KSU Media Ethics Workshop continues its mission to strengthen media credibility and bolster citizens’ faith in media integrity.
-
-Register Now - ***can we make this magically drop down to the How to Register section?  I've seen this on other websites and like it a lot.***
 
 Agenda
 
@@ -77,6 +75,6 @@ Jan Leach: jleach1@kent.edu, Jennifer Kramer: jlkramer@kent.edu, Melinda Stephan
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: HTML is structured appropriately and with proper indentation.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately and lists are marked up correctly.  The client's notes were followed and the appropriate links were posted to Learn.
+* **4 - 5**: HTML is structured appropriately.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately and lists are marked up correctly.  The client's notes were followed and the appropriate links were posted to Learn.
 * **2 - 3**: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Some of the client's notes were missed.
 * **0 - 1**: HTML does not use appropriate tags for the types of content.  Few tags are formatted appropriately, client notes were missed and the pen was not set up or submitted according to instructions.  
