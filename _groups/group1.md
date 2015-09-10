@@ -9,10 +9,36 @@ description: "Barb’s Bridal Boutique, a small boutique in Ohio that specialize
 
 ## Goals
 
-1.  What are your top goals as a business this year?
-2.  What would you like the website to be able to do for your users?
-3.  Who are some of your top competitors?
-4.  If you could use a few adjectives to describe your company and desired website, what would they be?
+**What are your top goals as a business this year?**
+
+* Increase sales of designer dresses
+* Increase in-person traffic to our stores through free try-on appointments
+* Increase engagement on our social media
+
+**What would you like the website to be able to do for your users?**
+
+* Allow prospective customers to browse our dress catalog online
+* Encourage customers to come in and talk to our sales associates about their wedding
+* Allow customers to see stories from other brides and share their stories
+* Build trust with customers by introducing ourselves and our history
+* Allow customers to find our store location and hours easily
+
+**Who are some of your top competitors?**
+
+* The Dress: Bridal Boutique: http://thedress.staging4.net
+* B.Loved Bridal Boutique: http://blovedbridal.com
+* Elyse's Boutique: Bridal & Prom: http://www.elysesboutique.com  (we don't like their website, but they're a competitor)
+
+**If you could use a few adjectives to describe your company and desired website, what would they be?**
+
+* Modern
+* Sophisticated
+* Locally-owned (we have lived in Ohio all of our lives and operated this store for 25 years)
+* Trusted
+* Trendy
+* Customer-First
+
+<!--http://evesbridalwear.co.za/product/prina/-->
 
 ## Assets
 
