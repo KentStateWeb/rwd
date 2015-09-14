@@ -7,6 +7,39 @@ link: TBD
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 ---
 
+## Goals
+
+**What are your top goals as a business this year?**
+
+* Increase service appointments by 25%
+* Increase word-of-mouth referrals by existing customers
+* Increase sales of product and maintenance services, such as tires and oil changes.  Offer coupons to encourage oil changes.
+* Increase new customers, especially those who find us via search engines
+
+**What would you like the website to be able to do for your users?**
+
+* Inform customers of the variety of services we offer
+* Ensure customers know that we are a reputable and trusted shop that doesn't take advantage of its customers
+* Allow customers to schedule appointments online or via phone
+* Allow cutustomers to easily find us
+* Allow customers to get to know our staff members and business, which is locally owned
+
+**Who are some of your top competitors?**
+
+* Murphy's Autocare & Tire: http://www.murphysautocare.com - we really like this one
+* Willoughby Hills Auto Repair: http://whautorepair.com
+* Rick's #1 Auto: http://www.ricks1auto.com
+* Firestone Complete Auto Care: http://www.firestonecompleteautocare.com
+
+**If you could use a few adjectives to describe your company and desired website, what would they be?**
+
+* Customer-focused
+* Quality Service
+* Affordable
+* Friendly
+* Trusted
+* Personalized
+
 ## Assets
 
 ### Logo

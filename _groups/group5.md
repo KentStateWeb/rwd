@@ -4,8 +4,23 @@ client: "Off the Vine"
 members: "Sarah K. and John V."
 layout: group
 link: TBD
-description: "Off the Vine: A local winery who operates a small walk-in wine-bar."
+description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
 ---
+
+## Goals
+
+**What are your top goals as a business this year?**
+
+* 
+
+**What would you like the website to be able to do for your users?**
+
+
+**Who are some of your top competitors?**
+
+
+**If you could use a few adjectives to describe your company and desired website, what would they be?**
+
 
 ## Assets
 
