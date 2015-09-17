@@ -34,6 +34,8 @@ After conducting your competitive analysis, develop a short document that commun
 * List of the types of templates/layouts that you may need, based on this content.  For example, a home page, contact page, products page, and calendar page.  Not every page has its own template, for example the indivdual products pages all use the same basic template.
 * List a short analysis of the most common themes you notice from competitive websites, including common navigation, content voice and tone, design aesthetic and layout.  You might note what is most common across all of the sites, and what is different across the sites.
 
+You can use whatever program you'd like to write this assignment.  You do NOT have to write it in HTML (unless you really want to).
+
 ## How to Turn In the Assignment
 
 Since this is the first assignment, we will need to create a GitHub repository to house and host the project files.  We will create a GitHub repository and accounts in class.  When creating the repository in class, you will need to note your repository login information.
@@ -42,11 +44,11 @@ After creating your repository:
 
 1.  Create a new folder (subdirectory) within your site called "research".
 2.  Output a PDF file with the contents of your research and place it in the "research" directory.
-3.  Create a new index.html file within the root of your website folder.
+3.  Create a new index.html file within the root of your website folder (if there is not one there already.  You probably created on in class already).
 4.  Add the required DOCTYPE information to the HTML file.  You can use <a href="https://gist.github.com/challahan/0f8d805423259882cbc2">this template</a> (also embedded below).
 4.  On your root index.html file, add an H1 called Project Timeline and afterward, an H2 with Date: Research/Competitive Analysis.
 6.  Add a link to your Research PDF file under the H2.  The link point to research/YOURPDFFILE.pdf.
-7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the research document (PDF) via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.  It should be something like: http://rwd-test.github.io/sample-project
+7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the research document (PDF) via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.  It should be something like: http://rwd-test.github.io/sample-project.  Only one person needs to submit the files to the repository and Blackboard Learn, since this is a group assignment. 
 
 <script src="https://gist.github.com/challahan/0f8d805423259882cbc2.js"></script>
 
