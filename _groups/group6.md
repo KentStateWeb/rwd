@@ -46,6 +46,12 @@ description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele
 
 ## Assets
 
+### Content
+
+A starter file with content, photos and more that you've received from the client.  
+
+<a href="/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
+
 ### Logo
 <img src="/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
 
