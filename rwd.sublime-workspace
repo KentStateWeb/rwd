@@ -11,71 +11,23 @@
 			"file": "_groups/group6.md",
 			"settings":
 			{
-				"buffer_size": 644,
+				"buffer_size": 2129,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "stylesheets/style.css",
+			"file": "_assignments/research.md",
 			"settings":
 			{
-				"buffer_size": 14976,
+				"buffer_size": 4178,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/class.html",
+			"file": "Gemfile",
 			"settings":
 			{
-				"buffer_size": 1234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_groups/group5.md",
-			"settings":
-			{
-				"buffer_size": 636,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_groups/group4.md",
-			"settings":
-			{
-				"buffer_size": 562,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_groups/group3.md",
-			"settings":
-			{
-				"buffer_size": 528,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_classes/2.md",
-			"settings":
-			{
-				"buffer_size": 3245,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assignments/html.md",
-			"settings":
-			{
-				"buffer_size": 5549,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_groups/group1.md",
-			"settings":
-			{
-				"buffer_size": 523,
+				"buffer_size": 258,
 				"line_ending": "Unix"
 			}
 		}
@@ -170,32 +122,41 @@
 		"/Users/challahan/Documents/Repositories/rwd/_classes",
 		"/Users/challahan/Documents/Repositories/rwd/_groups",
 		"/Users/challahan/Documents/Repositories/rwd/_includes",
+		"/Users/challahan/Documents/Repositories/rwd/_posts",
 		"/Users/challahan/Documents/Repositories/rwd/about",
 		"/Users/challahan/Documents/Repositories/rwd/class",
+		"/Users/challahan/Documents/Repositories/rwd/class/assignments",
 		"/Users/challahan/Documents/Repositories/rwd/class/syllabus",
 		"/Users/challahan/Documents/Repositories/rwd/stylesheets"
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group1.md",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/assignments.html",
+		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-09-16-free-text-editors.md",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/html.md",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/2.md",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group3.md",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group4.md",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group5.md",
+		"/Users/challahan/Documents/Repositories/rwd/Gemfile",
+		"/Users/challahan/Documents/Repositories/rwd/stylesheets/style.css",
+		"/Users/challahan/Documents/Repositories/rwd/_includes/class.html",
+		"/Users/challahan/Documents/Repositories/rwd/class/index.html",
+		"/Users/challahan/Documents/Repositories/rwd/class/assignments/index.html",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/1.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group7.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/3.md",
-		"/Users/challahan/Documents/Repositories/rwd/_classes/2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_includes/header.html",
-		"/Users/challahan/Documents/Repositories/rwd/class/index.html",
-		"/Users/challahan/Documents/Repositories/rwd/class/assignments/index.html",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/layout.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/html2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/css.md",
-		"/Users/challahan/Documents/Repositories/rwd/Gemfile",
 		"/Users/challahan/Documents/Repositories/craft/craft/config/db.php",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/casestudy.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/css2.md",
 		"/Users/challahan/Documents/Repositories/rwd/class/syllabus/index.md",
-		"/Users/challahan/Documents/Repositories/rwd/stylesheets/style.css",
 		"/Users/challahan/Desktop/table.html",
-		"/Users/challahan/Documents/Repositories/rwd/_assignments/html.md",
 		"/Users/challahan/Documents/Repositories/rwd/about/index.html",
 		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-08-5-rustbelt-refresh-scholarships.md",
 		"/Users/challahan/Dropbox/Sublime/User/builds/jekyll.sublime-build",
@@ -239,9 +200,7 @@
 		"/Users/challahan/Documents/Repositories/rwd/_layouts/group.html",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/project-summary.md",
 		"/Users/challahan/Documents/Repositories/rwd/class/groups/index.html",
-		"/Users/challahan/Documents/Repositories/rwd/_includes/assignments.html",
 		"/Users/challahan/Documents/Repositories/rwd/_config.yml",
-		"/Users/challahan/Documents/Repositories/rwd/_includes/class.html",
 		"/Users/challahan/Documents/Repositories/rwd/index.html",
 		"/Users/challahan/Documents/Repositories/annual-report-2015/Gruntfile.js",
 		"/Users/challahan/Documents/Repositories/annual-report-2015/_site/assets/main.min.css"
@@ -314,7 +273,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -323,15 +282,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 644,
+						"buffer_size": 2129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								85,
-								85
+								0,
+								0
 							]
 						],
 						"settings":
@@ -346,259 +305,70 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "stylesheets/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14976,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14111,
-								14111
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "css3",
-							"buffer_scroll_name": "decbc61f",
-							"spell_check": false,
-							"syntax": "Packages/CSS3/CSS3.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 26779.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/class.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								249,
-								249
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bs_sintax": "html (jekyll)",
-							"buffer_scroll_name": "d123e381",
-							"spell_check": false,
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 110.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_groups/group5.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 636,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "7196dde7",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_groups/group4.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "6e5ecedb",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_groups/group3.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 528,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "203f70c4",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_classes/2.md",
+					"buffer": 1,
+					"file": "_assignments/research.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3245,
+						"buffer_size": 4178,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								883,
-								883
+								656,
+								656
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "a4b6ec53",
-							"spell_check": false,
+							"buffer_scroll_name": "0434ba85",
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 805.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_assignments/html.md",
+					"buffer": 2,
+					"file": "Gemfile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5549,
+						"buffer_size": 258,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3443,
-								3443
+								258,
+								258
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "028c59e2",
+							"auto_complete": false,
+							"bs_sintax": "ruby.sublime-syntax",
+							"buffer_scroll_name": "6ce4a441",
 							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_groups/group1.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 523,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "0ee781dc",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
 					"type": "text"
 				}
 			]

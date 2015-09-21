@@ -13,14 +13,9 @@ This is a team project.  Your team repository should have your research posted o
 
 ## What To Do
 
-On the day the project is assigned, meet with the "client" and determine project goals, design aesthetic using the following questions:
+On the day the project is assigned, you would have met with the client to determine project goals and design aesthetics.
 
-1.  What are your top goals as a business this year?
-2.  What would you like the website to be able to do for your users?
-3.  Who are some of your top competitors?
-4.  If you could use a few adjectives to describe your company and desired website, what would they be?
-
-After your client meeting, visit 3 websites that are similar to your client's website and take some notes on things like:
+Because of time, we're not going to do actual client meetings.  I've provided the answers to common client questions on <a href="/class/groups/">your project pages</a>. After reviewing these answers, visit 3 websites that are similar to your client's website and take some notes on things like:
 
 * Common Navigation
 * Content Voice and Tone
