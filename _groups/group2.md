@@ -45,6 +45,12 @@ description: Summit Street Family Restaurant, an american-style restaurant in Ke
 
 ## Assets
 
+### Content
+
+A starter file with content, photos and more that you've received from the client.  
+
+<a href="/groups/assets/group2/Group-2-Content.zip">Download Group 2 Content (Zip File)</a>
+
 ### Logo
 <img src="/groups/assets/group2/summitst.svg" alt="Summit Street Family Restaurant" />
 
