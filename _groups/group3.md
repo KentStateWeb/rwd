@@ -9,12 +9,6 @@ description: AROMA Coffee & Tea, a family-owned coffee company that specializes 
 
 ## Goals
 
-### Content
-
-A starter file with content, photos and more that you've received from the client.  
-
-<a href="/groups/assets/group3/Group-3-Content.zip">Download Group 3 Content (Zip File)</a>
-
 
 **What are your top goals as a business this year?**
 
@@ -47,6 +41,12 @@ A starter file with content, photos and more that you've received from the clien
 * Authentic
 
 ## Assets
+
+### Content
+
+A starter file with content, photos and more that you've received from the client.  
+
+<a href="/groups/assets/group3/Group-3-Content.zip">Download Group 3 Content (Zip File)</a>
 
 ### Logo
 <img src="/groups/assets/group3/aroma.svg" alt="AROMA Coffee & Tea" />
