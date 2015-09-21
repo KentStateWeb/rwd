@@ -42,6 +42,12 @@ description: "Barb’s Bridal Boutique, a small boutique in Ohio that specialize
 
 ## Assets
 
+### Content
+
+A starter file with content, photos and more that you've received from the client.  
+
+<a href="/groups/assets/group1/Group-1-Content.zip">Download Group 1 Content (Zip File)</a>
+
 ### Logo
 <img src="/groups/assets/group1/barb.svg" alt="Barb's Bridal Boutique" />
 
