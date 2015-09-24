@@ -5,6 +5,7 @@ type: "project"
 points: 5
 layout: assignment
 date: 2015-9-22 12:00:00
+status: assignment-completed
 ---
 
 Any good web project should start with just enough research, and this one is no different.
