@@ -32,7 +32,9 @@ This is an individual assignment and very similar to your first CodePen exercise
 
 ### Content & Architecture
 
-This is a continuation of your group project assignments.  For this piece, you'll be examining the content your "client" provided and editing/organizing it within Google Drive.  You'll then add the link to your content to your project repository in GitHub and submit the link to me via Blackboard (as a group).  
+This is a continuation of your group project assignments.  For this piece, you'll be examining the content your "client" provided and editing/organizing it within Google Drive.  You'll then add the link to your content to your project repository in GitHub and submit the link to me via Blackboard (as a group). 
+
+You'll have a few minutes to turn this in via GitHub at the beginning of class. 
 
 <a href="/class/assignments/content/" class="button small">View Content/Architecture Details</a>
 
