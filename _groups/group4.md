@@ -3,7 +3,7 @@ title: "Group 4"
 client: "Wrench Automotive"
 members: "Zach G. and Marissa K."
 layout: group
-link: http://mkopco.github.io/group4/
+link: <a href="http://mkopco.github.io/group4/">http://mkopco.github.io/group4/</a>
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 ---
 

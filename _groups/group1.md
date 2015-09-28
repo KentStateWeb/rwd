@@ -3,7 +3,7 @@ title: "Group 1"
 client: "Barb’s Bridal Boutique"
 members: "Ben B. and Emily H."
 layout: group
-link: http://benjaminbartling.github.io/group1/
+link: <a href="http://benjaminbartling.github.io/group1/">http://benjaminbartling.github.io/group1/</a>
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
 ---
 
