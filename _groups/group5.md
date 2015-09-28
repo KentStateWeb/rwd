@@ -3,7 +3,7 @@ title: "Group 5"
 client: "Off the Vine"
 members: "Sarah K. and John V."
 layout: group
-link: TBD
+link: http://johnvrhovnik.github.io/OffTheVine/
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
 ---
 
