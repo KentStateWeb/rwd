@@ -11,18 +11,6 @@ You understand the content of your website and have some ideas about its archite
 
 We're going to use a program called Sketch to develop the Style Tiles.  I chose Sketch because it's vector-based (unlike Photoshop) and very simple to learn (unlike Illustrator).  However, that doesn't mean it's the one and only best program for developing static designs - it's just one I'd like you to try for this class.
 
-## What To Do
-
-Lets take some of the content your client has provided and begin organizing it and editing it to better fit the mobile-first methodology.  
-
-1.  Organize your content into a sitemap.  Based on the content provided, how might the content be organized into a meaningful information architecture?  Your sitemap can be a simple outline, with indentations to show which content will go in what section.
-
-2.  What content will go on the home page of your website?  Remember, the home page's primary goal is typically to drive traffic to other content on your site and allow the user to quickly understand where they are and what they can do.  Some sites do away with the traditioanl home page entirely, and instead present all of the content on single, long-scrolling page.  Essentially though, even these formats are split into sections that can be shown in a sitemap.
-
-3.  Now, take the content your client has provided and separate it into sections/pages, according to your sitemap.  Rewrite and organize the content according to these best practices: a.) Most important content goes near the top.  Supplemental (less important) content goes near the bottom.  b.) Content answers the top questions a visitor might have (based on your already defined goals).  Unnecessary inforamtion is removed (yes, you have the power to remove content if it doesn't match your goals!).  c.) Pages have clear, meaningful headings and sections are broken up by additional headings (H2, H3, H4 etc.) d.) Long paragraphs are avoided.  Instead, content is broken up by bullet points and links to more information. e.) Content maintains a consistent voice in tone that matches the brand.  Wordiness and jargon are avoided to maintain accessibility to all visitors.
-
-4.  Identify missing content.  List the missing content as highlighted text so that your client can easily spot it.  While we won't be completing all of the information on the website for this project, this is still good practice.
-
 ## Compile a List of Adjectives
 
 Before you start, go through your notes from the initial client "meeting".  Make a list of adjectives that you've heard.  Did they use keywords like "energetic" or "formal"?  "Friendly" or "Traditional"?  This list will help you develop your tiles.
@@ -32,6 +20,7 @@ Also, take another look at your competitor's websites that the client mentioned.
 ## Create Two Sets of Style Tiles
 
 After you've compiled your adjectives, you're going to put together two, single canvas tiles in Sketch.  Your tiles should include (but are not limited to):
+
 * Typography Choices
 * Color Choices
 * Logo - you may make minor modifications to the logo, if you can justify it to your client.
@@ -41,6 +30,7 @@ After you've compiled your adjectives, you're going to put together two, single 
 Why two variations?  This will allow you to try out a few different ideas and let your client give feedback on both approaches.  That way, you can refine them into your final design.  You may choose to approach one variation as the "safe" or "conservative" design and another one that is more of a stretch from their current design language.
 
 **A few things to note:**
+
 * These are not comps or mock-ups of a website.  This is an early design stage.  Don't make your style tiles look like a web page.
 * Include real content, where necesary.  Lorem Ipsum is easy to generate, but it isn't realistic and commonly results in questions like "Why is there Latin all over my website?".
 * These are not final.  You should create an iterate on your style tyles rapidly, but with thought.  Think of these as sketching on screen.
