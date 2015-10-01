@@ -62,6 +62,54 @@
 				"buffer_size": 2282,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "_classes/5.md",
+			"settings":
+			{
+				"buffer_size": 1383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/html.md",
+			"settings":
+			{
+				"buffer_size": 5438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/html2.md",
+			"settings":
+			{
+				"buffer_size": 7182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/content.md",
+			"settings":
+			{
+				"buffer_size": 5619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_assignments/style.md",
+			"settings":
+			{
+				"buffer_size": 5172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_classes/4.md",
+			"settings":
+			{
+				"buffer_size": 1562,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -308,7 +356,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 11,
 			"sheets":
 			[
 				{
@@ -340,7 +388,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -372,7 +420,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -404,7 +452,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -436,7 +484,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -468,7 +516,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -500,7 +548,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -532,7 +580,197 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_classes/5.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "52aafbcc",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_assignments/html.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								329
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "028c59e2",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_assignments/html2.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "20058b9b",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_assignments/content.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "ea52ede2",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_assignments/style.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2471,
+								2471
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "900efb72",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2679.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "_classes/4.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1226
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "e5752472",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
