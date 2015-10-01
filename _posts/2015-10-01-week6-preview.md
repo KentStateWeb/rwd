@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Six Preview - Design Patterns
+title: Week Six Preview - Design Patterns and CSS
 category: blog
 ---
 
@@ -43,7 +43,7 @@ There are a few assigned readings for class.  Remember that participation is par
 
 During the next class I'll assign your first CSS exercise in CodePen.  You'll be working on the Media Ethics site that you developed in a previous assignment.  If this is the first time you've written CSS, you'll really enjoy it.
 
-By the way, CodePen just launched their site-wide redesign, so you'll notice a lot of changes the next time you log on!
+By the way, CodePen [just launched their site-wide redesign](http://blog.codepen.io/2015/10/01/redesigned/), so you'll notice a lot of changes the next time you log on!
 
 
 ## News and Announcements
