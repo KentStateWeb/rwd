@@ -40,11 +40,6 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 5. Remove the bullets from the unordered bulleted lists.  Add a property to make unordered bulleted lists have a left padding of 1em:  padding-left: 1em;
 6. Set padding on each side of the body element of 2em.  Note: we'll learn more about this in the next lesson - padding: 1em;
 
-### Add a Class for the Register Link
-
-1. We want to style the Register Now link differently from the rest of the links on the page.  In order to do that, we need to edit the HTML and add on a class called "button".  By adding a class, we can now target only that specific link with CSS.  Note - "button" is something I picked randomly.  It could have been anything.
-2. Set items with the class of "button" to have the following properties: (a) Font-size: 1.2em, (b) text-decoration: none, (c) margin-bottom: 1em, (d) display: inline-block .  Remember that links are inline elements, so margin doesn't appear until we set them to be inline-block.
-
 ### Add CSS Comments
 
 1.  Attempt to group and organize your CSS styles into groups separated with CSS comments.  The groups should be Header (basically the H1), Headings, Body, Links, Paragraphs and Lists.
