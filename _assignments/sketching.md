@@ -5,6 +5,7 @@ type: "project"
 points: 5
 layout: assignment
 date: 2015-10-06 12:00:00
+status: assignment-completed
 ---
 
 The best way to start visualizing your project is by sketching on paper.  Sketches are meant to be rough and imperfect.  They should allow you visualize how your content might fit together and be prioritized for your templates.  They'll also allow you to begin picking out components (patterns) that will be present in all of your templates. 
