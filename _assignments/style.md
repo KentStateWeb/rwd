@@ -53,6 +53,6 @@ Your style tiles might look something like <a href="http://rwdkent.com/files/RWD
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: Your style tiles communicate the visual language that you've designed for your website.  They include the necessary elements (described above) and there are two unique variations.  The design utilizes type, colors and UI elements that effectively mirror your website's goals.  You included adjectives that you discovered in your research.  Everything was submitted according to directions.
-* **2 - 3**: You've developed the two tiles, but they don't include all of the elements, or they were developed as static comps/mockups instead of style tiles.  Style Tiles may lack needed detail.  Everything was submitted according to directions.
-* **0 - 1**: Your style tiles show little attention to client needs, and lack detail to effectively communicate your design language.  They may be missing required elements and the two variations may not be present.
+* **8 - 10**: Your style tiles communicate the visual language that you've designed for your website.  They include the necessary elements (described above) and there are two unique variations.  The design utilizes type, colors and UI elements that effectively mirror your website's goals.  You included adjectives that you discovered in your research.  Everything was submitted according to directions.
+* **4 - 7**: You've developed the two tiles, but they don't include all of the elements, or they were developed as static comps/mockups instead of style tiles.  Style Tiles may lack needed detail.  Everything was submitted according to directions.
+* **0 - 3**: Your style tiles show little attention to client needs, and lack detail to effectively communicate your design language.  They may be missing required elements and the two variations may not be present.
