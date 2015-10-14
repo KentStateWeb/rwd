@@ -242,7 +242,7 @@ h4 {
 }
 
 @media screen and (min-width: 1400px) {
-	.floated-feature-iamge {
+	.floated-feature-image {
 		max-width: 225px;
 		shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 122px 207px, 3px 208px);
 	}
@@ -299,7 +299,13 @@ h4 {
 
 @media screen and (min-width: 500px) {
 	.blog-post-blurb {
-		width: 55%;
+		width: 75%;
+	}
+}
+
+@media screen and (min-width: 625px) {
+	.blog-post-blurb {
+		width: 95%;
 	}
 }
 
