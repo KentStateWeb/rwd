@@ -354,6 +354,18 @@ a.svg:after {
   left:0;
 }
 
+@media screen and (min-width:600px) {
+
+	header .svg {
+		width: 225px;
+		margin-bottom: 0;
+		padding-bottom: 0;
+		margin-top: .05em;
+		height: 90px;
+	}
+
+}
+
 @media screen and (min-width:880px) {
 	header {
 		text-align: left;
@@ -507,7 +519,7 @@ aside img {
 }
 
 main {
-	padding: 0 8em;
+	padding: 0 12em;
 	max-width: 1500px;
 	margin: 0 auto;
 }
@@ -518,8 +530,12 @@ main {
 }
 
 .main-content-area-wide {
-	width: 90%;
 	margin: 0 auto;
+	padding: 0 10%;
+}
+
+.main-content-area-full {
+	padding: 0 10%;
 }
 
 .instructor-aside {
@@ -674,6 +690,12 @@ nav ul li:last-child:after {
 	padding-left: .5em;
 	padding-right: .5em;
 }
+}
+
+@media screen and (min-width:600px) {
+	nav a {
+		font-size: 1.3em;
+	}
 }
 
 @media screen and (min-width:880px) {
@@ -874,7 +896,7 @@ footer img {
 	color: white;
 	font-family: "proxima-nova-soft";
 	font-size: .9em;
-	padding: 1.25em 1.5em;
+	padding: 1em 1.25em;
 	display: inline-block;
 	border-radius: 40px;
 	margin-top: .5em;
