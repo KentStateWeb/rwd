@@ -70,7 +70,7 @@ main ul {
 
 main ol li {
 	margin-bottom: .75em;
-	font-size: 1rem;
+	font-size: 1.1rem;
 }
 
 table {
@@ -120,7 +120,7 @@ main ul li {
 	padding-left: 1em;
 	padding-left: 1em;
     text-indent: -1em;
-    font-size: 1em;
+    font-size: 1.1rem;
 }
 
 main ul li:before {
@@ -426,7 +426,7 @@ main {
 
 p.introduction {
 	font-family: "nimbus-sans";
-	font-size: 1.3em;
+	font-size: 1.2em;
 	margin-top: 0;
 	line-height: 1.7;
 }
@@ -519,7 +519,7 @@ aside img {
 }
 
 main {
-	padding: 0 12em;
+	padding: 0 10em;
 	max-width: 1500px;
 	margin: 0 auto;
 }
@@ -535,7 +535,11 @@ main {
 }
 
 .main-content-area-full {
-	padding: 0 10%;
+	padding: 0 15%;
+}
+
+.main-content-area-full p {
+	font-size: 1.2em;
 }
 
 .instructor-aside {
@@ -579,6 +583,12 @@ aside {
 	line-height: 1.3;
 	font-family: "nimbus-sans";
 	float: left;
+
+}
+@media screen and (min-width: 600px) {
+	.tagline p {
+		margin-bottom: .25em;
+	}
 }
 
 @media screen and (min-width: 800px) {
@@ -896,7 +906,7 @@ footer img {
 	color: white;
 	font-family: "proxima-nova-soft";
 	font-size: .9em;
-	padding: 1em 1.25em;
+	padding: 1rem 1.25rem;
 	display: inline-block;
 	border-radius: 40px;
 	margin-top: .5em;
@@ -907,14 +917,14 @@ footer img {
 
 @media screen and (min-width: 600px) {
 	.button {
-		font-size: 1.1em;
+		font-size: 1.1rem;
 	}
 }
 
 .button.small {
 	background-color: rgb(240,99,116);
-	font-size: .9em;
-	padding: 1em 1.2em;
+	font-size: .9rem;
+	padding: 1rem 1.2rem;
 	border-bottom: 3px solid #DE5667;
 }
 
