@@ -2,3 +2,7 @@
 _site/
 .sass-cache/
 _groups/assets/.DS_Store
+
+*.codekit
+
+*.codekit
