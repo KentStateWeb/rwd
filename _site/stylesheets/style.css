@@ -486,6 +486,10 @@ aside img {
 	margin: 0 auto;
 }
 
+aside section {
+	margin-bottom: 2em;
+}
+
 @media screen and (min-width: 600px) {
 	aside img {
 		float: left;
