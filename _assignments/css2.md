@@ -5,6 +5,7 @@ type: "mini"
 points: 5
 layout: assignment
 date: 2015-10-27 12:00:00
+status: assignment-completed
 ---
 
 You're happy with the content on your Welcome Weekend website (that you made in HTML 2).  It's time to add some visual styles to the website using CSS.
