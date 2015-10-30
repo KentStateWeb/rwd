@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2015-11-03 12:00:00
+date: 2015-11-10 12:00:00
 ---
 
 We're returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it's time to make sure the website uses space efficiently while at the same time displaying well on all screen sizes.  
