@@ -53,7 +53,7 @@ We're now running a Jekyll site, but we aren't benefiting from Jekyll yet.
 8.  Open your site back up in your web browser at http://localhost:4000 and navigate to your templates.  You'll see that all three pages display as expected with the same header and footer.  The difference now is that the header/footer is shared.  Try making a change to the header under the "_includes" folder.  You'll notice that the change is reflected automatically on all three templates!
 9. Move your stylesheet.css file into the root folder calledd "style" (it should have been created automatically by Jekyll).  We're going to be referencing this file from different places, so it's best that it's in the root directory.
 10. Finally, in your includes/footer file, change the reference to your stylesheet to be ../style/style.css (we're going up one level since we're in the templates folder.).  Make sure your stylesheet link hasn't broken!
-9. Sync your files back up to GitHub.
+11. Sync your files back up to GitHub.
 
 ### Default Layout Template
 

@@ -17,13 +17,13 @@ Pattern Libraries can be very simple or very complex (see MailChimp).  They may 
 
 It's helpful to view our site both as a whole and also via its atomic components/patterns (as we learned when studying Brad Frost's Atomic Design methodology).  The components that make up your site can be repeated across many different templates for consistency.  A component might be as simple as a heading, or as complex as a header or primary navigation.
 
-1.  Identify 10 common patterns that make up your website.  These could be generic patterns, like headers, headings, paragraphs, lists, or patterns that are specific to your website, like product description, shopping cart, etc.
+1.  Identify 5 common patterns that make up your website.  These could be generic patterns, like headers, headings, paragraphs, lists, or patterns that are specific to your website, like product description, shopping cart, etc.
 
 2.  Create a new directory in your repository and call it "patterns".  Create a new index.html in the patterns folder.  Add in your header/footer by using Jekyll frontmatter.
 
 3  Add a heading titled Pattern Library.
 
-4.  Copy the code for your 10 patterns onto your pattern library, each separated with a heading.
+4.  Copy the code for your 5 patterns onto your pattern library, each separated with a heading.
 
 5.  Under typography, document the fonts used on your website.
 
@@ -43,6 +43,6 @@ You'll be submitting your pattern library via your GitHub repository.
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4-5**: Your pattern library uses existing components from your templates (at least 10) and they are adequately demonstrated on a single page.  You've also documented the colors and fonts that you're using on your site.  Finally, you've submitted the pattern library according to directions and its using Jekyll templates, so that you're not repeating code.
+* **4-5**: Your pattern library uses existing components from your templates (at least 5) and they are adequately demonstrated on a single page.  You've also documented the colors and fonts that you're using on your site.  Finally, you've submitted the pattern library according to directions and its using Jekyll templates, so that you're not repeating code.
 * **2-3**: You're missing some core components from your website.  You may have forgotten to document colors or typography.  You've repeated some code that could have been dynamically inserted via Jekyll.
 * **0-1**: Your pattern library poorly demonstrates the components used in your website.  HTML code may not be formatted correctly. You may not be using Jekyll to drive your header/footer.
