@@ -4,7 +4,7 @@ title: Week 11 Preview - Performance and Advanced Web Tools
 category: blog
 ---
 
-In the next class, we'll talk about advanced web tools, like preprocessors, static site generators and JavaScript/JQuery, and how these can be integrated while keeping performance in mind.
+In the next class, we'll talk about advanced web tools, like preprocessors, static site generators and JavaScript/JQuery and how these can be integrated while keeping performance in mind.
 
 In the last class, we:
 
