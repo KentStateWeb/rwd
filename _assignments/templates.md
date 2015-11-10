@@ -34,9 +34,10 @@ First, we need to setup Jekyll, a popular static website generator.  We'll do th
 1.  Open terminal.  "Sudo gem install bundler".
 2.  Create a new file in your project repository called "Gemfile" - there is no file extension.
 3.  Inside Gemfile, add the following line: gem 'github-pages'
-4.  Back in the terminal, run "bundle install"
-5.  You're ready to run Jekyll.  In terminal, run "bundle exec jekyll serve".
-6.  In your browser, go to http://localhost:4000 .  You'll see your site, just as you expected.
+4.  Change directories in Terminal by typing "cd (YourDirectoryName)"
+5.  Back in the terminal, run "bundle install"
+6.  You're ready to run Jekyll.  In terminal, run "bundle exec jekyll serve".
+7.  In your browser, go to http://localhost:4000 .  You'll see your site, just as you expected.
 
 ## Make Your Templates Dynamic
 
