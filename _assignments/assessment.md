@@ -17,7 +17,7 @@ Group Name:
 
 ### Partner and Project Evaluation Questions
 
-Give me some feedback about your partner and how you worked together.  Your answers will NOT be shared with your partner - only me.
+Give me some feedback about your partner(s) and how you worked together.  Your answers will NOT be shared with your partner(s) - only me.
 
 1.  Rate how well you and your partner collaborated together on the semester project. (1 - 5).
 
