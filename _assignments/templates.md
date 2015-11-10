@@ -25,7 +25,9 @@ You may find that you need to create a few page layout mockups in Sketch in orde
 
 Your templates should be fully responsive and use appropriate media queries and breakpoints.
 
-## Install Jekyll
+If you are using a single-scroll template, you should include three distinct sections within your page.
+
+<!--## Install Jekyll
 
 We've created three prototype files, but there are some problems.  What happens if we change the content of a global element like the header or footer?  Right now if we make a change, we have to change it in all three documents.  By setting these global elements up in a template, we can make changes just once and have them automatically update everywhere.
 
@@ -62,13 +64,13 @@ We're now running a Jekyll site, but we aren't benefiting from Jekyll yet.
 
 ### Default Frontmatter
 
-<script src="https://gist.github.com/challahan/ffac402d02474ab67ade.js"></script>
+<script src="https://gist.github.com/challahan/ffac402d02474ab67ade.js"></script> -->
 
 ## How to Turn In the Assignment
 
 You'll be submitting your templates via your GitHub repository.
 
-1.  Make sure your three templates are placed in the "templates" folder and that they are actively using Jekyll.
+1.  Make sure your three templates are placed in the "templates" folder
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Templates.
 3.  Add a link to your three templates under the Templates section.  Name each link with the title of the template, for example "Product Page Template".
 4.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link your three templates via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
@@ -77,6 +79,6 @@ You'll be submitting your templates via your GitHub repository.
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **8-10**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  You'll successfully installed and are using Jekyll for any global or shared elements, such as the header and footer, so that content isn't repeated.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS.
-* **4-7**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  Jekyll may have been installed, but you're still repeating some shared components like the header and footer.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens.  There are also a few HTML and CSS errors.
-* **0 - 3**: The design system for your templates is week and templates don't follow the structure of your content.  HTML and CSS structure is weak and doesn't follow what you've learned in class.  Jekyll wasn't installed correctly or the assignment instructions weren't followed fully.  A lot more work is required to make the templates ready for client review.
+* **8-10**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS.
+* **4-7**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens.  There are also a few HTML and CSS errors.
+* **0 - 3**: The design system for your templates is week and templates don't follow the structure of your content.  HTML and CSS structure is weak and doesn't follow what you've learned in class.   A lot more work is required to make the templates ready for client review.
