@@ -27,15 +27,39 @@
 			"file": "_classes/6.md",
 			"settings":
 			{
-				"buffer_size": 1501,
+				"buffer_size": 1595,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_assignments/sketching.md",
+			"file": "_classes/14.md",
 			"settings":
 			{
-				"buffer_size": 3352,
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_classes/12.md",
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_classes/13.md",
+			"settings":
+			{
+				"buffer_size": 1357,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_classes/11.md",
+			"settings":
+			{
+				"buffer_size": 1377,
 				"line_ending": "Unix"
 			}
 		},
@@ -142,19 +166,14 @@
 	"expanded_folders":
 	[
 		"/Users/challahan/Documents/Repositories/rwd",
-		"/Users/challahan/Documents/Repositories/rwd/_assignments",
 		"/Users/challahan/Documents/Repositories/rwd/_classes",
-		"/Users/challahan/Documents/Repositories/rwd/_groups",
-		"/Users/challahan/Documents/Repositories/rwd/_includes",
-		"/Users/challahan/Documents/Repositories/rwd/_posts",
-		"/Users/challahan/Documents/Repositories/rwd/about",
-		"/Users/challahan/Documents/Repositories/rwd/class",
 		"/Users/challahan/Documents/Repositories/rwd/class/assignments",
 		"/Users/challahan/Documents/Repositories/rwd/class/syllabus",
 		"/Users/challahan/Documents/Repositories/rwd/stylesheets"
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/sketching.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group3.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group4.md",
@@ -302,7 +321,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -334,7 +353,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -366,7 +385,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -375,15 +394,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1501,
+						"buffer_size": 1595,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1200,
-								1200
+								0,
+								0
 							]
 						],
 						"settings":
@@ -398,31 +417,62 @@
 						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "_assignments/sketching.md",
+					"file": "_classes/14.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3352,
+						"buffer_size": 1261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
+								895,
+								895
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "f71ce1d1",
+							"buffer_scroll_name": "7b7c2392",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 47.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_classes/12.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "cd405066",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -430,11 +480,74 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_classes/13.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "f5ed38ba",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_classes/11.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "ae621ebc",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 260.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 7,
 					"file": "_classes/5.md",
 					"semi_transient": false,
 					"settings":
@@ -461,11 +574,11 @@
 						"translation.y": 65.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 8,
 					"file": "_classes/4.md",
 					"semi_transient": false,
 					"settings":
@@ -492,7 +605,7 @@
 						"translation.y": 234.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]

@@ -27,15 +27,15 @@
 			"file": "_classes/6.md",
 			"settings":
 			{
-				"buffer_size": 1501,
+				"buffer_size": 1595,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_assignments/sketching.md",
+			"file": "_classes/14.md",
 			"settings":
 			{
-				"buffer_size": 3352,
+				"buffer_size": 1261,
 				"line_ending": "Unix"
 			}
 		},
@@ -155,6 +155,7 @@
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/sketching.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group3.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group4.md",
@@ -375,15 +376,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1501,
+						"buffer_size": 1595,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1200,
-								1200
+								0,
+								0
 							]
 						],
 						"settings":
@@ -403,31 +404,31 @@
 				},
 				{
 					"buffer": 3,
-					"file": "_assignments/sketching.md",
+					"file": "_classes/14.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3352,
+						"buffer_size": 1261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
+								895,
+								895
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "f71ce1d1",
+							"buffer_scroll_name": "7b7c2392",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 47.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
