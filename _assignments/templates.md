@@ -31,7 +31,7 @@ We've created three prototype files, but there are some problems.  What happens 
 
 First, we need to setup Jekyll, a popular static website generator.  We'll do this together in class.
 
-1.  Open terminal.  "Sudo gem install bunder".
+1.  Open terminal.  "Sudo gem install bundler".
 2.  Create a new file in your project repository called "Gemfile" - there is no file extension.
 3.  Inside Gemfile, add the following line: gem 'github-pages'
 4.  Back in the terminal, run "bundle install"
