@@ -290,6 +290,7 @@ h4 {
 .blog-post-summary p {
 	margin-bottom: 0;
 	padding-bottom: 0;
+	line-height: 1.4;
 }
 
 .blog-post-blurb {
@@ -316,7 +317,7 @@ h4 {
 }
 
 .blog-post h4 {
-	font-size: 1.1em;
+	font-size: 1em;
 }
 
 
