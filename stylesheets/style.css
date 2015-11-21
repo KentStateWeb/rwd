@@ -355,6 +355,40 @@ a.svg:after {
   left:0;
 }
 
+.rwd-svg .shape {
+	transition: .3s all ease-in-out;
+}
+
+.svg:hover .rwd-svg .mark path {
+	fill: #4f4c4d;
+}
+
+.rwd-svg .mark {
+	transform: scale(1.0);
+	transition: .3s all ease-in-out;
+}
+
+.svg .rwd-svg .mark {
+	animation-fill-mode: backwards;
+	transform: translate(0,0) scale(1.0);
+}
+
+.svg:hover .rwd-svg .mark {
+  animation: move .8s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+	transition: 1s all linear;
+}
+
+@keyframes move {
+	0% {
+		transform: translate(0,0) scale(1.0);
+	}
+	100% {
+		transform: translate(13%,19%) scale(.8);
+	}
+}
+
 @media screen and (min-width:600px) {
 
 	header .svg {
