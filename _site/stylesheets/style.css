@@ -3,7 +3,7 @@
 /* Set body type and consistent margins/padding */
 
 body {
-	font-family: "proxima-nova-soft";
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 	padding: 0;
 	margin: 0;
 }
@@ -28,8 +28,14 @@ body {
 
 p, ul, ol, li, table, dl {
 	font-size: 1.1em;
-	line-height: 1.6;
+	line-height: 1.4;
 	color: #606060;
+}
+
+@media screen and (min-width: 800px) {
+	p, ul, ol, li, table, dl {
+		line-height: 1.6;
+	}
 }
 
 hr {
@@ -151,10 +157,16 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 3em;
+	font-size: 2.5em;
 	margin-bottom: .5em;
 	margin-top: .5em;
 	color: rgb(26,117,138);
+}
+
+@media screen and (min-width: 800px) {
+	h1 {
+		font-size: 3em;
+	}
 }
 
 h2 {
@@ -206,7 +218,7 @@ aside ul {
 
 h4 {
 	font-size: 1.2em;
-	font-family: "proxima-nova-soft";
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 	margin-bottom: 0;
 }
 
@@ -373,11 +385,27 @@ a.svg:after {
 	transform: translate(0,0) scale(1.0);
 }
 
+.svg .code-left, .svg .code-right {
+	animation-fill-mode: backwards;
+	transform: translate(0,0);
+}
+
 .svg:hover .rwd-svg .mark {
-  animation: move .8s ease;
+  animation: move .5s ease;
 	animation-play-state: running; 
 	animation-fill-mode: forwards;
-	transition: 1s all linear;
+}
+
+.svg:hover .code-left {
+	animation: move-left .3s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+.svg:hover .code-right {
+	animation: move-right .3s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
 }
 
 @keyframes move {
@@ -386,6 +414,24 @@ a.svg:after {
 	}
 	100% {
 		transform: translate(13%,19%) scale(.8);
+	}
+}
+
+@keyframes move-left {
+	0% {
+		transform: translate(0,0);
+	}
+	100% {
+		transform: translate(-25%, 0);
+	}
+}
+
+@keyframes move-right {
+	0% {
+		transform: translate(0,0);
+	}
+	100% {
+		transform: translate(25%, 0);
 	}
 }
 
@@ -422,7 +468,7 @@ a.svg:after {
 	header .svg {
 		max-width: 265px;
 		margin-bottom: 1.25em;
-		margin-top: .35em;
+		margin-top: .7em;
 		width: 50%;
 		padding-top: 0;
 	}
@@ -460,15 +506,16 @@ main {
 }
 
 p.introduction {
-	font-family: "nimbus-sans";
+	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
 	margin-top: 0;
-	line-height: 1.7;
+	line-height: 1.5;
 }
 
 @media screen and (min-width:800px) {
 	p.introduction {
 		font-size: 1.4em;
+		line-height: 1.7;
 	}
 }
 
@@ -620,7 +667,7 @@ aside {
 	font-size: 2.2em;
 	margin-top: 0;
 	line-height: 1.3;
-	font-family: "nimbus-sans";
+	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
 	float: left;
 	text-transform: none;
 	color: #606060;
@@ -631,6 +678,7 @@ aside {
 @media screen and (min-width: 600px) {
 	.tagline h1 {
 		margin-bottom: .25em;
+		font-size: 2.5em;
 	}
 }
 
@@ -664,7 +712,7 @@ aside {
 
 nav {
 	display: block;
-	font-family: "proxima-nova-soft";
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 	padding: .25em 1em;
 	margin: 0 auto;
 	margin-top: 0em;
@@ -872,7 +920,7 @@ footer img {
 	padding-right: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft"
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 }
 
 .footer-heading:after {
@@ -881,7 +929,7 @@ footer img {
 	padding-left: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft"
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 }
 
 .footer-supplemental {
@@ -947,7 +995,7 @@ footer img {
 	text-decoration: none;
 	background-color: rgb(26,117,138);
 	color: white;
-	font-family: "proxima-nova-soft";
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 	font-size: .9em;
 	padding: 1.25rem 1.5rem;
 	display: inline-block;
@@ -958,7 +1006,7 @@ footer img {
 	transition: .3s background-color ease-in-out;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
 	.button {
 		font-size: 1.1rem;
 	}
@@ -1030,7 +1078,7 @@ footer img {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	font-family: "proxima-nova-soft";
+	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
 	padding: .75em;
 	border-radius: 5px;
 	box-shadow: 4px 4px 0px rgb(240,99,116);

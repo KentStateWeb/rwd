@@ -27,7 +27,7 @@
 			"file": "_classes/6.md",
 			"settings":
 			{
-				"buffer_size": 1595,
+				"buffer_size": 1695,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +35,7 @@
 			"file": "_classes/14.md",
 			"settings":
 			{
-				"buffer_size": 1261,
+				"buffer_size": 1192,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,23 @@
 			"file": "_classes/12.md",
 			"settings":
 			{
-				"buffer_size": 1459,
+				"buffer_size": 1652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 6312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 16351,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +67,7 @@
 			"file": "_classes/13.md",
 			"settings":
 			{
-				"buffer_size": 1357,
+				"buffer_size": 1225,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,15 +75,7 @@
 			"file": "_assignments/templates.md",
 			"settings":
 			{
-				"buffer_size": 6744,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 232,
+				"buffer_size": 6466,
 				"line_ending": "Unix"
 			}
 		},
@@ -176,6 +184,8 @@
 		"/Users/challahan/Documents/Repositories/rwd",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments",
 		"/Users/challahan/Documents/Repositories/rwd/_classes",
+		"/Users/challahan/Documents/Repositories/rwd/_includes",
+		"/Users/challahan/Documents/Repositories/rwd/_layouts",
 		"/Users/challahan/Documents/Repositories/rwd/stylesheets"
 	],
 	"file_history":
@@ -278,6 +288,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rwd",
+			"rwd-svg",
+			"rwd-logo",
 			"before",
 			"blog-post-date",
 			"aside img",
@@ -328,7 +341,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -353,6 +366,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "0ee781dc",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -360,7 +374,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -385,6 +399,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "96ed8ef9",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -392,7 +407,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -401,7 +416,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1595,
+						"buffer_size": 1695,
 						"regions":
 						{
 						},
@@ -417,6 +432,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "9711f558",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -424,7 +440,7 @@
 						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -433,15 +449,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1261,
+						"buffer_size": 1192,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								895,
-								895
+								0,
+								0
 							]
 						],
 						"settings":
@@ -449,6 +465,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "7b7c2392",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -456,7 +473,7 @@
 						"translation.y": 47.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -465,53 +482,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1459,
+						"buffer_size": 1652,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1296,
-								1296
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "cd405066",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_classes/13.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1357,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								654,
-								654
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "f5ed38ba",
+							"buffer_scroll_name": "cd405066",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -523,20 +510,118 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_assignments/templates.md",
+					"buffer": 5,
+					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6744,
+						"buffer_size": 6312,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2466,
-								2466
+								2295,
+								2295
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "html (jekyll)",
+							"buffer_scroll_name": "3108b363",
+							"spell_check": false,
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "stylesheets/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5670,
+								5670
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "css3",
+							"buffer_scroll_name": "decbc61f",
+							"spell_check": false,
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_classes/13.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bs_sintax": "markdownlight",
+							"buffer_scroll_name": "f5ed38ba",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_assignments/templates.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -544,48 +629,19 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "cafe266a",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 1373.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "Gemfile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 232,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								232,
-								232
-							]
-						],
-						"settings":
-						{
-							"bs_sintax": "ruby.sublime-syntax",
-							"buffer_scroll_name": "6ce4a441",
-							"spell_check": false,
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "_classes/5.md",
 					"semi_transient": false,
 					"settings":
@@ -605,6 +661,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "52aafbcc",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -612,11 +669,11 @@
 						"translation.y": 65.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "_classes/4.md",
 					"semi_transient": false,
 					"settings":
@@ -636,6 +693,7 @@
 						{
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "e5752472",
+							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
 							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
@@ -643,7 +701,7 @@
 						"translation.y": 234.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
