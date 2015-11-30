@@ -80,13 +80,14 @@
     <p>Identify 5 common patterns that make up your website.  These could be generic patterns, like headers, headings, paragraphs, lists, or patterns that are specific to your website, like product description, shopping cart, etc.</p>
   </li>
   <li>
-    <p>Create a new directory in your repository and call it “patterns”.  Create a new index.html in the patterns folder.  Add in your header/footer by using Jekyll frontmatter.</p>
+    <p>Create a new directory in your repository and call it “patterns”.  Create a new index.html in the patterns folder.  You can use the HTML code below to fill in the default HTML header code.</p>
   </li>
-</ol>
-
-<p>3  Add a heading titled Pattern Library.</p>
-
-<ol>
+  <li>
+    <p>You could create a separate styles.css.  However, since you already have a working stylesheet in your templates folder, you can instead change the link tag to reference the existing stylesheet (in the templates folder).  Hint: it will probably be: link href=”../templates/style.css” rel=”stylesheet” type=”text/css” media=”screen”</p>
+  </li>
+  <li>
+    <p>Add a heading titled Pattern Library.</p>
+  </li>
   <li>
     <p>Copy the code for your 5 patterns onto your pattern library, each separated with a heading.</p>
   </li>
@@ -94,16 +95,24 @@
     <p>Under typography, document the fonts used on your website.</p>
   </li>
   <li>
-    <p>Under colors, document the color values (hexcodes or RGB values) used on your website.  You might display these in the actual colors.</p>
+    <p>Under colors, document the colors used on your website.  You might display these in the actual colors.</p>
   </li>
 </ol>
+
+<h3 id="view-an-example">View an Example</h3>
+
+<p>You can <a href="http://rwdkent.com/patterns/">view the pattern library for the RWD Kent State site</a> to see an example.</p>
+
+<h3 id="adding-html--stylesheet">Adding HTML + Stylesheet</h3>
+
+<script src="https://gist.github.com/challahan/08eddc8da7152f483f99.js"></script>
 
 <h2 id="how-to-turn-in-the-assignment">How to Turn In the Assignment</h2>
 
 <p>You’ll be submitting your pattern library via your GitHub repository.</p>
 
 <ol>
-  <li>Make sure your pattern library is added to a folder named “patterns” and has the correct Jekyll frontmatter.</li>
+  <li>Make sure your pattern library is added to a folder named “patterns”</li>
   <li>On your root index.html file, which is the Project Hub, add an H2 with Date: Pattern Library.</li>
   <li>Add a link to your pattern library under the Pattern Library section.</li>
   <li>After you’ve commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to your pattern library.  Note: Don’t link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.</li>
@@ -114,9 +123,9 @@
 <p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
 
 <ul>
-  <li><strong>4-5</strong>: Your pattern library uses existing components from your templates (at least 5) and they are adequately demonstrated on a single page.  You’ve also documented the colors and fonts that you’re using on your site.  Finally, you’ve submitted the pattern library according to directions and its using Jekyll templates, so that you’re not repeating code.</li>
-  <li><strong>2-3</strong>: You’re missing some core components from your website.  You may have forgotten to document colors or typography.  You’ve repeated some code that could have been dynamically inserted via Jekyll.</li>
-  <li><strong>0-1</strong>: Your pattern library poorly demonstrates the components used in your website.  HTML code may not be formatted correctly. You may not be using Jekyll to drive your header/footer.</li>
+  <li><strong>4-5</strong>: Your pattern library uses existing components from your templates (at least 5) and they are adequately demonstrated on a single page.  You’ve also documented the colors and fonts that you’re using on your site.  Finally, you’ve submitted the pattern library according to directions.</li>
+  <li><strong>2-3</strong>: You’re missing some core components from your website.  You may have forgotten to document colors or typography. </li>
+  <li><strong>0-1</strong>: Your pattern library poorly demonstrates the components used in your website.  HTML code may not be formatted correctly. </li>
 </ul>
 
 	<a class="button small" href="/class/assignments">Return to Assignments</a>

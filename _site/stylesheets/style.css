@@ -761,6 +761,10 @@ nav ul li {
 	margin-bottom: 0;
 }
 
+nav ul li:before {
+	content: none;
+}
+
 
 
 nav ul li a.active {
@@ -1178,4 +1182,22 @@ blockquote p {
 .form-embed iframe {
     width: 100%;
     height: 1000px;
+}
+
+/* Color Swatches */
+
+.swatch {
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  margin: 1em 1.5em;
+}
+.swatch-green {
+  background-color: rgb(26,117,138);
+}
+.swatch-pink {
+  background-color: rgb(240,99,116);
+}
+.swatch-darkgray {
+  background-color: #393839;
 }
