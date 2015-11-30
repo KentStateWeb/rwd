@@ -22,6 +22,10 @@ Here's what you'll review with the class/client during your review session.  Eac
 5.  Discuss any next steps.  What would you have done with more time?  What still remains to be decided?
 6.  Ask for feedback and questions from the class/"client".  Note - I may ask some questions during your review, just like a client might do.
 
+## View an Example
+
+You can see an [example of a project timeline/hub for the RWD website](http://rwdkent.com/timeline).
+
 ## Class Evaluations
 
 The class is going to help give you feedback on your prototypes and pattern libraries.  As you show your project, the class will respond to a survey with the following items:
