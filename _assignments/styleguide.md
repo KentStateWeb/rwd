@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2015-12-08 12:00:00
+date: 2015-12-15 12:00:00
 ---
 
 You've been developing your sites' templates using a variety of components that make up the website as a whole.  Lets take a step back and document the primary elements and styles used in your website.  

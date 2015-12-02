@@ -4,7 +4,7 @@ description: "We're now on our way to making a real, functioning website.  "
 type: "project"
 points: 10
 layout: assignment
-date: 2015-12-08 11:00:00
+date: 2015-12-15 11:00:00
 ---
 
 We're now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.

@@ -4,12 +4,12 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2015-12-15 12:00:00
+date: 2015-12-17 12:00:00
 ---
 
 Since this project was a collaborative assignment, I want to hear from each group member about the work ethic and participation of his or her partner.  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
 
-The survey must be completed by the date of finals, December 15, 2015 at midnight.
+The survey must be completed by the date of finals, December 18, 2015 @ 5:00 p.m.
 
 ## Survey Questions
 

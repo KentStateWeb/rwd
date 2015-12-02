@@ -33,14 +33,13 @@ title: Schedule
 	{% endif %}
 {% endfor %}
 
+<h2>Final Exam - Tuesday, Dec 15 - 5:30 - 8:00 p.m.</h2>
+{% for classes in site.classes %}
+	{% if classes.part == '5' %}
+	  {% include class.html %}
+	{% endif %}
+{% endfor %}
+
 <hr>
-<h2>Final Exam: Tuesday, Dec 15 - 5:45 - 8:00 p.m.</h2>
-
-<p>You will not have a formal final exam.  Your final prototype and pattern library will act as your final.  We'll continue presentations and critiques during the final exam period, if needed.</p>
-
-<dl>
-	<dt>Due Today</dt>
-	<dd><a href="../assignments/assessment">Self & Group Assessment</a></dd>
-</dl>
 
 <a href="/class" class="button small">Return to Class</a>
