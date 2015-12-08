@@ -4,7 +4,7 @@ title: Week 15 Preview - Final Group Working Sessions
 category: blog
 ---
 
-Tonight is our last class before your final websites and pattern libraries are due!
+Tonight is our last class before your final prototypes and pattern libraries are due!
 
 We decided last week that we'll be modifying the due date for the final assignments to **Dec. 15**.  During the <a href="http://rwdkent.com/class/assignments/timeline-presentation/">review sessions</a> next week, you'll show the class the process of how you arrived at your final prototypes and get critiques from the class.
 
