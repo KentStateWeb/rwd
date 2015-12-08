@@ -79,6 +79,6 @@ You'll be submitting your templates via your GitHub repository.
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **8-10**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS.
-* **4-7**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens.  There are also a few HTML and CSS errors.
+* **8-10**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS. Your website renders correctly on popular phones, tablets and desktop computers.
+* **4-7**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens or devices.  There are also a few HTML and CSS errors.
 * **0 - 3**: The design system for your templates is week and templates don't follow the structure of your content.  HTML and CSS structure is weak and doesn't follow what you've learned in class.   A lot more work is required to make the templates ready for client review.
