@@ -17,7 +17,7 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## Tonight's Class
 
-In tonight's class, we'll be going over a few final points on Responsive Wb Design, and then we'll be spending the majority of the class working on the group projects.  I'll also review the process you should follow for next week's sessions.
+In tonight's class, we'll be going over a few final points on Responsive Web Design, and then we'll be spending the majority of the class working on the group projects.  I'll also review the process you should follow for next week's sessions.
 
 Your assignments are due on Tuesday, Dec. 15, which is also the date of the final class (starting at 5:30, our normal time).  You should be working outside of class on your responsive <a href="http://rwdkent.com/class/assignments/templates">HTML/CSS Templates</a>, <a href="http://rwdkent.com/class/assignments/styleguide">Pattern Library</a> and <a href="http://rwdkent.com/class/assignments/timeline-presentation">Project Timeline/Review Presentation</a>.
 
