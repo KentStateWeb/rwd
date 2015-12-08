@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 15 Preview - Final Group Working Session
+title: Week 15 Preview - Final Group Working Sessions
 category: blog
 ---
 
