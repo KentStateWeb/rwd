@@ -4,46 +4,62 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2015-12-17 12:00:00
+date: 2015-12-18 12:00:00
 ---
 
 Since this project was a collaborative assignment, I want to hear from each group member about the work ethic and participation of his or her partner.  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
 
-The survey must be completed by the date of finals, December 18, 2015 @ 5:00 p.m.
+The survey must be completed by Friday of finals week, December 18, 2015 @ 5:00 p.m.
+
+<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_dgpIHaDDpUSbJg9">Take the Survey</a>
 
 ## Survey Questions
 
-Group Name:
+My name is:
+
+I worked on the following team:
 
 ### Partner and Project Evaluation Questions
 
 Give me some feedback about your partner(s) and how you worked together.  Your answers will NOT be shared with your partner(s) - only me.
 
-1.  Rate how well you and your partner collaborated together on the semester project. (1 - 5).
+1.  My team member(s) and I collaborated successfully on this project. (1 - 5).
 
-2.  Rate the quality of your partner's contribution to the project assignments. (1 - 5).
+2.  Overall, the project was a success. (1 - 5).
 
-3.  Rate how well you think the project turned out (1 - 5).
+3.  All team members contributed about equally to the final product.(1 - 5).
 
-4.  Give me some feedback on how you and your partner worked together.  Is there anything I should know when determining your grades?  (Open Ended)
+4.  Rate the performance of each person in your group on the following scale. This is a comprehensive metric that can include a number of elements, such as quality of work produced, attendance at team meetings, ability to meet deadlines, carrying out assigned responsibilities, taking leadership roles, and so forth.   It is not a rating of their design or development expertise. (1 - 5)
 
-5.  Was your project successful?  Give me some reasons why or why not (Open Ended).
+5.  Give me some feedback on how you and your partner(s) worked together. Is there anything I should know when determining your grades? (Open-Ended)
+
+6.  Was your project a success?  Give some reasons why or why not. (Open-Ended)
+
+7.  OPTIONAL: What are some ways (if any) that the instructor could motivate teams to work together more effectively? (Open-Ended)
 
 
 ### Self Evaluation Questions
 
 Now it's time to reflect on your performance during the project.  
 
-1.  Rate how well you felt you performed on and contributed to the project ( 1- 5).
+1.  How would you rate your own performance throughout the group semester project? ( 1- 5).
 
-2.  What are some things that you did well? (Open Ended)
+2.  What are some things that you did well? (Open-Ended)
 
-3.  What are some things that you could have done better? (Open Ended)
+3.  What are some things that you could have done better? (Open-Ended)
+
+4.  If given the choice, would you have chosen to work on the semester project individually over working in a group? (Open-Ended)
+
+5.  If given the choice, would the chance to have chosen your own partner(s) resulted in a better experience during the semester project? (Open-Ended)
+
+6.  OPTIONAL: Do you have any comments or feedback about the Fall 2015 Responsive Web Design course in general?  Please note that this response will not be confidential - your response and name will be shared with me, the instructor. (Open-Ended)
 
 
 ## How to Turn In the Assignment
 
-There is nothing to submit for this assignment other than the above survey.
+Complete the survey online before the due date.  
+
+<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_dgpIHaDDpUSbJg9">Take the Survey</a>
 
 ## Rubric
 
