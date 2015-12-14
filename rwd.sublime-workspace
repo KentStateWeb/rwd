@@ -51,7 +51,7 @@
 			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 6312,
+				"buffer_size": 6333,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +59,7 @@
 			"file": "stylesheets/style.css",
 			"settings":
 			{
-				"buffer_size": 16351,
+				"buffer_size": 17364,
 				"line_ending": "Unix"
 			}
 		},
@@ -103,10 +103,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 28.0,
+		"height": 182.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
 			[
 				"jekyll",
 				"Build With: Jekyll"
@@ -288,6 +292,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font-family",
+			"h1",
+			"button",
 			"rwd",
 			"rwd-svg",
 			"rwd-logo",
@@ -515,15 +522,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6312,
+						"buffer_size": 6333,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2295,
-								2295
+								3313,
+								3313
 							]
 						],
 						"settings":
@@ -536,7 +543,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1530.0,
+						"translation.y": 1927.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -548,15 +555,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16351,
+						"buffer_size": 17364,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5670,
-								5670
+								79,
+								90
 							]
 						],
 						"settings":
@@ -568,7 +575,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 10198.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
