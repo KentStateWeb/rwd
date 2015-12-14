@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finals Week Preview - Prototype Sharing Sessions
+title: Finals Week - Prototype Sharing Sessions
 category: blog
 ---
 
