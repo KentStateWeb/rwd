@@ -6,7 +6,7 @@ points: 5
 layout: assignment
 date: 2015-9-08 12:00:00
 status: assignment-completed
-
+semester: spring-2016
 ---
 
 Part of understanding responsive web design is understanding the competitive landscape, including how they've implemented responsive solutions, their processes and how they measured their success. It's also important that future web designers are able to talk about responsive web design and demonstrate their process. For the RWD Case Study assignment, you'll be assigned one of the following responsive website redesigns.  Many web designers are open about their processes and have documented them in an article or podcast.  After doing some research, you'll put together a **5 minute** summary (no slides) for the class that covers the following:

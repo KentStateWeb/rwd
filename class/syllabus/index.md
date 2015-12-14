@@ -3,14 +3,14 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-##CCI Special Topics Course 40095-001
+##CCI Special Topics Course 40095-002 (Spring 2016)
 
 * **Instructor:** Christopher Hallahan
-* **Email**: challahan@ideabasekent.com
-* **Office**: IdeaBase (Downtown Kent)
-* **Term**: Fall 2015
+* **Email**: <a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a>
+* **Office**: <a href="http://www.ideabasekent.com">IdeaBase</a> (Downtown Kent)
+* **Term**: Spring 2016
 * **Day/Time**: Tuesdays, 5:30 - 8:15 p.m.
-* **Room**: IdeaBase, Downtown Kent
+* **Room**: <a href="http://www.ideabasekent.com">IdeaBase</a>, Downtown Kent
 
 ###About This Course
 Responsive web design isn’t just a technical solution for web design - it’s an entire process that brings multiple disciplines together to form one product that works across multiple devices.  The responsive design process includes user experience, content strategy, information architecture, visual design, development, usability testing and technical testing.  Students who will succeed in this field will be familiar with not just one, but all of these processes.
@@ -33,6 +33,7 @@ Just a few of the topics planned to be covered in the Responsive Web Design cour
 * Git and GitHub Version Control
 * Paired and Team Coding
 * Mobile-First Design
+* Style Tiles and Web Design Techniques
 
 ### Prerequisites
 Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and work with others from different backgrounds to solve complex problems.
@@ -73,19 +74,16 @@ Most importantly, by the end of this course, students will be able to:
 * Identify solutions to complex design/development problems and use online resources to expand knowledge of HTML/CSS processes.
 
 ### Course Textbook and Materials
-There are 3 required textbooks for the course.  One provides detailed examples and instructions for HTML/CSS, and the others provide more practical knowledge on web design topics:
+There are 2 required textbooks for the course.  One provides detailed examples and instructions for HTML/CSS, and the other provides more practical knowledge on web design topics:
 
 * *[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* by Jon Duckett, November 2011, Wiley. ($17.39 on Amazon)
-* *[Mobile-First Design](http://abookapart.com/products/mobile-first)* by Luke Wroblewski, October 2011, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
 * *[Responsive Web Design](http://abookapart.com/products/responsive-web-design)* by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
-
-You will receive 15% off your order of *Mobile-First Design* and *Responsive Web Design* if you order both books at once from [A Book Apart](www.abookapart.com).
 
 This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
 ### Class Structure
 
-This class will be held once a week and will have both a lecture/discussion and studio/lab component.  Students will be assigned readings from a variety disciplines, authors and topics, which will be discussed during the first half of class.   All students will pair with a student from a background different their own to work on hands-on examples on a computer in class each week, as well as a long-term project that will span the semester.  Short assignments will be given throughout the semester in order to master key topics.
+This class will be held once a week and will have both a lecture/discussion and studio/lab component.  Students will be assigned readings from a variety disciplines, authors and topics, which will be discussed during the first half of class.   All students will have the opportunity to pair with a student from a background different their own to work on hands-on examples on a computer in class each week, as well as a long-term project that will span the semester.  Short assignments will be given throughout the semester in order to master key topics.
 
 ###Preparing for Class
 Students are expected to come to class prepared.  This means:
@@ -103,14 +101,14 @@ Please see the [Detailed Course Schedule](/class/schedule) for specific dates, t
 ####Part 1: Principles of Responsive Web Design and HTML
 Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML + CSS elements and selectors in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section, and will refer to the HTML and CSS textbook frequently.
 
-####Part 2:  Content Strategy and Mobile-First Design
-Students will apply research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read Mobile-First Design by Luke Wroblewski as part of this section, and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.  
+####Part 2:  Content Strategy and Content/Mobile-First Design
+Students will apply research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read some selections from Mobile-First Design by Luke Wroblewski as part of this section, and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.  
 
 ####Part 3:  Design and Development with CSS
-In the third part, students will begin an iterative design process, where they’ll mock-up design components in digital styles through a program called Sketch and then turn those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study Atomic Design, a methodology developed by Brad Frost, as well as get an introduction to CSS preprocessing techniques using SASS.
+In the third part, students will begin an iterative design process, where they’ll mock-up design components in digital style tiles and then turn those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study Atomic Design, a methodology developed by Brad Frost.
 
 ####Part 4:  Prototyping, Testing and Style Guides
-In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
+In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
 
 ###Assignments
 Student learning will be assessed through three types of work: in-class participation, short assignments and a multi-stage small group project.  Due to the amount of group work in this course, students will also be evaluated by their peers.
@@ -130,7 +128,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'mini' %}  
+	{% if item.type == 'mini' and item.semester == 'spring-2016' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -159,7 +157,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'project' %}  
+	{% if item.type == 'project' and item.semester == 'spring-2016' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -185,6 +183,8 @@ We'll be covering many topics during class, as well as working in groups on exer
 Students who miss more than two classes without proper documnetation will receive a 0 for their class participation grade for the semester.
 
 If you miss class, you are still responsibile for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
+
+Some assignments, such as in-class presentations and testing, require attendance in order to receive full credit for the assignment.
 
 ###Late Submissions
 The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). 
@@ -214,13 +214,13 @@ Final letter grades will be assigned on the basis of the following table:
 ###Hardware & Software
 
 * Although a laptop is not required, if you have a laptop you are encouraged to bring it to class, as it may be helpful for following along in class.  You’ll also be viewing and testing your work on multiple devices, so phones and tablets are encouraged.
-* Computers will be provided for in-class work.  Students will also be permitted to work on these computers outside of class, when needed.
+* Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.
 * We will be using a variety of free and paid software programs and tools. 
 * Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.
-* Software programs and tools to be used in the course include: Sketch, GitHub, Git, SublimeText, web browsers and Google Drive.
+* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, Git, SublimeText, web browsers and Google Drive.
 
 ###Design Notebook
-You are expected to obtain a design notebook, or sketchbook, and bring it to class. You will use this to collect ideas, sketch out designs, and capture your design thoughts on paper. You can use something fancy (e.g., a Moleskine) or something cheap (e.g., a composition notebook). Whatever you choose, you are expected to have a design notebook, carry it with you throughout the term, and bring it to every class. I strongly recommend having a bound notebook, not loose pages. 
+You are expected to obtain a design notebook, or sketchbook, and bring it to class. You will use this to collect ideas, sketch out designs, and capture your design thoughts on paper. You can use something fancy (e.g., a Moleskine) or something cheap (e.g., a composition notebook). Whatever you choose, you are expected to have a design notebook, carry it with you throughout the term, and bring it to every class.
 
 ###Communicating with the Instructor
 

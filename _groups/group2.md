@@ -5,6 +5,7 @@ members: "Ryan G. and Sarah H."
 layout: group
 link: <a href="http://sarahholzer9.github.io/group2/">http://sarahholzer9.github.io/group2/</a>
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
+semester: spring-2016
 ---
 
 ## Goals

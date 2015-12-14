@@ -7,7 +7,9 @@ title: Groups & Projects
 
 <ul>
 {% for groups in site.groups %}
+	{% if groups.semester == 'fall-2015' %} 
 	  {% include groups.html %}
+	{% endif %}
 {% endfor %}
 </ul>
 

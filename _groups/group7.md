@@ -5,6 +5,7 @@ members: "Amber J., Ken S. and Janet W."
 layout: group
 link: <a href="http://amberj15.github.io/wta">http://amberj15.github.io/wta</a>
 description: "William Thomas & Associates: A small, but growing, accounting firm that has prided itself in serving its local clientele across many generations."
+semester: spring-2016
 ---
 
 ## Goals

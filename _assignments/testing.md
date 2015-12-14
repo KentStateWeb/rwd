@@ -6,6 +6,7 @@ points: 10
 layout: assignment
 date: 2015-11-24 12:00:00
 status: assignment-completed
+semester: spring-2016
 ---
 
 As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.

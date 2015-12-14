@@ -5,6 +5,7 @@ members: "Neil K., Allison B., and Jennifer S."
 layout: group
 link: <a href="http://jstamberger.github.io/BBBGroup6">http://jstamberger.github.io/BBBGroup6</a>
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
+semester: spring-2016
 ---
 
 ## Goals

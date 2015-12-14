@@ -5,6 +5,7 @@ members: "Zach G. and Marissa K."
 layout: group
 link: <a href="http://mkopco.github.io/group4/">http://mkopco.github.io/group4/</a>
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
+semester: spring-2016
 ---
 
 ## Goals

@@ -5,6 +5,7 @@ type: "project"
 points: 5
 layout: assignment
 date: 2015-12-18 12:00:00
+semester: spring-2016
 ---
 
 Since this project was a collaborative assignment, I want to hear from each group member about the work ethic and participation of his or her partner.  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
