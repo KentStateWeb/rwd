@@ -32,7 +32,7 @@ During each presentation, each class member (and instructor) will use their own 
 
 Remember that after Tuesday you'll still need to submit a survey that evaluates your individual and team performance.  I will send out one last reminder with that link, but it's also below.  Please wait until you've submitted your projects before taking the survey.
 
-<a class="button button-small" href="http://rwd.web/class/assignments/assessment/">Access the Group/Self Assessment</a>
+<a class="button button-small" href="http://rwdkent.com/class/assignments/assessment/">Access the Group/Self Assessment</a>
 
 ## Grades
 
