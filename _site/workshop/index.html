@@ -25,14 +25,272 @@
 		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		<style>
-			object, svg {
-				max-width: 300px;
+			@charset "utf-8";
+
+			body {
+			  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+			  padding: 0;
+			  margin: 0;
 			}
-			.svg img {
-				max-width: 300px;
+
+			.group:after {
+			  display: block;
+			  content: "";
+			  display: table;
+			  clear: both;
 			}
-			.floated-feature-image {
-				max-width: 250px;
+
+			* {
+			  box-sizing: border-box;
+			}
+
+			ul,
+			li {
+			  font-size: 1.1em;
+			  line-height: 1.4;
+			  color: #606060;
+			}
+
+			@media screen and (min-width: 800px) {
+			  ul,
+			  li {
+			    line-height: 1.6;
+			  }
+			}
+
+			ul a {
+			  color: rgb(26,117,138);
+			  font-weight: bold;
+			  text-decoration: none;
+			  transition: .3s color ease-in-out;
+			  word-wrap: break-word;
+			}
+
+			header {
+			  text-align: center;
+			  padding-top: 10px;
+			  border-top: 20px solid #393839;
+			  border-bottom: 5px solid rgb(240,99,116);
+			  margin-bottom: 1.5em;
+			  width: 96%;
+			  margin: 0 auto;
+			}
+
+			header .svg {
+			  width: 200px;
+			  margin-bottom: 0;
+			  padding-bottom: 0;
+			  margin-top: .05em;
+			  height: 80px;
+			}
+
+			a.svg {
+			  position: relative;
+			  display: inline-block;
+			}
+
+			a.svg:after {
+			  content: "";
+			  position: absolute;
+			  top: 0;
+			  right: 0;
+			  bottom: 0;
+			  left: 0;
+			}
+
+			.rwd-svg .shape {
+			  transition: .3s all ease-in-out;
+			}
+
+			.rwd-svg .mark {
+			  transform: scale(1.0);
+			  transition: .3s all ease-in-out;
+			}
+
+			.svg .rwd-svg .mark {
+			  animation-fill-mode: backwards;
+			  transform: translate(0,0) scale(1.0);
+			}
+
+			.svg .code-left,
+			.svg .code-right {
+			  animation-fill-mode: backwards;
+			  transform: translate(0,0);
+			}
+
+			@media screen and (min-width:600px) {
+			  header .svg {
+			    width: 225px;
+			    margin-bottom: 0;
+			    padding-bottom: 0;
+			    margin-top: .05em;
+			    height: 90px;
+			  }
+			}
+
+			@media screen and (min-width:880px) {
+			  header {
+			    text-align: left;
+			  }
+
+			  header .svg {
+			    margin-left: 2.5em;
+			    float: left;
+			    margin-bottom: 1.5em;
+			    padding-top: .5em;
+			    width: 25%;
+			    max-width: 250px;
+			    padding-bottom: 0em;
+			    height: auto;
+			  }
+			}
+
+			@media screen and (min-width:1200px) {
+			  header .svg {
+			    max-width: 265px;
+			    margin-bottom: 1.25em;
+			    margin-top: .7em;
+			    width: 50%;
+			    padding-top: 0;
+			  }
+			}
+
+			nav {
+			  display: block;
+			  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+			  padding: .25em 1em;
+			  margin: 0 auto;
+			  margin-top: 0em;
+			  margin-bottom: .5em;
+			}
+
+			nav a {
+			  text-decoration: none;
+			  color: #393839;
+			  letter-spacing: 2px;
+			  font-size: 1.2em;
+			  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+			  text-transform: uppercase;
+			  transition: .2s color ease-in-out;
+			}
+
+			@media screen and (min-width: 500px) {
+			  nav a {
+			    font-size: 1.1em;
+			  }
+			}
+
+			nav ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  margin: 0 auto;
+			  text-align: center;
+			  display: table;
+			  margin-bottom: .5em;
+			}
+
+			nav ul li {
+			  text-align: center;
+			  float: left;
+			  display: table-cell;
+			  width: 50%;
+			  padding-bottom: 0em;
+			  padding-top: .25em;
+			  margin-bottom: 0;
+			}
+
+			nav ul li:before {
+			  content: none;
+			}
+
+			nav ul li:last-child:after {
+			  content: "";
+			  width: 0;
+			  padding: 0;
+			}
+
+			@media screen and (min-width:500px) {
+			  nav {
+			    padding: .5em;
+			  }
+
+			  nav ul li {
+			    width: inherit;
+			  }
+
+			  nav ul li:after {
+			    content: "/";
+			    width: 15px;
+			    color: rgb(240,99,116);
+			    font-weight: bold;
+			    font-size: 1.5em;
+			    padding-left: .5em;
+			    padding-right: .5em;
+			  }
+			}
+
+			@media screen and (min-width:600px) {
+			  nav a {
+			    font-size: 1.3em;
+			  }
+			}
+
+			@media screen and (min-width:880px) {
+			  nav {
+			    display: inline-block;
+			    float: right;
+			    width: 65%;
+			    background-color: inherit;
+			    border-top: none;
+			    margin-top: 1em;
+			  }
+
+			  nav ul {
+			    margin-right: 0;
+			  }
+
+			  nav a {
+			    font-size: 1.3em;
+			  }
+			}
+
+			@media screen and (min-width: 1200px) {
+			  nav {
+			    margin-top: 1em;
+			    margin-bottom: 0;
+			  }
+
+			  nav ul li:after {
+			    padding-left: .75em;
+			    padding-right: .75em;
+			  }
+
+			  nav a {
+			    font-size: 1.5em;
+			  }
+			}
+
+			#skip-to-content {
+			  padding: 1em;
+			  position: absolute;
+			  top: -40px;
+			  left: 1em;
+			  z-index: 1000;
+			  color: white;
+			}
+
+			.visually-hidden {
+			  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+			  position: absolute !important;
+			  clip: rect(1px 1px 1px 1px);
+			  /* IE6, IE7 */
+			  clip: rect(1px, 1px, 1px, 1px);
+			  padding: 0 !important;
+			  border: 0 !important;
+			  height: 1px !important;
+			  width: 1px !important;
+			  overflow: hidden;
 			}
 		</style>
 		<link rel="canonical" href="http://www.rwdkent.com/workshop/">
