@@ -2,6 +2,7 @@
 layout: post
 title: Take the RWD Survey + Week Eight Preview
 category: blog
+published: false
 ---
 
 This week, I'd like to get your feedback.  Since we're about half-way through the semester, the mid-semester survey will help me determine how things are going and where I can improve.  

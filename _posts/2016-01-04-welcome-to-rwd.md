@@ -2,7 +2,6 @@
 layout: post
 title: Welcome to Responsive Web Design!
 category: blog
-published: false
 ---
 I just wanted to send a quick note to introduce myself - my name is Chris, and I'll be your instructor for the Spring 2016 Responsive Web Design class.  The class meets on Tuesday evenings from 5:30 - 8:15 p.m. at IdeaBase in Downtown Kent.  
 

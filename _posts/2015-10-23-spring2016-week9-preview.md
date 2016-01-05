@@ -2,6 +2,7 @@
 layout: post
 title: RWD to be Offered Spring 2016 + Week 9 Preview
 category: blog
+published: false
 ---
 
 Based on your survey responses so far and interest from other students, we've decided to repeat the RWD class for the spring 2016 semester!

@@ -2,6 +2,7 @@
 layout: post
 title: Week Two Preview + Assignments
 category: blog
+published: false
 ---
 
 Thank you all for a great first class!   I think this is going to be an awesome semester.

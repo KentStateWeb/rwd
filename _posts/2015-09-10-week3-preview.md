@@ -2,6 +2,7 @@
 layout: post
 title: Week Three - HTML and Research
 category: blog
+published: false
 ---
 
 During the last session, we completed our in-class RWD case studies, set up GitHub and CodePen accounts and talked a bit about how HTML is used to structure a website.  

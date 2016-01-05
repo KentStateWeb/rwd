@@ -2,6 +2,7 @@
 layout: post
 title: Week Six Preview - Design Patterns and CSS
 category: blog
+published: false
 ---
 
 In the next class we go from content to talking about design patterns, styles and an introduction to CSS.  This means we'll finally start to add some colors, typography and visual styles to our HTML.

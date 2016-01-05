@@ -2,6 +2,7 @@
 layout: post
 title: Class Tonight + No Office Hours on Nov. 24
 category: blog
+published: false
 ---
 
 All - just a reminder that we'll be conducting usability testing during class today, as well as continuing to work on the prototype projects.  I'll also give a short lecture on style guides and content management systems.  

@@ -2,6 +2,7 @@
 layout: post
 title: Week Five Preview - Mobile First
 category: blog
+published: false
 ---
 
 The last class was all about content.  In the next class, we'll get into how to display that content using mobile-first principles.  

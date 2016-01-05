@@ -2,6 +2,7 @@
 layout: post
 title: Week 14 Preview - Finalizing Prototypes and Pattern Library + Special Guest Speaker
 category: blog
+published: false
 ---
 
 We're nearly finished with the semester!  In the next class, we'll work on finalizing your HTML/CSS Prototypes, prepare your pattern libraries and have a special guest.  

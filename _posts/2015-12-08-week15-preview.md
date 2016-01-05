@@ -2,6 +2,7 @@
 layout: post
 title: Week 15 Preview - Final Group Working Sessions
 category: blog
+published: false
 ---
 
 Tonight is our last class before your final prototypes and pattern libraries are due!

@@ -2,6 +2,7 @@
 layout: post
 title: Week 13 Preview - Style Guides, Pattern Libraries and In-Class Testing
 category: blog
+published: false
 ---
 
 For the next class, we'll conduct some in-class usability testing on your prototypes.

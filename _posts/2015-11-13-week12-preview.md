@@ -2,6 +2,7 @@
 layout: post
 title: Week 12 Preview - Device, Accessibility and User Testing
 category: blog
+published: false
 ---
 
 In the next class, we'll talk about how to test your websites for optimal usability and accessibility, while ensuring the websites work well on as many devices as possible.

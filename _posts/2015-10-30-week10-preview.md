@@ -2,6 +2,7 @@
 layout: post
 title: Week 10 Preview - Responsive Images and HTML Wireframing
 category: blog
+published: false
 ---
 
 We'll continue practicing with CSS Media Queries in class.  We'll also be talking more about how images can be made to be more responsive, and we'll start wireframing your project assignments in HTML.

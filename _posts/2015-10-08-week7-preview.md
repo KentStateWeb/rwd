@@ -2,6 +2,7 @@
 layout: post
 title: Week Seven Preview - Style Tiles, Web Type and CSS Continued
 category: blog
+published: false
 ---
 
 We'll be continuing our section on CSS and visual design patterns in the next class.

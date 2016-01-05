@@ -2,6 +2,7 @@
 layout: post
 title: Week Four Preview - Content-First Design and HTML
 category: blog
+published: false
 ---
 
 In the last class, we really got rolling by completing our first HTML assignment, setting up our GitHub repositories and discussing research in the web design process.

@@ -2,6 +2,7 @@
 layout: post
 title: Finals Week - Prototype Sharing Sessions
 category: blog
+published: false
 ---
 
 Get ready for Tuesday's (last) RWD class!  I'm excited to see what everyone has developed for their final projects.
