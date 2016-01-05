@@ -1,12 +1,13 @@
 ---
 title: "Group 8"
-client: "Business TBA"
+client: "Franklin County Family & Community Services"
 members: "TBA"
 layout: group
 link: 
-description: "Description goes here."
+description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: spring-2016
 ---
+
 
 ## Goals
 
@@ -18,6 +19,11 @@ semester: spring-2016
 
 
 **Who are some of your top competitors?**
+
+We don't necessarily have competitors, but some surrounding communities have organizations similar to ours.  United Way also provides similar services, although we partner with them.
+
+* Community Services of Stark: http://www.communityservicesofstark.org/index.php
+
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**

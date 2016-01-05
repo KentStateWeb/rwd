@@ -1,10 +1,10 @@
 ---
 title: "Group 9"
-client: "Business TBA"
+client: "The Ohio Chop Shop Hair Salon"
 members: "TBA"
 layout: group
 link: 
-description: "Description goes here"
+description: "The Chop Shop is a high-end, unique hair salon in Kent, Ohio.  Our stylists bring their clients the freshest styles, and our location is a friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
 semester: spring-2016
 ---
 
@@ -17,6 +17,9 @@ semester: spring-2016
 
 
 **Who are some of your top competitors?**
+
+* http://www.rendezvoushair.com/
+* 
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
