@@ -1,10 +1,10 @@
 ---
-title: "Layout/Media Queries"
+title: "Layout/Media Queries 2"
 description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-03-29 12:00:00
+date: 2016-04-05 12:00:00
 semester: spring-2016
 ---
 

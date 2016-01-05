@@ -4,8 +4,7 @@ description: "Style your conference website using basic CSS."
 type: "mini"
 points: 5
 layout: assignment
-date: 2015-10-13 12:00:00
-status: assignment-completed
+date: 2016-03-01 12:00:00
 semester: spring-2016
 ---
 

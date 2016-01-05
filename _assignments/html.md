@@ -4,8 +4,7 @@ description: "You've received content for a website and would like to begin stru
 type: "mini"
 points: 5
 layout: assignment
-date: 2015-9-15 12:00:00
-status: assignment-completed
+date: 2016-02-02 12:00:00
 semester: spring-2016
 ---
 

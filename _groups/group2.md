@@ -1,9 +1,9 @@
 ---
 title: "Group 2"
 client: "Summit Street Family Restaurant"
-members: "Ryan G. and Sarah H."
+members: "TBA"
 layout: group
-link: <a href="http://sarahholzer9.github.io/group2/">http://sarahholzer9.github.io/group2/</a>
+link: 
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
 semester: spring-2016
 ---

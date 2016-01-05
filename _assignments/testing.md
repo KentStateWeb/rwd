@@ -2,10 +2,9 @@
 title: "Usability and Technical Testing"
 description: "As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them. "
 type: "project"
-points: 10
+points: 5
 layout: assignment
-date: 2015-11-24 12:00:00
-status: assignment-completed
+date: 2016-04-26 12:00:00
 semester: spring-2016
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Group 4"
 client: "Wrench Automotive"
-members: "Zach G. and Marissa K."
+members: "TBA"
 layout: group
-link: <a href="http://mkopco.github.io/group4/">http://mkopco.github.io/group4/</a>
+link: 
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 semester: spring-2016
 ---

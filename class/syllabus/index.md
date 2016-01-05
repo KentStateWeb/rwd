@@ -111,7 +111,7 @@ In the third part, students will begin an iterative design process, where they�
 In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
 
 ###Assignments
-Student learning will be assessed through three types of work: in-class participation, short assignments and a multi-stage small group project.  Due to the amount of group work in this course, students will also be evaluated by their peers.
+Student learning will be assessed through three types of work: in-class participation, in-class quizzes, short assignments and a multi-stage small group/individual project.
 
 There are **100** total possible points for the semester.
 
@@ -141,7 +141,7 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>35</strong></td>
+		<td><strong>45</strong></td>
 	</tr>
 </tbody>
 </table>
@@ -170,7 +170,7 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>65</strong></td>
+		<td><strong>55</strong></td>
 	</tr>
 </tbody>
 </table>
@@ -180,11 +180,11 @@ There are **100** total possible points for the semester.
 
 We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absenses will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 
-Students who miss more than two classes without proper documnetation will receive a 0 for their class participation grade for the semester.
+Students who miss more than two classes without proper documentation will receive a 0 for their class participation grade for the semester.
 
 If you miss class, you are still responsibile for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
 
-Some assignments, such as in-class presentations and testing, require attendance in order to receive full credit for the assignment.
+Some assignments, such as in-class presentations, testing and quizzes, require attendance in order to receive full credit for the assignment.
 
 ###Late Submissions
 The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). 

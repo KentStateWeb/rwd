@@ -11,7 +11,7 @@ title: Assignments
 <ul>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'mini' and item.semester == 'fall-2015' %}  
+	{% if item.type == 'mini' and item.semester == 'spring-2016' %}  
 	  {% include assignments.html %}
 	{% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ title: Assignments
 <ul>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'project' and item.semester == 'fall-2015' %}
+	{% if item.type == 'project' and item.semester == 'spring-2016' %}
 	  {% include assignments.html %}
 	{% endif %}
 {% endfor %}

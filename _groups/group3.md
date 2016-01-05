@@ -1,7 +1,7 @@
 ---
 title: "Group 3"
 client: "AROMA Coffee & Tea"
-members: "Micah H. and Anna H."
+members: "TBA"
 layout: group
 link: <a href="http://mnhughes13.github.io/AROMA/">http://mnhughes13.github.io/AROMA/</a>
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
