@@ -55,10 +55,7 @@ A starter file with content, photos and more that you've received from the clien
 
 <a href="/groups/assets/group5/Off-The-Vine-Final.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group5/Off-The-Vine-Final.eps">EPS (Vector) File</a>
-
 <a href="/groups/assets/group5/off-the-vine.svg">SVG File</a>
 
 ### Brand Colors
 
-Blue: #1b3658, Teal: #60808c, Neutral White: #f2f2f2, Grape Green: #82a53e, Deep Green: #667432

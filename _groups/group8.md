@@ -38,12 +38,10 @@ A starter file with content, photos and more that you've received from the clien
 <a href="/groups/assets/group8/Group-8-Content.zip">Download Group 7 Content (Zip File) - Pending</a>
 
 ### Logo
-<img src="/groups/assets/group8/##.svg" alt="Name" />
+<img src="/groups/assets/group8/FranklinCountyLogo-02.svg" alt="Franklin County" />
 
 <a href="/groups/assets/group8/##.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group8/##.eps">EPS (Vector) File</a>
-
-<a href="/groups/assets/group8/##.svg">SVG File</a>
+<a href="/groups/assets/group8/FranklinCountyLogo-02.svg">SVG File</a>
 
 ### Brand Colors

@@ -19,7 +19,6 @@ semester: spring-2016
 **Who are some of your top competitors?**
 
 * http://www.rendezvoushair.com/
-* 
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
@@ -32,12 +31,10 @@ A starter file with content, photos and more that you've received from the clien
 
 
 ### Logo
-<img src="/groups/assets/group9/##.svg" alt="Business Name" />
+<img src="/groups/assets/group9/ChopShopSalonLogo-01.svg" alt="Ohio Chop Shop" />
 
 <a href="/groups/assets/group9/##.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group9/##.eps">EPS (Vector) File</a>
-
-<a href="/groups/assets/group9/##.svg">SVG File</a>
+<a href="/groups/assets/group9/ChopShopSalonLogo-01.svg">SVG File</a>
 
 ### Brand Colors
