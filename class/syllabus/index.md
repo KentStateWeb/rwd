@@ -195,6 +195,10 @@ My policy for late assignments has 3 rules:
 * Late assignments must be submitted within 1 week of the original due date, without penalty, so long as the student meets the first rule. After 1 week the assignment will be marked as 0.
 * An additional extension may be possible in exceptional circumstances, with documentation. This requires a face-to-face conversation between the student and the instructor.
 
+###Group Work
+
+This class uses team-based learning for part or all of the semester.  Students must agree to follow the [Group Rules & Expectations](../groups/policies) throughout the course of the project. 
+
 ### Grading
 
 Final letter grades will be assigned on the basis of the following table:
