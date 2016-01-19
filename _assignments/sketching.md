@@ -30,7 +30,7 @@ You'll be submitting the sketches as image or PDF files to your project repositi
 1.  Create a new folder (subdirectory) within your site called "sketches".
 2.  Take photos of your various sketches with a phone.  Get those files onto the computer via email or other means.  Now, place those photos in the "sketches" directory of your GitHub repository.
 3.  On your root index.html file, which is the Project Timeline, H2 with Date: Sketches.
-6.  Add a link to your sketch images under the H2.  The links should point to researcsketches/mysketch.jpg, for example.
+6.  Add a link to your sketch images under the H2.  The links should point to researchsketches/mysketch.jpg, for example.
 7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the sketches documents via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
 
 ## Rubric
