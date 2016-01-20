@@ -161,13 +161,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/challahan/Documents/Repositories/rwd",
-		"/Users/challahan/Documents/Repositories/rwd/_assignments",
-		"/Users/challahan/Documents/Repositories/rwd/_classes",
-		"/Users/challahan/Documents/Repositories/rwd/_includes",
-		"/Users/challahan/Documents/Repositories/rwd/_layouts",
-		"/Users/challahan/Documents/Repositories/rwd/_posts",
-		"/Users/challahan/Documents/Repositories/rwd/stylesheets"
+		"/Users/challahan/Documents/Repositories/rwd"
 	],
 	"file_history":
 	[
@@ -451,6 +445,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdownlight",
 							"buffer_scroll_name": "c89b3b89",
+							"spell_check": false,
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
