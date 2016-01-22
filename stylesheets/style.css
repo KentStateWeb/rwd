@@ -230,6 +230,11 @@ h4 {
 	padding-right: 1em;
 }
 
+.main-content-area-full img {
+	max-width: 100%;
+	width: 100%;
+}
+
 @media screen and (min-width: 650px) {
 	.floated-feature-image {
 		width: 150px;
