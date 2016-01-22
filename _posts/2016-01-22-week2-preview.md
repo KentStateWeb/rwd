@@ -19,7 +19,7 @@ Looking ahead to Week 2, we will be diving into HTML, the building blocks of the
 
 You can find the slides from each class under the [Class Schedule](http://rwdkent.com/class/schedule/) section of the website.
 
-<img src="{{ site.baseurl }}/img/spring-2016/class1.jpg" alt="RWD Class" />
+<img src="http://rwdkent.com/img/spring-2016/class1.jpg" alt="RWD Class" />
 
 ## For Next Class
 
