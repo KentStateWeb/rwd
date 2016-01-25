@@ -11,7 +11,7 @@
 			"file": "_groups/group1.md",
 			"settings":
 			{
-				"buffer_size": 2046,
+				"buffer_size": 1955,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "_groups/group6.md",
 			"settings":
 			{
-				"buffer_size": 2409,
+				"buffer_size": 2307,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,15 +27,15 @@
 			"file": "_classes/6.md",
 			"settings":
 			{
-				"buffer_size": 1695,
+				"buffer_size": 1645,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2015-12-14-finalsweek-preview.md",
+			"file": "_classes/1.md",
 			"settings":
 			{
-				"buffer_size": 2895,
+				"buffer_size": 1100,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "_classes/13.md",
 			"settings":
 			{
-				"buffer_size": 1260,
+				"buffer_size": 1154,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +51,7 @@
 			"file": "_assignments/templates.md",
 			"settings":
 			{
-				"buffer_size": 6558,
+				"buffer_size": 6580,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +59,7 @@
 			"file": "_classes/5.md",
 			"settings":
 			{
-				"buffer_size": 1383,
+				"buffer_size": 1214,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +67,7 @@
 			"file": "_classes/4.md",
 			"settings":
 			{
-				"buffer_size": 1562,
+				"buffer_size": 1512,
 				"line_ending": "Unix"
 			}
 		}
@@ -161,10 +161,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/challahan/Documents/Repositories/rwd"
+		"/Users/challahan/Documents/Repositories/rwd",
+		"/Users/challahan/Documents/Repositories/rwd/_classes",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/fall-2015"
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/_classes/fall-2015/1.md",
+		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-12-14-finalsweek-preview.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/14.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/12.md",
 		"/Users/challahan/Documents/Repositories/rwd/_includes/header.html",
@@ -330,15 +334,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2046,
+						"buffer_size": 1955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								202,
-								202
+								0,
+								0
 							]
 						],
 						"settings":
@@ -363,15 +367,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2409,
+						"buffer_size": 2307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								394,
-								394
+								0,
+								0
 							]
 						],
 						"settings":
@@ -396,7 +400,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1695,
+						"buffer_size": 1645,
 						"regions":
 						{
 						},
@@ -417,7 +421,7 @@
 							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 283.0,
+						"translation.y": 255.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -425,28 +429,28 @@
 				},
 				{
 					"buffer": 3,
-					"file": "_posts/2015-12-14-finalsweek-preview.md",
+					"file": "_classes/1.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2895,
+						"buffer_size": 1100,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35,
-								35
+								715,
+								715
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "c89b3b89",
+							"bs_sintax": "markdown (jekyll)",
+							"buffer_scroll_name": "9b616be6",
 							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -461,7 +465,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1260,
+						"buffer_size": 1154,
 						"regions":
 						{
 						},
@@ -494,7 +498,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6558,
+						"buffer_size": 6580,
 						"regions":
 						{
 						},
@@ -527,15 +531,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1383,
+						"buffer_size": 1214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								898,
-								870
+								0,
+								0
 							]
 						],
 						"settings":
@@ -559,15 +563,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1562,
+						"buffer_size": 1512,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1254,
-								1226
+								0,
+								0
 							]
 						],
 						"settings":
