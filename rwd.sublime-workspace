@@ -19,7 +19,7 @@
 			"file": "_groups/group8.md",
 			"settings":
 			{
-				"buffer_size": 2339,
+				"buffer_size": 2329,
 				"line_ending": "Unix"
 			}
 		},
@@ -27,7 +27,7 @@
 			"file": "_groups/group9.md",
 			"settings":
 			{
-				"buffer_size": 2254,
+				"buffer_size": 2371,
 				"line_ending": "Unix"
 			}
 		}
@@ -328,15 +328,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2339,
+						"buffer_size": 2329,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2338,
-								2338
+								2162,
+								2071
 							]
 						],
 						"settings":
@@ -344,6 +344,7 @@
 							"auto_complete": false,
 							"bs_sintax": "markdown (jekyll)",
 							"buffer_scroll_name": "4f28c83a",
+							"spell_check": true,
 							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -359,15 +360,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2254,
+						"buffer_size": 2371,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1979,
-								1979
+								2004,
+								2004
 							]
 						],
 						"settings":
@@ -375,10 +376,11 @@
 							"auto_complete": false,
 							"bs_sintax": "markdown (jekyll)",
 							"buffer_scroll_name": "2163067b",
+							"spell_check": true,
 							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1263.0,
+						"translation.y": 1347.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

@@ -4,7 +4,7 @@ client: "The Ohio Chop Shop Hair Salon"
 members: "TBA"
 layout: group
 link: 
-description: "The Chop Shop is a high-end, unique hair salon in Kent, Ohio.  Our stylists bring their clients the freshest styles, and our location is a friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
+description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Our stylists bring their clients the freshest styles, and our location is a high-end, but friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
 semester: spring-2016
 ---
 
@@ -44,6 +44,7 @@ semester: spring-2016
 * Fashionable
 * Comprehensive
 * Fun
+* Luxurious
 
 ## Assets
 
@@ -51,6 +52,7 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
+<a href="/groups/assets/group9/Group-9-Content.zip">Download Group 9 Content (Zip File)</a>
 
 ### Logo
 <img src="/groups/assets/group9/ChopShopSalonLogo-01.svg" alt="Ohio Chop Shop" />
