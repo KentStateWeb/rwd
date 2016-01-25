@@ -8,66 +8,26 @@
 	"buffers":
 	[
 		{
-			"file": "_groups/group1.md",
+			"file": "_classes/11.md",
 			"settings":
 			{
-				"buffer_size": 1955,
+				"buffer_size": 1258,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_groups/group6.md",
+			"file": "_groups/group8.md",
 			"settings":
 			{
-				"buffer_size": 2307,
+				"buffer_size": 2339,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_classes/6.md",
+			"file": "_groups/group9.md",
 			"settings":
 			{
-				"buffer_size": 1645,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_classes/1.md",
-			"settings":
-			{
-				"buffer_size": 1100,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_classes/13.md",
-			"settings":
-			{
-				"buffer_size": 1154,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_assignments/templates.md",
-			"settings":
-			{
-				"buffer_size": 6580,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_classes/5.md",
-			"settings":
-			{
-				"buffer_size": 1214,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_classes/4.md",
-			"settings":
-			{
-				"buffer_size": 1512,
+				"buffer_size": 2254,
 				"line_ending": "Unix"
 			}
 		}
@@ -162,11 +122,18 @@
 	"expanded_folders":
 	[
 		"/Users/challahan/Documents/Repositories/rwd",
-		"/Users/challahan/Documents/Repositories/rwd/_classes",
-		"/Users/challahan/Documents/Repositories/rwd/_classes/fall-2015"
+		"/Users/challahan/Documents/Repositories/rwd/_groups"
 	],
 	"file_history":
 	[
+		"/Users/challahan/Documents/Repositories/rwd/_classes/4.md",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/5.md",
+		"/Users/challahan/Documents/Repositories/rwd/_assignments/templates.md",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/13.md",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group1.md",
+		"/Users/challahan/Documents/Repositories/rwd/_groups/group6.md",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/6.md",
+		"/Users/challahan/Documents/Repositories/rwd/_classes/1.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/fall-2015/1.md",
 		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-12-14-finalsweek-preview.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/14.md",
@@ -179,23 +146,19 @@
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group4.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group5.md",
 		"/Users/challahan/Documents/Repositories/rwd/_groups/group7.md",
-		"/Users/challahan/Documents/Repositories/rwd/_classes/5.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/html.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/html2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/content.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/style.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/css.md",
-		"/Users/challahan/Documents/Repositories/rwd/_groups/group6.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/research.md",
 		"/Users/challahan/Documents/Repositories/rwd/Gemfile",
-		"/Users/challahan/Documents/Repositories/rwd/_groups/group1.md",
 		"/Users/challahan/Documents/Repositories/rwd/_includes/assignments.html",
 		"/Users/challahan/Documents/Repositories/rwd/_posts/2015-09-16-free-text-editors.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/2.md",
 		"/Users/challahan/Documents/Repositories/rwd/_includes/class.html",
 		"/Users/challahan/Documents/Repositories/rwd/class/index.html",
 		"/Users/challahan/Documents/Repositories/rwd/class/assignments/index.html",
-		"/Users/challahan/Documents/Repositories/rwd/_classes/1.md",
 		"/Users/challahan/Documents/Repositories/rwd/_classes/3.md",
 		"/Users/challahan/Documents/Repositories/rwd/_assignments/layout.md",
 		"/Users/challahan/Documents/Repositories/craft/craft/config/db.php",
@@ -325,16 +288,16 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_groups/group1.md",
+					"file": "_classes/11.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1955,
+						"buffer_size": 1258,
 						"regions":
 						{
 						},
@@ -347,108 +310,8 @@
 						],
 						"settings":
 						{
-							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "0ee781dc",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_groups/group6.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2307,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "96ed8ef9",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_classes/6.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1645,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "9711f558",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 255.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_classes/1.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								715,
-								715
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
 							"bs_sintax": "markdown (jekyll)",
-							"buffer_scroll_name": "9b616be6",
+							"buffer_scroll_name": "ae621ebc",
 							"spell_check": false,
 							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
@@ -456,137 +319,69 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_classes/13.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1154,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "f5ed38ba",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_assignments/templates.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6580,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "cafe266a",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1373.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_classes/5.md",
+					"buffer": 1,
+					"file": "_groups/group8.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1214,
+						"buffer_size": 2339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2338,
+								2338
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "52aafbcc",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+							"auto_complete": false,
+							"bs_sintax": "markdown (jekyll)",
+							"buffer_scroll_name": "4f28c83a",
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 65.0,
+						"translation.y": 1347.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "_classes/4.md",
+					"buffer": 2,
+					"file": "_groups/group9.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1512,
+						"buffer_size": 2254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1979,
+								1979
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "markdownlight",
-							"buffer_scroll_name": "e5752472",
-							"color_scheme": "Packages/MarkdownLight/MarkdownLight.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/MarkdownLight/MarkdownLight.tmLanguage"
+							"auto_complete": false,
+							"bs_sintax": "markdown (jekyll)",
+							"buffer_scroll_name": "2163067b",
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 234.0,
+						"translation.y": 1263.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

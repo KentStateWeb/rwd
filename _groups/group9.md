@@ -31,7 +31,7 @@ semester: spring-2016
 
 * Rendezvous Hair Salon: http://www.rendezvoushair.com/
 * Jekyll and Hyde Hair Salon: http://jekyllandhydesalon.com
-* Blake | Rose Salon + Spa: http://www.blakerosesalon.com
+* Blake Rose Salon + Spa: http://www.blakerosesalon.com
 * Canvas Salon & Skin Bar: http://www.thecanvassalon.com
 * Paul Mitchell: https://www.paulmitchell.com (A chain, but still a competitor)
 
