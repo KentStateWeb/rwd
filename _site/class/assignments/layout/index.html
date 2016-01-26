@@ -323,7 +323,7 @@
 		<dd>March 29, 2016</dd>
 	</dl>
 	<hr>
-	<p>We’re returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it’s time to make sure the website uses space efficiently while at the same time displaying well on all screen sizes.  </p>
+	<p>We’re returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it’s time to make sure the website uses our brand fonts as well as adjusts itself as the screen gets larger.</p>
 
 <p>This is an individual assignment, and it will be turned in via Blackboard Learn.  </p>
 
@@ -342,77 +342,33 @@
   <li>Replace the font-family values in your CodePen with the values for the fonts you selected.</li>
 </ol>
 
-<h3 id="header">Header</h3>
-
-<ol>
-  <li>Set the heading 1 to a smaller font-size, so that the text fits small screens better.  </li>
-  <li>Add a media query to change the font size of the heading 1 as the screen gets larger.  The size and breakpoint are up to you.</li>
-  <li>At a breakpoint of 1035px, change the padding-top of the H1 to 65px and set the margin-top to 0.</li>
-  <li>At a breakpoint of 1300px, change the font-size of the h1 to 3em.</li>
-  <li>At 1035px, set the header to become aligned to the left.  Set the header’s max width to 900px and display it as block.  Set the header height to 150px.  Finally, center the header itself using a margin.</li>
-  <li>At 1300px, set the header’s max width to 1200px, margin-top of 1em and height of 170px.</li>
-  <li>Set the Welcome Weekend logo to start out at a smaller width of around 80px.</li>
-  <li>At around 600px, change the Welcome Weekend logo to be 150px.</li>
-  <li>At around 1035px set the Welcome Weekend logo to be 175px.  Also, set it to float to the left.  Set the margin to 0 .75em inherit 1.5em.</li>
-  <li>At 1300px, change the margin-left on the Welcome Weekend logo to 3% and up the width to 190px.</li>
-</ol>
-
 <h3 id="typography-changes">Typography Changes</h3>
 
+<p>It’s time to implement your first media query.  For this part, we’re going to be making the paragraph and heading text get larger as the screen gets bigger.  </p>
+
+<p><strong><em>Remember, the first media query is no media query at all.  This is your default (mobile) state.  Only add a media query when you need to tweak a style as the screen gets larger.</em></strong></p>
+
 <ol>
-  <li>Set paragraphs to get slightly larger at 600px.</li>
-  <li>Set them to get even larger at 1300px.  Also, increase the line-height to increase readability.</li>
+  <li>Set paragraph font size to get slightly larger at 600px.</li>
+  <li>Set the pargraph font size to get even larger at 1300px.  Also, increase the line-height to increase readability at this size.</li>
   <li>Bump the H2’s up when the screen gets big enough.  The size is your choice.</li>
-  <li>Set a margin-top on the H2’s at 600px.</li>
+  <li>Set a margin-top on the H2’s starting at 600px to add some more spacing.</li>
 </ol>
 
 <h3 id="main-content-area">Main Content Area</h3>
 
 <ol>
-  <li>At 825px, change the main area’s padding to be 3.5em, but the padding at the top should be .5em.</li>
+  <li>At 825px, change the main area’s padding to be 3.5em, but the padding at the top only to be .5em.</li>
   <li>At 1300px, change the main area’s maximum width to 1200px.</li>
-</ol>
-
-<h3 id="figures-and-images">Figures and Images</h3>
-
-<ol>
-  <li>Start the width of figures at 100%.  Remove the padding on the figure.  Change the positioning to relative.</li>
-  <li>At 825px, float the image to the right.  Change the width to 50% and set a margin-top of 2em and a padding-left of 5%.  Set a margin-bottom of 1em.</li>
-  <li>As the screen gets larger, choose a breakpoint to change the figcaption to an overlay on top of the image.  Change the positioning of figcaption to absolute, add bottom: 9px, add a Kent State blue background color at 80% opacity.  Change the color of the text to white.  Add a margin-left and margin-right of 5px.  Add padding of .75em.  Finally, change the line height to 1.3.</li>
 </ol>
 
 <h3 id="quotes">Quotes</h3>
 
 <ol>
-  <li>Change blockquotes to start at a max-width of 90% and 1.2em.</li>
-  <li>Choose a breakpoint for the blockquote to change to 80% max-width and increase its font-size.</li>
-  <li>Change the cite tag to have a margin-left of 5%.  At the same time you change your blockquote to 80% width, change the left margin of the cite tag to 10%.</li>
+  <li>Change blockquotes to start at a max-width of 90% and 1.2em font size.</li>
+  <li>Choose a breakpoint for the blockquote to change to an 80% max-width and increase its font-size again.</li>
+  <li>Change the cite tag to have a margin-left of 5%.  At the same time you change your blockquote to 80% width, change the left margin of the cite tag to 10%.  (This may vary depending on whether or not you put your cite tag inside of the blockquote or not in your HTML.)</li>
 </ol>
-
-<h3 id="clearfix">Clearfix</h3>
-
-<ol>
-  <li>We need to clear a float!  Add a new class called clearfix with the following values:
-clearfix:after {
-  display: block;
-  content: “”;
-  display: table;
-  clear: both;
-}</li>
-  <li>Add the “clearfix” class to the paragraph that follows What Is Welcome Weekend?</li>
-</ol>
-
-<h3 id="footer">Footer</h3>
-
-<ol>
-  <li>Almost done!  As the screen gets larger, the 3 items in the footer could be placed so that they’re side-by-side.</li>
-  <li>First, we need to make an edit to the HTML.  Add a DIV around each of the pieces of contact information in the footer with a class of “contact” - one for address, one for phone, one for email.</li>
-  <li>At 1000px, set the footer to have a max-width of 900px and center it in the middle of the page.</li>
-  <li>Set the contact class to float to the left.  Set it to be 33.3% and add padding-top of 1em and padding-bottom of 2em.</li>
-  <li>At 1000px, you should see the 3 pieces of contact information pop right beside each other, each taking up exactly 1/3 of the container.</li>
-</ol>
-
-<p>Your end result should look <a href="/img/layout-screenshot.jpg">something like this</a>, knowing that you may have chosen different typefaces and breakpoints than I did.</p>
 
 <h3 id="submitting-the-assignment">Submitting the Assignment</h3>
 

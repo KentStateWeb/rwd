@@ -8,7 +8,7 @@ date: 2016-03-29 12:00:00
 semester: spring-2016
 ---
 
-We're returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it's time to make sure the website uses space efficiently while at the same time displaying well on all screen sizes.  
+We're returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it's time to make sure the website uses our brand fonts as well as adjusts itself as the screen gets larger.
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
@@ -25,67 +25,29 @@ Open your HTML Basics 2 assignment.  Instead of editing the original pen, click 
 3. Copy this import code into the top of your CSS in CodePen.
 4. Replace the font-family values in your CodePen with the values for the fonts you selected.
 
-### Header 
-
-1.  Set the heading 1 to a smaller font-size, so that the text fits small screens better.  
-2.  Add a media query to change the font size of the heading 1 as the screen gets larger.  The size and breakpoint are up to you.
-3. At a breakpoint of 1035px, change the padding-top of the H1 to 65px and set the margin-top to 0.
-4. At a breakpoint of 1300px, change the font-size of the h1 to 3em.
-5. At 1035px, set the header to become aligned to the left.  Set the header's max width to 900px and display it as block.  Set the header height to 150px.  Finally, center the header itself using a margin.
-6. At 1300px, set the header's max width to 1200px, margin-top of 1em and height of 170px.
-7. Set the Welcome Weekend logo to start out at a smaller width of around 80px.
-8. At around 600px, change the Welcome Weekend logo to be 150px.
-9. At around 1035px set the Welcome Weekend logo to be 175px.  Also, set it to float to the left.  Set the margin to 0 .75em inherit 1.5em.
-10. At 1300px, change the margin-left on the Welcome Weekend logo to 3% and up the width to 190px.
-
 ### Typography Changes
 
-1.  Set paragraphs to get slightly larger at 600px.
-2.  Set them to get even larger at 1300px.  Also, increase the line-height to increase readability.
+It's time to implement your first media query.  For this part, we're going to be making the paragraph and heading text get larger as the screen gets bigger.  
+
+***Remember, the first media query is no media query at all.  This is your default (mobile) state.  Only add a media query when you need to tweak a style as the screen gets larger.***
+
+1.  Set paragraph font size to get slightly larger at 600px.
+2.  Set the pargraph font size to get even larger at 1300px.  Also, increase the line-height to increase readability at this size.
 3. Bump the H2's up when the screen gets big enough.  The size is your choice.
-4. Set a margin-top on the H2's at 600px.
+4. Set a margin-top on the H2's starting at 600px to add some more spacing.
 
 ### Main Content Area
 
-1.  At 825px, change the main area's padding to be 3.5em, but the padding at the top should be .5em.
+1.  At 825px, change the main area's padding to be 3.5em, but the padding at the top only to be .5em.
 2. At 1300px, change the main area's maximum width to 1200px.
 
 
-### Figures and Images
-
-1. Start the width of figures at 100%.  Remove the padding on the figure.  Change the positioning to relative.
-2. At 825px, float the image to the right.  Change the width to 50% and set a margin-top of 2em and a padding-left of 5%.  Set a margin-bottom of 1em.
-3. As the screen gets larger, choose a breakpoint to change the figcaption to an overlay on top of the image.  Change the positioning of figcaption to absolute, add bottom: 9px, add a Kent State blue background color at 80% opacity.  Change the color of the text to white.  Add a margin-left and margin-right of 5px.  Add padding of .75em.  Finally, change the line height to 1.3.
-
 ### Quotes
 
-1. Change blockquotes to start at a max-width of 90% and 1.2em.
-2. Choose a breakpoint for the blockquote to change to 80% max-width and increase its font-size.
-3. Change the cite tag to have a margin-left of 5%.  At the same time you change your blockquote to 80% width, change the left margin of the cite tag to 10%.
+1. Change blockquotes to start at a max-width of 90% and 1.2em font size.
+2. Choose a breakpoint for the blockquote to change to an 80% max-width and increase its font-size again.
+3. Change the cite tag to have a margin-left of 5%.  At the same time you change your blockquote to 80% width, change the left margin of the cite tag to 10%.  (This may vary depending on whether or not you put your cite tag inside of the blockquote or not in your HTML.)
 
-
-### Clearfix
-
-1.  We need to clear a float!  Add a new class called clearfix with the following values:
-clearfix:after {
-  display: block;
-  content: "";
-  display: table;
-  clear: both;
-}
-2.  Add the "clearfix" class to the paragraph that follows What Is Welcome Weekend?
-
-
-### Footer
-
-1.  Almost done!  As the screen gets larger, the 3 items in the footer could be placed so that they're side-by-side.
-2. First, we need to make an edit to the HTML.  Add a DIV around each of the pieces of contact information in the footer with a class of "contact" - one for address, one for phone, one for email.
-3. At 1000px, set the footer to have a max-width of 900px and center it in the middle of the page.
-4. Set the contact class to float to the left.  Set it to be 33.3% and add padding-top of 1em and padding-bottom of 2em.
-5. At 1000px, you should see the 3 pieces of contact information pop right beside each other, each taking up exactly 1/3 of the container.
-
-
-Your end result should look [something like this](/img/layout-screenshot.jpg), knowing that you may have chosen different typefaces and breakpoints than I did.
 
 ### Submitting the Assignment
 
