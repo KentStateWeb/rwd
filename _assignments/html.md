@@ -10,7 +10,9 @@ semester: spring-2016
 
 You've received content for a conference website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen.  Don't worry about presentation for this assignment.  
 
-This is an individual assignment, and it will be turned in via Blackboard Learn.  
+This is an individual assignment, and it will be turned in via Blackboard Learn.
+
+Your completed assignment should look <a href="/img/html1.png">something like this</a>.  
 
 **Do not copy and paste another student's code.  If I catch you doing so, you'll receive a 0 for the assignment.**
 
@@ -19,10 +21,10 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 1. Set up a [CodePen](http://www.codepen.io) account (in class).
 2. Create a new **public pen** and name it using this structure: "Your Last Name - HTML Basics 1".
 3. Take the plain text content (provided below) and structure it into HTML in your pen.  You must use semantic headings to indicate hierarchy.  Links must be functional.  Lists should be formatted as unordered or ordered lists.   Pay attention to the client notes - they're important.
-4. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
+4. CodePen automatically inserts all of the required code for the HEAD of the document (the html, body and title tags).  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
 6. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL (View > Debug is also acceptable.  Pretty much the same thing). 
 7. View your newly completed website as a web page on different devices.  Does everything render correctly? 
-8. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View URL.  Click Submit.
+8. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode).  Click Submit.
 
 ## The Content 
 
