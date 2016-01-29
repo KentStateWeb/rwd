@@ -28,7 +28,7 @@ In this assignment, you'll be writing some structured HTML using paragraphs, hea
 
 Remember, I'm grading strictly on the structure of your HTML in this assignment - don't worry about how it looks or functions yet.  That's coming soon.
 
-<a class="button small" href="http://rwdkent.com/class/assignments/html/)">View HTML Basics 1</a>
+<a class="button small" href="http://rwdkent.com/class/assignments/html/">View HTML Basics 1</a>
 
 ### Reading
 
