@@ -1,7 +1,7 @@
 ---
 title: "Group 4"
 client: "Wrench Automotive"
-members: "TBA"
+members: "Reilly Hawkins and Patrick Hogan"
 layout: group
 link: 
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.

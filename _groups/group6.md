@@ -1,7 +1,7 @@
 ---
 title: "Group 6"
 client: "Buckeye Bed & Breakfast"
-members: "TBA"
+members: "Victoria Ripepi and Samantha Mix"
 layout: group
 link: 
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."

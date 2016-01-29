@@ -1,7 +1,7 @@
 ---
 title: "Group 2"
 client: "Summit Street Family Restaurant"
-members: "TBA"
+members: "Jessica Reese and Austin Powell"
 layout: group
 link: 
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
