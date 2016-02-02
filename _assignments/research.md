@@ -26,8 +26,8 @@ Because of time, we're not going to do actual client meetings.  I've provided th
 After conducting your competitive analysis, develop a short document that communicates the following:
 
 * Top goals for the website, as determined by the research
-* List of the content that is needed for the website, organized under sections (not necessarily separate pages, although they could be)
-* List of the types of templates/layouts that you may need, based on this content.  For example, a home page, contact page, products page, and calendar page.  Not every page has its own template, for example the indivdual products pages all use the same basic template.
+* List of the content that is needed for the website, organized under sections (not necessarily separate pages, although they could be).  This is the start of your navigation.
+* List of the types of templates/layouts that you may need, based on this content.  For example, a home page, contact page, products page, and calendar page.  Not every page has its own template, for example the individual products pages all use the same basic template.
 * List a short analysis of the most common themes you notice from competitive websites, including common navigation, content voice and tone, design aesthetic and layout.  You might note what is most common across all of the sites, and what is different across the sites.
 
 You can use whatever program you'd like to write this assignment.  You do NOT have to write it in HTML (unless you really want to).
