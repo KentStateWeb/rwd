@@ -36,6 +36,8 @@ You can use whatever program you'd like to write this assignment.  You do NOT ha
 
 ## How to Turn In the Assignment
 
+***We will do this part in class.  Just have your research document (PDF/Word/etc) ready at the beginning of class.***
+
 Since this is the first assignment, we will need to create a GitHub repository to house and host the project files.  We will create a GitHub repository and accounts in class.  When creating the repository in class, you will need to note your repository login information.
 
 After creating your repository:
