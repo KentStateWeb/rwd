@@ -1,5 +1,5 @@
 ---
-title: "Research/Competitive Analysis"
+title: "Research and Competitive Analysis"
 description: "Description of the assignment"
 type: "project"
 points: 5
