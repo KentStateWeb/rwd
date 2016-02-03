@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-02-02 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 You've received content for a conference website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen.  Don't worry about presentation for this assignment.  
