@@ -1,4 +1,5 @@
 ---
+
 title: "Research and Competitive Analysis"
 description: "Description of the assignment"
 type: "project"
@@ -6,6 +7,7 @@ points: 5
 layout: assignment
 date: 2016-02-09 12:00:00
 semester: spring-2016
+
 ---
 
 Any good web project should start with just enough research, and this one is no different.
