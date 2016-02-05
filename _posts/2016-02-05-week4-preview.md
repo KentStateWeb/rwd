@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Week Four Preview - Content-First Design
+title: Week Four Preview - Content-First Design and HTML Continued
 category: blog
 published: true
 ---
 
-Happy Friday!  In the last class, we:
+Happy Friday!  Here's a recap of the last class, as well as what's up for the Class 4: Content-First Design.
+
+In the last class, we:
 
 * We reviewed the HTML list and link elements from the HTML book
 * Talked about how we identify our user's needs by identifying top tasks and using various research techniques
