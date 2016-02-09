@@ -48,14 +48,11 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/groups/assets/group5/Group-5-Content.zip">Download Group 5 Content (Zip File)</a>
+<a href="class/groups/assets/group5/Group-5-Content.zip">Download Group 5 Content (Zip File)</a>
 
 ### Logo
-<img src="/groups/assets/group5/off-the-vine.svg" alt="Off the Vine: Winery and Vinyard" />
+<img src="class/groups/assets/group5/off-the-vine.svg" alt="Off the Vine: Winery and Vinyard" />
 
-<a href="/groups/assets/group5/Off-The-Vine-Final.ai">AI (Illustrator) File</a>
+<a href="class/groups/assets/group5/Off-The-Vine-Final.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group5/off-the-vine.svg">SVG File</a>
-
-### Brand Colors
-
+<a href="class/groups/assets/group5/off-the-vine.svg">SVG File</a>

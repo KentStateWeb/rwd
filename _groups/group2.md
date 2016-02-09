@@ -50,16 +50,16 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/groups/assets/group2/Group-2-Content.zip">Download Group 2 Content (Zip File)</a>
+<a href="class/groups/assets/group2/Group-2-Content.zip">Download Group 2 Content (Zip File)</a>
 
 ### Logo
-<img src="/groups/assets/group2/summitst.svg" alt="Summit Street Family Restaurant" />
+<img src="class/groups/assets/group2/summitst.svg" alt="Summit Street Family Restaurant" />
 
-<a href="/groups/assets/group2/summitst.ai">AI (Illustrator) File</a>
+<a href="class/groups/assets/group2/summitst.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group2/summitst.eps">EPS (Vector) File</a>
+<a href="class/groups/assets/group2/summitst.eps">EPS (Vector) File</a>
 
-<a href="/groups/assets/group2/summitst.svg">SVG File</a>
+<a href="class/groups/assets/group2/summitst.svg">SVG File</a>
 
 ### Brand Colors
 

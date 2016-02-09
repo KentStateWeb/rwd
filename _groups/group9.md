@@ -52,9 +52,9 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/groups/assets/group9/Group-9-Content.zip">Download Group 9 Content (Zip File)</a>
+<a href="class/groups/assets/group9/Group-9-Content.zip">Download Group 9 Content (Zip File)</a>
 
 ### Logo
-<img src="/groups/assets/group9/ChopShopSalonLogo-01.svg" alt="Ohio Chop Shop" />
+<img src="class/groups/assets/group9/ChopShopSalonLogo-01.svg" alt="Ohio Chop Shop" />
 
-<a href="/groups/assets/group9/ChopShopSalonLogo-01.svg">SVG File</a>
+<a href="class/groups/assets/group9/ChopShopSalonLogo-01.svg">SVG File</a>

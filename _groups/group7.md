@@ -48,16 +48,16 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/groups/assets/group7/Group-7-Content.zip">Download Group 7 Content (Zip File)</a>
+<a href="class/groups/assets/group7/Group-7-Content.zip">Download Group 7 Content (Zip File)</a>
 
 ### Logo
-<img src="/groups/assets/group7/williamthomas.svg" alt="William Thomas & Associates" />
+<img src="class/groups/assets/group7/williamthomas.svg" alt="William Thomas & Associates" />
 
-<a href="/groups/assets/group7/williamthomas.ai">AI (Illustrator) File</a>
+<a href="class/groups/assets/group7/williamthomas.ai">AI (Illustrator) File</a>
 
-<a href="/groups/assets/group7/williamthomas.eps">EPS (Vector) File</a>
+<a href="class/groups/assets/group7/williamthomas.eps">EPS (Vector) File</a>
 
-<a href="/groups/assets/group7/williamthomas.svg">SVG File</a>
+<a href="class/groups/assets/group7/williamthomas.svg">SVG File</a>
 
 ### Brand Colors
 
