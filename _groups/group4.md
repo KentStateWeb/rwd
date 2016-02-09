@@ -47,16 +47,16 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="class/groups/assets/group4/Group-4-Content.zip">Download Group 4 Content (Zip File)</a>
+<a href="/class/groups/assets/group4/Group-4-Content.zip">Download Group 4 Content (Zip File)</a>
 
 ### Logo
-<img src="class/groups/assets/group4/wrench.svg" alt="Wrench Automotive" />
+<img src="/class/groups/assets/group4/wrench.svg" alt="Wrench Automotive" />
 
-<a href="class/groups/assets/group4/wrench.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group4/wrench.ai">AI (Illustrator) File</a>
 
-<a href="class/groups/assets/group4/wrench.eps">EPS (Vector) File</a>
+<a href="/class/groups/assets/group4/wrench.eps">EPS (Vector) File</a>
 
-<a href="class/groups/assets/group4/wrench.svg">SVG File</a>
+<a href="/class/groups/assets/group4/wrench.svg">SVG File</a>
 
 ### Brand Colors
 

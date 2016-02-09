@@ -51,16 +51,16 @@ semester: spring-2016
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="class/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
+<a href="/class/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
 
 ### Logo
-<img src="class/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
+<img src="/class/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
 
-<a href="class/groups/assets/group6/buckeye.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group6/buckeye.ai">AI (Illustrator) File</a>
 
-<a href="class/groups/assets/group6/buckeye.eps">EPS (Vector) File</a>
+<a href="/class/groups/assets/group6/buckeye.eps">EPS (Vector) File</a>
 
-<a href="class/groups/assets/group6/buckeye.svg">SVG File</a>
+<a href="/class/groups/assets/group6/buckeye.svg">SVG File</a>
 
 ### Brand Colors
 

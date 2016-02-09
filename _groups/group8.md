@@ -53,9 +53,9 @@ We don't necessarily have competitors, but some surrounding communities have org
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="class/groups/assets/group8/Group-8-Content.zip">Download Group 8 Content (Zip File)</a>
+<a href="/class/groups/assets/group8/Group-8-Content.zip">Download Group 8 Content (Zip File)</a>
 
 ### Logo
-<img src="class/groups/assets/group8/FranklinCountyLogo-02.svg" alt="Franklin County" />
+<img src="/class/groups/assets/group8/FranklinCountyLogo-02.svg" alt="Franklin County" />
 
-<a href="class/groups/assets/group8/FranklinCountyLogo-02.svg">SVG File</a>
+<a href="/class/groups/assets/group8/FranklinCountyLogo-02.svg">SVG File</a>
