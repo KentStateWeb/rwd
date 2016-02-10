@@ -38,7 +38,8 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 **Welcome Weekend**
 
-***Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."*** <https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg">https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg</a>
+***Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."*** 
+<a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg">https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg</a>
 
 **What Is Welcome Weekend?**
 Welcome Weekend 2015 is a weekend packed full of fun activities and events starting Thursday, August 27th through Sunday, August 30th. Students will move into their residence halls and attend their first hall meeting. Throughout the weekend, students will have the opportunity to meet fellow classmates in their FYE class, and get to know their way around Kent's campus. This year's events include a comedian, Convocation, FYE Common Reading, Discover Downtown Kent, and Blastoff! Other events include: bingo, movies, broomball, ice skating, and karaoke.
