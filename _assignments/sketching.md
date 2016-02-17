@@ -14,7 +14,7 @@ This is a team project.  Your team repository should have your sketches posted o
 
 ## What To Do
 
-Now that you have identified project goals, main content and reviewed similar websites, you and your partner should sketch out at least 3 variations of your client's website on paper.  Sketches should include the following:
+Now that you have identified project goals, main content and reviewed similar websites, you and your partner should sketch out at least 3 templates from your client's website on paper.  Sketches should include the following:
 
 1.  Name of the template or type of content being sketched.  For example, a product page.
 2.  Annotations to describe different elements on the page.
