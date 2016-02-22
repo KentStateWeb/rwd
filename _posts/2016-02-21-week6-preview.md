@@ -7,7 +7,7 @@ published: true
 
 Sorry for the late email this week!  I am just getting over a cold and was out of the office on Friday.  
 
-In the next class we go from content strategy to design patterns, styles and an introduction to CSS.  This means we'll finally start to add some colors, typography and visual styles to our HTML.
+In the next class we go from content strategy to design patterns, styles and an introduction to CSS. 
 
 In the last class, we:
 
@@ -19,7 +19,7 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## For Next Class
 
-We'll be jumping into Design Patterns, Style Tiles and Web Typography.  We'll be talking about a few new tools, Sketch and TypeCast, and also starting an introduction to CSS. 
+It's time to start covering some visual design concepts!  We'll be jumping into Design Patterns, Style Tiles and Web Typography.  We'll be talking about a few new tools, Sketch and TypeCast, and also starting an introduction to CSS with your first CSS assignment. 
 
 ### Project Sketches
 
