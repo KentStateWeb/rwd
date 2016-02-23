@@ -3,7 +3,7 @@ title: "Group 8"
 client: "Franklin County Family & Community Services"
 members: "Mario Fasolo and Maddie Bensinger"
 layout: group
-link: 
+link: http://mariofasolo.github.io/group8/
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: spring-2016
 ---
