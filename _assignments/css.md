@@ -39,7 +39,7 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 3. Change the line-height of the paragraph text (P's) and list items (LI's) to be 1.3, so that there's a bit more spacing between lines.
 4. Set all links to darken when the mouse hovers over them.  Use this slightly darker green: #3c8b99;
 5. Remove the bullets from the unordered bulleted lists.  Add a property to make unordered bulleted lists have a left padding of 1em:  padding-left: 1em;
-6. Set padding on each side of the body element of 2em.  Note: we'll learn more about this in the next lesson - padding: 1em;
+6. Set padding on each side of the body element of 2em.  Note: we'll learn more about this in the next lesson.
 
 ### Add CSS Comments
 
