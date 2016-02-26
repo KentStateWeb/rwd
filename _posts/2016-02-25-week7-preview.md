@@ -5,7 +5,7 @@ category: blog
 published: true
 ---
 
-We'll be continuing our section on CSS and visual design patterns in the next class.
+We'll be continuing our discussion on CSS and visual design patterns in the next class.
 
 In the last class, we:
 
@@ -18,11 +18,11 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## For Next Class
 
-We'll be continuing our discussion on CSS properties (specifically typography) and go over your CodePen assignments.  We'll also work on style tiles for your website projects.  Finally, I'll give you a link to complete the mid-semester survey.
+We’ll talk about some new CSS properties (specifically relating to web typography) and go over your CodePen assignments.  We'll also work on style tiles for your website projects.  Finally, I'll give you a link to complete the mid-semester survey.
 
 ### CSS Basics Assignment
 
-This is an individual assignment in CodePen.  We started it already in class.  It's due at the beginning of class on Tuesday.  In it, you'll be styling the Meida Ethics Conference web page using colors, fonts, line height, background-colors and font sizes.
+This is an individual assignment in CodePen.  We started it already in class.  It's due at the beginning of class on Tuesday.  In it, you'll be styling the Media Ethics Conference web page using colors, fonts, line height, background-colors and font sizes.
 
 <a href="http://rwdkent.com/class/assignments/css/" class="button small">View CSS Assignment Details</a>
 
