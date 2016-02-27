@@ -228,6 +228,7 @@ h4 {
 	width: 100px;
 	float: left;
 	padding-right: 1em;
+	max-height: 100px;
 }
 
 .main-content-area-full img {
@@ -238,12 +239,14 @@ h4 {
 @media screen and (min-width: 650px) {
 	.floated-feature-image {
 		width: 150px;
+		max-height: 150px;
 	}
 }
 
 @media screen and (min-width: 1000px) {
 	.floated-feature-image {
 		width: 175px;
+		max-height: 200px;
 		margin-left: -4%;
 		padding-bottom: .5em;
 	}
@@ -254,14 +257,106 @@ h4 {
 		width: 30%;
 		float: left;
 		margin-left: -11.5%;
-		-webkit-shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);	
-		shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);	}
+		margin-top: -15px;
+		/* -webkit-shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);	
+		shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 128px 196px, 0px 196px);*/	}
 }
 
 @media screen and (min-width: 1400px) {
 	.floated-feature-image {
 		max-width: 225px;
-		shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 122px 207px, 3px 208px);
+		/*shape-outside: polygon(nonzero, -1px 24px, 76px 29px, 125px 52px, 122px 207px, 3px 208px)*/;
+	}
+}
+
+/* Animations for Devices */
+
+/*#Tablet {
+	animation: move 1s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}*/
+
+#Rectangle-8-Copy-4 {
+	opacity: 0;
+	animation-delay: 3s;
+	animation: text 1s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#Group-5 {
+	opacity: 0;
+	animation: text 2s ease;
+	animation-delay: 3s;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#Rectangle-8 {
+	opacity: 0;
+	animation-delay: 1s;
+	animation: text 3s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#Rectangle-8-Copy {
+	opacity: 0;
+	animation-delay: 1s;
+	animation: text 2s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#Text-Smal {
+	opacity: 0;
+	animation: text 1s ease;
+	animation-delay: 4s;
+	animation-direction: alternate;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+/*#Phone {	
+	animation: move-small 1s ease;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}*/
+
+#Rectangle-8-Copy-13 {
+	opacity: 0;
+	animation: text 1s ease;
+	animation-delay: 2s;
+	animation-direction: alternate;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+/*@keyframes move-small {
+	0% {
+		transform: translate(100px,100px);
+	}
+	100% {
+		transform: translate(240px,150px);
+	}
+}
+
+@keyframes move {
+	0% {
+		transform: translate(10px,50px);
+	}
+	100% {
+		transform: translate(0,0);
+	}
+}*/
+
+@keyframes text {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 90;
 	}
 }
 
