@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-03-01 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 You're happy with the content on your Media Ethics conference website (that you made in HTML 1).  It's time to add some visual styles to the website using CSS.
