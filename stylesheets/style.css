@@ -27,9 +27,8 @@ body {
 /* Basic Typography, Lists, Tables */
 
 p, ul, ol, li, table, dl {
-	font-size: 1.1em;
+	font-size: 1.05em;
 	line-height: 1.4;
-	color: #606060;
 }
 
 @media screen and (min-width: 800px) {
@@ -251,7 +250,7 @@ h4 {
 	.floated-feature-image-container {
 		width: 40%;
 		float: right;
-		margin-top: -25em;
+		margin-top: -22em;
 		padding-left: 2em;
 	}
 	.floated-feature-image {
@@ -275,10 +274,18 @@ h4 {
 		padding-left: 0;
 	}
 	.floated-feature-image-container {
-		margin-top: -22em;
+		margin-top: -26em;
 	}
+
 }
 
+@media screen and (min-width: 1300px) {
+
+	.floated-feature-image {
+		width: 550px;
+		max-height: 650px;
+	}
+}
 
 
 .main-content-area-full img {
@@ -291,7 +298,7 @@ h4 {
 
 #Rectangle-8-Copy-4 {
 	opacity: 0;
-	animation-delay: 3s;
+	animation-delay: 0s;
 	animation: text 1s ease;
 	animation-play-state: running; 
 	animation-fill-mode: forwards;
@@ -300,11 +307,21 @@ h4 {
 #tablet-text {
 	opacity: 0;
 	animation: text 1s ease;
-	animation-delay: 4s;
+	animation-delay: 0s;
 	animation-direction: alternate;
 	animation-play-state: running; 
 	animation-fill-mode: forwards;
 }
+
+#phone-text {
+	opacity: 0;
+	animation: text 1s ease;
+	animation-delay: 1s;
+	animation-direction: alternate;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
 
 
 #Rectangle-8-Copy-13 {
@@ -368,6 +385,7 @@ h4 {
 	margin-bottom: 0;
 	padding-bottom: 0;
 	line-height: 1.4;
+	color: black;
 }
 
 .blog-post-blurb {
@@ -383,7 +401,7 @@ h4 {
 
 @media screen and (min-width: 625px) {
 	.blog-post-blurb {
-		width: 95%;
+		width: 55%;
 	}
 }
 
@@ -596,10 +614,20 @@ p.introduction {
 	line-height: 1.4;
 	color: black;
 	font-weight: 300;
+}
+
+p.introduction-home {
 	max-width: 650px;
 }
 
 @media screen and (min-width:800px) {
+	p.introduction {
+		font-size: 1.25em;
+		line-height: 1.4;
+	}
+}
+
+@media screen and (min-width:1000px) {
 	p.introduction {
 		font-size: 1.4em;
 		line-height: 1.5;
@@ -712,7 +740,7 @@ main {
 }
 
 .main-content-area-full p {
-	font-size: 1.2em;
+	font-size: 1.1em;
 }
 
 .instructor-aside {
@@ -743,7 +771,7 @@ aside.aside-home {
 
 @media screen and (min-width: 800px) {
 	.tagline-container {
-		margin-bottom: 2.5em;
+		margin-bottom: 3.25em;
 	}
 }
 
@@ -758,9 +786,9 @@ aside.aside-home {
 	background-position: center bottom;
 	background-image: url(../img/shapes.svg);
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1200px) {
 	.tagline-container:after {
-		margin-left: -15%;
+		height: 150px;
 	}
 }
 
@@ -825,6 +853,13 @@ aside.aside-home {
 	font-size: 2.8em;
 	padding-top: 1.75em;
 	padding-bottom: .5em;
+	}
+}
+
+@media screen and (min-width: 1400px) {
+	.tagline h1 {
+		padding-top: 2.5em;
+		padding-bottom: 1em;
 	}
 }
 
@@ -1054,6 +1089,11 @@ footer {
 	border-bottom: 20px solid #393839;
 }
 
+.footer-inner {
+	max-width: 1175px;
+	margin: 0 auto;
+}
+
 @media screen and (min-width: 800px) {
 	footer {
 		padding: 2em;
@@ -1205,9 +1245,8 @@ footer img {
 
 /* Calendars */
 
-@media screen and (min-width:700px) {
+@media screen and (min-width:600px) {
 	.blog-post-container {
-		width: 50%;
 		float: left;
 	}
 
