@@ -6,7 +6,6 @@ title: Blog
 		<h2>Latest Posts</h2>
 		<div class="blog-posts">
 		{% for post in site.posts %}
-			<div class="blog-post-container">
 				<div class="blog-post group">
 					<a href="{{ post.url }}">
 						<div class="blog-post-date">
@@ -35,7 +34,6 @@ title: Blog
 							</div>
 						</div>
 					</a>
-				</div>
 			</div>
 			{% endfor %}
 		</div>
