@@ -300,6 +300,13 @@ h4 {
 	}
 }
 
+@media screen and (min-width: 1500px) {
+	.floated-feature-image-container {
+		margin-top: -25em;
+	}
+
+}
+
 
 .main-content-area-full img {
 	max-width: 100%;
