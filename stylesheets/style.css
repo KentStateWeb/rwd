@@ -296,24 +296,7 @@ h4 {
 /* Animations for Devices */
 
 
-#Rectangle-8-Copy-4 {
-	opacity: 0;
-	animation-delay: 0s;
-	animation: text 1s ease;
-	animation-play-state: running; 
-	animation-fill-mode: forwards;
-}
-
 #tablet-text {
-	opacity: 0;
-	animation: text 1s ease;
-	animation-delay: 0s;
-	animation-direction: alternate;
-	animation-play-state: running; 
-	animation-fill-mode: forwards;
-}
-
-#phone-text {
 	opacity: 0;
 	animation: text 1s ease;
 	animation-delay: 1s;
@@ -322,9 +305,7 @@ h4 {
 	animation-fill-mode: forwards;
 }
 
-
-
-#Rectangle-8-Copy-13 {
+#phone-text {
 	opacity: 0;
 	animation: text 1s ease;
 	animation-delay: 2s;
@@ -338,9 +319,10 @@ h4 {
 		opacity: 0;
 	}
 	100% {
-		opacity: 90;
+		opacity: 100;
 	}
 }
+
 
 /* Blog Teasers */
 
@@ -833,14 +815,14 @@ aside.aside-home {
 }
 @media screen and (min-width: 600px) {
 	.tagline h1 {
-		font-size: 2.5em;
+		font-size: 2.2em;
 		padding-top: 3rem;
 	}
 }
 
 @media screen and (min-width: 800px) {
 .tagline h1 {
-	font-size: 2.75em;
+	font-size: 2.4em;
 	width: 60%;
 	text-align: left;
 	padding-top: 5rem;
@@ -850,7 +832,7 @@ aside.aside-home {
 
 @media screen and (min-width: 1200px) {
 .tagline h1 {
-	font-size: 2.8em;
+	font-size: 2.6em;
 	padding-top: 1.75em;
 	padding-bottom: .5em;
 	}
@@ -858,8 +840,8 @@ aside.aside-home {
 
 @media screen and (min-width: 1400px) {
 	.tagline h1 {
-		padding-top: 2.5em;
-		padding-bottom: 1em;
+		padding-top: 2.1em;
+		padding-bottom: .3em;
 	}
 }
 
@@ -1220,7 +1202,7 @@ footer img {
 
 @media screen and (min-width: 800px) {
 	.button {
-		font-size: 1.1rem;
+		font-size: .95rem;
 	}
 }
 
