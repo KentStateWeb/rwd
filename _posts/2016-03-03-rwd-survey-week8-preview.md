@@ -22,7 +22,7 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## For Next Class
 
-We'll be having a group discussion about your style tiles (the first part of this assignment is due at the start of class)!  We'll also continue learning some new CSS properties, including CSS boxes, layout and images.
+We'll be having a group discussion about your style tiles (the first part of this assignment is due at the start of class).  We'll also continue learning some new CSS properties, including CSS boxes, layout and images.
 
 ### Style Tiles
 
