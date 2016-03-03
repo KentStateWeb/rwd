@@ -651,6 +651,79 @@
 		    font-size: .95rem;
 		  }
 		}
+
+		/* Blog Teasers */
+
+		.blog-post {
+			margin-bottom: 1em;
+			display: block;
+			margin-top: 1.5em;
+		}
+
+		.blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
+			background-color: #606060;
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post {
+				float: left;
+				width: 50%;
+				padding-right: 5%;
+			}
+		}
+
+		.blog-post h3, .blog-post h4, .class-title h3 {
+			margin-top: 0;
+			padding-top: 0;
+			margin-bottom: 0;
+		}
+
+		.blog-post a {
+			text-decoration: none;
+			color: rgb(26,117,138);
+		}
+
+		.blog-post a:hover, .blog-post a:focus {
+			color: rgb(26,117,138);
+		}
+
+		.blog-post-summary {
+			font-size: .8em;
+		}
+
+		.blog-post-summary p {
+			margin-bottom: 0;
+			padding-bottom: 0;
+			line-height: 1.4;
+			color: black;
+		}
+
+		.blog-post-blurb {
+			float: left;
+			width: 60%;
+		}
+
+		@media screen and (min-width: 500px) {
+			.blog-post-blurb {
+				width: 75%;
+			}
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post-blurb {
+				width: 55%;
+			}
+		}
+
+		@media screen and (min-width: 700px) {
+			.blog-post-blurb {
+				width: 65%;
+			}
+		}
+
+		.blog-post h4 {
+			font-size: 1em;
+		}
 		</style>
 		<link rel="canonical" href="http://www.rwdkent.com/class/schedule/1/">
 		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
