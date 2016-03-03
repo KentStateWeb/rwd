@@ -25,270 +25,632 @@
 		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		<style>
-			@charset "utf-8";
+		@charset "utf-8";
 
-			body {
-			  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
-			  padding: 0;
-			  margin: 0;
-			}
+		body {
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: 0;
+		  margin: 0;
+		}
 
-			.group:after {
-			  display: block;
-			  content: "";
-			  display: table;
-			  clear: both;
-			}
+		.group:after {
+		  content: ".";
+		  display: block;
+		  height: 0;
+		  overflow: hidden;
+		}
 
-			* {
-			  box-sizing: border-box;
-			}
+		.group:after {
+		  clear: both;
+		}
 
-			ul,
-			li {
-			  font-size: 1.05em;
-			  line-height: 1.4;
-			}
+		.group {
+		  zoom: 1;
+		  /* IE < 8 */
+		}
 
-			@media screen and (min-width: 800px) {
-			  ul,
-			  li {
-			    line-height: 1.6;
-			  }
-			}
+		* {
+		  box-sizing: border-box;
+		}
 
-			ul a {
-			  color: rgb(26,117,138);
-			  font-weight: bold;
-			  text-decoration: none;
-			  transition: .3s color ease-in-out;
-			  word-wrap: break-word;
-			}
+		p,
+		ul,
+		li {
+		  font-size: 1.05em;
+		  line-height: 1.4;
+		}
 
-			header {
-			  text-align: center;
-			  padding-top: 10px;
-			  border-top: 20px solid #393839;
-			  margin-bottom: 1.5em;
-			  width: 96%;
-			  margin: 0 auto;
-			}
+		@media screen and (min-width: 800px) {
+		  p,
+		  ul,
+		  li {
+		    line-height: 1.6;
+		  }
+		}
 
-			header .svg {
-			  width: 200px;
-			  margin-bottom: 0;
-			  padding-bottom: 0;
-			  margin-top: .05em;
-			  height: 80px;
-			}
+		p a,
+		ul a {
+		  color: rgb(26,117,138);
+		  font-weight: bold;
+		  text-decoration: none;
+		  word-wrap: break-word;
+		}
 
-			a.svg {
-			  position: relative;
-			  display: inline-block;
-			}
+		h1 {
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  letter-spacing: 2px;
+		  text-transform: uppercase;
+		}
 
-			a.svg:after {
-			  content: "";
-			  position: absolute;
-			  top: 0;
-			  right: 0;
-			  bottom: 0;
-			  left: 0;
-			}
+		h1 {
+		  font-size: 2.5em;
+		  margin-bottom: .5em;
+		  margin-top: 0;
+		  color: rgb(26,117,138);
+		}
 
-			.rwd-svg .shape {
-			  transition: .3s all ease-in-out;
-			}
+		@media screen and (min-width: 800px) {
+		  h1 {
+		    margin-top: .5em;
+		    font-size: 3em;
+		  }
+		}
 
-			.rwd-svg .mark {
-			  transform: scale(1.0);
-			  transition: .3s all ease-in-out;
-			}
+		.floated-feature-image-container {
+		  width: 100%;
+		  text-align: center;
+		  margin-top: -7em;
+		  margin-bottom: 2em;
+		  overflow: hidden;
+		  z-index: 1000;
+		  position: relative;
+		}
 
-			.svg .rwd-svg .mark {
-			  animation-fill-mode: backwards;
-			  transform: translate(0,0) scale(1.0);
-			}
+		.floated-feature-image {
+		  width: 250px;
+		  max-height: 150px;
+		  margin: 0 auto;
+		}
 
-			.svg .code-left,
-			.svg .code-right {
-			  animation-fill-mode: backwards;
-			  transform: translate(0,0);
-			}
+		@media screen and (min-width: 600px) {
+		  .floated-feature-image {
+		    width: 300px;
+		    max-height: 200px;
+		  }
+		}
 
-			@media screen and (min-width:600px) {
-			  header .svg {
-			    width: 225px;
-			    margin-bottom: 0;
-			    padding-bottom: 0;
-			    margin-top: .05em;
-			    height: 90px;
-			  }
-			}
+		@media screen and (min-width: 800px) {
+		  .floated-feature-image-container {
+		    width: 40%;
+		    float: right;
+		    margin-top: -22em;
+		    padding-left: 2em;
+		  }
 
-			@media screen and (min-width:880px) {
-			  header {
-			    text-align: left;
-			  }
+		  .floated-feature-image {
+		    width: 400px;
+		    max-height: 400px;
+		  }
+		}
 
-			  header .svg {
-			    float: left;
-			    margin-bottom: 1.5em;
-			    padding-top: .5em;
-			    width: 25%;
-			    max-width: 250px;
-			    padding-bottom: 0em;
-			    height: auto;
-			  }
-			}
+		@media screen and (min-width: 1000px) {
+		  .floated-feature-image-container {
+		    padding-left: 4em;
+		    margin-bottom: 0;
+		  }
 
-			@media screen and (min-width:1200px) {
-			  header .svg {
-			    max-width: 265px;
-			    margin-bottom: 1.25em;
-			    margin-top: .7em;
-			    width: 50%;
-			    padding-top: 0;
-			  }
-			}
+		  .floated-feature-image {
+		    width: 450px;
+		    max-height: 550px;
+		  }
+		}
 
-			nav {
-			  display: block;
-			  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
-			  padding: .25em 1em;
-			  margin: 0 auto;
-			  margin-top: 0em;
-			  margin-bottom: .5em;
-			}
+		@media screen and (min-width: 1200px) {
+		  .floated-feature-image-container {
+		    padding-left: 0;
+		  }
 
-			nav a {
-			  text-decoration: none;
-			  color: #393839;
-			  letter-spacing: 2px;
-			  font-size: 1.2em;
-			  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
-			  text-transform: uppercase;
-			  transition: .2s color ease-in-out;
-			}
+		  .floated-feature-image-container {
+		    margin-top: -24em;
+		  }
+		}
 
-			@media screen and (min-width: 500px) {
-			  nav a {
-			    font-size: 1.1em;
-			  }
-			}
+		@media screen and (min-width: 1300px) {
+		  .floated-feature-image {
+		    width: 500px;
+		    max-width: 500px;
+		    max-height: 650px;
+		  }
+		}
 
-			nav ul {
-			  list-style-type: none;
-			  margin: 0;
-			  padding: 0;
-			  margin: 0 auto;
-			  text-align: center;
-			  display: table;
-			  margin-bottom: .5em;
-			}
 
-			nav ul li {
-			  text-align: center;
-			  float: left;
-			  display: table-cell;
-			  width: 50%;
-			  padding-bottom: 0em;
-			  padding-top: .25em;
-			  margin-bottom: 0;
-			}
 
-			nav ul li:before {
-			  content: none;
-			}
+		#tablet-text-top {
+		  opacity: 0;
+		}
 
-			nav ul li:last-child:after {
-			  content: "";
-			  width: 0;
-			  padding: 0;
-			}
+		#tablet-text-middle {
+		  opacity: 0;
+		}
 
-			@media screen and (min-width:500px) {
-			  nav {
-			    padding: .5em;
-			  }
+		#tablet-text-bottom {
+		  opacity: 0;
+		}
 
-			  nav ul li {
-			    width: inherit;
-			  }
+		#phone-text {
+		  opacity: 0;
+		}
 
-			  nav ul li:after {
-			    content: "/";
-			    width: 15px;
-			    color: rgb(240,99,116);
-			    font-weight: bold;
-			    font-size: 1.5em;
-			    padding-left: .5em;
-			    padding-right: .5em;
-			  }
-			}
+		header {
+		  text-align: center;
+		  padding-top: 10px;
+		  border-top: 20px solid #393839;
+		  margin-bottom: 1.5em;
+		  width: 91%;
+		  max-width: 1200px;
+		  margin: 0 auto;
+		}
 
-			@media screen and (min-width:600px) {
-			  nav a {
-			    font-size: 1.3em;
-			  }
-			}
+		@media screen and (min-width: 800px) {
+		  header {
+		    width: 93%;
+		  }
+		}
 
-			@media screen and (min-width:880px) {
-			  nav {
-			    display: inline-block;
-			    float: right;
-			    width: 65%;
-			    background-color: inherit;
-			    border-top: none;
-			    margin-top: 1em;
-			  }
+		@media screen and (min-width: 1000px) {
+		  header {
+		    width: 85%;
+		  }
+		}
 
-			  nav ul {
-			    margin-right: 0;
-			  }
+		@media screen and (min-width: 1200px) {
+		  header {
+		    width: 100%;
+		    max-width: 1500px;
+		    padding: 0 10em;
+		  }
+		}
 
-			  nav a {
-			    font-size: 1.3em;
-			  }
-			}
+		header .svg {
+		  width: 200px;
+		  margin-bottom: 0;
+		  padding-bottom: 0;
+		  margin-top: .05em;
+		  height: 80px;
+		}
 
-			@media screen and (min-width: 1200px) {
-			  nav {
-			    margin-top: 1em;
-			    margin-bottom: 0;
-			  }
+		a.svg {
+		  position: relative;
+		  display: inline-block;
+		}
 
-			  nav ul li:after {
-			    padding-left: .75em;
-			    padding-right: .75em;
-			  }
+		a.svg:after {
+		  content: "";
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  bottom: 0;
+		  left: 0;
+		}
 
-			  nav a {
-			    font-size: 1.5em;
-			  }
-			}
+		@media screen and (min-width: 1200px) {
+		  .rwd-svg {
+		    height: 120px;
+		  }
+		}
 
-			#skip-to-content {
-			  padding: 1em;
-			  position: absolute;
-			  top: -40px;
-			  left: 1em;
-			  z-index: 1000;
-			  color: white;
-			}
 
-			.visually-hidden {
-			  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
-			  position: absolute !important;
-			  clip: rect(1px 1px 1px 1px);
-			  /* IE6, IE7 */
-			  clip: rect(1px, 1px, 1px, 1px);
-			  padding: 0 !important;
-			  border: 0 !important;
-			  height: 1px !important;
-			  width: 1px !important;
-			  overflow: hidden;
-			}
+
+		.rwd-svg .mark {
+		  transform: scale(1.0);
+		}
+
+		.svg .rwd-svg .mark {
+		  transform: translate(0,0) scale(1.0);
+		}
+
+		.svg .code-left,
+		.svg .code-right {
+		  transform: translate(0,0);
+		}
+
+		@media screen and (min-width:600px) {
+		  header .svg {
+		    width: 225px;
+		    margin-bottom: 0;
+		    padding-bottom: 0;
+		    margin-top: .05em;
+		    height: 90px;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  header {
+		    text-align: left;
+		  }
+
+		  header .svg {
+		    float: left;
+		    margin-bottom: 1.5em;
+		    padding-top: .5em;
+		    width: 25%;
+		    max-width: 250px;
+		    padding-bottom: 0em;
+		    height: auto;
+		  }
+		}
+
+		@media screen and (min-width:1200px) {
+		  header .svg {
+		    max-width: 265px;
+		    margin-bottom: 1.25em;
+		    margin-top: 1.2em;
+		    width: 50%;
+		    padding-top: 0;
+		  }
+		}
+
+		main {
+		  padding: 1em;
+		}
+
+		@media screen and (min-width:600px) {
+		  main {
+		    padding: 2em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  main {
+		    padding: 2.5em;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  main {
+		    padding: 0 6em;
+		  }
+		}
+
+		p.introduction {
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  font-size: 1.1em;
+		  margin-top: 0;
+		  line-height: 1.4;
+		  color: black;
+		  font-weight: 300;
+		}
+
+		p.introduction-home {
+		  max-width: 650px;
+		}
+
+		@media screen and (min-width:600px) {
+		  p.introduction {
+		    font-size: 1.2em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:800px) {
+		  p.introduction {
+		    font-size: 1.25em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  p.introduction {
+		    font-size: 1.3em;
+		    line-height: 1.4;
+		  }
+		}
+
+		main {
+		  margin-top: 0;
+		  padding-top: 0.5em;
+		}
+
+		@media screen and (min-width:1200px) {
+		  main {
+		    padding: 0 10rem;
+		    max-width: 1500px;
+		    margin: 0 auto;
+		    display: block;
+		  }
+
+		  .main-content-area {
+		    width: 60%;
+		    float: left;
+		  }
+		}
+
+		.tagline-container {
+		  background: rgb(240,98,116);
+		  margin-bottom: 2em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline-container {
+		    margin-bottom: 3.25em;
+		  }
+		}
+
+		.tagline-container:after {
+		  display: block;
+		  height: 100px;
+		  width: 100%;
+		  background-repeat: no-repeat;
+		  content: "";
+		  background-color: white;
+		  background-size: cover;
+		  background-position: center bottom;
+		  background-image: url(../img/shapes.svg);
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline-container:after {
+		    height: 150px;
+		  }
+		}
+
+		.tagline {
+		  max-width: 1200px;
+		  margin: 0 auto;
+		  width: 89%;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline {
+		    padding: 0 2em;
+		    width: 100%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline {
+		    padding: 0 6em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline {
+		    padding: 0 10em;
+		    max-width: 1500px;
+		  }
+		}
+
+		.tagline h1 {
+		  padding: 0;
+		  padding-top: 1.5em;
+		  font-size: 1.75em;
+		  margin-top: 0;
+		  line-height: 1.1;
+		  text-align: center;
+		  font-weight: 300;
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  text-transform: none;
+		  color: white;
+		  letter-spacing: normal;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 {
+		    font-size: 2.2em;
+		    padding-top: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 {
+		    font-size: 2.4em;
+		    width: 60%;
+		    text-align: left;
+		    padding-top: 5rem;
+		    padding-bottom: 2rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 {
+		    font-size: 2.6em;
+		    padding-top: 1.85em;
+		    padding-bottom: .3em;
+		  }
+		}
+
+		.tagline h1 strong {
+		  font-size: 2.75rem;
+		  color: white;
+		  letter-spacing: 1px;
+		  font-weight: 600;
+		  display: block;
+		  text-transform: uppercase;
+		  font-family: nimbus-sans-condensed;
+		  margin-bottom: .075em;
+		  line-height: 1;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 strong {
+		    font-size: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 strong {
+		    font-size: 3.3rem;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline h1 strong {
+		    font-size: 3.5rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 strong {
+		    font-size: 4rem;
+		  }
+		}
+
+		nav {
+		  display: block;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: .25em 1em;
+		  margin: 0 auto;
+		  margin-top: 0em;
+		  margin-bottom: .5em;
+		}
+
+		nav a {
+		  text-decoration: none;
+		  color: #393839;
+		  letter-spacing: 2px;
+		  font-size: 1.2em;
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  text-transform: uppercase;
+		}
+
+		@media screen and (min-width: 500px) {
+		  nav a {
+		    font-size: 1.1em;
+		  }
+		}
+
+		nav ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 0;
+		  margin: 0 auto;
+		  text-align: center;
+		  display: table;
+		  /*margin-bottom: .5em;*/
+		}
+
+		nav ul li {
+		  text-align: center;
+		  float: left;
+		  display: table-cell;
+		  width: 50%;
+		  padding-bottom: 0em;
+		  padding-top: .25em;
+		  margin-bottom: 0;
+		}
+
+		nav ul li:before {
+		  content: none;
+		}
+
+		nav ul li:last-child:after {
+		  content: "";
+		  width: 0;
+		  padding: 0;
+		}
+
+		@media screen and (min-width:500px) {
+		  nav {
+		    padding: .5em;
+		  }
+
+		  nav ul li {
+		    width: inherit;
+		  }
+
+		  nav ul li:after {
+		    content: "/";
+		    width: 15px;
+		    color: rgb(240,99,116);
+		    font-weight: bold;
+		    font-size: 1.5rem;
+		    padding-left: .5rem;
+		    padding-right: .5rem;
+		  }
+		}
+
+		@media screen and (min-width:600px) {
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  nav {
+		    display: inline-block;
+		    float: right;
+		    width: 65%;
+		    background-color: inherit;
+		    border-top: none;
+		    margin-top: .9em;
+		  }
+
+		  nav ul {
+		    margin-right: 0;
+		  }
+
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  nav {
+		    margin-top: 2em;
+		    margin-bottom: 0;
+		  }
+
+		  nav ul li:after {
+		    padding-left: .75em;
+		    padding-right: .75em;
+		  }
+
+		  nav a {
+		    font-size: 1.5em;
+		  }
+		}
+
+		#skip-to-content {
+		  padding: 1em;
+		  position: absolute;
+		  top: -40px;
+		  left: 1em;
+		  z-index: 1000;
+		  color: white;
+		}
+
+		.visually-hidden {
+		  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+		  position: absolute !important;
+		  clip: rect(1px 1px 1px 1px);
+		  /* IE6, IE7 */
+		  clip: rect(1px, 1px, 1px, 1px);
+		  padding: 0 !important;
+		  border: 0 !important;
+		  height: 1px !important;
+		  width: 1px !important;
+		  overflow: hidden;
+		}
+
+		.button {
+		  text-decoration: none;
+		  background-color: rgb(26,117,138);
+		  color: white;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  font-size: .9em;
+		  padding: 1.25rem 1.5rem;
+		  display: inline-block;
+		  border-radius: 40px;
+		  margin-top: .5em;
+		  border-bottom: 5px solid #19687A;
+		  margin-bottom: 1.5em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .button {
+		    font-size: .95rem;
+		  }
+		}
 		</style>
 		<link rel="canonical" href="http://www.rwdkent.com/class/">
 		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
