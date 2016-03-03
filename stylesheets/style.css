@@ -11,10 +11,17 @@ body {
 /* Clearfix that will automatically clear floats */
 
 .group:after {
+  content: ".";
   display: block;
-  content: "";
-  display: table;
-  clear: both;
+  height: 0;
+  overflow: hidden;
+}
+
+.group:after {
+    clear: both;
+}
+.group {
+    zoom: 1; /* IE < 8 */
 }
 
 /* Set the default box-sizing to border-box */
@@ -158,12 +165,13 @@ h1, h2, h3 {
 h1 {
 	font-size: 2.5em;
 	margin-bottom: .5em;
-	margin-top: .5em;
+	margin-top: 0;
 	color: rgb(26,117,138);
 }
 
 @media screen and (min-width: 800px) {
 	h1 {
+		margin-top: .5em;
 		font-size: 3em;
 	}
 }
@@ -262,6 +270,7 @@ h4 {
 @media screen and (min-width: 1000px) {
 	.floated-feature-image-container {
 		padding-left: 4em;
+		margin-bottom: 0;
 	}
 	.floated-feature-image {
 		width: 450px;
@@ -274,7 +283,7 @@ h4 {
 		padding-left: 0;
 	}
 	.floated-feature-image-container {
-		margin-top: -26em;
+		margin-top: -24em;
 	}
 
 }
@@ -282,7 +291,8 @@ h4 {
 @media screen and (min-width: 1300px) {
 
 	.floated-feature-image {
-		width: 550px;
+		width: 500px;
+		max-width: 500px;
 		max-height: 650px;
 	}
 }
@@ -295,10 +305,60 @@ h4 {
 
 /* Animations for Devices */
 
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
 
-#tablet-text {
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@-webkit-keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+#Page-1 {
+	animation: fadeInUp .5s ease;
+}
+
+
+#tablet-text-top {
 	opacity: 0;
-	animation: text 1s ease;
+	animation: text .8s ease;
+	animation-delay: .3s;
+	animation-direction: alternate;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#tablet-text-middle {
+	opacity: 0;
+	animation: text .8s ease;
+	animation-delay: .7s;
+	animation-direction: alternate;
+	animation-play-state: running; 
+	animation-fill-mode: forwards;
+}
+
+#tablet-text-bottom {
+	opacity: 0;
+	animation: text .8s ease;
 	animation-delay: 1s;
 	animation-direction: alternate;
 	animation-play-state: running; 
@@ -308,7 +368,7 @@ h4 {
 #phone-text {
 	opacity: 0;
 	animation: text 1s ease;
-	animation-delay: 2s;
+	animation-delay: 1.25s;
 	animation-direction: alternate;
 	animation-play-state: running; 
 	animation-fill-mode: forwards;
@@ -372,7 +432,7 @@ h4 {
 
 .blog-post-blurb {
 	float: left;
-	width: 65%;
+	width: 60%;
 }
 
 @media screen and (min-width: 500px) {
@@ -450,6 +510,12 @@ a.svg:after {
   right: 0;
   bottom: 0;
   left:0;
+}
+
+@media screen and (min-width: 1200px) {
+.rwd-svg {
+	height: 120px;
+}
 }
 
 .rwd-svg .shape {
@@ -591,7 +657,7 @@ main {
 
 p.introduction {
 	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.1em;
 	margin-top: 0;
 	line-height: 1.4;
 	color: black;
@@ -600,6 +666,13 @@ p.introduction {
 
 p.introduction-home {
 	max-width: 650px;
+}
+
+@media screen and (min-width:600px) {
+	p.introduction {
+		font-size: 1.2em;
+		line-height: 1.4;
+	}
 }
 
 @media screen and (min-width:800px) {
@@ -611,8 +684,8 @@ p.introduction-home {
 
 @media screen and (min-width:1000px) {
 	p.introduction {
-		font-size: 1.4em;
-		line-height: 1.5;
+		font-size: 1.3em;
+		line-height: 1.4;
 	}
 }
 
@@ -702,9 +775,10 @@ aside img {
 }
 
 main {
-	padding: 0 10em;
+	padding: 0 10rem;
 	max-width: 1500px;
 	margin: 0 auto;
+	display: block;
 }
 
 .main-content-area {
@@ -777,7 +851,7 @@ aside.aside-home {
 .tagline {
 	max-width: 1200px;
 	margin: 0 auto;
-	width: 91%;
+	width: 89%;
 }
 
 @media screen and (min-width: 800px) {
@@ -833,8 +907,8 @@ aside.aside-home {
 @media screen and (min-width: 1200px) {
 .tagline h1 {
 	font-size: 2.6em;
-	padding-top: 1.75em;
-	padding-bottom: .5em;
+	padding-top: 1.85em;
+	padding-bottom: .3em;
 	}
 }
 
@@ -857,14 +931,21 @@ aside.aside-home {
 }
 
 .tagline h1 strong {
-	font-size: 3rem;
+	font-size: 2.75rem;
 	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
 	display: block;
 	text-transform: uppercase;
 	font-family: nimbus-sans-condensed;
-	margin-bottom: .05em;
+	margin-bottom: .075em;
+	line-height: 1;
+}
+
+@media screen and (min-width: 600px) {
+	.tagline h1 strong {
+		font-size: 3rem;
+	}
 }
 
 @media screen and (min-width: 800px) {
@@ -933,7 +1014,7 @@ nav ul {
 	margin: 0 auto;
 	text-align: center;
 	display: table;
-	margin-bottom: .5em;
+	/*margin-bottom: .5em;*/
 }
 
 nav ul li {
@@ -976,9 +1057,9 @@ nav ul li:last-child:after {
 	width: 15px;
 	color: rgb(240,99,116);
 	font-weight: bold;
-	font-size: 1.5em;
-	padding-left: .5em;
-	padding-right: .5em;
+	font-size: 1.5rem;
+	padding-left: .5rem;
+	padding-right: .5rem;
 }
 }
 
