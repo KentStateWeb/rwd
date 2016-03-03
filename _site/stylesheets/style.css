@@ -235,7 +235,7 @@ h4 {
 	width: 100%;
 	text-align: center;
 	margin-top: -7em;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 	overflow: hidden;
 	z-index:1000;
 	position: relative;
@@ -248,6 +248,9 @@ h4 {
 }
 
 @media screen and (min-width: 600px) {
+	.floated-feature-image-container {
+		margin-bottom: 2em;
+	}
 	.floated-feature-image {
 		width: 300px;
 		max-height: 200px;
