@@ -851,6 +851,12 @@ aside.aside-home {
 	}
 }
 
+@media screen and (min-width: 1500px) {
+	.tagline-container:after {
+		height: 200px;
+	}
+}
+
 .tagline {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -919,6 +925,13 @@ aside.aside-home {
 	.tagline h1 {
 		padding-top: 2.1em;
 		padding-bottom: .3em;
+	}
+}
+
+@media screen and (min-width: 1500px) {
+	.tagline h1 {
+		padding-top: 2.5em;
+		padding-bottom: 0em;
 	}
 }
 
