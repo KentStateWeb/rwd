@@ -36,6 +36,6 @@ Your final Style Tiles assignment isn't due in Blackboard until March 15, along 
 
 ### Reading
 
-There are a few assigned readings for class.  The CSS reading this week is going to be essential for learning media queries next week, so be sure that you read and understand it.  
+There is one reading assignment for class.  The CSS reading this week is going to be essential for learning media queries next week, so be sure that you read and understand it.  
 
 * HTML & CSS Book:  Ch. 13 Boxes, Ch. 15 Layout, Ch. 16 Images
