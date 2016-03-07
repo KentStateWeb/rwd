@@ -20,7 +20,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - CSS Basics 2". 
 
-###Add HTML5 Layout Elements and Set Background
+### Add HTML5 Layout Elements and Set Background
 
 1. First, we need to add some HTML5 elements to surround our main sections of content: the header, main content area and footer.  In the HTML, surround the header logo and H1 with a header tag.  Surround the main content with a main tag (starting with figure and ending with the embedded video).  Surround the footer with a footer tag, starting with Student Success Programs and ending with the contact information.  Now we can target each of these areas separately with different CSS, plus they're now semantically accessible to screen readers.
 2.  Make everything on the page a sans-serif typeface.  Add a blue background-color to the entire page of rgb(0,38,100),
