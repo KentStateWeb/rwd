@@ -27,23 +27,25 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 
 ### Format the Headings
 
-1.  Make your H1 have the following attributes: (a) a font-size of 2.3em, (b) letter spacing of 1px, (c) use the "Garamond, Georgia, serif" font family, (d) normal font weight (e) a top margin of .25em, (f) a text shadow of 1px 1px 2px rgba(0,0,0,.9).
-2. Make the H2's the same color blue as the background.  Adjust the margins so that the top margin is 2em and the bottom margin is 0.5em.
+1.  Make your H1 (Welcome Weekend) have the following attributes: (a) a font-size of 2.3em, (b) letter spacing of 1px, (c) use the "Garamond, Georgia, serif" font family, (d) normal font weight (e) a top margin of .25em, (f) a text shadow of 1px 1px 2px rgba(0,0,0,.9).
+2. Make the H2's (your subheading styles) the same color blue as the background.  Adjust the margins so that the top margin is 2em and the bottom margin is 0.5em.
 
 ### Style the Header
 
-1. Align everything in the header to be centered.  Change all of the text in the header to be colored white.
-2. We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class to the DKS logo in the HTML.  Then, target that class to be a width of 150px and have a top margin of 1em.
+1. Align everything in the header to be centered (hint - use text-align).  Change all of the text in the header to be colored white.
+2. We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class to the DKS logo withinin the HTML (you can choose any class name you like).  Then, target that class in the CSS to be a width of 150px and have a top margin of 1em.
 
 ### Style the Main Content Area and Paragraphs
-1. Make the main content area have a 95% transparent white background color.  Use the color rgba(255,255,255,.95).  Also add the following attributes: (a) Padding of 1.5em, (b) set the width at 90%, (c) margin: 0 auto (this centers it in the middle of the page), (d) round the corners at 5px, (e) set a maximum width of 900px, (f) set a slight shadow on the box using these values: 1px 1px 3px rgba(0,0,0,.8).
-2.  Give all paragraphs a line height of 1.5.
-3. Set all of the images and iframes on the page to be a maximum width of 100% so that they never overflow.
-4. Set all blockquotes to closely [match this style](/img/quote.png).  Set the width to 70% and center the quote in the middle of the page. 
-5. Set the cite tag to have a bottom margin of 2em and a margin-left of 15%;  You have to set cite to display:block in order for it to have a margin.
-6. Set the figure (which contains the image and caption) to take up 70% of the page as well and center it in the middle of the page.  Add padding to the top and bottom of the figure to space things out.
-7. Give the image (only the one inside the figure) a 5px white border.  Give it a box shadow using this value: 1px 1px 3px rgba(0,0,0,.2).
-8. Make the figcaption have a margin to space things out.  Make the font italic, .8em and align it to the center.
+
+1. Make the main content area have a 95% transparent white background color.  Use the color rgba(255,255,255,.95).  
+2.  Also add the following attributes to the main content area: (a) Padding of 1.5em, (b) set the width at 90%, (c) margin: 0 auto (this centers it in the middle of the page), (d) round the corners at 5px, (e) set a maximum width of 900px, (f) set a slight shadow on the box using these values: 1px 1px 3px rgba(0,0,0,.8).
+3.  Give all paragraphs a line height of 1.5.
+4. Set all of the images and iframes on the page to be a maximum width of 100% (use max-width) so that they never overflow.
+5. Set all blockquotes to closely [match this style](/img/quote.png).  Set the width to 70% and center the quote in the middle of the page using auto margins on either side. 
+6. Set the cite tag to have a bottom margin of 2em and a margin-left of 15%;  You have to set cite to display:block in order for it to have a margin and appear on its own line.
+7. Set the figure (which contains the image and caption) to take up 70% of the page as well and center it in the middle of the page using auto on the left and the right.  Add padding to the top and bottom of the figure to space things out.
+8. Give the image (only the one inside the figure) a 5px white border.  Give it a box shadow using this value: 1px 1px 3px rgba(0,0,0,.2).
+9. Make the figcaption have a margin to space things out.  Make the font italic, .8em and align it to the center.
 
 ### Style the Table
 
@@ -55,15 +57,17 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 
 ### Style the Footer
 
-1. Almost done!  Now, make the H2 in the footer only appear in gold: #eaab00.
+1. Almost done!  Now, make the headings (typically H2's) in the footer only appear in gold: #eaab00.
 2. Style the DT elements to appear in gold as well, make them uppercase with a font size of .9em, bold and a bottom margin of .5em.
 3.  Make the DD Elements have a left margin of 0, a bottom margin of 1em, a font-size of .9em and a 1.5 line height.
-4. You'll notice that the email address is unreadable.  To fix this, make all links in the footer appear in white.
-5. Give the footer a 1em padding on the bottom so that there's some breathing room at the end of the window.
+4. You'll notice that the email address is unreadable.  To fix this, make all links (a tags) in the footer appear in white.
+5. Give the footer 1em padding on the bottom so that there's some breathing room at the end of the window.
 
 ### Change Box-Sizing
 
-1. Finally, you'll notice that some of the elements still continue to overflow on small screens.  That's because of the extra padding and borders we've added.  To fix this, add this global style to make all boxes take their borders into account.  * { box-sizing: border-box; }
+Finally, you'll notice that some of the elements still continue to overflow on small screens.  That's because of the extra padding and borders we've added.  
+
+To fix this, add this global style to make all boxes take their borders into account.  Use * { box-sizing: border-box; }
 
 ### Submitting the Assignment
 
