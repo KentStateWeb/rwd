@@ -11,7 +11,7 @@ Let your interested friends know that the RWD class will be held at the same tim
 * Both undergraduate and graduate sections  
 * Permission from the student's advisor is required in order to register for the course
 
-Let your friends know and encourage them to contact their advisor to get them registered.  Please <a href="http://www.rwdkent.com">send them to the RWD website</a> or have them contact me with any questions about the course.
+Please <a href="http://www.rwdkent.com">send those interested to the RWD website</a> or have them contact me with any questions about the course.
 
 Many programs will substitute this class as one of the required program electives.
 
