@@ -62,6 +62,7 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 3.  Make the DD Elements have a left margin of 0, a bottom margin of 1em, a font-size of .9em and a 1.5 line height.
 4. You'll notice that the email address is unreadable.  To fix this, make all links (a tags) in the footer appear in white.
 5. Give the footer 1em padding on the bottom so that there's some breathing room at the end of the window.
+6.  Set everything in the footer to be centered using text-align.
 
 ### Change Box-Sizing
 
