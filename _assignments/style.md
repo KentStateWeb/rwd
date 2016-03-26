@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-03-15 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 You understand the content of your website and have some ideas about its architecture.  Now it's time to develop the visual language of the website.  We're going to use a technique called <a href="http://styletil.es">Style Tiles</a>.  Style Tiles allow you to communicate the personality of your website to a client - typography, colors, common UI elements - without designing the entire site at different breakpoints.  
