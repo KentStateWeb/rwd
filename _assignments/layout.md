@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-03-29 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 We're returning back to our Welcome Weekend website!  We have a good HTML structure in place as well as our basic CSS Styles, but now it's time to make sure the website uses our brand fonts as well as adjusts itself as the screen gets larger.
@@ -22,7 +24,7 @@ Open your CSS Basics 2 assignment.  Instead of editing the original pen, click t
 
 1. Replace the sans-serif and serif typefaces in the document with a Google Web Font.  Go to [https://www.google.com/fonts](https://www.google.com/fonts) and choose one serif and one sans-serif typeface (whatever you think fits).
 2. Under the "use" tab select your desired weights and then copy the code from the "Import" tab under step 3.
-3. Copy this import code into the top of your CSS in CodePen.
+3. Copy this import code (step 2) into the top of your CSS in CodePen.  If you used the <link> option, put this code in your HTML.
 4. Replace the font-family values in your CodePen with the values for the fonts you selected.
 
 ### Typography Changes
