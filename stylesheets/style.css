@@ -10,8 +10,8 @@ body {
 
 /* Clearfix that will automatically clear floats */
 
-.group:after {
-  content: ".";
+.group:before, .group:after {
+  content: " ";
   display: block;
   height: 0;
   overflow: hidden;
