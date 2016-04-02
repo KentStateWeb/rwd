@@ -31,6 +31,8 @@ I also added in some default responsive image styles and box-sizing: border-box 
 
 [View the Code Here](https://gist.github.com/challahan/33beaed4647a8e1f077c90085545c383)
 
+----
+
 ## Main Content Area with SideBar
 
 A common layout pattern start with main content and sidebar stacked until you reach a larger breakpoint, at which point the elements are floated left and right.
@@ -46,7 +48,8 @@ Buttons are typically just links with a special style applied to them.
 
 The pattern below will get you started, but of course you can customize a button to have any style you'd like.
 
-
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/YqrOdM/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/YqrOdM/'>Button Starter</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
 ----
 
@@ -62,6 +65,8 @@ Note that you can change the 33% to 25% for 4 columns, 50% for 2 columns, etc.
 ----
 
 ## Stacked Navigation
+
+Navigation is stacked by default and at larger screens, the navigation floats horizontally.
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/YqrjpV/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/YqrjpV/'>Stacked Top Link Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -99,13 +104,25 @@ Also see [a version with the navigation revealed from the top](http://codepen.io
 
 ## Priority+ Navigation
 
+At smaller screens, only the most important navigation items are shown, with a toggle to turn on the rest of the options.  At larger screens, all of the options are shown.
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/LNzBXL/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/LNzBXL/'>Priority+ Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 ----
 
-## Accessible Tabs/Accordions
+## CSS-Only Accordions
 
+Achieve an accordion effect using only HTML and CSS.
+
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/BKwObo/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/BKwObo/'>Pure CSS Accordion Using Radio Buttons (Fork from Andor Nagy)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+---
+
+## Tabs/Accordions
+
+This accordion/tab pattern shows accordions by default, and then switches to tabs at larger breakpoints.
 
 <iframe height='268' scrolling='no' src='//codepen.io/BeyondHyper/embed/xZXXzj/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/BeyondHyper/pen/xZXXzj/'>A11y Responsive Tabs (vanilla js)</a> by Derick Montague (<a href='http://codepen.io/BeyondHyper'>@BeyondHyper</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -126,6 +143,9 @@ People commonly want to center text vertically on top of an element (such as an 
 There are thousands of image carousels on the internet.  I like one called Flickity because the HTML markup is minimal and it supports touch.  Here's a simple implementation.
 
 You can also download and customize Flickity at [http://flickity.metafizzy.com](http://flickity.metafizzy.co).
+
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/dMVqKQ/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/dMVqKQ/'>Flickity Slider (JavaScript)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
 ----
 
