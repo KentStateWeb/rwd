@@ -33,9 +33,20 @@ I also added in some default responsive image styles and box-sizing: border-box 
 
 ----
 
+## How to Use JavaScript/JQuery
+
+Use these instructions for patterns below that require JavaScript and/or Jquery.
+
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/LNORrr/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/LNORrr/'>How to Use JavaScript + Jquery</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+----
+
 ## Main Content Area with SideBar
 
 A common layout pattern start with main content and sidebar stacked until you reach a larger breakpoint, at which point the elements are floated left and right.
+
+**Uses**: HTML and CSS
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/qZPyWO/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/qZPyWO/'>Main column with sidebar (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -48,6 +59,8 @@ Buttons are typically just links with a special style applied to them.
 
 The pattern below will get you started, but of course you can customize a button to have any style you'd like.
 
+**Uses**: HTML and CSS
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/YqrOdM/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/YqrOdM/'>Button Starter</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -59,6 +72,8 @@ Start with three stacked pieces of content and create three side-by-side columns
 
 Note that you can change the 33% to 25% for 4 columns, 50% for 2 columns, etc.
 
+**Uses**: HTML and CSS
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/jqGpOv/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/jqGpOv/'>3 Equal-Width Columns (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -67,6 +82,8 @@ Note that you can change the 33% to 25% for 4 columns, 50% for 2 columns, etc.
 ## Stacked Navigation
 
 Navigation is stacked by default and at larger screens, the navigation floats horizontally.
+
+**Uses**: HTML and CSS
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/YqrjpV/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/YqrjpV/'>Stacked Top Link Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -77,6 +94,8 @@ Navigation is stacked by default and at larger screens, the navigation floats ho
 
 Start your menu as a toggle menu for small screens.  When there is room, the toggle disappears and displays the full menu horizontally.
 
+**Uses**: HTML, CSS and JavaScript with Jquery
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/ZWXjGZ/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/ZWXjGZ/'>Toggle Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -85,6 +104,8 @@ Start your menu as a toggle menu for small screens.  When there is room, the tog
 ## Basic Toggle Navigation with Hamburger
 
 People seem to love this pattern, so I'm including it here.  In my example, I kept the menu label and added an additional element for the hamburger icon (which animates).
+
+**Uses**: HTML, CSS and JavaScript with Jquery
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/qZPMro/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/qZPMro/'>Toggle Navigation - with Hamburger Menu</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -97,6 +118,9 @@ I modified this to include an overlay and close button for the navigation.
 
 Also see [a version with the navigation revealed from the top](http://codepen.io/challahan/pen/ONxwwo).
 
+**Uses**: HTML, CSS and JavaScript with Jquery
+
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/YqrjNV/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/YqrjNV/'>The Left Nav Fly Out (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -105,6 +129,9 @@ Also see [a version with the navigation revealed from the top](http://codepen.io
 ## Priority+ Navigation
 
 At smaller screens, only the most important navigation items are shown, with a toggle to turn on the rest of the options.  At larger screens, all of the options are shown.
+
+**Uses**: HTML, CSS and JavaScript with Jquery
+
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/LNzBXL/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/LNzBXL/'>Priority+ Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
@@ -115,6 +142,8 @@ At smaller screens, only the most important navigation items are shown, with a t
 
 Achieve an accordion effect using only HTML and CSS.
 
+**Uses**: HTML and CSS
+
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/BKwObo/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/BKwObo/'>Pure CSS Accordion Using Radio Buttons (Fork from Andor Nagy)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
@@ -124,12 +153,17 @@ Achieve an accordion effect using only HTML and CSS.
 
 This accordion/tab pattern shows accordions by default, and then switches to tabs at larger breakpoints.
 
+**Uses**: HTML, CSS and JavaScript
+
+
 <iframe height='268' scrolling='no' src='//codepen.io/BeyondHyper/embed/xZXXzj/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/BeyondHyper/pen/xZXXzj/'>A11y Responsive Tabs (vanilla js)</a> by Derick Montague (<a href='http://codepen.io/BeyondHyper'>@BeyondHyper</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 ----
 
 ## Vertically Centered Text on Top of Image
+
+**Uses**: HTML and CSS
 
 People commonly want to center text vertically on top of an element (such as an image).  This uses flexbox to easily position elements both vertically and horizontally on top of the element, and adds some tinting on top of the image for readability.
 
@@ -140,7 +174,11 @@ People commonly want to center text vertically on top of an element (such as an 
 
 ## Slider/Carousel
 
+**Uses**: HTML, CSS and JavaScript with Jquery
+
 There are thousands of image carousels on the internet.  I like one called Flickity because the HTML markup is minimal and it supports touch.  Here's a simple implementation.
+
+**Uses**: HTML, CSS and JavaScript (can either download the CSS/JS files or reference them from Flickity)
 
 You can also download and customize Flickity at [http://flickity.metafizzy.com](http://flickity.metafizzy.co).
 
