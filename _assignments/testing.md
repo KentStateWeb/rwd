@@ -46,9 +46,9 @@ This will be done on the day of testing.
 
 1.  Run through the Web Accessibility Checklist at http://a11yproject.com/checklist.html and ensure your website has the applicable landmark roles, etc. and make fixes.  You can likely skip the Forms part.
 
-Note:  Simply following this checklist does not ensure your website is compliant, but it's a good starting point.  The only way to truly test accessibility is to have real participants with disabilities test the site.
-
 2.  Record any changes you made to make your website meet these requirements.
+
+Note:  Simply following this checklist does not ensure your website is compliant, but it's a good starting point.  The only way to truly test accessibility is to have real participants with disabilities test the site.
 
 
 ## How to Turn In the Assignment
@@ -63,6 +63,6 @@ You'll be submitting the links to your various documents via your project reposi
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **8-10**: Your usability tasks match your website's goals, and show that you put some thought into them.  They match real-world scenarios and don't lead the user directly to the answer.  You created a technical and accessibility testing plan in a Google Spreadsheet that follows the directions.  Finally, on the day of testing in class, you participated in the testing and completely filled out your testing documents.
-* **4-7**: Usability tasks are complete, but could have been better thought out to match user goals.  Your technical and accessibility testing spreadsheet is missing some of the content.  Your group may have not fully completed testing in class.
-* **0 - 3**: Usability tasks show little thought and are too leading.  Your technical and accessibility testing plan is missing more than one key parts.  You or your partner may have missed class completely and did not complete the testing in class.   
+* **4-5**: Your usability tasks match your website's goals, and show that you put some thought into them.  They match real-world scenarios and don't lead the user directly to the answer.  You created a technical and accessibility testing plan in a Google Spreadsheet that follows the directions.  Finally, on the day of testing in class, you participated in the testing and completely filled out your testing documents.
+* **2-3**: Usability tasks are complete, but could have been better thought out to match user goals.  Your technical and accessibility testing spreadsheet is missing some of the content.  Your group may have not fully completed testing in class.
+* **0-1**: Usability tasks show little thought and are too leading.  Your technical and accessibility testing plan is missing more than one key parts.  You or your partner may have missed class completely and did not complete the testing in class.   
