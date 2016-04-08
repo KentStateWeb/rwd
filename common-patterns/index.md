@@ -126,6 +126,15 @@ Also see [a version with the navigation revealed from the top](http://codepen.io
 
 ----
 
+## Full-Screen Navigation
+
+Displays navigation as an animated overlay on top of the main content area.  Could potentially be modified to only show this pattern at small screens using media queries.
+
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/GZywvr/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/GZywvr/'>Full Screen Nav</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+----
+
 ## Priority+ Navigation
 
 At smaller screens, only the most important navigation items are shown, with a toggle to turn on the rest of the options.  At larger screens, all of the options are shown.
