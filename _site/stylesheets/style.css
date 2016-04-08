@@ -1009,7 +1009,7 @@ nav {
 	padding: .25em 1em;
 	margin: 0 auto;
 	margin-top: 0em;
-	margin-bottom: .5em;
+	margin-bottom: 1em;
 }
 
 
@@ -1085,8 +1085,8 @@ nav ul li:last-child:after {
 	color: rgb(240,99,116);
 	font-weight: bold;
 	font-size: 1.5rem;
-	padding-left: .5rem;
-	padding-right: .5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 }
 
@@ -1118,7 +1118,7 @@ nav ul li:last-child:after {
 
 @media screen and (min-width: 1200px) {
 	nav {
-		margin-top: 2em;
+		margin-top: 2.75em;
 		margin-bottom: 0;
 	}
 
