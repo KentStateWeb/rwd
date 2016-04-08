@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-05-10 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 A maximum of 5 unannounced quizzes will be given during class.  Here are the rules:

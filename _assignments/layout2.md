@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-04-05 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 Now that we've added a few breakpoints to our site, we're going to make some more dramatic layout adjustments using floats.  Be sure to reference the part of your book on floats and positioning for this section. 

@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2016-04-12 12:00:00
 semester: spring-2016
+status: assignment-completed
+
 ---
 
 It's time to start developing the structure of your website and entering placeholders for some of the content!  Before we start building in full force, we need to first wireframe the structure of our various components and pages.  This is in preparation for the three templates that you'll turn in at the end of the class.  All work from here on out will contribute directly to the final version of your project.
