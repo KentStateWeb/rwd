@@ -183,8 +183,6 @@ People commonly want to center text vertically on top of an element (such as an 
 
 ## Slider/Carousel
 
-**Uses**: HTML, CSS and JavaScript with Jquery
-
 There are thousands of image carousels on the internet.  I like one called Flickity because the HTML markup is minimal and it supports touch.  Here's a simple implementation.
 
 **Uses**: HTML, CSS and JavaScript (can either download the CSS/JS files or reference them from Flickity)
@@ -195,6 +193,19 @@ You can also download and customize Flickity at [http://flickity.metafizzy.com](
 </iframe>
 
 ----
+
+## Responsive Date Picker Widget ##
+
+This is from the Pikaday Responsive date picker library.  I've reproduced all of the code you'll need for clearer implementation.
+
+I like this date picker because it detects whether the user is on a mobile browser and instead displays the native (small-screen optimized) date picker for these browsers.
+
+There are some additional customizations you can make and you can find them in the full documentation: <a href="https://github.com/mydea/PikadayResponsive">https://github.com/mydea/PikadayResponsive</a>
+
+**Uses**: HTML, CSS, JavaScript and Modernizr (included in HTML)
+
+<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/XdZKyw/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/XdZKyw/'>Responsive Date Picker Demo (using Pikaday Responsive)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
 
 ## Skip to Main Navigation (Accessibility)
 
