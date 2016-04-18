@@ -19,13 +19,19 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## For Next Class
 
-Remember, if you still owe me a CodePen assignment, please get it in ASAP to receive partial credit.
+Hey, there aren't any assignments due for class!  However, I would recommend starting work on the two upcoming assignments:
 
 ### Performance & Usability Testing
 
-You'll put together a testing plan to ensure your website is usable and works well on multiple devices.  We'll conduct the actual testing in class on Nov. 24.  Remember that your prototype needs to be in working condition (on both mobile and desktop) in order to conduct the testing!
+You'll put together a testing plan to ensure your website is usable and works well on multiple devices.  We'll conduct the actual testing in class on April 26, and you'll turn in the assignment after that.  Remember that your prototype needs to be in working condition (on both mobile and desktop) in order to conduct the testing!
 
 <a href="http://rwdkent.com/class/assignments/testing" class="button small">View Usability and Technical Testing Assignment</a>
+
+### HTML/CSS Prototypes/Templates Assignment
+
+These are the final prototypes for three main templates for your websites.  They will include the full visual elements from your mockups and style tiles, also include functioning HTML/CSS and JavaScript.
+
+<a href="http://rwdkent.com/class/assignments/templates/" class="button small">View HTML/CSS Templates Assignment</a>
 
 ### Reading
 
@@ -35,10 +41,6 @@ There are a few assigned readings for class:
 * [Style Guide Best Practices by Brad Frost](http://bradfrost.com/blog/post/style-guide-best-practices/)
 * [Help Your Content Go Anywhere With A Mobile Content Strategy by Kerry Crawford](http://www.smashingmagazine.com/2015/03/content-mobile-content-strategy/)
 
-## Upcoming Assignments
+## Reminders
 
-Your final HTML/CSS templates as well as your project presention/critiques will be due on class on Dec. 8.  You'll also be assigned a short Pattern Library assignment, which will be due the same day as well.  
-
-## News and Announcements
-
-Just a reminder - Ethan Marcotte, author of Responsive Web Design, will join us for a short Q&A during class on Dec. 1.  Be sure to think of some questions to ask him!  I will give a bonus point (per student) for each high-quality question asked during this class.
+We'll likely do course evaluations in class.  Also, I'll try to have your assignments graded and up-to-date this week in Blackboard.  See you on Tuesday!
