@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 13 Preview - Style Guides, Pattern Libraries and In-Class Testing
+title: Week 13 Preview - Style Guides, Pattern Libraries and Content Management Systems
 category: blog
 published: true
 ---
