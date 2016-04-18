@@ -11,7 +11,7 @@ In the last class, we:
 
 * Discussed usability tasks and how to test them
 * Talked about the importance of web accessibility
-* Learned how you can test for performance and also for device/browser compatability
+* Learned how you can test for performance and also for device/browser compatibility
 * Started work on our HTML/CSS prototypes
 * Heard from Chris Coyier
 
@@ -29,7 +29,7 @@ You'll put together a testing plan to ensure your website is usable and works we
 
 ### HTML/CSS Prototypes/Templates Assignment
 
-These are the final prototypes for three main templates for your websites.  They will include the full visual elements from your mockups and style tiles, also include functioning HTML/CSS and JavaScript.
+These are the final prototypes for three main templates for your websites.  They will include the full visual elements from your mockups and style tiles, and also include functioning HTML/CSS and JavaScript.
 
 <a href="http://rwdkent.com/class/assignments/templates/" class="button small">View HTML/CSS Templates Assignment</a>
 
