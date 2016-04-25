@@ -10,7 +10,7 @@ semester: spring-2016
 
 Since this project was a collaborative assignment, I want to hear from each group member about the work ethic and participation of his or her partner.  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
 
-The survey must be completed by Friday of finals week, December 18, 2015 @ 5:00 p.m.
+The survey must be completed by Thursday of finals week at 5 p.m.
 
 <a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_dgpIHaDDpUSbJg9">Take the Survey</a>
 

@@ -10,7 +10,7 @@ semester: spring-2016
 
 We're almost done!  Now that you've developed template prototypes and a pattern library, it's time to do a final review with your "client" and the class.  There won't be any slides or reports to turn in - you'll only be showing your project timeline, prototypes and style guide.
 
-The review sessions will take place in class on December 15 and will be extended into finals week, if needed.  All materials are due in class of December 15, regardless.  No extensions will be granted.
+The review sessions will take place in class on finals week.
 
 ## What To Do
 
