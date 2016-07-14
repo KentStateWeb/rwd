@@ -7,3 +7,4 @@ _groups/assets/.DS_Store
 
 *.codekit
 _site/*
+_site/
