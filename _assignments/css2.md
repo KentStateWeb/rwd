@@ -4,9 +4,8 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-03-15 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-10-25 12:00:00
+semester: fall-2016
 
 ---
 
@@ -20,7 +19,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 ## What To Do
 
-Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - CSS Basics 2". 
+Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - CSS Basics 2".
 
 ### Add HTML5 Layout Elements and Set Background
 
@@ -43,7 +42,7 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 2.  Also add the following attributes to the main content area: (a) Padding of 1.5em, (b) set the width at 90%, (c) margin: 0 auto (this centers it in the middle of the page), (d) round the corners at 5px, (e) set a maximum width of 900px, (f) set a slight shadow on the box using these values: 1px 1px 3px rgba(0,0,0,.8).
 3.  Give all paragraphs a line height of 1.5.
 4. Set all of the images and iframes on the page to be a maximum width of 100% (use max-width) so that they never overflow.
-5. Set all blockquotes to closely [match this style](/img/quote.png).  Set the width to 70% and center the quote in the middle of the page using auto margins on either side. 
+5. Set all blockquotes to closely [match this style](/img/quote.png).  Set the width to 70% and center the quote in the middle of the page using auto margins on either side.
 6. Set the cite tag to have a bottom margin of 2em and a margin-left of 15%;  You have to set cite to display:block in order for it to have a margin and appear on its own line.
 7. Set the figure (which contains the image and caption) to take up 70% of the page as well and center it in the middle of the page using auto on the left and the right.  Add padding to the top and bottom of the figure to space things out.
 8. Give the image (only the one inside the figure) a 5px white border.  Give it a box shadow using this value: 1px 1px 3px rgba(0,0,0,.2).
@@ -74,7 +73,7 @@ To fix this, add this global style to make all boxes take their borders into acc
 
 ### Submitting the Assignment
 
-1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
+1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
 2. View your newly completed website as a web page on different devices.  Does everything render correctly?  Your final product should look something [close to this](/img/css2-assignment-screenshot.png).
 3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
 
@@ -84,4 +83,4 @@ Use the following rubric to ensure you receive the highest possible grade for th
 
 * **4 - 5**: CSS is written appropriately and with proper indentation.  All steps were followed and correct styles are applied.  Styles are added efficiently, for example, multiple H1 styles are grouped together, as opposed to separate styles for everything.  
 * **2 - 3**: CSS is mostly structured correctly, but there are some syntax issues (for example, you forgot to close a rule with a semicolon.  Some of the steps were missed.  Similar styles are not grouped together.
-* **0 - 1**: CSS does not use appropriate style attributes.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions. 
+* **0 - 1**: CSS does not use appropriate style attributes.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.

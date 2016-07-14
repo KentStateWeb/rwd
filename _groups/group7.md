@@ -1,11 +1,11 @@
 ---
 title: "Group 7"
 client: "William Thomas & Associates"
-members: "Katherine Panneton and Courtney Ressa"
+members: "TBD"
 layout: group
-link: http://cressa.github.io/group7taxes/
+link: TBD
 description: "William Thomas & Associates: A small, but growing, accounting firm that has prided itself in serving its local clientele across many generations."
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

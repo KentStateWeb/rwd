@@ -5,9 +5,8 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-02-09 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-09-20 12:00:00
+semester: fall-2016
 
 ---
 
@@ -49,7 +48,7 @@ After creating your repository:
 4.  Add the required DOCTYPE information to the HTML file.  You can use <a href="https://gist.github.com/challahan/0f8d805423259882cbc2">this template</a> (also embedded below).
 4.  On your root index.html file, add an H1 called Project Timeline and afterward, an H2 with Date: Research/Competitive Analysis.
 6.  Add a link to your Research PDF file under the H2.  The link point to research/YOURPDFFILE.pdf.
-7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the research document (PDF) via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.  It should be something like: http://rwd-test.github.io/sample-project.  Only one person needs to submit the files to the repository and Blackboard Learn, since this is a group assignment. 
+7.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the research document (PDF) via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.  It should be something like: http://rwd-test.github.io/sample-project.  Only one person needs to submit the files to the repository and Blackboard Learn, since this is a group assignment.
 
 <script src="https://gist.github.com/challahan/0f8d805423259882cbc2.js"></script>
 

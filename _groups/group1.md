@@ -1,11 +1,11 @@
 ---
 title: "Group 1"
 client: "Barb’s Bridal Boutique"
-members: "Martha Arbogast and Sam Weiss"
+members: "TBD"
 layout: group
-link: http://samanthaweiss.github.io/bridalboutique/
+link: TBD
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

@@ -4,14 +4,13 @@ description: "As you begin building your templates/prototype, you'll need to thi
 type: "project"
 points: 5
 layout: assignment
-date: 2016-04-26 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-11-29 12:00:00
+semester: fall-2016
 ---
 
 As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.
 
-We will run through your testing plan in class, on April 26. 
+We will run through your testing plan in class, on April 26.
 
 ## Creating Your Usability Plan
 
@@ -54,7 +53,7 @@ Note:  Simply following this checklist does not ensure your website is compliant
 
 ## How to Turn In the Assignment
 
-You'll be submitting the links to your various documents via your project repository.  The content will be filled in on the date of testing in class. 
+You'll be submitting the links to your various documents via your project repository.  The content will be filled in on the date of testing in class.
 
 1.  Create a publicly shareable Google Drive link that points to your testing results from (a) Usability testing summary + tasks, (b) Technical Testing and (c) Accessibility Testing.  Don't forget to make your links publicly accessible!!
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Usability and Technical Testing.

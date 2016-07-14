@@ -4,9 +4,8 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-04-12 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-11-15 12:00:00
+semester: fall-2016
 
 ---
 
@@ -25,7 +24,7 @@ Remember, the wireframes don't need to be "pretty" yet.  We're going to create t
 5. If your site uses navigation, mark it up using an unordered list.  We'll style it to look like a menu later.
 6. Add real content into your 3 templates.  The content should be representative of the actual content that will be on the website, not lorem ipsum.  Links need not work right now.  You can link to a "#" if the link is not available.
 7. Once you have created your three templates, create a new file called "style.css".  This is where your styles will eventually go.
-8. Link your stylesheet to each of your main templates, using the code below. 
+8. Link your stylesheet to each of your main templates, using the code below.
 9. Add a few default styles to make your templates a bit easier to view.  Use the CSS below.
 
 ### Adding a Stylesheet Link
@@ -55,5 +54,5 @@ Your wireframes might look something like <a href="http://rwdkent.com/wireframes
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
 * **4 - 5**: Your wireframes demonstrate the content that will be displayed on your website.  The wireframes use correctly written HTML, and the HTML uses semantic HTML5 elements when necessary.  You correctly linked the stylesheet and added the default styles.  Your three HTML files were commited to the reposistory correctly and linked from your Project Hub.
-* **2 - 3**: You created three wireframes, but the HTML is not always correctly written.  Content may not be added into the wireframes.  You linked the stylesheet correctly. 
+* **2 - 3**: You created three wireframes, but the HTML is not always correctly written.  Content may not be added into the wireframes.  You linked the stylesheet correctly.
 * **0 - 1**: You may be missing one or more of the wireframes, and the HTML is poorly structured.  Your key content is not demonstrated in the wireframes.  You may have not followed directions correctly or linked the default stylesheet.

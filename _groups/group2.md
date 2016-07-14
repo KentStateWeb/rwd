@@ -1,11 +1,11 @@
 ---
 title: "Group 2"
 client: "Summit Street Family Restaurant"
-members: "Jessica Reese and Austin Powell"
+members: "TBD"
 layout: group
-link: https://powellescobar.github.io/ssfr/
+link: TBD
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

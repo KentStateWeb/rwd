@@ -3,12 +3,12 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-## CCI Special Topics Course 40095-002 (Spring 2016)
+## CCI Special Topics Course 40095-002 (Fall 2016)
 
 * **Instructor:** Christopher Hallahan
 * **Email**: <a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a>
 * **Office**: <a href="http://www.ideabasekent.com">IdeaBase</a> (Downtown Kent)
-* **Term**: Spring 2016
+* **Term**: Fall 2016
 * **Day/Time**: Tuesdays, 5:30 - 8:15 p.m.
 * **Room**: <a href="http://www.ideabasekent.com">IdeaBase</a>, Downtown Kent
 
@@ -178,16 +178,16 @@ There are **100** total possible points for the semester.
 
 ### Attendance Policy
 
-We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absenses will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
+We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 
 Students who miss more than two classes without proper documentation will receive a 0 for their class participation grade for the semester.
 
-If you miss class, you are still responsibile for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
+If you miss class, you are still responsible for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
 
 Some assignments, such as in-class presentations, testing and quizzes, require attendance in order to receive full credit for the assignment.
 
 ### Late Submissions
-The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation). 
+The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation).
 
 My policy for late assignments has 3 rules:
 
@@ -197,7 +197,7 @@ My policy for late assignments has 3 rules:
 
 ### Group Work
 
-This class uses team-based learning for part or all of the semester.  Students must agree to follow the [Group Rules & Expectations](../groups/policies) throughout the course of the project. 
+This class uses team-based learning for part or all of the semester.  Students must agree to follow the [Group Rules & Expectations](../groups/policies) throughout the course of the project.
 
 ### Grading
 
@@ -219,12 +219,9 @@ Final letter grades will be assigned on the basis of the following table:
 
 * Although a laptop is not required, if you have a laptop you are encouraged to bring it to class, as it may be helpful for following along in class.  You’ll also be viewing and testing your work on multiple devices, so phones and tablets are encouraged.
 * Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.
-* We will be using a variety of free and paid software programs and tools. 
+* We will be using a variety of free and paid software programs and tools.
 * Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.
-* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, Git, SublimeText, web browsers and Google Drive.
-
-### Design Notebook
-You are expected to obtain a design notebook, or sketchbook, and bring it to class. You will use this to collect ideas, sketch out designs, and capture your design thoughts on paper. You can use something fancy (e.g., a Moleskine) or something cheap (e.g., a composition notebook). Whatever you choose, you are expected to have a design notebook, carry it with you throughout the term, and bring it to every class.
+* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, Git, web browsers and Google Drive.
 
 ### Communicating with the Instructor
 
@@ -236,8 +233,8 @@ My office hours for this semester are:
 #### Email
 My email address is challahan@ideabasekent.com. Here is my email policy:
 
-* I will usually respond within 24 hours during the week (Mon-Fri). Do not expect an immediate response. 
-* I typically check email in the afternoons or evenings, not in the mornings. 
+* I will usually respond within 24 hours during the week (Mon-Fri). Do not expect an immediate response.
+* I typically check email in the afternoons or evenings, not in the mornings.
 * I may not respond to email on weekends.
 
 ### University Policies and Procedures

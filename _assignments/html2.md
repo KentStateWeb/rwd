@@ -4,9 +4,8 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-02-16 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-09-27 12:00:00
+semester: fall-2016
 
 ---
 
@@ -29,18 +28,18 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 9. Before the YouTube video, add an HTML comment that has the link to the YouTube video so that you can find it later if you need to.  Use proper HTML comment syntax.  Remember that HTML comments are only there for you, the developer, and do not display to the end-user.
 
 ### Submitting the Assignment
-1. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
-2. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
-3. View your newly completed website as a web page on different devices.  Does everything render correctly? 
+1. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag)
+2. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
+3. View your newly completed website as a web page on different devices.  Does everything render correctly?
 4. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
 
-## The Content 
+## The Content
 
 ***Client Note - Add the Welcome Weekend logo at the top*** <a href="https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png">https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png</a>
 
 **Welcome Weekend**
 
-***Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."*** 
+***Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."***
 <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg">https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg</a>
 
 **What Is Welcome Weekend?**
@@ -126,7 +125,7 @@ STUDENT GREEN
 
 Embed this video directly on the page <a href="https://www.youtube.com/watch?v=tQmdT99jiYY">https://www.youtube.com/watch?v=tQmdT99jiYY</a>
 
-**Student Success Programs** 
+**Student Success Programs**
 
 ***Use definition lists to mark up this content***
 

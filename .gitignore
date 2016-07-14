@@ -6,3 +6,4 @@ _groups/assets/.DS_Store
 *.codekit
 
 *.codekit
+_site/*

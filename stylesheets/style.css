@@ -137,7 +137,7 @@ main ul li {
 
 main ul li:before {
     content: "• ";
-    color: rgb(26,117,138); 
+    color: rgb(26,117,138);
     padding-right: .3em;
     font-size: 1.1em;
 }
@@ -357,7 +357,7 @@ h4 {
 	animation: text .8s ease;
 	animation-delay: .3s;
 	animation-direction: alternate;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
@@ -366,7 +366,7 @@ h4 {
 	animation: text .8s ease;
 	animation-delay: .7s;
 	animation-direction: alternate;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
@@ -375,7 +375,7 @@ h4 {
 	animation: text .8s ease;
 	animation-delay: 1s;
 	animation-direction: alternate;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
@@ -384,7 +384,7 @@ h4 {
 	animation: text 1s ease;
 	animation-delay: 1.25s;
 	animation-direction: alternate;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
@@ -514,11 +514,11 @@ header .svg {
 
 a.svg {
   position: relative;
-  display: inline-block; 
+  display: inline-block;
 }
 
 a.svg:after {
-  content: ""; 
+  content: "";
   position: absolute;
   top: 0;
   right: 0;
@@ -557,19 +557,19 @@ a.svg:after {
 
 .svg:hover .rwd-svg .mark {
   animation: move .5s ease;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
 .svg:hover .code-left {
 	animation: move-left .3s ease;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
 .svg:hover .code-right {
 	animation: move-right .3s ease;
-	animation-play-state: running; 
+	animation-play-state: running;
 	animation-fill-mode: forwards;
 }
 
@@ -615,7 +615,7 @@ a.svg:after {
 @media screen and (min-width:880px) {
 	header {
 		text-align: left;
-		
+
 	}
 	header .svg {
 		float: left;
@@ -927,7 +927,7 @@ aside.aside-home {
 @media screen and (min-width: 1200px) {
 .tagline h1 {
 	font-size: 2.6em;
-	padding-top: 1.85em;
+	padding-top: 2.2em;
 	padding-bottom: .3em;
 	}
 }
@@ -941,7 +941,7 @@ aside.aside-home {
 
 @media screen and (min-width: 1500px) {
 	.tagline h1 {
-		padding-top: 2.5em;
+		padding-top: 2.7em;
 		padding-bottom: 0em;
 	}
 }
@@ -1163,8 +1163,8 @@ nav ul li:last-child:after {
     height: 1px !important;
     width: 1px !important;
     overflow: hidden;
-} 
-body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; } 
+}
+body:hover .visually-hidden a, body:hover .visually-hidden input, body:hover .visually-hidden button { display: none !important; }
 
 
 /* Footer */

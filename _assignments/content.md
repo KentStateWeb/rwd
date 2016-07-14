@@ -4,9 +4,8 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-02-16 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-09-27 12:00:00
+semester: fall-2016
 
 ---
 
@@ -16,9 +15,9 @@ This is a team project.  Your content should be posted to your team repository o
 
 ## What To Do
 
-Lets take some of the content your client has provided and begin organizing it and editing it to better fit the mobile-first methodology. 
+Lets take some of the content your client has provided and begin organizing it and editing it to better fit the mobile-first methodology.
 
-You can find your client's provided content on your [group project page](/class/groups).  You might be provided content as Word or image files. 
+You can find your client's provided content on your [group project page](/class/groups).  You might be provided content as Word or image files.
 
 
 1.  What content will go on the home page of your website?  Remember, the home page's primary goal is typically to drive traffic to other content on your site and allow the user to quickly understand where they are and what they can do.  Some sites do away with the traditional home page entirely, and instead present all of the content on single, long-scrolling page.  Essentially though, even these formats are split into sections that can be shown in a sitemap.  Create a document that has some content ideas for the home page.

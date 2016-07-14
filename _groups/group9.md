@@ -1,11 +1,11 @@
 ---
 title: "Group 9"
 client: "The Ohio Chop Shop Hair Salon"
-members: "Ann Klewer and Kelsey Williams"
+members: "TBD"
 layout: group
-link: http://annklewer.github.io/chopshop/
+link: TBD
 description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Our stylists bring their clients the freshest styles, and our location is a high-end, but friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

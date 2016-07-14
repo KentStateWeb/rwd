@@ -4,9 +4,8 @@ description: "You understand the content of your website and have some ideas abo
 type: "project"
 points: 5
 layout: assignment
-date: 2016-03-15 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-10-25 12:00:00
+semester: fall-2016
 
 ---
 
@@ -47,7 +46,7 @@ Your mockup is just a picture of your website - we'll continue to make design de
 
 ## How to Turn In the Assignment
 
-You'll be submitting the style tiles and mockup to your project repository on GitHub as a PDF file. 
+You'll be submitting the style tiles and mockup to your project repository on GitHub as a PDF file.
 
 1.  Output your Sketch files as PDF files (you may have to combine them)
 2.  In your project repository, create a new folder called "style" and place the two PDF files inside.

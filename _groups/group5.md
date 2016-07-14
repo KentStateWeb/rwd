@@ -1,11 +1,11 @@
 ---
 title: "Group 5"
 client: "Off the Vine"
-members: "Grace Harms and Sarah Beeman"
+members: "TBD"
 layout: group
-link: https://gharms1.github.io/wine/
+link: TBD
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

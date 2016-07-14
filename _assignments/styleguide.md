@@ -4,8 +4,8 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-05-10 12:00:00
-semester: spring-2016
+date: 2016-12-13 12:00:00
+semester: fall-2016
 ---
 
 You've been developing your sites' templates using a variety of components that make up the website as a whole.  Lets take a step back and document the primary elements and styles used in your website.  
@@ -54,5 +54,5 @@ You'll be submitting your pattern library via your GitHub repository.
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
 * **4-5**: Your pattern library uses existing components from your templates (at least 5) and they are adequately demonstrated on a single page.  You've also documented the colors and fonts that you're using on your site.  Finally, you've submitted the pattern library according to directions.
-* **2-3**: You're missing some core components from your website.  You may have forgotten to document colors or typography. 
-* **0-1**: Your pattern library poorly demonstrates the components used in your website.  HTML code may not be formatted correctly. 
+* **2-3**: You're missing some core components from your website.  You may have forgotten to document colors or typography.
+* **0-1**: Your pattern library poorly demonstrates the components used in your website.  HTML code may not be formatted correctly.

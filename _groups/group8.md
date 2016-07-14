@@ -1,11 +1,11 @@
 ---
 title: "Group 8"
 client: "Franklin County Family & Community Services"
-members: "Mario Fasolo and Maddie Bensinger"
+members: "TBD"
 layout: group
-link: http://mariofasolo.github.io/group8/
+link: TBD
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
-semester: spring-2016
+semester: fall-2016
 ---
 
 
@@ -13,10 +13,10 @@ semester: spring-2016
 
 **What are your top goals as a business this year?**
 
-* Increase donations - our organization depends on funds from the community 
+* Increase donations - our organization depends on funds from the community
 * Involve new volunteers and retain our current volunteers
 * Increase the amount of community members who utilize our services
-* Do a better job of informing community members of upcoming events, such as 
+* Do a better job of informing community members of upcoming events, such as
 
 **What would you like the website to be able to do for your users?**
 

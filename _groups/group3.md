@@ -1,11 +1,11 @@
 ---
 title: "Group 3"
 client: "AROMA Coffee & Tea"
-members: "Rachel Kozy (alone) and Todd Thompson (alone)"
+members: "TBD"
 layout: group
-link: http://rachkozy.github.io/aroma/index.html and http://teetertodd.github.io/aroma/index.html
+link: TBD
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

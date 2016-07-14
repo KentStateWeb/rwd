@@ -4,13 +4,12 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-02-23 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-10-04 12:00:00
+semester: fall-2016
 
 ---
 
-The best way to start visualizing your project is by sketching on paper.  Sketches are meant to be rough and imperfect.  They should allow you visualize how your content might fit together and be prioritized for your templates.  They'll also allow you to begin picking out components (patterns) that will be present in all of your templates. 
+The best way to start visualizing your project is by sketching on paper.  Sketches are meant to be rough and imperfect.  They should allow you visualize how your content might fit together and be prioritized for your templates.  They'll also allow you to begin picking out components (patterns) that will be present in all of your templates.
 
 This is a team project.  Your team repository should have your sketches posted on the due date.
 

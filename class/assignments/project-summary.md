@@ -24,7 +24,7 @@ You'll work in pairs on this project (except for one group, which will be 3 peop
 
 <ul>
 {% for groups in site.groups %}
-    {% if groups.semester == 'spring-2016' %}
+    {% if groups.semester == 'fall-2016' %}
 	  {% include groups.html %}
     {% endif %}
 {% endfor %}

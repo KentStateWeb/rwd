@@ -4,9 +4,8 @@ description: "Style your conference website using basic CSS."
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-03-01 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-10-11 12:00:00
+semester: fall-2016
 
 ---
 
@@ -51,7 +50,7 @@ Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click 
 
 ### Submitting the Assignment
 
-1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
+1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
 2. View your newly completed website as a web page on different devices.  Does everything render correctly?  Your final product should look something [close to this](/img/css-assignment-screenshot.png).
 3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
 

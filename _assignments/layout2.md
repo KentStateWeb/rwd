@@ -4,13 +4,12 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-04-05 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-11-08 12:00:00
+semester: fall-2016
 
 ---
 
-Now that we've added a few breakpoints to our site, we're going to make some more dramatic layout adjustments using floats.  Be sure to reference the part of your book on floats and positioning for this section. 
+Now that we've added a few breakpoints to our site, we're going to make some more dramatic layout adjustments using floats.  Be sure to reference the part of your book on floats and positioning for this section.
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
@@ -20,7 +19,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 Open your Layout/Media Queries assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - Layout/Media Queries 2".
 
-### Header 
+### Header
 
 Heads up - you're going to be doing some complex media queries in this section.  Remember these guidelines:  a. Order your media queries from smallest to largest  b. Organize your CSS by element (for example, header and footer)  and  c. Remember your first media query is no media at all.  These are your default styles.
 
@@ -84,7 +83,7 @@ Your end result should look [something like this](/img/layout-screenshot.jpg), k
 
 ### Submitting the Assignment
 
-1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL. 
+1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
 2. View your newly completed website as a web page on different devices.  Does everything render correctly?
 3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
 

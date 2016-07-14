@@ -1,11 +1,11 @@
 ---
 title: "Group 6"
 client: "Buckeye Bed & Breakfast"
-members: "Victoria Ripepi and Samantha Mix"
+members: "TBD"
 layout: group
-link: http://smix2.github.io/buckeyebnb/
+link: TBD
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

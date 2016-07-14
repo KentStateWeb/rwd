@@ -1,11 +1,11 @@
 ---
 title: "Group 4"
 client: "Wrench Automotive"
-members: "Reilly Hawkins and Patrick Hogan"
+members: "TBD"
 layout: group
-link: http://reillyhawkins7.github.io/wrench/
+link: TBD
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
-semester: spring-2016
+semester: fall-2016
 ---
 
 ## Goals

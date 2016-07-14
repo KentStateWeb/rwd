@@ -4,8 +4,8 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-05-10 12:00:00
-semester: spring-2016
+date: 2016-12-13 12:00:00
+semester: fall-2016
 ---
 
 In-class participation and attendance points will be awarded at the end of the semester and will take into account the following:

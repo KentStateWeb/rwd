@@ -4,9 +4,8 @@ description: "You've received content for a website and would like to begin stru
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-02-02 12:00:00
-semester: spring-2016
-status: assignment-completed
+date: 2016-09-13 12:00:00
+semester: fall-2016
 
 ---
 
@@ -23,12 +22,12 @@ Your completed assignment should look <a href="/img/html1.png">something like th
 1. Set up a [CodePen](http://www.codepen.io) account (in class).
 2. Create a new **public pen** and name it using this structure: "Your Last Name - HTML Basics 1".
 3. Take the plain text content (provided below) and structure it into HTML in your pen.  You must use semantic headings to indicate hierarchy.  Links must be functional.  Lists should be formatted as unordered or ordered lists.   Pay attention to the client notes - they're important.
-4. CodePen automatically inserts all of the required code for the HEAD of the document (the html, body and title tags).  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag) 
-6. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL (View > Debug is also acceptable.  Pretty much the same thing). 
-7. View your newly completed website as a web page on different devices.  Does everything render correctly? 
+4. CodePen automatically inserts all of the required code for the HEAD of the document (the html, body and title tags).  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag)
+6. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL (View > Debug is also acceptable.  Pretty much the same thing).
+7. View your newly completed website as a web page on different devices.  Does everything render correctly?
 8. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode).  Click Submit.
 
-## The Content 
+## The Content
 
 Enduring Trauma?
 
@@ -67,7 +66,7 @@ How to Register
 
 ***(Client note - this is hard to read.  Can we number these in steps?  Also, make the words registration website one of those interactive things that takes you to a website when clicked.)***
 
-(1) Visit the Registration website http://mediaethics.jmc.kent.edu/registration.php (2) Select Student or Media Professional/Educator based on your role. (3) Complete the regsitration form and payment process. (4) You'll receive a ticket via email.  Bring this with you to the conference. 
+(1) Visit the Registration website http://mediaethics.jmc.kent.edu/registration.php (2) Select Student or Media Professional/Educator based on your role. (3) Complete the regsitration form and payment process. (4) You'll receive a ticket via email.  Bring this with you to the conference.
 
 Contact Us
 
