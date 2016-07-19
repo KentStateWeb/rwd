@@ -6,6 +6,7 @@ layout: group
 link: TBD
 description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Our stylists bring their clients the freshest styles, and our location is a high-end, but friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
 semester: fall-2016
+date: 2016-7-11 12:00:00
 ---
 
 ## Goals

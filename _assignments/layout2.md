@@ -1,8 +1,8 @@
 ---
-title: "Layout/Media Queries 2"
+title: "Boxes and Layout"
 description: "Description of the assignment"
 type: "mini"
-points: 5
+points: 7
 layout: assignment
 date: 2016-11-08 12:00:00
 semester: fall-2016

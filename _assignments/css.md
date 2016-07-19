@@ -2,7 +2,7 @@
 title: "CSS Basics"
 description: "Style your conference website using basic CSS."
 type: "mini"
-points: 5
+points: 4
 layout: assignment
 date: 2016-10-11 12:00:00
 semester: fall-2016

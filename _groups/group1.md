@@ -6,6 +6,8 @@ layout: group
 link: TBD
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
 semester: fall-2016
+date: 2016-7-11 12:00:00
+
 ---
 
 ## Goals

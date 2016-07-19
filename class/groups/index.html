@@ -8,8 +8,8 @@ title: Groups & Projects
 <p>You can learn more about the semester project in general by reading the <a href="/class/assignments/project-summary.html">Project Summary</a>.</p>
 
 <ul>
-{% for groups in site.groups %}
-	{% if groups.semester == 'fall-2016' %} 
+{% for groups in site.groups | sort: 'description' %}
+	{% if groups.semester == 'fall-2016' %}
 	  {% include groups.html %}
 	{% endif %}
 {% endfor %}

@@ -1,8 +1,8 @@
 ---
-title: "Layout/Media Queries"
+title: "Fonts and Media Queries"
 description: "Description of the assignment"
 type: "mini"
-points: 5
+points: 6
 layout: assignment
 date: 2016-11-01 12:00:00
 semester: fall-2016

@@ -6,6 +6,7 @@ layout: group
 link: TBD
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: fall-2016
+date: 2016-7-11 12:00:00
 ---
 
 

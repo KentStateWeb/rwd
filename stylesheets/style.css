@@ -809,7 +809,7 @@ main {
 	padding: 0 15%;
 }
 
-.main-content-area-full p {
+.main-content-area-full p, .main-content-area-wide p {
 	font-size: 1.1em;
 }
 

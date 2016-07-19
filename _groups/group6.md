@@ -6,6 +6,7 @@ layout: group
 link: TBD
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 semester: fall-2016
+date: 2016-7-11 12:00:00
 ---
 
 ## Goals

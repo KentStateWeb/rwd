@@ -6,6 +6,7 @@ layout: group
 link: TBD
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
 semester: fall-2016
+date: 2016-7-11 12:00:00
 ---
 
 ## Goals

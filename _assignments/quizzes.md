@@ -2,7 +2,7 @@
 title: "In-Class Quizzes"
 description: "Description of the assignment"
 type: "mini"
-points: 5
+points: 6
 layout: assignment
 date: 2016-12-13 12:00:00
 semester: fall-2016

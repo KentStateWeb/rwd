@@ -6,6 +6,7 @@ layout: group
 link: TBD
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 semester: fall-2016
+date: 2016-7-11 12:00:00
 ---
 
 ## Goals
