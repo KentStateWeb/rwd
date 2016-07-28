@@ -1,0 +1,16 @@
+title: Responsive Web Design Kent State
+email: challahan@ideabasekent.com
+description: "Classes and Workshops on Responsive Web Design from Kent State University"
+url: "http://www.rwdkent.com" # the base hostname & protocol for your site
+future: true
+
+collections:
+ groups:
+   output: true
+   permalink: /class/groups/:path/
+ classes:
+   output: true
+   permalink: /class/schedule/:path/
+ assignments:
+   output: true
+   permalink: /class/assignments/:path/

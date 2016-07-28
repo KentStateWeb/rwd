@@ -1,0 +1,1779 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Calendar - Responsive Web Design (RWD) Kent State</title>
+		<meta name="description" content="Web design courses and workshops from Kent State University.">
+		<link rel="mask-icon" href="website_icon.svg" color="#F06374">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#1c7489">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<style>
+		@charset "utf-8";
+
+		body {
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: 0;
+		  margin: 0;
+		}
+
+		.group:after {
+		  content: ".";
+		  display: block;
+		  height: 0;
+		  overflow: hidden;
+		}
+
+		.group:after {
+		  clear: both;
+		}
+
+		.group {
+		  zoom: 1;
+		  /* IE < 8 */
+		}
+
+		* {
+		  box-sizing: border-box;
+		}
+
+		p,
+		ul,
+		li {
+		  font-size: 1.05em;
+		  line-height: 1.4;
+		}
+
+		@media screen and (min-width: 800px) {
+		  p,
+		  ul,
+		  li {
+		    line-height: 1.6;
+		  }
+		}
+
+		p a,
+		ul a {
+		  color: rgb(26,117,138);
+		  font-weight: bold;
+		  text-decoration: none;
+		  word-wrap: break-word;
+		}
+
+		h1 {
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  letter-spacing: 2px;
+		  text-transform: uppercase;
+		}
+
+		h1 {
+		  font-size: 2.5em;
+		  margin-bottom: .5em;
+		  margin-top: 0;
+		  color: rgb(26,117,138);
+		}
+
+		@media screen and (min-width: 800px) {
+		  h1 {
+		    margin-top: .5em;
+		    font-size: 3em;
+		  }
+		}
+
+		.floated-feature-image-container {
+		  width: 100%;
+		  text-align: center;
+		  margin-top: -7em;
+		  margin-bottom: 2em;
+		  overflow: hidden;
+		  z-index: 1000;
+		  position: relative;
+		}
+
+		.floated-feature-image {
+		  width: 250px;
+		  max-height: 150px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .floated-feature-image {
+		    width: 300px;
+		    max-height: 200px;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .floated-feature-image-container {
+		    width: 40%;
+		    float: right;
+		    margin-top: -22em;
+		    padding-left: 2em;
+		  }
+
+		  .floated-feature-image {
+		    width: 400px;
+		    max-height: 400px;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .floated-feature-image-container {
+		    padding-left: 4em;
+		    margin-bottom: 0;
+		  }
+
+		  .floated-feature-image {
+		    width: 450px;
+		    max-height: 550px;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .floated-feature-image-container {
+		    padding-left: 0;
+		  }
+
+		  .floated-feature-image-container {
+		    margin-top: -24em;
+		  }
+		}
+
+		@media screen and (min-width: 1300px) {
+		  .floated-feature-image {
+		    width: 500px;
+		    max-width: 500px;
+		    max-height: 650px;
+		  }
+		}
+
+
+
+		#tablet-text-top {
+		  opacity: 0;
+		}
+
+		#tablet-text-middle {
+		  opacity: 0;
+		}
+
+		#tablet-text-bottom {
+		  opacity: 0;
+		}
+
+		#phone-text {
+		  opacity: 0;
+		}
+
+		header {
+		  text-align: center;
+		  padding-top: 10px;
+		  border-top: 20px solid #393839;
+		  margin-bottom: 1.5em;
+		  width: 91%;
+		  max-width: 1200px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 800px) {
+		  header {
+		    width: 93%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  header {
+		    width: 85%;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  header {
+		    width: 100%;
+		    max-width: 1500px;
+		    padding: 0 10em;
+		  }
+		}
+
+		header .svg {
+		  width: 200px;
+		  margin-bottom: 0;
+		  padding-bottom: 0;
+		  margin-top: .05em;
+		  height: 80px;
+		}
+
+		a.svg {
+		  position: relative;
+		  display: inline-block;
+		}
+
+		a.svg:after {
+		  content: "";
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  bottom: 0;
+		  left: 0;
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .rwd-svg {
+		    height: 120px;
+		  }
+		}
+
+
+
+		.rwd-svg .mark {
+		  transform: scale(1.0);
+		}
+
+		.svg .rwd-svg .mark {
+		  transform: translate(0,0) scale(1.0);
+		}
+
+		.svg .code-left,
+		.svg .code-right {
+		  transform: translate(0,0);
+		}
+
+		@media screen and (min-width:600px) {
+		  header .svg {
+		    width: 225px;
+		    margin-bottom: 0;
+		    padding-bottom: 0;
+		    margin-top: .05em;
+		    height: 90px;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  header {
+		    text-align: left;
+		  }
+
+		  header .svg {
+		    float: left;
+		    margin-bottom: 1.5em;
+		    padding-top: .5em;
+		    width: 25%;
+		    max-width: 250px;
+		    padding-bottom: 0em;
+		    height: auto;
+		  }
+		}
+
+		@media screen and (min-width:1200px) {
+		  header .svg {
+		    max-width: 265px;
+		    margin-bottom: 1.25em;
+		    margin-top: 1.2em;
+		    width: 50%;
+		    padding-top: 0;
+		  }
+		}
+
+		main {
+		  padding: 1em;
+		}
+
+		@media screen and (min-width:600px) {
+		  main {
+		    padding: 2em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  main {
+		    padding: 2.5em;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  main {
+		    padding: 0 6em;
+		  }
+		}
+
+		p.introduction {
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  font-size: 1.1em;
+		  margin-top: 0;
+		  line-height: 1.4;
+		  color: black;
+		  font-weight: 300;
+		}
+
+		p.introduction-home {
+		  max-width: 650px;
+		}
+
+		@media screen and (min-width:600px) {
+		  p.introduction {
+		    font-size: 1.2em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:800px) {
+		  p.introduction {
+		    font-size: 1.25em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  p.introduction {
+		    font-size: 1.3em;
+		    line-height: 1.4;
+		  }
+		}
+
+		main {
+		  margin-top: 0;
+		  padding-top: 0.5em;
+		}
+
+		@media screen and (min-width:1200px) {
+		  main {
+		    padding: 0 10rem;
+		    max-width: 1500px;
+		    margin: 0 auto;
+		    display: block;
+		  }
+
+		  .main-content-area {
+		    width: 60%;
+		    float: left;
+		  }
+		}
+
+		.tagline-container {
+		  background: rgb(240,98,116);
+		  margin-bottom: 2em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline-container {
+		    margin-bottom: 3.25em;
+		  }
+		}
+
+		.tagline-container:after {
+		  display: block;
+		  height: 100px;
+		  width: 100%;
+		  background-repeat: no-repeat;
+		  content: "";
+		  background-color: white;
+		  background-size: cover;
+		  background-position: center bottom;
+		  background-image: url(../img/shapes.svg);
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline-container:after {
+		    height: 150px;
+		  }
+		}
+
+		.tagline {
+		  max-width: 1200px;
+		  margin: 0 auto;
+		  width: 89%;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline {
+		    padding: 0 2em;
+		    width: 100%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline {
+		    padding: 0 6em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline {
+		    padding: 0 10em;
+		    max-width: 1500px;
+		  }
+		}
+
+		.tagline h1 {
+		  padding: 0;
+		  padding-top: 1.5em;
+		  font-size: 1.75em;
+		  margin-top: 0;
+		  line-height: 1.1;
+		  text-align: center;
+		  font-weight: 300;
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  text-transform: none;
+		  color: white;
+		  letter-spacing: normal;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 {
+		    font-size: 2.2em;
+		    padding-top: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 {
+		    font-size: 2.4em;
+		    width: 60%;
+		    text-align: left;
+		    padding-top: 5rem;
+		    padding-bottom: 2rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 {
+		    font-size: 2.6em;
+		    padding-top: 1.85em;
+		    padding-bottom: .3em;
+		  }
+		}
+
+		.tagline h1 strong {
+		  font-size: 2.75rem;
+		  color: white;
+		  letter-spacing: 1px;
+		  font-weight: 600;
+		  display: block;
+		  text-transform: uppercase;
+		  font-family: nimbus-sans-condensed;
+		  margin-bottom: .075em;
+		  line-height: 1;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 strong {
+		    font-size: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 strong {
+		    font-size: 3.3rem;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline h1 strong {
+		    font-size: 3.5rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 strong {
+		    font-size: 4rem;
+		  }
+		}
+
+		nav {
+		  display: block;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: .25em 1em;
+		  margin: 0 auto;
+		  margin-top: 0em;
+		  margin-bottom: .5em;
+		}
+
+		nav a {
+		  text-decoration: none;
+		  color: #393839;
+		  letter-spacing: 2px;
+		  font-size: 1.2em;
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  text-transform: uppercase;
+		}
+
+		@media screen and (min-width: 500px) {
+		  nav a {
+		    font-size: 1.1em;
+		  }
+		}
+
+		nav ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 0;
+		  margin: 0 auto;
+		  text-align: center;
+		  display: table;
+		  /*margin-bottom: .5em;*/
+		}
+
+		nav ul li {
+		  text-align: center;
+		  float: left;
+		  display: table-cell;
+		  width: 50%;
+		  padding-bottom: 0em;
+		  padding-top: .25em;
+		  margin-bottom: 0;
+		}
+
+		nav ul li:before {
+		  content: none;
+		}
+
+		nav ul li:last-child:after {
+		  content: "";
+		  width: 0;
+		  padding: 0;
+		}
+
+		@media screen and (min-width:500px) {
+		  nav {
+		    padding: .5em;
+		  }
+
+		  nav ul li {
+		    width: inherit;
+		  }
+
+		  nav ul li:after {
+		    content: "/";
+		    width: 15px;
+		    color: rgb(240,99,116);
+		    font-weight: bold;
+		    font-size: 1.5rem;
+		    padding-left: .5rem;
+		    padding-right: .5rem;
+		  }
+		}
+
+		@media screen and (min-width:600px) {
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  nav {
+		    display: inline-block;
+		    float: right;
+		    width: 65%;
+		    background-color: inherit;
+		    border-top: none;
+		    margin-top: .9em;
+		  }
+
+		  nav ul {
+		    margin-right: 0;
+		  }
+
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  nav {
+		    margin-top: 2em;
+		    margin-bottom: 0;
+		  }
+
+		  nav ul li:after {
+		    padding-left: .75em;
+		    padding-right: .75em;
+		  }
+
+		  nav a {
+		    font-size: 1.5em;
+		  }
+		}
+
+		#skip-to-content {
+		  padding: 1em;
+		  position: absolute;
+		  top: -40px;
+		  left: 1em;
+		  z-index: 1000;
+		  color: white;
+		}
+
+		.visually-hidden {
+		  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+		  position: absolute !important;
+		  clip: rect(1px 1px 1px 1px);
+		  /* IE6, IE7 */
+		  clip: rect(1px, 1px, 1px, 1px);
+		  padding: 0 !important;
+		  border: 0 !important;
+		  height: 1px !important;
+		  width: 1px !important;
+		  overflow: hidden;
+		}
+
+		.button {
+		  text-decoration: none;
+		  background-color: rgb(26,117,138);
+		  color: white;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  font-size: .9em;
+		  padding: 1.25rem 1.5rem;
+		  display: inline-block;
+		  border-radius: 40px;
+		  margin-top: .5em;
+		  border-bottom: 5px solid #19687A;
+		  margin-bottom: 1.5em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .button {
+		    font-size: .95rem;
+		  }
+		}
+
+		/* Blog Teasers */
+
+		.blog-post {
+			margin-bottom: 1em;
+			display: block;
+			margin-top: 1.5em;
+		}
+
+		.blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
+			background-color: #606060;
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post {
+				float: left;
+				width: 50%;
+				padding-right: 5%;
+			}
+		}
+
+		.blog-post h3, .blog-post h4, .class-title h3 {
+			margin-top: 0;
+			padding-top: 0;
+			margin-bottom: 0;
+		}
+
+		.blog-post a {
+			text-decoration: none;
+			color: rgb(26,117,138);
+		}
+
+		.blog-post a:hover, .blog-post a:focus {
+			color: rgb(26,117,138);
+		}
+
+		.blog-post-summary {
+			font-size: .8em;
+		}
+
+		.blog-post-summary p {
+			margin-bottom: 0;
+			padding-bottom: 0;
+			line-height: 1.4;
+			color: black;
+		}
+
+		.blog-post-blurb {
+			float: left;
+			width: 60%;
+		}
+
+		@media screen and (min-width: 500px) {
+			.blog-post-blurb {
+				width: 75%;
+			}
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post-blurb {
+				width: 55%;
+			}
+		}
+
+		@media screen and (min-width: 700px) {
+			.blog-post-blurb {
+				width: 65%;
+			}
+		}
+
+		.blog-post h4 {
+			font-size: 1em;
+		}
+		</style>
+		<link rel="canonical" href="http://www.rwdkent.com/class/schedule/">
+		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
+	</head>
+	<body>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/" class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<svg class="rwd-svg" aria-labelledby="title" aria-describedby="description" role="img" viewBox="0 0 206 80" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><title>RWD</title><desc>Responsive Web Design Logo</desc><g sketch:type="MSLayerGroup" fill="none"><g class="mark"><path class="shape code-left" d="M25.625 28.785c-.894-1.045-2.463-1.166-3.506-.27l-10.895 9.364c-.551.473-.868 1.165-.868 1.892 0 .727.317 1.419.868 1.892l10.895 9.364c.469.403 1.045.6 1.617.6.701 0 1.397-.295 1.889-.87.894-1.045.773-2.618-.269-3.515l-8.694-7.472 8.694-7.472c1.042-.896 1.163-2.469.269-3.514" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape" d="M41.813 20.814c-1.306-.426-2.709.29-3.133 1.599l-10.765 33.174c-.425 1.309.29 2.715 1.595 3.141.255.083.515.123.769.123 1.048 0 2.022-.669 2.364-1.722l10.765-33.174c.425-1.309-.29-2.715-1.595-3.141" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape code-right" d="M60.101 37.879l-10.895-9.364c-1.043-.896-2.612-.775-3.506.27-.894 1.045-.773 2.618.269 3.514l8.694 7.472-8.694 7.472c-1.043.896-1.163 2.47-.269 3.515.492.575 1.188.87 1.889.87.573 0 1.148-.197 1.617-.6l10.895-9.364c.551-.474.868-1.165.868-1.892 0-.727-.317-1.419-.868-1.892" fill="#F06374" sketch:type="MSShapeGroup"/></g><path d="M67.557 17.666l-28.746-16.636c-.956-.553-2.045-.846-3.15-.846-1.104 0-2.193.292-3.149.846l-28.745 16.636c-1.943 1.124-3.15 3.22-3.15 5.469v33.273c0 2.249 1.207 4.344 3.15 5.468l28.745 16.636c.956.553 2.046.846 3.149.846 1.104 0 2.194-.292 3.149-.846l28.746-16.636c1.943-1.124 3.15-3.22 3.15-5.468v-33.273c0-2.249-1.207-4.344-3.15-5.469zm-1.823 38.742c0 .474-.254.915-.663 1.152l-28.746 16.637c-.402.233-.924.233-1.327 0l-28.745-16.637c-.409-.237-.663-.678-.663-1.152v-33.273c0-.474.254-.915.663-1.152l28.745-16.637c.201-.117.431-.178.663-.178.233 0 .462.062.663.178l28.746 16.637c.409.237.663.678.663 1.152v33.273z" fill="#1A758A" sketch:type="MSShapeGroup"/><path d="M100.154 20.95h-13.558c-1.374 0-2.535 1.187-2.535 2.593v32.422c0 1.405 1.161 2.593 2.535 2.593 1.426 0 2.587-1.163 2.587-2.593v-11.776h9.631l10.035 13.073c.644.86 1.427 1.297 2.328 1.297 1.354 0 2.587-1.211 2.587-2.541 0-.835-.448-1.446-.792-1.835l-8.49-10.956c5.912-1.413 9.281-5.336 9.281-10.863v-.104c0-2.948-1.046-5.621-2.946-7.525-2.433-2.439-6.22-3.783-10.663-3.783zm8.436 11.567c0 4.223-3.454 6.952-8.798 6.952h-10.609v-13.697h10.661c5.558 0 8.746 2.42 8.746 6.641v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M165.818 20.691c-1.13 0-2.048.733-2.454 1.956l-9.537 27.498-8.994-27.492c-.415-1.247-1.329-1.962-2.508-1.962h-.259c-1.197 0-2.088.697-2.509 1.965l-8.993 27.488-9.484-27.387c-.417-1.255-1.443-2.066-2.612-2.066-1.406 0-2.638 1.212-2.638 2.593 0 .395.124.769.238 1.109l11.588 32.254c.448 1.346 1.4 2.118 2.612 2.118h.31c1.19 0 2.141-.769 2.611-2.116l8.879-26.454 8.929 26.46c.468 1.341 1.419 2.11 2.609 2.11h.311c1.19 0 2.141-.769 2.608-2.106l11.596-32.277.062-.179c.105-.296.223-.631.223-.971 0-1.33-1.233-2.541-2.587-2.541" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M185.411 20.95h-10.557c-1.374 0-2.535 1.187-2.535 2.593v32.162c0 1.405 1.161 2.593 2.535 2.593h10.557c5.578 0 10.64-1.914 14.252-5.39 3.556-3.422 5.515-8.14 5.515-13.284v-.104c0-10.76-8.313-18.57-19.767-18.57zm14.49 18.778c0 8.094-5.959 13.747-14.49 13.747h-7.97v-27.703h7.97c4.269 0 7.925 1.39 10.575 4.02 2.525 2.506 3.916 5.998 3.916 9.832v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/></g></svg>
+		</a>
+		<nav role="navigation">
+			<ul class="group">
+				<li  class="active"><a href="/class/">Class</a></li>
+				<li ><a href="/workshop/">Workshop</a></li>
+				<li ><a href="/about/">About</a></li>
+			</ul>
+		</nav>
+		</header>
+
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide group">
+	<h1>Calendar</h1>
+	<p class="introduction">You can find the class schedule below. The dates and plans are subject to change.  I'll notify you of any modifications during class or via email.</p>
+
+<h2>Part 1: Principles of RWD (HTML)</h2>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Aug
+					  
+				</div>
+				<div class="blog-post-day">30</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/1/">Class 1: RWD Principles</a></h3>
+			<p>We'll cover a <a href="http://www.lynda.com/Web-Documentaries-tutorials/Jeffrey-Zeldman-20-years-Web-Design-Community/167374/188504-4.html">brief history of web design</a>, web standards and why responsive design is important.  We'll head to the computers for a quick Mac boot camp.  I'll also have you take the <a href="http://kent.qualtrics.com/SE/?SID=SV_02FBFyozDRa4b8F">Introductory Class Survey</a>.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd>There's nothing to read for today.</dd>
+	  	<dt>Due Today</dt>
+	  	<dd>There's nothing due today.</dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/casestudy">RWD Case Study</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Sept
+					  
+				</div>
+				<div class="blog-post-day">06</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/2/">Class 2: HTML Basics</a></h3>
+			<p>We'll discuss the basics of HTML and code some live HTML in class using CodePen.  We'll also set up GitHub accounts and version control for future assignments.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> - Introduction, Ch. 1 Structure, Ch.2 Text, Ch. 18 Process & Design (out of order)</li><li><a href="http://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/">Absolute vs. Relative Paths and Links</a></li><li><i>Responsive Web Design</i> - Ch. 1 Our Responsive Web</li><li><a href="http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1">GitHub for Beginners (Just scan)</a></li><li><a href="https://24ways.org/2013/get-started-with-github-pages/">Getting Started With GitHub Pages (Just scan)</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/casestudy">RWD Case Study</a> and <a href="http://kent.qualtrics.com/SE/?SID=SV_02FBFyozDRa4b8F">Take Introductory Survey</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/html">HTML Basics 1</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Sept
+					  
+				</div>
+				<div class="blog-post-day">13</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/3/">Class 3: Research and HTML Part 2</a></h3>
+			<p>I'll introduce the semester project and we'll talk about developing research and goals for website projects.  We'll also continue our HTML discussion with a hands-on lesson in class.  Finally, we'll get into groups for the first time and complete a Project Management exercise, as well as finishing the set up of GitHub projects.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> - Ch. 3 Lists, Ch.4 Links</li><li><a href="http://alistapart.com/article/what-really-matters-focusing-on-top-tasks">Focusing On Top Tasks</a></li><li><a href="https://24ways.org/2013/bringing-design-and-research-closer-together/">Bringing Design and Research Closer Together by Emma Boulton</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/html">HTML Basics 1</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/project-summary.html">Semester Project (Introduced)</a> and <a href="../assignments/research">Research/Competitive Analysis</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+<h2>Part 2: Content Strategy and Mobile-First</h2>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Sept
+					  
+				</div>
+				<div class="blog-post-day">20</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/4/">Class 4: Content-First Design and HTML Part 3</a></h3>
+			<p>We'll talk about how to prioritize content through content outlines and sketching.  We'll practice with a hands-on content prioritization exercise.  Finally, we'll finish our HTML lesson.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> - Ch. 5 Images, Ch.6 Tables, Ch.7 Forms, Ch.8 Extra Markup</li><li><a href="http://alistapart.com/blog/post/content-first-design">Content-First Design by Steph Hay</a></li><li><a href="http://www.markboulton.co.uk/journal/structure-first-content-always">Structure First. Content Always. by Mark Boulton</a></li><li><a href="http://karenmcgrane.com/2014/01/13/the-mobile-content-mandate/">In Class - We'll Watch part of the Mobile Content Mandate (Video) by Karen McGrane - 14:30 start, slide 20)</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/research">Research and Competitive Analysis</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/html2">HTML Basics 2</a> and <a href="../assignments/content">Content & Architecture</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Sept
+					  
+				</div>
+				<div class="blog-post-day">27</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/5/">Class 5: Information Architecture, Sketching and Mobile-First Design</a></h3>
+			<p>We'll discuss information architecture and begin sketching.  We'll discuss why designing mobile-first is important.</a></p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><a href="http://alistapart.com/article/sketching-the-visual-thinking-power-tool">Sketching - the Visual Thinking Power Tool by Mike Rohde</a></li><li><a href="http://www.lukew.com/ff/entry.asp?933">For Reference - Mobile First - Luke Wroblewski</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/html2">HTML Basics 2</a> and <a href="../assignments/content">Content/Architecture</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/sketching">Project Sketches</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+<h2>Part 3: Visual Design and Development (CSS)</h2>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Oct
+					  
+				</div>
+				<div class="blog-post-day">04</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/6/">Class 6: Design Patterns, Style Tiles and CSS</a></h3>
+			<p>In class we'll discuss how to develop a website's personality through design patterns and style tiles.  In class, we'll use TypeCast, a tool to help choose typographic styles for the web.  We'll also learn to use Sketch, a vector-based design tool.  Finally, we'll begin discussing CSS.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li>HTML&CSS - Ch. 10 Introducing CSS</li><li><a href="http://alistapart.com/article/style-tiles-and-how-they-work">Style Tiles and How They Work by Samantha Warren</a></li><li><a href="http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype">Our New Responsive Design Deliverable - The Style Prototype</a></li><li><a href="http://alistapart.com/article/responsive-comping-obtaining-signoff-with-mockups">Responsive Comping - Obtaining Client Feedback Without Mockups by Matt Griffin</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/sketching">Project Sketches</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/css">CSS Basics</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Oct
+					  
+				</div>
+				<div class="blog-post-day">11</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/7/">Class 7: Web Typography, Colors and CSS Part 2</a></h3>
+			<p>We'll continue our discussion on web typography, colors and styles.  We'll also go over the CodePen CSS exercise and work on our style tiles/mockups in class.</a></p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> - Ch. 11 Color, Ch. 12 Text, Ch. 14 Lists Tables & Forms</li><li><a href="http://alistapart.com/article/how-we-read">How We Read by Jason Santa Maria</a></li><li><a href="http://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/">Size Matters - Balancing Line Length and Font Size in Responsive Web Design</a></li><li><a href="http://lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html">In Class - Watch Understanding the CSS Box Model on Lynda.com</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/css">CSS Basics</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/style">Style Tiles</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Oct
+					  
+				</div>
+				<div class="blog-post-day">18</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/8/">Class 8: Style Tiles Critiques, CSS Box Model and CSS Part 3</a></h3>
+			<p>We'll talk about developing style prototypes and continue our CSS lesson on the CSS box-model.  Finally, we'll have an in-class critique/discussion about your style tiles.  Take the <a href="/class/survey/">mid-semester survey</a> in class.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> Ch. 13 Boxes, Ch. 15 Layout, Ch. 16 Images</li><li><a href="http://lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html">In Class - Finishing Understanding the CSS Box Model</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/style">Style Tiles - Part 1 + In-Class Sharing (Do Not Submit to Blackboard Yet)</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/css2">CSS Basics 2</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Oct
+					  
+				</div>
+				<div class="blog-post-day">25</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/9/">Class 9: Atomic Design and HTML/CSS Layout</a></h3>
+			<p>We'll put it all together and talk about developing layout systems in HTML/CSS using media queries and flexbox.  We'll talk about recent advancements in CSS relating to layout and how the atomic design methodology helps create more consistent web design systems.  We'll practice with a hands-on assignment using media queries.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>HTML&CSS</i> - Ch. 17 HTML5 Layout</li><li><i>Responsive Web Design</i> Ch. 2 The Flexible Grid, Ch. 3 Flexible Images, Ch. 4 Media Queries</li><li><a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Web Design by Brad Frost</a></li><li><a href="http://daverupert.com/2013/04/responsive-deliverables/">Responsive Deliverables by Dave Rupert</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/style">Style Tiles + Mockup - Part 2 (Submitted to Blackboard)</a> and <a href="../assignments/css2">CSS Basics 2</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/layout">Layout/Media Queries</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+<h2>Part 4: Prototyping, Testing and Style Guides</h2>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Nov
+					  
+				</div>
+				<div class="blog-post-day">01</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/10/">Class 10: Responsive Images, SVG and HTML Wireframing</a></h3>
+			<p>We talk about the advanced use of images in HTML, including responsive images and SVG.  We'll lightly touch on CSS animations.  We'll also talk about wireframing templates with HTML and work on your next project assignment in class. <i>Special Guest -  ipsoCreative</i></p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><a href="https://css-tricks.com/using-svg/">Using SVG by Chris Coyier</a></li><li><a href="http://alistapart.com/article/mo-pixels-mo-problems">Mo' Pixels Mo' Problems</a></li><li><a href="http://bradfrost.com/blog/post/html-wireframes/">HTML Wireframes by Brad Frost</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/layout">Fonts and Media Queries</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/wireframes">HTML Content Wireframes</a> and <a href="../assignments/layout2">Boxes and Layout</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Nov
+					  
+				</div>
+				<div class="blog-post-day">08</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/11/">Class 11: Performance, Advanced Web Tools and Responsive Patterns</a></h3>
+			<p>We'll talk about adding interaction to your website using Jquery and JavaScript.  We'll touch on how CSS preprocessors can speed up your development time. Finally, I'll show and demonstrate some common RWD patterns and how they might be accomplished.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><i>Responsive Web Design</i> - Ch. 5 Becoming Responsive</li><li><a href="http://timkadlec.com/2014/01/fast-enough/">Fast Enough by Tim Kadlec</a></li><li><a href="http://alistapart.com/article/understandingprogressiveenhancement">Understanding Progressive Enhancement by Aaron Gustafson</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/layout2">Layout/Media Queries 2</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/testing">Performance & Usability Testing</a> and <a href="../assignments/templates">HTML/CSS Templates</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Nov
+					  
+				</div>
+				<div class="blog-post-day">15</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/12/">Class 12: Device Testing, Usability Testing and Iteration</a></h3>
+			<p>We'll discuss how to ensure your website works well on multiple devices and browsers using the IdeaBase testing lab in class.  We'll also talk about accessibility and why it's important.  Finally, we'll also discuss how to develop usability and accessibility testing tasks and how to iterate on your design.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><a href="http://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks">Usability testing - how do we design effective tasks by Tingting Zhao</a></li><li><a href="http://alistapart.com/article/reframing-accessibility-for-the-web">Reframing Accessibility for the Web by Anne Gibson</a></li><li><a href="http://bradfrost.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/">Test on Real Mobile Devices Without Breaking the Bank by Brad Frost</a></li><li><a href="http://danielmall.com/articles/how-to-make-a-performance-budget/">How To Make a Performance Budget by Dan Mall</a></li><li><a href="http://deep.design/the-hamburger-menu/?utm_source=CSS-Weekly&utm_campaign=Issue-176&utm_medium=email">For Reference - The Hamburger Menu Doesn't Work</a></li><li><a href="http://a11yproject.com/checklist.html">For Reference - Web Accessibility Checklist</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/wireframes">HTML Content Wireframes</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd>We'll start working on <a href="../assignments/testing">Performance & Usability Testing</a> and <a href="../assignments/templates">HTML/CSS Templates</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Nov
+					  
+				</div>
+				<div class="blog-post-day">22</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/13/">Class 13: Pattern Libraries & Project Work</a></h3>
+			<p>We'll discuss how we can document our designs using style guides.  We'll also discuss how your designs and content might be integrated into an enterprise-level content management system.  Finally, we'll work on our prototypes in preparation for usability testing for the next class.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><a href="http://alistapart.com/blog/post/getting-started-with-pattern-libraries">Getting Started with Pattern Libraries by Anna Debenham</a></li><li><a href="http://bradfrost.com/blog/post/style-guide-best-practices/">Style Guide Best Practices by Brad Frost</a></li><li><a href="http://www.smashingmagazine.com/2015/03/content-mobile-content-strategy/">Help Your Content Go Anywhere With A Mobile Content Strategy by Kerry Crawford</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd>Nothing Due Today.  Continue working on <a href="../assignments/testing">Performance & Usability Testing</a> and <a href="../assignments/templates">HTML/CSS Templates</a>.</dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/styleguide">Pattern Library</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Nov
+					  
+				</div>
+				<div class="blog-post-day">29</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/14/">Class 14: Usability Testing In Class + Finalizing Prototypes and Style Guides</a></h3>
+			<p>We'll conduct usability testing in class and also finalize our content templates and pattern libraries based on testing feedback.  If time, we'll briefly discuss print stylesheets, reset stylesheets and responsive email.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><ul><li><a href="http://bradfrost.com/blog/web/how-much-does-a-responsive-web-design-cost/">How Much Does a Responsive Web Design Cost? by Brad Frost</a></li><li><a href="http://www.smashingmagazine.com/2011/11/how-to-set-up-a-print-style-sheet/">For Reference - How to Set Up A Print Style Sheet by Christian Krammer</a></li></ul></dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/testing">Performance & Usability Testing Plan</a> (You'll conduct the actual testing in class and turn in your results by the end of class)</dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/timeline-presentation">Project Timeline, Presentation & Critiques</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Dec
+					  
+				</div>
+				<div class="blog-post-day">06</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/15/">Class 15: Group Work Session</a></h3>
+			<p>We'll be using this extra class to work as a group and finish the final assignments.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd><a href="http://alistapart.com/article/client-relationships-and-the-multi-device-web">Client Relationships and the Multi-Device Web</a></dd>
+	  	<dt>Due Today</dt>
+	  	<dd>Nothing is due today.  Continue working on <a href="../assignments/templates">HTML/CSS Templates</a>, <a href="../assignments/styleguide">Pattern Library</a> and <a href="../assignments/timeline-presentation">Project Timeline, Presentation & Critiques</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd><a href="../assignments/assessment">Self & Group Assessment</a></dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+	
+
+
+<h2>Final Exam Period</h2>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	  
+<div class="class-entry group">
+	<div class="blog-post-intro group">
+		  <div class="blog-post-date ">
+				<div class="blog-post-month">
+					
+					Dec
+					  
+				</div>
+				<div class="blog-post-day">13</div>
+		</div>
+		<div class="class-title">
+			<h3><a href="/class/schedule/16/">Final Exam: Class Review Session</a></h3>
+			<p>You will not have a formal final exam.  Your final prototype and pattern library will act as your final.  We'll do our presentations and critiques during the final exam period.  Groups will complete mock client feedback sessions with the class, and the class will <a href="http://rwdkent.com/class/eval/">evaluate the sessions</a> based on the project goals and usability testing results.</p>
+		</div>
+	</div>
+<div class="class-summary">
+	  <dl>
+	  	<dt>Read For Class</dt>
+	  	<dd>Nothing to read</dd>
+	  	<dt>Due Today</dt>
+	  	<dd><a href="../assignments/templates">HTML/CSS Templates</a>, <a href="../assignments/styleguide">Pattern Library</a>, <a href="../assignments/timeline-presentation">Project Timeline, Presentation & Critiques</a> and <a href="../assignments/assessment">Self & Group Assessment (by end of finals week)</a></dd>
+	  	<dt>Assigned Today</dt>
+	  	<dd>Nothing assigned today</dd>
+	  	
+	  </dl>
+</div>
+
+</div>
+	
+
+
+<hr>
+
+<a href="/class" class="button small">Return to Class</a>
+
+	</section>
+</main>
+
+<footer class="group" role="contentinfo">
+	<div class="footer-inner">
+	<div class="footer-contact-information">
+			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
+			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
+			<a class="footer-instructor" href="mailto:challahan@gmail.com">Instructor: Christopher Hallahan</a>
+			<div class="footer-supplemental">
+				<a href="http://www.twitter.com/rwdkent">Follow @RWDkent on Twitter</a>
+				<a href="https://github.com/KentStateWeb/rwd/tree/gh-pages">View this Site on GitHub</a>
+			</div>
+	</div>
+	<div class="footer-logo">
+			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
+	</div>
+	</div>
+</footer>
+<link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+
+<script>
+    !function(e,t,n,r,a,s,i,l){n&&(s=n[r],s&&(i=e.createElement("style"),i.innerHTML=s,e.getElementsByTagName("head")[0].appendChild(i)),l=t.setAttribute,t.setAttribute=function(e,p,u,o){"string"==typeof p&&p.indexOf(a)>-1&&(u=new XMLHttpRequest,u.open("GET",p,!0),u.onreadystatechange=function(){if(4===u.readyState){o=u.responseText.replace(/url\(\//g,"url("+a+"/");try{o!==s&&(n[r]=o)}catch(e){s&&(s=i.innerHTML="")}}},u.send(null),t.setAttribute=l,s)||l.apply(this,arguments)})}(document,Element.prototype,localStorage,"tk","https://use.typekit.net");
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'gbh5snd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52690730-5', 'auto');
+  ga('send', 'pageview');
+</script>
+<script src="/js/flickity.js"></script>
+</body>
+</html>

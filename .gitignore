@@ -1,0 +1,10 @@
+*.codekit
+_site/
+.sass-cache/
+_groups/assets/.DS_Store
+
+*.codekit
+
+*.codekit
+_site/*
+_site/

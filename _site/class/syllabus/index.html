@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Syllabus - Responsive Web Design - Responsive Web Design (RWD) Kent State</title>
+		<meta name="description" content="Web design courses and workshops from Kent State University.">
+		<link rel="mask-icon" href="website_icon.svg" color="#F06374">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#1c7489">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<style>
+		@charset "utf-8";
+
+		body {
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: 0;
+		  margin: 0;
+		}
+
+		.group:after {
+		  content: ".";
+		  display: block;
+		  height: 0;
+		  overflow: hidden;
+		}
+
+		.group:after {
+		  clear: both;
+		}
+
+		.group {
+		  zoom: 1;
+		  /* IE < 8 */
+		}
+
+		* {
+		  box-sizing: border-box;
+		}
+
+		p,
+		ul,
+		li {
+		  font-size: 1.05em;
+		  line-height: 1.4;
+		}
+
+		@media screen and (min-width: 800px) {
+		  p,
+		  ul,
+		  li {
+		    line-height: 1.6;
+		  }
+		}
+
+		p a,
+		ul a {
+		  color: rgb(26,117,138);
+		  font-weight: bold;
+		  text-decoration: none;
+		  word-wrap: break-word;
+		}
+
+		h1 {
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  letter-spacing: 2px;
+		  text-transform: uppercase;
+		}
+
+		h1 {
+		  font-size: 2.5em;
+		  margin-bottom: .5em;
+		  margin-top: 0;
+		  color: rgb(26,117,138);
+		}
+
+		@media screen and (min-width: 800px) {
+		  h1 {
+		    margin-top: .5em;
+		    font-size: 3em;
+		  }
+		}
+
+		.floated-feature-image-container {
+		  width: 100%;
+		  text-align: center;
+		  margin-top: -7em;
+		  margin-bottom: 2em;
+		  overflow: hidden;
+		  z-index: 1000;
+		  position: relative;
+		}
+
+		.floated-feature-image {
+		  width: 250px;
+		  max-height: 150px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .floated-feature-image {
+		    width: 300px;
+		    max-height: 200px;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .floated-feature-image-container {
+		    width: 40%;
+		    float: right;
+		    margin-top: -22em;
+		    padding-left: 2em;
+		  }
+
+		  .floated-feature-image {
+		    width: 400px;
+		    max-height: 400px;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .floated-feature-image-container {
+		    padding-left: 4em;
+		    margin-bottom: 0;
+		  }
+
+		  .floated-feature-image {
+		    width: 450px;
+		    max-height: 550px;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .floated-feature-image-container {
+		    padding-left: 0;
+		  }
+
+		  .floated-feature-image-container {
+		    margin-top: -24em;
+		  }
+		}
+
+		@media screen and (min-width: 1300px) {
+		  .floated-feature-image {
+		    width: 500px;
+		    max-width: 500px;
+		    max-height: 650px;
+		  }
+		}
+
+
+
+		#tablet-text-top {
+		  opacity: 0;
+		}
+
+		#tablet-text-middle {
+		  opacity: 0;
+		}
+
+		#tablet-text-bottom {
+		  opacity: 0;
+		}
+
+		#phone-text {
+		  opacity: 0;
+		}
+
+		header {
+		  text-align: center;
+		  padding-top: 10px;
+		  border-top: 20px solid #393839;
+		  margin-bottom: 1.5em;
+		  width: 91%;
+		  max-width: 1200px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 800px) {
+		  header {
+		    width: 93%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  header {
+		    width: 85%;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  header {
+		    width: 100%;
+		    max-width: 1500px;
+		    padding: 0 10em;
+		  }
+		}
+
+		header .svg {
+		  width: 200px;
+		  margin-bottom: 0;
+		  padding-bottom: 0;
+		  margin-top: .05em;
+		  height: 80px;
+		}
+
+		a.svg {
+		  position: relative;
+		  display: inline-block;
+		}
+
+		a.svg:after {
+		  content: "";
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  bottom: 0;
+		  left: 0;
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .rwd-svg {
+		    height: 120px;
+		  }
+		}
+
+
+
+		.rwd-svg .mark {
+		  transform: scale(1.0);
+		}
+
+		.svg .rwd-svg .mark {
+		  transform: translate(0,0) scale(1.0);
+		}
+
+		.svg .code-left,
+		.svg .code-right {
+		  transform: translate(0,0);
+		}
+
+		@media screen and (min-width:600px) {
+		  header .svg {
+		    width: 225px;
+		    margin-bottom: 0;
+		    padding-bottom: 0;
+		    margin-top: .05em;
+		    height: 90px;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  header {
+		    text-align: left;
+		  }
+
+		  header .svg {
+		    float: left;
+		    margin-bottom: 1.5em;
+		    padding-top: .5em;
+		    width: 25%;
+		    max-width: 250px;
+		    padding-bottom: 0em;
+		    height: auto;
+		  }
+		}
+
+		@media screen and (min-width:1200px) {
+		  header .svg {
+		    max-width: 265px;
+		    margin-bottom: 1.25em;
+		    margin-top: 1.2em;
+		    width: 50%;
+		    padding-top: 0;
+		  }
+		}
+
+		main {
+		  padding: 1em;
+		}
+
+		@media screen and (min-width:600px) {
+		  main {
+		    padding: 2em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  main {
+		    padding: 2.5em;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  main {
+		    padding: 0 6em;
+		  }
+		}
+
+		p.introduction {
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  font-size: 1.1em;
+		  margin-top: 0;
+		  line-height: 1.4;
+		  color: black;
+		  font-weight: 300;
+		}
+
+		p.introduction-home {
+		  max-width: 650px;
+		}
+
+		@media screen and (min-width:600px) {
+		  p.introduction {
+		    font-size: 1.2em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:800px) {
+		  p.introduction {
+		    font-size: 1.25em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  p.introduction {
+		    font-size: 1.3em;
+		    line-height: 1.4;
+		  }
+		}
+
+		main {
+		  margin-top: 0;
+		  padding-top: 0.5em;
+		}
+
+		@media screen and (min-width:1200px) {
+		  main {
+		    padding: 0 10rem;
+		    max-width: 1500px;
+		    margin: 0 auto;
+		    display: block;
+		  }
+
+		  .main-content-area {
+		    width: 60%;
+		    float: left;
+		  }
+		}
+
+		.tagline-container {
+		  background: rgb(240,98,116);
+		  margin-bottom: 2em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline-container {
+		    margin-bottom: 3.25em;
+		  }
+		}
+
+		.tagline-container:after {
+		  display: block;
+		  height: 100px;
+		  width: 100%;
+		  background-repeat: no-repeat;
+		  content: "";
+		  background-color: white;
+		  background-size: cover;
+		  background-position: center bottom;
+		  background-image: url(../img/shapes.svg);
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline-container:after {
+		    height: 150px;
+		  }
+		}
+
+		.tagline {
+		  max-width: 1200px;
+		  margin: 0 auto;
+		  width: 89%;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline {
+		    padding: 0 2em;
+		    width: 100%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline {
+		    padding: 0 6em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline {
+		    padding: 0 10em;
+		    max-width: 1500px;
+		  }
+		}
+
+		.tagline h1 {
+		  padding: 0;
+		  padding-top: 1.5em;
+		  font-size: 1.75em;
+		  margin-top: 0;
+		  line-height: 1.1;
+		  text-align: center;
+		  font-weight: 300;
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  text-transform: none;
+		  color: white;
+		  letter-spacing: normal;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 {
+		    font-size: 2.2em;
+		    padding-top: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 {
+		    font-size: 2.4em;
+		    width: 60%;
+		    text-align: left;
+		    padding-top: 5rem;
+		    padding-bottom: 2rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 {
+		    font-size: 2.6em;
+		    padding-top: 1.85em;
+		    padding-bottom: .3em;
+		  }
+		}
+
+		.tagline h1 strong {
+		  font-size: 2.75rem;
+		  color: white;
+		  letter-spacing: 1px;
+		  font-weight: 600;
+		  display: block;
+		  text-transform: uppercase;
+		  font-family: nimbus-sans-condensed;
+		  margin-bottom: .075em;
+		  line-height: 1;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 strong {
+		    font-size: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 strong {
+		    font-size: 3.3rem;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline h1 strong {
+		    font-size: 3.5rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 strong {
+		    font-size: 4rem;
+		  }
+		}
+
+		nav {
+		  display: block;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: .25em 1em;
+		  margin: 0 auto;
+		  margin-top: 0em;
+		  margin-bottom: .5em;
+		}
+
+		nav a {
+		  text-decoration: none;
+		  color: #393839;
+		  letter-spacing: 2px;
+		  font-size: 1.2em;
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  text-transform: uppercase;
+		}
+
+		@media screen and (min-width: 500px) {
+		  nav a {
+		    font-size: 1.1em;
+		  }
+		}
+
+		nav ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 0;
+		  margin: 0 auto;
+		  text-align: center;
+		  display: table;
+		  /*margin-bottom: .5em;*/
+		}
+
+		nav ul li {
+		  text-align: center;
+		  float: left;
+		  display: table-cell;
+		  width: 50%;
+		  padding-bottom: 0em;
+		  padding-top: .25em;
+		  margin-bottom: 0;
+		}
+
+		nav ul li:before {
+		  content: none;
+		}
+
+		nav ul li:last-child:after {
+		  content: "";
+		  width: 0;
+		  padding: 0;
+		}
+
+		@media screen and (min-width:500px) {
+		  nav {
+		    padding: .5em;
+		  }
+
+		  nav ul li {
+		    width: inherit;
+		  }
+
+		  nav ul li:after {
+		    content: "/";
+		    width: 15px;
+		    color: rgb(240,99,116);
+		    font-weight: bold;
+		    font-size: 1.5rem;
+		    padding-left: .5rem;
+		    padding-right: .5rem;
+		  }
+		}
+
+		@media screen and (min-width:600px) {
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  nav {
+		    display: inline-block;
+		    float: right;
+		    width: 65%;
+		    background-color: inherit;
+		    border-top: none;
+		    margin-top: .9em;
+		  }
+
+		  nav ul {
+		    margin-right: 0;
+		  }
+
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  nav {
+		    margin-top: 2em;
+		    margin-bottom: 0;
+		  }
+
+		  nav ul li:after {
+		    padding-left: .75em;
+		    padding-right: .75em;
+		  }
+
+		  nav a {
+		    font-size: 1.5em;
+		  }
+		}
+
+		#skip-to-content {
+		  padding: 1em;
+		  position: absolute;
+		  top: -40px;
+		  left: 1em;
+		  z-index: 1000;
+		  color: white;
+		}
+
+		.visually-hidden {
+		  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+		  position: absolute !important;
+		  clip: rect(1px 1px 1px 1px);
+		  /* IE6, IE7 */
+		  clip: rect(1px, 1px, 1px, 1px);
+		  padding: 0 !important;
+		  border: 0 !important;
+		  height: 1px !important;
+		  width: 1px !important;
+		  overflow: hidden;
+		}
+
+		.button {
+		  text-decoration: none;
+		  background-color: rgb(26,117,138);
+		  color: white;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  font-size: .9em;
+		  padding: 1.25rem 1.5rem;
+		  display: inline-block;
+		  border-radius: 40px;
+		  margin-top: .5em;
+		  border-bottom: 5px solid #19687A;
+		  margin-bottom: 1.5em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .button {
+		    font-size: .95rem;
+		  }
+		}
+
+		/* Blog Teasers */
+
+		.blog-post {
+			margin-bottom: 1em;
+			display: block;
+			margin-top: 1.5em;
+		}
+
+		.blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
+			background-color: #606060;
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post {
+				float: left;
+				width: 50%;
+				padding-right: 5%;
+			}
+		}
+
+		.blog-post h3, .blog-post h4, .class-title h3 {
+			margin-top: 0;
+			padding-top: 0;
+			margin-bottom: 0;
+		}
+
+		.blog-post a {
+			text-decoration: none;
+			color: rgb(26,117,138);
+		}
+
+		.blog-post a:hover, .blog-post a:focus {
+			color: rgb(26,117,138);
+		}
+
+		.blog-post-summary {
+			font-size: .8em;
+		}
+
+		.blog-post-summary p {
+			margin-bottom: 0;
+			padding-bottom: 0;
+			line-height: 1.4;
+			color: black;
+		}
+
+		.blog-post-blurb {
+			float: left;
+			width: 60%;
+		}
+
+		@media screen and (min-width: 500px) {
+			.blog-post-blurb {
+				width: 75%;
+			}
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post-blurb {
+				width: 55%;
+			}
+		}
+
+		@media screen and (min-width: 700px) {
+			.blog-post-blurb {
+				width: 65%;
+			}
+		}
+
+		.blog-post h4 {
+			font-size: 1em;
+		}
+		</style>
+		<link rel="canonical" href="http://www.rwdkent.com/class/syllabus/">
+		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
+	</head>
+	<body>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/" class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<svg class="rwd-svg" aria-labelledby="title" aria-describedby="description" role="img" viewBox="0 0 206 80" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><title>RWD</title><desc>Responsive Web Design Logo</desc><g sketch:type="MSLayerGroup" fill="none"><g class="mark"><path class="shape code-left" d="M25.625 28.785c-.894-1.045-2.463-1.166-3.506-.27l-10.895 9.364c-.551.473-.868 1.165-.868 1.892 0 .727.317 1.419.868 1.892l10.895 9.364c.469.403 1.045.6 1.617.6.701 0 1.397-.295 1.889-.87.894-1.045.773-2.618-.269-3.515l-8.694-7.472 8.694-7.472c1.042-.896 1.163-2.469.269-3.514" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape" d="M41.813 20.814c-1.306-.426-2.709.29-3.133 1.599l-10.765 33.174c-.425 1.309.29 2.715 1.595 3.141.255.083.515.123.769.123 1.048 0 2.022-.669 2.364-1.722l10.765-33.174c.425-1.309-.29-2.715-1.595-3.141" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape code-right" d="M60.101 37.879l-10.895-9.364c-1.043-.896-2.612-.775-3.506.27-.894 1.045-.773 2.618.269 3.514l8.694 7.472-8.694 7.472c-1.043.896-1.163 2.47-.269 3.515.492.575 1.188.87 1.889.87.573 0 1.148-.197 1.617-.6l10.895-9.364c.551-.474.868-1.165.868-1.892 0-.727-.317-1.419-.868-1.892" fill="#F06374" sketch:type="MSShapeGroup"/></g><path d="M67.557 17.666l-28.746-16.636c-.956-.553-2.045-.846-3.15-.846-1.104 0-2.193.292-3.149.846l-28.745 16.636c-1.943 1.124-3.15 3.22-3.15 5.469v33.273c0 2.249 1.207 4.344 3.15 5.468l28.745 16.636c.956.553 2.046.846 3.149.846 1.104 0 2.194-.292 3.149-.846l28.746-16.636c1.943-1.124 3.15-3.22 3.15-5.468v-33.273c0-2.249-1.207-4.344-3.15-5.469zm-1.823 38.742c0 .474-.254.915-.663 1.152l-28.746 16.637c-.402.233-.924.233-1.327 0l-28.745-16.637c-.409-.237-.663-.678-.663-1.152v-33.273c0-.474.254-.915.663-1.152l28.745-16.637c.201-.117.431-.178.663-.178.233 0 .462.062.663.178l28.746 16.637c.409.237.663.678.663 1.152v33.273z" fill="#1A758A" sketch:type="MSShapeGroup"/><path d="M100.154 20.95h-13.558c-1.374 0-2.535 1.187-2.535 2.593v32.422c0 1.405 1.161 2.593 2.535 2.593 1.426 0 2.587-1.163 2.587-2.593v-11.776h9.631l10.035 13.073c.644.86 1.427 1.297 2.328 1.297 1.354 0 2.587-1.211 2.587-2.541 0-.835-.448-1.446-.792-1.835l-8.49-10.956c5.912-1.413 9.281-5.336 9.281-10.863v-.104c0-2.948-1.046-5.621-2.946-7.525-2.433-2.439-6.22-3.783-10.663-3.783zm8.436 11.567c0 4.223-3.454 6.952-8.798 6.952h-10.609v-13.697h10.661c5.558 0 8.746 2.42 8.746 6.641v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M165.818 20.691c-1.13 0-2.048.733-2.454 1.956l-9.537 27.498-8.994-27.492c-.415-1.247-1.329-1.962-2.508-1.962h-.259c-1.197 0-2.088.697-2.509 1.965l-8.993 27.488-9.484-27.387c-.417-1.255-1.443-2.066-2.612-2.066-1.406 0-2.638 1.212-2.638 2.593 0 .395.124.769.238 1.109l11.588 32.254c.448 1.346 1.4 2.118 2.612 2.118h.31c1.19 0 2.141-.769 2.611-2.116l8.879-26.454 8.929 26.46c.468 1.341 1.419 2.11 2.609 2.11h.311c1.19 0 2.141-.769 2.608-2.106l11.596-32.277.062-.179c.105-.296.223-.631.223-.971 0-1.33-1.233-2.541-2.587-2.541" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M185.411 20.95h-10.557c-1.374 0-2.535 1.187-2.535 2.593v32.162c0 1.405 1.161 2.593 2.535 2.593h10.557c5.578 0 10.64-1.914 14.252-5.39 3.556-3.422 5.515-8.14 5.515-13.284v-.104c0-10.76-8.313-18.57-19.767-18.57zm14.49 18.778c0 8.094-5.959 13.747-14.49 13.747h-7.97v-27.703h7.97c4.269 0 7.925 1.39 10.575 4.02 2.525 2.506 3.916 5.998 3.916 9.832v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/></g></svg>
+		</a>
+		<nav role="navigation">
+			<ul class="group">
+				<li  class="active"><a href="/class/">Class</a></li>
+				<li ><a href="/workshop/">Workshop</a></li>
+				<li ><a href="/about/">About</a></li>
+			</ul>
+		</nav>
+		</header>
+
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide group">
+	<h1>Syllabus - Responsive Web Design</h1>
+	<h2 id="cci-special-topics-course-40095-002-fall-2016">CCI Special Topics Course 40095-002 (Fall 2016)</h2>
+
+<ul>
+  <li><strong>Instructor:</strong> Christopher Hallahan</li>
+  <li><strong>Email</strong>: <a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></li>
+  <li><strong>Office</strong>: <a href="http://www.ideabasekent.com">IdeaBase</a> (Downtown Kent)</li>
+  <li><strong>Term</strong>: Fall 2016</li>
+  <li><strong>Day/Time</strong>: Tuesdays, 5:30 - 8:15 p.m.</li>
+  <li><strong>Room</strong>: <a href="http://www.ideabasekent.com">IdeaBase</a>, Downtown Kent</li>
+</ul>
+
+<h3 id="about-this-course">About This Course</h3>
+<p>Responsive web design isn’t just a technical solution for web design - it’s an entire process that brings multiple disciplines together to form one product that works across multiple devices.  The responsive design process includes user experience, content strategy, information architecture, visual design, development, usability testing and technical testing.  Students who will succeed in this field will be familiar with not just one, but all of these processes.</p>
+
+<p>In this course you will learn the fundamental principles for developing standards-based web sites from a mobile-first and content-first perspective.  We will explore each aspect of an agile-inspired process, during which you’ll learn each step of what it takes to build a website and ensure its functionality for its users in terms of both usability and performance.</p>
+
+<h4 id="topics">Topics</h4>
+
+<p>Just a few of the topics planned to be covered in the Responsive Web Design course include:</p>
+
+<ul>
+  <li>Atomic Design</li>
+  <li>Pattern Libraries and Style Guides</li>
+  <li>Sketching</li>
+  <li>User Research Techniques</li>
+  <li>Rapid Prototyping</li>
+  <li>HTML/CSS/JavaScript</li>
+  <li>Modern Web Design Workflows</li>
+  <li>Mobile Content Strategy</li>
+  <li>Browser Testing</li>
+  <li>Git and GitHub Version Control</li>
+  <li>Paired and Team Coding</li>
+  <li>Mobile-First Design</li>
+  <li>Style Tiles and Web Design Techniques</li>
+</ul>
+
+<h3 id="prerequisites">Prerequisites</h3>
+<p>Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and work with others from different backgrounds to solve complex problems.</p>
+
+<h3 id="subject-to-change-statement">Subject to Change Statement</h3>
+<p>The syllabus and course schedule may be subject to change. Changes will be communicated via email. It is the responsibility of students to check email messages and course announcements to stay current in the course.</p>
+
+<h3 id="course-goals">Course Goals</h3>
+
+<p>In this course, students will:</p>
+
+<ul>
+  <li>Apply a modern workflow to a responsive web design, including competitive research techniques, content development, information architecture, design and development.</li>
+  <li>Gather and architect content for the web, with a focus on prioritizing content for use on multiple devices.</li>
+  <li>Rapidly prototype web design modules in Sketch, a vector-based design application, developing style tiles and reusable patterns for colors, typography, layout and user interface elements.</li>
+  <li>Create interactive prototypes and wireframes in HTML/CSS, using standards-compliant HTML and CSS, media queries and responsive layouts.</li>
+  <li>Test prototypes for common performance, usability and web browser issues.</li>
+  <li>Use version control, Git and GitHub to create a staging server on which websites will be hosted and updated.</li>
+  <li>Work in a team environment, collaborating with students from a variety of disciplines.</li>
+  <li>Solve common web design problems both independently and as a group, through the use of online resources, books, videos and fellow web designers.</li>
+</ul>
+
+<h3 id="learning-outcomes">Learning outcomes</h3>
+
+<p>Most importantly, by the end of this course, students will be able to:</p>
+
+<ul>
+  <li>Identify and write the most common HTML/CSS properties, with proper indentation and comments.  Understand how to use these properties efficiently.</li>
+  <li>Organize and prioritize website content to fit information architecture best practices, as well as a mobile-first methodology.</li>
+  <li>Use media queries to create a responsive HTML/CSS prototype that spans multiple devices.</li>
+  <li>Speak intelligently about responsive web design and describe why it’s important to future clients, colleagues or employers.</li>
+  <li>Analyze predefined requirements and constraints that a client or employer may ask of a web designer, and creatively apply these to the solution.</li>
+  <li>Critique and speak intelligently about web design in terms of content, colors, typography, user interface elements and layout.</li>
+  <li>Coordinate a web design project and work with other team members to build deliverables along the way.</li>
+  <li>Understand the various roles that are essential to the web design process and appreciate the skills required for each discipline.</li>
+  <li>See themselves as capable and confident when working in code, even if they are not primarily developers.  Be willing to cross organizational lines and take chances.</li>
+  <li>Be motivated to expand their knowledge of web design by following influential web designers and businesses that are currently implementing responsive design.</li>
+  <li>Understand how the student and their current area of study fits into a web design role and expand on their current background to be able to take on future roles in web design.</li>
+  <li>Understand how HTML/CSS prototypes integrate into large, dynamic content management systems and complex organizations.</li>
+  <li>Develop test plans and iterate on future design and content systems after identifying usability or technical issues.</li>
+  <li>Identify solutions to complex design/development problems and use online resources to expand knowledge of HTML/CSS processes.</li>
+</ul>
+
+<h3 id="course-textbook-and-materials">Course Textbook and Materials</h3>
+<p>There are 2 required textbooks for the course.  One provides detailed examples and instructions for HTML/CSS, and the other provides more practical knowledge on web design topics:</p>
+
+<ul>
+  <li><em><a href="http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189">HTML and CSS: Design and Build Websites</a></em> by Jon Duckett, November 2011, Wiley. ($17.39 on Amazon)</li>
+  <li><em><a href="http://abookapart.com/products/responsive-web-design">Responsive Web Design</a></em> by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)</li>
+</ul>
+
+<p>This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.</p>
+
+<h3 id="class-structure">Class Structure</h3>
+
+<p>This class will be held once a week and will have both a lecture/discussion and studio/lab component.  Students will be assigned readings from a variety disciplines, authors and topics, which will be discussed during the first half of class.   All students will have the opportunity to pair with a student from a background different their own to work on hands-on examples on a computer in class each week, as well as a long-term project that will span the semester.  Short assignments will be given throughout the semester in order to master key topics.</p>
+
+<h3 id="preparing-for-class">Preparing for Class</h3>
+<p>Students are expected to come to class prepared.  This means:</p>
+
+<ul>
+  <li>Familiarization with the required readings or videos.</li>
+  <li>Readiness to participate in class discussions and activities.</li>
+  <li>Participating in class discussions and hands-on activities.</li>
+  <li>Completing assignments on time and submitting them properly to GitHub each week.</li>
+</ul>
+
+<h3 id="course-schedule">Course Schedule</h3>
+<p>This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the class website on GitHub.</p>
+
+<p>Please see the <a href="/class/schedule">Detailed Course Schedule</a> for specific dates, times and assignments.</p>
+
+<h4 id="part-1-principles-of-responsive-web-design-and-html">Part 1: Principles of Responsive Web Design and HTML</h4>
+<p>Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML + CSS elements and selectors in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section, and will refer to the HTML and CSS textbook frequently.</p>
+
+<h4 id="part-2--content-strategy-and-contentmobile-first-design">Part 2:  Content Strategy and Content/Mobile-First Design</h4>
+<p>Students will apply research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read some selections from Mobile-First Design by Luke Wroblewski as part of this section, and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.</p>
+
+<h4 id="part-3--design-and-development-with-css">Part 3:  Design and Development with CSS</h4>
+<p>In the third part, students will begin an iterative design process, where they’ll mock-up design components in digital style tiles and then turn those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study Atomic Design, a methodology developed by Brad Frost.</p>
+
+<h4 id="part-4--prototyping-testing-and-style-guides">Part 4:  Prototyping, Testing and Style Guides</h4>
+<p>In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.</p>
+
+<h3 id="assignments">Assignments</h3>
+<p>Student learning will be assessed through three types of work: in-class participation, in-class quizzes, short assignments and a multi-stage small group/individual project.</p>
+
+<p>There are <strong>100</strong> total possible points for the semester.</p>
+
+<div class="table-float">
+
+<h4>Mini Assignments</h4>
+
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/casestudy/">RWD Case Study</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/html/">HTML Basics</a>
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/html2/">HTML Basics 2</a>
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/css/">CSS Basics</a>
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/css2/">CSS Basics 2</a>
+		</td>
+		<td>
+			4
+		</td>
+	</tr>
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/layout/">Fonts and Media Queries</a>
+		</td>
+		<td>
+			6
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/layout2/">Boxes and Layout</a>
+		</td>
+		<td>
+			7
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/participation/">In-Class Participation and Attendance</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/quizzes/">In-Class Quizzes</a>
+		</td>
+		<td>
+			6
+		</td>
+	</tr>
+	
+
+	
+
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>45</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
+
+<div class="table-float">
+<h4>Semester Project Assignments</h4>
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/timeline-presentation/">Project Hub, Review Session &amp; Critiques</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/assessment/">Group and Self Assessment</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/research/">Research and Competitive Analysis</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/content/">Content &amp; Architecture</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/sketching/">Sketching</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/style/">Style Tiles/Personality</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/wireframes/">HTML Content Wireframes</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/testing/">Usability and Technical Testing</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/templates/">HTML/CSS Final Prototype/Templates</a>
+		</td>
+		<td>
+			10
+		</td>
+	</tr>
+	
+
+	
+
+	
+
+	  
+	<tr>
+		<td>
+			<a href="/class/assignments/styleguide/">HTML/CSS Pattern Library</a>
+		</td>
+		<td>
+			5
+		</td>
+	</tr>
+	
+
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>55</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
+
+<h3 id="attendance-policy">Attendance Policy</h3>
+
+<p>We’ll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow <strong>two missed classes</strong> for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach’s note), religious observation, military responsibility (with documentation) and death in the family (with documentation).</p>
+
+<p>Students who miss more than two classes without proper documentation will receive a 0 for their class participation grade for the semester.</p>
+
+<p>If you miss class, you are still responsible for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.</p>
+
+<p>Some assignments, such as in-class presentations, testing and quizzes, require attendance in order to receive full credit for the assignment.</p>
+
+<h3 id="late-submissions">Late Submissions</h3>
+<p>The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation).</p>
+
+<p>My policy for late assignments has 3 rules:</p>
+
+<ul>
+  <li>Late assignments will be accepted so long as you contact the instructor to indicate that it will be late and provide an explanation.</li>
+  <li>Late assignments must be submitted within 1 week of the original due date, without penalty, so long as the student meets the first rule. After 1 week the assignment will be marked as 0.</li>
+  <li>An additional extension may be possible in exceptional circumstances, with documentation. This requires a face-to-face conversation between the student and the instructor.</li>
+</ul>
+
+<h3 id="group-work">Group Work</h3>
+
+<p>This class uses team-based learning for part or all of the semester.  Students must agree to follow the <a href="../groups/policies">Group Rules &amp; Expectations</a> throughout the course of the project.</p>
+
+<h3 id="grading">Grading</h3>
+
+<p>Final letter grades will be assigned on the basis of the following table:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Letter</th>
+      <th style="text-align: left">Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">A</td>
+      <td style="text-align: left">93% or higher</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">A-</td>
+      <td style="text-align: left">90-92%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">B+</td>
+      <td style="text-align: left">87-89%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">B</td>
+      <td style="text-align: left">83-86%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">B-</td>
+      <td style="text-align: left">80-82%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">C</td>
+      <td style="text-align: left">70-79%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">D</td>
+      <td style="text-align: left">60-70%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">F</td>
+      <td style="text-align: left">&lt; 60%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="hardware--software">Hardware &amp; Software</h3>
+
+<ul>
+  <li>Although a laptop is not required, if you have a laptop you are encouraged to bring it to class, as it may be helpful for following along in class.  You’ll also be viewing and testing your work on multiple devices, so phones and tablets are encouraged.</li>
+  <li>Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.</li>
+  <li>We will be using a variety of free and paid software programs and tools.</li>
+  <li>Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.</li>
+  <li>Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, Git, web browsers and Google Drive.</li>
+</ul>
+
+<h3 id="communicating-with-the-instructor">Communicating with the Instructor</h3>
+
+<p>My office hours for this semester are:</p>
+
+<ul>
+  <li>Tuesdays: 4:30 - 5:30 p.m.</li>
+  <li>Thursdays: 4:00 - 5:00 p.m.</li>
+</ul>
+
+<h4 id="email">Email</h4>
+<p>My email address is challahan@ideabasekent.com. Here is my email policy:</p>
+
+<ul>
+  <li>I will usually respond within 24 hours during the week (Mon-Fri). Do not expect an immediate response.</li>
+  <li>I typically check email in the afternoons or evenings, not in the mornings.</li>
+  <li>I may not respond to email on weekends.</li>
+</ul>
+
+<h3 id="university-policies-and-procedures">University Policies and Procedures</h3>
+<p>The following policies and procedures apply to students enrolled at Kent State University. For a complete listing of university policies, please visit the Policy Register page on the Kent State University website.</p>
+
+<h4 id="course-enrollment-and-withdrawal">Course enrollment and withdrawal</h4>
+<p>University policy requires all students to be officially registered in each class they are attending. Students who are not officially registered for a course by published deadlines should not be attending classes and will not receive credit or a grade for the course. Each student must confirm enrollment by checking his/her class schedule (using Student Tools in FlashFast) prior to the deadline indicated. Registration errors must be corrected prior to the deadline.
+To determine the last dates to drop or withdraw from the course, follow the steps below:</p>
+
+<ul>
+  <li>Visit the <a href="https://keys.kent.edu:44220/ePROD/bwlkffcs.p_adv_unsecure_sel_crse_search">Class Schedule</a></li>
+  <li>Search by Term</li>
+  <li>Select “Detailed Class Search” option</li>
+  <li>Find your course</li>
+  <li>Click on the “Registration Deadline” link to view drop and withdrawal dates</li>
+</ul>
+
+<p>Withdrawal from any or all courses is permitted through the 10th week of the semester (or the prorated deadline for flexibly scheduled sections). After that time, students are considered to be committed to all remaining courses and must complete them. If students are unable to complete the semester because of extreme circumstances that first occur after the deadline, students should consult their college or campus dean’s office. Any course withdrawal(s) processed after the second week of the full semester will appear on the students’ academic record with a grade of “W”. No approval is required to withdraw from a course during the withdrawal period.  A “hold” on your record will prevent you from processing course withdrawal(s) until all holds are cleared. Course withdrawal may impact degree progress. Therefore, consult with your advisor prior to processing your course withdrawal.</p>
+
+<h4 id="incomplete-grades">Incomplete grades</h4>
+<p>The administrative mark of IN (Incomplete) may be given to students who are unable to complete the work due to extenuating circumstances. To be eligible, undergraduate students must be currently passing and have completed at least 12 weeks of the semester. Graduate students must be currently earning a C or better grade and are unable to complete the required work between the course withdrawal deadline and the end of classes. The time line shall be adjusted appropriate for summer sessions and flexibly scheduled courses.  Appropriate documentation is generally required to support the extenuating circumstance. The student must initiate the request for the Incomplete mark from the instructor, and it is the responsibility of the student to arrange to make up the incomplete work. Incomplete grades must be made up within one semester (not including summer sessions) for undergraduate students and one calendar year for graduate students. Unless the course is completed or an extension is granted, incomplete grades will automatically lapse to the grade designated on the Incomplete Mark Form at the end of one semester for undergraduate students and at the end of one year for graduate students.</p>
+
+<h4 id="university-use-of-electronic-mail">University use of electronic mail</h4>
+<p>A university-assigned student email account shall be an official university means of communication with all students at Kent State University. Students are responsible for all information sent to them via their university-assigned email account. If a student chooses to forward information in their university email account, he or she is responsible for all information, including attachments, sent to any other email account. To stay current with university information, students are expected to check their official university email account and other electronic communications on a frequent and consistent basis. Recognizing that some communications may be time-critical, the university recommends that electronic communications be checked minimally twice a week.</p>
+
+<h4 id="plagiarism-and-academic-integrity">Plagiarism and academic integrity</h4>
+<p>Students enrolled in the university, at all its campuses, are to perform their academic work according to standards set by faculty members, departments, schools and colleges of the university; and cheating and plagiarism constitute fraudulent misrepresentation for which no credit can be given and for which appropriate sanctions are warranted and will be applied. For more information: http://www.kent.edu/plagiarism.</p>
+
+<h4 id="students-with-disabilities">Students with disabilities</h4>
+<p>(Revised 6/01/07) University policy 3342-3-01.3 requires that students with disabilities be provided reasonable accommodations to ensure their equal access to course content. If you have a documented disability and require accommodations, please contact the instructor at the beginning of the semester to make arrangements for necessary classroom adjustments. Please note, you must first verify your eligibility for these through Student Accessibility Services (contact 330-672-3391 or send us an e-mail at sas@kent.edu or visit http://www.kent.edu/sas for more information on registration procedures).</p>
+
+<h4 id="student-survey-of-instruction-evaluation">Student survey of instruction evaluation</h4>
+<p>It is a standard practice of Kent State University to distribute and administer to the learners a confidential and anonymous questionnaire at the completion of the course. The results will be forwarded to the Instructor only at the completion of the class and the submission of all grades. The Instructor will then incorporate the feedback received in future course offerings and in his continual improvement of the course. Please candidly and honestly describe your opinions of the strengths and weakness you experienced as a learner in the course.</p>
+
+<h4 id="notice-of-my-copyright-and-intellectual-property-rights">Notice of my copyright and intellectual property rights</h4>
+<p>Any intellectual property displayed or distributed to students during this course (including but not limited to powerpoints, notes, quizzes, examinations) by the professor/lecturer/instructor remains the intellectual property of the professor/lecturer/instructor. This means that the student may not distribute, publish or provide such intellectual property to any other person or entity for any reason, commercial or otherwise, without the express written permission of the professor/lecturer/instructor.</p>
+
+<p><a href="/class" class="button small">Return to Class</a></p>
+
+	</section>
+</main>
+
+<footer class="group" role="contentinfo">
+	<div class="footer-inner">
+	<div class="footer-contact-information">
+			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
+			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
+			<a class="footer-instructor" href="mailto:challahan@gmail.com">Instructor: Christopher Hallahan</a>
+			<div class="footer-supplemental">
+				<a href="http://www.twitter.com/rwdkent">Follow @RWDkent on Twitter</a>
+				<a href="https://github.com/KentStateWeb/rwd/tree/gh-pages">View this Site on GitHub</a>
+			</div>
+	</div>
+	<div class="footer-logo">
+			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
+	</div>
+	</div>
+</footer>
+<link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+
+<script>
+    !function(e,t,n,r,a,s,i,l){n&&(s=n[r],s&&(i=e.createElement("style"),i.innerHTML=s,e.getElementsByTagName("head")[0].appendChild(i)),l=t.setAttribute,t.setAttribute=function(e,p,u,o){"string"==typeof p&&p.indexOf(a)>-1&&(u=new XMLHttpRequest,u.open("GET",p,!0),u.onreadystatechange=function(){if(4===u.readyState){o=u.responseText.replace(/url\(\//g,"url("+a+"/");try{o!==s&&(n[r]=o)}catch(e){s&&(s=i.innerHTML="")}}},u.send(null),t.setAttribute=l,s)||l.apply(this,arguments)})}(document,Element.prototype,localStorage,"tk","https://use.typekit.net");
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'gbh5snd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52690730-5', 'auto');
+  ga('send', 'pageview');
+</script>
+<script src="/js/flickity.js"></script>
+</body>
+</html>

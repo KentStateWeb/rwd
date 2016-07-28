@@ -1,0 +1,15 @@
+---
+navigation:
+- text: Home
+  url: /index.html
+- text: Class
+  title: Class
+  url: /class.html
+---
+
+<ul>
+    {% for link in page.navigation %}
+    <li {% if page.url == link.url %}class="current"{% endif %}>
+       <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,18 @@
+{% include header.html %}
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide">
+	<h1>{{ page.title }}</h1>
+	<dl>
+		<dt>Points</dt>
+		<dd>{{ page.points }}</dd>
+		<dt>Due Date</dt>
+		<dd>{{ page.date | date: '%B %d, %Y' }}</dd>
+	</dl>
+	<hr>
+	{{ content }}
+	<a class="button small" href="/class/assignments">Return to Assignments</a>
+	</section>
+</main>
+
+{% include footer.html %}

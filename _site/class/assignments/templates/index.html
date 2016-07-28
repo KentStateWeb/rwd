@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>HTML/CSS Final Prototype/Templates - Responsive Web Design (RWD) Kent State</title>
+		<meta name="description" content="Web design courses and workshops from Kent State University.">
+		<link rel="mask-icon" href="website_icon.svg" color="#F06374">
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="/manifest.json">
+		<meta name="msapplication-TileColor" content="#1c7489">
+		<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+		<style>
+		@charset "utf-8";
+
+		body {
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: 0;
+		  margin: 0;
+		}
+
+		.group:after {
+		  content: ".";
+		  display: block;
+		  height: 0;
+		  overflow: hidden;
+		}
+
+		.group:after {
+		  clear: both;
+		}
+
+		.group {
+		  zoom: 1;
+		  /* IE < 8 */
+		}
+
+		* {
+		  box-sizing: border-box;
+		}
+
+		p,
+		ul,
+		li {
+		  font-size: 1.05em;
+		  line-height: 1.4;
+		}
+
+		@media screen and (min-width: 800px) {
+		  p,
+		  ul,
+		  li {
+		    line-height: 1.6;
+		  }
+		}
+
+		p a,
+		ul a {
+		  color: rgb(26,117,138);
+		  font-weight: bold;
+		  text-decoration: none;
+		  word-wrap: break-word;
+		}
+
+		h1 {
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  letter-spacing: 2px;
+		  text-transform: uppercase;
+		}
+
+		h1 {
+		  font-size: 2.5em;
+		  margin-bottom: .5em;
+		  margin-top: 0;
+		  color: rgb(26,117,138);
+		}
+
+		@media screen and (min-width: 800px) {
+		  h1 {
+		    margin-top: .5em;
+		    font-size: 3em;
+		  }
+		}
+
+		.floated-feature-image-container {
+		  width: 100%;
+		  text-align: center;
+		  margin-top: -7em;
+		  margin-bottom: 2em;
+		  overflow: hidden;
+		  z-index: 1000;
+		  position: relative;
+		}
+
+		.floated-feature-image {
+		  width: 250px;
+		  max-height: 150px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .floated-feature-image {
+		    width: 300px;
+		    max-height: 200px;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .floated-feature-image-container {
+		    width: 40%;
+		    float: right;
+		    margin-top: -22em;
+		    padding-left: 2em;
+		  }
+
+		  .floated-feature-image {
+		    width: 400px;
+		    max-height: 400px;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .floated-feature-image-container {
+		    padding-left: 4em;
+		    margin-bottom: 0;
+		  }
+
+		  .floated-feature-image {
+		    width: 450px;
+		    max-height: 550px;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .floated-feature-image-container {
+		    padding-left: 0;
+		  }
+
+		  .floated-feature-image-container {
+		    margin-top: -24em;
+		  }
+		}
+
+		@media screen and (min-width: 1300px) {
+		  .floated-feature-image {
+		    width: 500px;
+		    max-width: 500px;
+		    max-height: 650px;
+		  }
+		}
+
+
+
+		#tablet-text-top {
+		  opacity: 0;
+		}
+
+		#tablet-text-middle {
+		  opacity: 0;
+		}
+
+		#tablet-text-bottom {
+		  opacity: 0;
+		}
+
+		#phone-text {
+		  opacity: 0;
+		}
+
+		header {
+		  text-align: center;
+		  padding-top: 10px;
+		  border-top: 20px solid #393839;
+		  margin-bottom: 1.5em;
+		  width: 91%;
+		  max-width: 1200px;
+		  margin: 0 auto;
+		}
+
+		@media screen and (min-width: 800px) {
+		  header {
+		    width: 93%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  header {
+		    width: 85%;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  header {
+		    width: 100%;
+		    max-width: 1500px;
+		    padding: 0 10em;
+		  }
+		}
+
+		header .svg {
+		  width: 200px;
+		  margin-bottom: 0;
+		  padding-bottom: 0;
+		  margin-top: .05em;
+		  height: 80px;
+		}
+
+		a.svg {
+		  position: relative;
+		  display: inline-block;
+		}
+
+		a.svg:after {
+		  content: "";
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  bottom: 0;
+		  left: 0;
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .rwd-svg {
+		    height: 120px;
+		  }
+		}
+
+
+
+		.rwd-svg .mark {
+		  transform: scale(1.0);
+		}
+
+		.svg .rwd-svg .mark {
+		  transform: translate(0,0) scale(1.0);
+		}
+
+		.svg .code-left,
+		.svg .code-right {
+		  transform: translate(0,0);
+		}
+
+		@media screen and (min-width:600px) {
+		  header .svg {
+		    width: 225px;
+		    margin-bottom: 0;
+		    padding-bottom: 0;
+		    margin-top: .05em;
+		    height: 90px;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  header {
+		    text-align: left;
+		  }
+
+		  header .svg {
+		    float: left;
+		    margin-bottom: 1.5em;
+		    padding-top: .5em;
+		    width: 25%;
+		    max-width: 250px;
+		    padding-bottom: 0em;
+		    height: auto;
+		  }
+		}
+
+		@media screen and (min-width:1200px) {
+		  header .svg {
+		    max-width: 265px;
+		    margin-bottom: 1.25em;
+		    margin-top: 1.2em;
+		    width: 50%;
+		    padding-top: 0;
+		  }
+		}
+
+		main {
+		  padding: 1em;
+		}
+
+		@media screen and (min-width:600px) {
+		  main {
+		    padding: 2em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  main {
+		    padding: 2.5em;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  main {
+		    padding: 0 6em;
+		  }
+		}
+
+		p.introduction {
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  font-size: 1.1em;
+		  margin-top: 0;
+		  line-height: 1.4;
+		  color: black;
+		  font-weight: 300;
+		}
+
+		p.introduction-home {
+		  max-width: 650px;
+		}
+
+		@media screen and (min-width:600px) {
+		  p.introduction {
+		    font-size: 1.2em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:800px) {
+		  p.introduction {
+		    font-size: 1.25em;
+		    line-height: 1.4;
+		  }
+		}
+
+		@media screen and (min-width:1000px) {
+		  p.introduction {
+		    font-size: 1.3em;
+		    line-height: 1.4;
+		  }
+		}
+
+		main {
+		  margin-top: 0;
+		  padding-top: 0.5em;
+		}
+
+		@media screen and (min-width:1200px) {
+		  main {
+		    padding: 0 10rem;
+		    max-width: 1500px;
+		    margin: 0 auto;
+		    display: block;
+		  }
+
+		  .main-content-area {
+		    width: 60%;
+		    float: left;
+		  }
+		}
+
+		.tagline-container {
+		  background: rgb(240,98,116);
+		  margin-bottom: 2em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline-container {
+		    margin-bottom: 3.25em;
+		  }
+		}
+
+		.tagline-container:after {
+		  display: block;
+		  height: 100px;
+		  width: 100%;
+		  background-repeat: no-repeat;
+		  content: "";
+		  background-color: white;
+		  background-size: cover;
+		  background-position: center bottom;
+		  background-image: url(../img/shapes.svg);
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline-container:after {
+		    height: 150px;
+		  }
+		}
+
+		.tagline {
+		  max-width: 1200px;
+		  margin: 0 auto;
+		  width: 89%;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline {
+		    padding: 0 2em;
+		    width: 100%;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline {
+		    padding: 0 6em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline {
+		    padding: 0 10em;
+		    max-width: 1500px;
+		  }
+		}
+
+		.tagline h1 {
+		  padding: 0;
+		  padding-top: 1.5em;
+		  font-size: 1.75em;
+		  margin-top: 0;
+		  line-height: 1.1;
+		  text-align: center;
+		  font-weight: 300;
+		  font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+		  text-transform: none;
+		  color: white;
+		  letter-spacing: normal;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 {
+		    font-size: 2.2em;
+		    padding-top: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 {
+		    font-size: 2.4em;
+		    width: 60%;
+		    text-align: left;
+		    padding-top: 5rem;
+		    padding-bottom: 2rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 {
+		    font-size: 2.6em;
+		    padding-top: 1.85em;
+		    padding-bottom: .3em;
+		  }
+		}
+
+		.tagline h1 strong {
+		  font-size: 2.75rem;
+		  color: white;
+		  letter-spacing: 1px;
+		  font-weight: 600;
+		  display: block;
+		  text-transform: uppercase;
+		  font-family: nimbus-sans-condensed;
+		  margin-bottom: .075em;
+		  line-height: 1;
+		}
+
+		@media screen and (min-width: 600px) {
+		  .tagline h1 strong {
+		    font-size: 3rem;
+		  }
+		}
+
+		@media screen and (min-width: 800px) {
+		  .tagline h1 strong {
+		    font-size: 3.3rem;
+		  }
+		}
+
+		@media screen and (min-width: 1000px) {
+		  .tagline h1 strong {
+		    font-size: 3.5rem;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  .tagline h1 strong {
+		    font-size: 4rem;
+		  }
+		}
+
+		nav {
+		  display: block;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  padding: .25em 1em;
+		  margin: 0 auto;
+		  margin-top: 0em;
+		  margin-bottom: .5em;
+		}
+
+		nav a {
+		  text-decoration: none;
+		  color: #393839;
+		  letter-spacing: 2px;
+		  font-size: 1.2em;
+		  font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+		  text-transform: uppercase;
+		}
+
+		@media screen and (min-width: 500px) {
+		  nav a {
+		    font-size: 1.1em;
+		  }
+		}
+
+		nav ul {
+		  list-style-type: none;
+		  margin: 0;
+		  padding: 0;
+		  margin: 0 auto;
+		  text-align: center;
+		  display: table;
+		  /*margin-bottom: .5em;*/
+		}
+
+		nav ul li {
+		  text-align: center;
+		  float: left;
+		  display: table-cell;
+		  width: 50%;
+		  padding-bottom: 0em;
+		  padding-top: .25em;
+		  margin-bottom: 0;
+		}
+
+		nav ul li:before {
+		  content: none;
+		}
+
+		nav ul li:last-child:after {
+		  content: "";
+		  width: 0;
+		  padding: 0;
+		}
+
+		@media screen and (min-width:500px) {
+		  nav {
+		    padding: .5em;
+		  }
+
+		  nav ul li {
+		    width: inherit;
+		  }
+
+		  nav ul li:after {
+		    content: "/";
+		    width: 15px;
+		    color: rgb(240,99,116);
+		    font-weight: bold;
+		    font-size: 1.5rem;
+		    padding-left: .5rem;
+		    padding-right: .5rem;
+		  }
+		}
+
+		@media screen and (min-width:600px) {
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width:880px) {
+		  nav {
+		    display: inline-block;
+		    float: right;
+		    width: 65%;
+		    background-color: inherit;
+		    border-top: none;
+		    margin-top: .9em;
+		  }
+
+		  nav ul {
+		    margin-right: 0;
+		  }
+
+		  nav a {
+		    font-size: 1.3em;
+		  }
+		}
+
+		@media screen and (min-width: 1200px) {
+		  nav {
+		    margin-top: 2em;
+		    margin-bottom: 0;
+		  }
+
+		  nav ul li:after {
+		    padding-left: .75em;
+		    padding-right: .75em;
+		  }
+
+		  nav a {
+		    font-size: 1.5em;
+		  }
+		}
+
+		#skip-to-content {
+		  padding: 1em;
+		  position: absolute;
+		  top: -40px;
+		  left: 1em;
+		  z-index: 1000;
+		  color: white;
+		}
+
+		.visually-hidden {
+		  /*https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html*/
+		  position: absolute !important;
+		  clip: rect(1px 1px 1px 1px);
+		  /* IE6, IE7 */
+		  clip: rect(1px, 1px, 1px, 1px);
+		  padding: 0 !important;
+		  border: 0 !important;
+		  height: 1px !important;
+		  width: 1px !important;
+		  overflow: hidden;
+		}
+
+		.button {
+		  text-decoration: none;
+		  background-color: rgb(26,117,138);
+		  color: white;
+		  font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+		  font-size: .9em;
+		  padding: 1.25rem 1.5rem;
+		  display: inline-block;
+		  border-radius: 40px;
+		  margin-top: .5em;
+		  border-bottom: 5px solid #19687A;
+		  margin-bottom: 1.5em;
+		}
+
+		@media screen and (min-width: 800px) {
+		  .button {
+		    font-size: .95rem;
+		  }
+		}
+
+		/* Blog Teasers */
+
+		.blog-post {
+			margin-bottom: 1em;
+			display: block;
+			margin-top: 1.5em;
+		}
+
+		.blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
+			background-color: #606060;
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post {
+				float: left;
+				width: 50%;
+				padding-right: 5%;
+			}
+		}
+
+		.blog-post h3, .blog-post h4, .class-title h3 {
+			margin-top: 0;
+			padding-top: 0;
+			margin-bottom: 0;
+		}
+
+		.blog-post a {
+			text-decoration: none;
+			color: rgb(26,117,138);
+		}
+
+		.blog-post a:hover, .blog-post a:focus {
+			color: rgb(26,117,138);
+		}
+
+		.blog-post-summary {
+			font-size: .8em;
+		}
+
+		.blog-post-summary p {
+			margin-bottom: 0;
+			padding-bottom: 0;
+			line-height: 1.4;
+			color: black;
+		}
+
+		.blog-post-blurb {
+			float: left;
+			width: 60%;
+		}
+
+		@media screen and (min-width: 500px) {
+			.blog-post-blurb {
+				width: 75%;
+			}
+		}
+
+		@media screen and (min-width: 625px) {
+			.blog-post-blurb {
+				width: 55%;
+			}
+		}
+
+		@media screen and (min-width: 700px) {
+			.blog-post-blurb {
+				width: 65%;
+			}
+		}
+
+		.blog-post h4 {
+			font-size: 1em;
+		}
+		</style>
+		<link rel="canonical" href="http://www.rwdkent.com/class/assignments/templates/">
+		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
+	</head>
+	<body>
+		<header class="group" role="banner">
+		<a id="skip-to-content" href="#content">skip to main content</a>
+		<a href="/" class="svg">
+			<span class="visually-hidden">Responsive Web Design</span>
+			<svg class="rwd-svg" aria-labelledby="title" aria-describedby="description" role="img" viewBox="0 0 206 80" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><title>RWD</title><desc>Responsive Web Design Logo</desc><g sketch:type="MSLayerGroup" fill="none"><g class="mark"><path class="shape code-left" d="M25.625 28.785c-.894-1.045-2.463-1.166-3.506-.27l-10.895 9.364c-.551.473-.868 1.165-.868 1.892 0 .727.317 1.419.868 1.892l10.895 9.364c.469.403 1.045.6 1.617.6.701 0 1.397-.295 1.889-.87.894-1.045.773-2.618-.269-3.515l-8.694-7.472 8.694-7.472c1.042-.896 1.163-2.469.269-3.514" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape" d="M41.813 20.814c-1.306-.426-2.709.29-3.133 1.599l-10.765 33.174c-.425 1.309.29 2.715 1.595 3.141.255.083.515.123.769.123 1.048 0 2.022-.669 2.364-1.722l10.765-33.174c.425-1.309-.29-2.715-1.595-3.141" fill="#F06374" sketch:type="MSShapeGroup"/><path class="shape code-right" d="M60.101 37.879l-10.895-9.364c-1.043-.896-2.612-.775-3.506.27-.894 1.045-.773 2.618.269 3.514l8.694 7.472-8.694 7.472c-1.043.896-1.163 2.47-.269 3.515.492.575 1.188.87 1.889.87.573 0 1.148-.197 1.617-.6l10.895-9.364c.551-.474.868-1.165.868-1.892 0-.727-.317-1.419-.868-1.892" fill="#F06374" sketch:type="MSShapeGroup"/></g><path d="M67.557 17.666l-28.746-16.636c-.956-.553-2.045-.846-3.15-.846-1.104 0-2.193.292-3.149.846l-28.745 16.636c-1.943 1.124-3.15 3.22-3.15 5.469v33.273c0 2.249 1.207 4.344 3.15 5.468l28.745 16.636c.956.553 2.046.846 3.149.846 1.104 0 2.194-.292 3.149-.846l28.746-16.636c1.943-1.124 3.15-3.22 3.15-5.468v-33.273c0-2.249-1.207-4.344-3.15-5.469zm-1.823 38.742c0 .474-.254.915-.663 1.152l-28.746 16.637c-.402.233-.924.233-1.327 0l-28.745-16.637c-.409-.237-.663-.678-.663-1.152v-33.273c0-.474.254-.915.663-1.152l28.745-16.637c.201-.117.431-.178.663-.178.233 0 .462.062.663.178l28.746 16.637c.409.237.663.678.663 1.152v33.273z" fill="#1A758A" sketch:type="MSShapeGroup"/><path d="M100.154 20.95h-13.558c-1.374 0-2.535 1.187-2.535 2.593v32.422c0 1.405 1.161 2.593 2.535 2.593 1.426 0 2.587-1.163 2.587-2.593v-11.776h9.631l10.035 13.073c.644.86 1.427 1.297 2.328 1.297 1.354 0 2.587-1.211 2.587-2.541 0-.835-.448-1.446-.792-1.835l-8.49-10.956c5.912-1.413 9.281-5.336 9.281-10.863v-.104c0-2.948-1.046-5.621-2.946-7.525-2.433-2.439-6.22-3.783-10.663-3.783zm8.436 11.567c0 4.223-3.454 6.952-8.798 6.952h-10.609v-13.697h10.661c5.558 0 8.746 2.42 8.746 6.641v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M165.818 20.691c-1.13 0-2.048.733-2.454 1.956l-9.537 27.498-8.994-27.492c-.415-1.247-1.329-1.962-2.508-1.962h-.259c-1.197 0-2.088.697-2.509 1.965l-8.993 27.488-9.484-27.387c-.417-1.255-1.443-2.066-2.612-2.066-1.406 0-2.638 1.212-2.638 2.593 0 .395.124.769.238 1.109l11.588 32.254c.448 1.346 1.4 2.118 2.612 2.118h.31c1.19 0 2.141-.769 2.611-2.116l8.879-26.454 8.929 26.46c.468 1.341 1.419 2.11 2.609 2.11h.311c1.19 0 2.141-.769 2.608-2.106l11.596-32.277.062-.179c.105-.296.223-.631.223-.971 0-1.33-1.233-2.541-2.587-2.541" fill="#4F4C4D" sketch:type="MSShapeGroup"/><path d="M185.411 20.95h-10.557c-1.374 0-2.535 1.187-2.535 2.593v32.162c0 1.405 1.161 2.593 2.535 2.593h10.557c5.578 0 10.64-1.914 14.252-5.39 3.556-3.422 5.515-8.14 5.515-13.284v-.104c0-10.76-8.313-18.57-19.767-18.57zm14.49 18.778c0 8.094-5.959 13.747-14.49 13.747h-7.97v-27.703h7.97c4.269 0 7.925 1.39 10.575 4.02 2.525 2.506 3.916 5.998 3.916 9.832v.104z" fill="#4F4C4D" sketch:type="MSShapeGroup"/></g></svg>
+		</a>
+		<nav role="navigation">
+			<ul class="group">
+				<li  class="active"><a href="/class/">Class</a></li>
+				<li ><a href="/workshop/">Workshop</a></li>
+				<li ><a href="/about/">About</a></li>
+			</ul>
+		</nav>
+		</header>
+
+
+<main class="group" role="main" id="content">
+	<section class="main-content-area-wide">
+	<h1>HTML/CSS Final Prototype/Templates</h1>
+	<dl>
+		<dt>Points</dt>
+		<dd>10</dd>
+		<dt>Due Date</dt>
+		<dd>December 13, 2016</dd>
+	</dl>
+	<hr>
+	<p>We’re now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.</p>
+
+<h2 id="what-to-do">What To Do</h2>
+
+<p>This will likely be the most challenging part of the project because it involves putting everything together that you’ve learned thus far.</p>
+
+<ol>
+  <li>Take the folder that you previously created for your HTML wireframes and duplicate it.</li>
+  <li>Name the duplicated folder “templates”.</li>
+  <li>These are the three template files that you’ll be working with for the rest of the semester.</li>
+</ol>
+
+<h2 id="adding-styles">Adding Styles</h2>
+
+<p>You’ve already created a stylesheet (style.css).  This is where you’ll style each of your elements, using the appropriate class and HTML element names.  I’m not going to be too specific here, because each of your projects will vary.  However, when completed, your HTML templates will be fully styled with CSS that follows the design language you created in your style tiles.</p>
+
+<p>You may find that you need to create a few page layout mockups in Sketch in order to visualize all of your elements together in a single view.  This is totally fine.  I won’t be reviewing your mockups - only the final templates.  If you are doing mockups, just design enough to get you started.  You should refine your designs using your HTML templates.</p>
+
+<p>Your templates should be fully responsive and use appropriate media queries and breakpoints.</p>
+
+<p>If you are using a single-scroll template, you should include three distinct sections within your page.</p>
+
+<!--## Install Jekyll
+
+We've created three prototype files, but there are some problems.  What happens if we change the content of a global element like the header or footer?  Right now if we make a change, we have to change it in all three documents.  By setting these global elements up in a template, we can make changes just once and have them automatically update everywhere.
+
+First, we need to setup Jekyll, a popular static website generator.  We'll do this together in class.
+
+1.  Open terminal.  "Sudo gem install bundler".
+2.  Create a new file in your project repository called "Gemfile" - there is no file extension.
+3.  Inside Gemfile, add the following line: gem 'github-pages'
+4.  Change directories in Terminal by typing "cd (YourDirectoryName)"
+5.  Back in the terminal, run "bundle install"
+6.  You're ready to run Jekyll.  In terminal, run "bundle exec jekyll serve".
+7.  In your browser, go to http://localhost:4000 .  You'll see your site, just as you expected.
+
+## Make Your Templates Dynamic
+
+We're now running a Jekyll site, but we aren't benefiting from Jekyll yet.
+
+1.  Create a folder in your project called "_includes".  The underscore is required.
+2.  In your includes folder, create a file called "header.html" and "footer.html".
+3.  Copy the code that makes up everything above the start of your main content area and paste it into your header file.
+4.  Do the same with the footer file.  Everything below the end of your main content area.
+5.  Create another new folder called "_layouts".
+6.  Inside layouts, create a new file called "default.html".
+7.  Inside default.html, place the code under Default Layout Template below.
+8.  Open up each of your 3 templates.  Delete the header and footer from each of them.  At the very top of each, paste the code below called Default Frontmatter.
+8.  Open your site back up in your web browser at http://localhost:4000 and navigate to your templates.  You'll see that all three pages display as expected with the same header and footer.  The difference now is that the header/footer is shared.  Try making a change to the header under the "_includes" folder.  You'll notice that the change is reflected automatically on all three templates!
+9. Move your stylesheet.css file into the root folder calledd "style" (it should have been created automatically by Jekyll).  We're going to be referencing this file from different places, so it's best that it's in the root directory.
+10. Finally, in your includes/footer file, change the reference to your stylesheet to be ../style/style.css (we're going up one level since we're in the templates folder.).  Make sure your stylesheet link hasn't broken!
+11. Sync your files back up to GitHub.
+
+### Default Layout Template
+
+<script src="https://gist.github.com/challahan/a96842301446e9eab594.js"></script>
+
+### Default Frontmatter
+
+<script src="https://gist.github.com/challahan/ffac402d02474ab67ade.js"></script> -->
+
+<h2 id="how-to-turn-in-the-assignment">How to Turn In the Assignment</h2>
+
+<p>You’ll be submitting your templates via your GitHub repository.</p>
+
+<ol>
+  <li>Make sure your three templates are placed in the “templates” folder</li>
+  <li>On your root index.html file, which is the Project Hub, add an H2 with Date: Templates.</li>
+  <li>Add a link to your three templates under the Templates section.  Name each link with the title of the template, for example “Product Page Template”.</li>
+  <li>After you’ve commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link your three templates via Blackboard Learn.  Note: Don’t link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.</li>
+</ol>
+
+<h2 id="rubric">Rubric</h2>
+
+<p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
+
+<ul>
+  <li><strong>8-10</strong>: You’ve put everything you’ve learned so far together.  Your templates’ HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS. Your website renders correctly on popular phones, tablets and desktop computers.</li>
+  <li><strong>4-7</strong>: You’ve put together the templates, but they don’t always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens or devices.  There are also a few HTML and CSS errors.</li>
+  <li><strong>0 - 3</strong>: The design system for your templates is week and templates don’t follow the structure of your content.  HTML and CSS structure is weak and doesn’t follow what you’ve learned in class.   A lot more work is required to make the templates ready for client review.</li>
+</ul>
+
+	<a class="button small" href="/class/assignments">Return to Assignments</a>
+	</section>
+</main>
+
+<footer class="group" role="contentinfo">
+	<div class="footer-inner">
+	<div class="footer-contact-information">
+			<p><a href="http://www.kent.edu/cci">College of Communication & Information</a></p>
+			<p><a href="http://www.ideabasekent.com">IdeaBase: Powered by Kent State Students</a></p>
+			<a class="footer-instructor" href="mailto:challahan@gmail.com">Instructor: Christopher Hallahan</a>
+			<div class="footer-supplemental">
+				<a href="http://www.twitter.com/rwdkent">Follow @RWDkent on Twitter</a>
+				<a href="https://github.com/KentStateWeb/rwd/tree/gh-pages">View this Site on GitHub</a>
+			</div>
+	</div>
+	<div class="footer-logo">
+			<img src="/img/Kent-State-Logo-White.svg" alt="Kent State University" />
+	</div>
+	</div>
+</footer>
+<link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css" />
+
+<script>
+    !function(e,t,n,r,a,s,i,l){n&&(s=n[r],s&&(i=e.createElement("style"),i.innerHTML=s,e.getElementsByTagName("head")[0].appendChild(i)),l=t.setAttribute,t.setAttribute=function(e,p,u,o){"string"==typeof p&&p.indexOf(a)>-1&&(u=new XMLHttpRequest,u.open("GET",p,!0),u.onreadystatechange=function(){if(4===u.readyState){o=u.responseText.replace(/url\(\//g,"url("+a+"/");try{o!==s&&(n[r]=o)}catch(e){s&&(s=i.innerHTML="")}}},u.send(null),t.setAttribute=l,s)||l.apply(this,arguments)})}(document,Element.prototype,localStorage,"tk","https://use.typekit.net");
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'gbh5snd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52690730-5', 'auto');
+  ga('send', 'pageview');
+</script>
+<script src="/js/flickity.js"></script>
+</body>
+</html>

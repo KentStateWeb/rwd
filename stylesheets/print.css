@@ -1,0 +1,120 @@
+body  {
+  background: #fff;
+  color: #000;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a.visually-hidden {
+  text-decoration: none;
+}
+
+nav {
+  display: none;
+}
+
+p, ul, ol, li, table, dl {
+  color: black;
+  font-size: .95em;
+}
+
+table td {
+  padding: .25em 1em .25em 0;
+}
+
+main ul li {
+  margin-bottom: .5em;
+}
+
+header .svg  {
+  margin-bottom: 1.5em;
+}
+
+.header .svg object {
+  max-height: 50px;
+}
+
+header {
+  border-top: none;
+}
+
+table {
+  max-width: 100%;
+  width: 100%;
+}
+
+.button, .button.small {
+  background: none;
+  border: none;
+  color: black;
+  font-weight: bold;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.button:hover, .button.small:hover {
+  background: none;
+  color: black;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  page-break-after: avoid; // Prevent headings from being printed at the bottom of the page
+}
+
+h3 {
+  padding-top: .25em;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  orphans: 3;
+  widows: 3;
+}
+
+article {
+  page-break-before: always; // Always start new articles on a new page
+}
+
+img {
+  page-break-inside: avoid; // Prevent images from being split up
+}
+
+main ul {
+  margin-bottom: .5em;
+}
+
+@page {
+  margin: 1cm; // Use centimeters or inches, not pixels
+  margin-bottom: 2cm;
+}
+
+p.introduction {
+  font-size: 1.2em;
+}
+
+footer {
+  display: none;
+}
+
+main ul li {
+  text-indent: 0;
+}
+
+.blog-post-date {
+  background: none;
+  color: black;
+  padding: 0;
+  box-shadow: none;
+  width: auto;
+}
+
+main ul li:before {
+  content: none;
+  padding-right: 0;
+}
+
+main a:link:after, 
+main a:visited:after { 
+	content: " (" attr(href) ") "; 
+	font-size: 90%; 
+}
