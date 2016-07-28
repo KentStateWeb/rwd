@@ -809,6 +809,7 @@ aside img {
 	height: auto;
 	margin-top: 1em;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
+	margin-bottom: 2em;
 }
 
 .instructor-aside {
@@ -824,11 +825,13 @@ aside section {
 	aside img {
 		float: left;
 		max-width: 30%;
-		margin-right: 1.5em;
+		margin-right: 3.5em;
 	}
 
 	.instructor-aside {
 		margin: inherit;
+		margin-top:1em;
+		float:left;
 	}
 
 	.supplemental-information {
@@ -842,7 +845,7 @@ aside section {
 @media screen and (min-width:1200px) {
 aside img {
 	float: inherit;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	width: 100%;
 	max-width: inherit;
 }
@@ -879,6 +882,7 @@ main {
 
 .instructor-aside {
 	max-width: 100%;
+	margin-top: 0;
 }
 
 aside {
@@ -1139,7 +1143,7 @@ nav ul li:last-child:after {
 	padding: 0;
 }
 
-@media screen and (min-width:500px) {
+@media screen and (min-width:450px) {
 
 	nav {
 		padding: .5em;
