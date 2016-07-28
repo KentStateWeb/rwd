@@ -5,7 +5,9 @@ category: blog
 published: true
 ---
 
-For the next class, we'll also talk about how you can document your website through style guides and pattern libraries.  We'll briefly discuss how your website prototype and content might be integrated into a content management system.
+For the next class, we'll talk about how you can document your website through style guides and pattern libraries.  
+
+We'll briefly discuss how your website prototype and content might be integrated into a content management system.
 
 In the last class, we:
 

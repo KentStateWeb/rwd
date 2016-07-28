@@ -5,7 +5,9 @@ category: blog
 published: true
 ---
 
-We're nearly finished with the semester!  In the next class we'll conduct usability, accessibility and technical testing based on the testing plans you've developed and also briefly go over a few last remaining responsive design items.  
+We're nearly finished with the semester!  In the next class we'll conduct usability, accessibility and technical testing based on the testing plans you've developed.
+
+We'll also briefly go over a few last remaining responsive design items.  
 
 You'll have some time to work on refining your HTML/CSS prototypes in class as well.
 
@@ -38,4 +40,4 @@ There is one assigned reading that we'll be going over in class:
 
 ### Evaluations
 
-We'll be completing the university's course evaluation in class this week. 
+We'll be completing the university's course evaluation in class this week.
