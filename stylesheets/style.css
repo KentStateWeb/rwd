@@ -290,6 +290,13 @@ h4 {
 	}
 }
 
+@media screen and (min-width: 700px) {
+	.floated-feature-image {
+		width: 400px;
+		max-height: 300px;
+	}
+}
+
 @media screen and (min-width: 800px) {
 	.floated-feature-image-container {
 		width: 40%;
@@ -907,6 +914,7 @@ aside.aside-home {
 	margin-bottom: 2em;
 }
 
+
 @media screen and (min-width: 800px) {
 	.tagline-container {
 		margin-bottom: 2.75em;
@@ -983,9 +991,15 @@ aside.aside-home {
 	}
 }
 
+@media screen and (min-width: 700px) {
+	.tagline h1 {
+		padding-top: 4rem;
+	}
+}
+
 @media screen and (min-width: 800px) {
 .tagline h1 {
-	font-size: 2.4em;
+	font-size: 2.2em;
 	width: 60%;
 	text-align: left;
 	padding-top: 5rem;
@@ -996,7 +1010,7 @@ aside.aside-home {
 
 @media screen and (min-width: 1200px) {
 .tagline h1 {
-	font-size: 2.6em;
+	font-size: 2.3em;
 	padding-top: 2.2em;
 	padding-bottom: .3em;
 	}
@@ -1042,6 +1056,12 @@ aside.aside-home {
 @media screen and (min-width: 600px) {
 	.tagline h1 strong {
 		font-size: 3rem;
+	}
+}
+
+@media screen and (min-width: 700px) {
+	.tagline h1 strong {
+		font-size: 3.5rem;
 	}
 }
 
@@ -1166,14 +1186,17 @@ nav ul li:last-child:after {
 	color: rgb(240,99,116);
 	font-weight: bold;
 	font-size: 1.5rem;
-	padding-left: 1rem;
-	padding-right: 1rem;
+	padding-left: 1.25rem;
+	padding-right: 1.25rem;
 }
 }
 
 @media screen and (min-width:600px) {
 	nav a {
 		font-size: 1.3em;
+	}
+	nav {
+		margin-bottom: 1.5em;
 	}
 }
 
@@ -1655,7 +1678,7 @@ blockquote p {
 
 @media screen and (min-width: 400px) {
 	.gallery-item {
-			width: 41%;
+			width: 39%;
 	}
 
 	.gallery-item:hover .gallery-item__icon {
@@ -1811,7 +1834,7 @@ blockquote p {
 	float: left;
 	font-size: .85em;
 	margin-bottom:0;
-	padding: .5em 0;
+	padding: .7em 0 .5em 0;
 	line-height: 1.1;
 
 }
