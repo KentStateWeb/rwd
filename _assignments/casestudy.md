@@ -9,12 +9,13 @@ semester: fall-2016
 
 ---
 
-Part of understanding responsive web design is understanding the competitive landscape, including how they've implemented responsive solutions, their processes and how they measured their success. It's also important that future web designers are able to talk about responsive web design and demonstrate their process. For the RWD Case Study assignment, you'll be assigned one of the following responsive website redesigns.  Many web designers are open about their processes and have documented them in an article or podcast.  After doing some research, you'll put together a **5 minute** summary (no slides) for the class that covers the following:
+Part of understanding responsive web design is understanding the competitive landscape, including how they've implemented responsive solutions, their processes and how they measured their success. It's also important that future web designers are able to talk about responsive web design and demonstrate their process. For the RWD Case Study assignment, you'll be assigned one of the following responsive website redesigns.  Many web designers are open about their processes and have documented them in an article or podcast.  After doing some research, you'll put together a **5-7 minute** summary (no slides) for the class (with a partner selected in class) that covers the following:
 
 1.  **Goals For Going Responsive**:  Introduce the website and describe the problems were they trying to solve by going responsive?  
 2.  **Redesign Process**: What process and technologies did they use to design and develop the website?  How did they get feedback on design direction?  What ways did they test their design?  Was the design done in house or through an outside agency?
 3.  **Measuring Success**:  Were they successful?  How did they measure their success?  
 4.  **Demo**:  Show the class some representative pages and how they display at different screen sizes.  Tell us what you think works well and what could be improved.
+5.  **Graduate Students Only**: Graduate students will present alone.  In addition to the criteria listed above, slides should be included to help guide the presentation, along with screenshots and visual examples, where needed.  
 
 ## Case Study Options: To Be Assigned In Class
 
@@ -45,6 +46,6 @@ The link included with each website is a starting point.  There may be other inf
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: The presentation includes details about each of the three goals.  The presenter is well-prepared and familiar with their assigned website, demonstrated by the ability to answer questions from the instructor and class.  The presenter is able to demonstrate how their research is reflected in the final product, as well as think critically about whether or not the end product met their business goals.  The class gets valuable insight from the presentation.
+* **4 - 5**: The presentation includes details about each of the three goals.  The presenter is well-prepared and familiar with their assigned website, demonstrated by the ability to answer questions from the instructor and class.  The presenter is able to demonstrate how their research is reflected in the final product, as well as think critically about whether or not the end product met their business goals.  The class presumably would gain valuable insight from the presentation.  If graduate student, slides are appropriate and add to the presentation.
 * **2 - 3**: The presentation includes the required parts, but could have used more detail and research in order to back up their findings.  The presenter demonstrates the final product, but hasn't thought critically about how it was implemented or whether it was successful.  The class learns a few things, but not anything they couldn't have learned via Google.
 * **0 - 1**: The presentation is missing one or more of the required parts, and the presenter is not familiar with their website they were assigned.  The presentation does not give the class very much insight into the process or inform the class of anything new.  The presenter is unable to describe the final product or give any insight into the success of the redesign.

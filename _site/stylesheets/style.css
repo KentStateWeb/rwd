@@ -87,9 +87,9 @@ main ol li {
 
 table {
 	margin: 1.5em 0 1.5em 0;
-	font-size: 1.1em;
+	font-size: 1em;
 	width: 100%;
-	max-width: 800px;
+	max-width: 500px;
 	border-collapse: collapse;
 }
 
@@ -201,7 +201,7 @@ h2 {
 	/*border-top: 2px solid rgb(240,99,116);*/
 	padding-top: .5em;
 	margin-top: 0;
-	margin-bottom: .25em;
+	margin-bottom: .75em;
 }
 
 @media screen and (min-width: 800px) {
@@ -221,6 +221,10 @@ h2 {
 	padding-top: .5em;
 }
 
+.blog-post-title h3 {
+	font-size: 1.2em;
+}
+
 /*h2:before {
 	content: "<";
 	color: rgb(240,99,116);
@@ -236,7 +240,7 @@ h2:after {
 }*/
 
 h3 {
-	font-size: 1.2em;
+	font-size: 1.3em;
 	color: rgb(26,117,138);
 	margin-top: 0;
 	margin-bottom: .5em;
@@ -441,9 +445,9 @@ h4 {
 /* Blog Teasers */
 
 .blog-post {
-	margin-bottom: 1em;
+	margin-bottom: 1.5em;
 	display: block;
-	margin-top: 1.5em;
+	margin-top: .5em;
 }
 
 .blog-post:hover .blog-post-date, .blog-post:focus .blog-post-date {
@@ -884,7 +888,7 @@ main {
 }
 
 .main-content-area-full p, .main-content-area-wide p {
-	font-size: 1.1em;
+	font-size: 1.05em;
 }
 
 .instructor-aside {
@@ -1535,7 +1539,7 @@ footer img {
 
 .class-entry {
 	margin-top: 1.5em;
-	padding-top: 1em;
+	padding-top: 2em;
 	border-top: 1px solid gray;
 }
 
@@ -1813,6 +1817,9 @@ blockquote p {
 
 /* Class Details Listing */
 
+.detail-listing {
+	max-width:500px;
+}
 
 .detail-listing dt {
 	float: left;
@@ -1825,7 +1832,7 @@ blockquote p {
 	font-size: .85em;
 	margin-right: 5%;
 	margin-bottom: .5em;
-	border-radius: 2px;
+	border-radius: 0px 2px 2px 0px;
 	box-shadow: 2px 2px 0px rgb(1,65,79);
 }
 

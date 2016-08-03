@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2016-05-10 12:00:00
+date: 2016-12-13 12:00:00
 semester: fall-2016
 ---
 
@@ -22,6 +22,11 @@ Here's what you'll review with the class/client during your review session.  Eac
 4.  Show your components together in the pattern library, and briefly discuss each of those components.
 5.  Discuss any next steps.  What would you have done with more time?  What still remains to be decided?
 6.  Ask for feedback and questions from the class/"client".  Note - I may ask some questions during your review, just like a client might do.
+
+<dl>
+ <dt>Graduate Students Only</dt>
+ <dd>Provide a mock timeline and estimated cost structure plan for completing the project.  This should include what you've already implemented with your design prototype, as well as the implementation of the website within a content management system.  Note: Graduate students will receive a grade that may vary from their partner for this group assignment.</dd>
+</dl>
 
 ## View an Example
 

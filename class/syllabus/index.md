@@ -3,17 +3,27 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-## CCI Special Topics Course 40095-002 (Fall 2016)
+## CCI Special Topics Course 40095-002/50095
 
-* **Instructor:** Christopher Hallahan
-* **Email**: <a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a>
-* **Office**: <a href="http://www.ideabasekent.com">IdeaBase</a> (Downtown Kent)
-* **Term**: Fall 2016
-* **Day/Time**: Tuesdays, 5:30 - 8:15 p.m.
-* **Room**: <a href="http://www.ideabasekent.com">IdeaBase</a>, Downtown Kent
+<dl class="detail-listing group">
+  <dt>Instructor Name:</dt>
+  <dd>Christopher Hallahan</dd>
+  <dt>Instructor Email:</dt>
+  <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
+  <dt>Terms:</dt>
+  <dd>Fall 2016</dd>
+  <dt>Undergrad:</dt>
+  <dd>CCI 40095-002 - CRN 21206</dd>
+  <dt>Grad:</dt>
+  <dd>CCI 50095 - CRN 21207</dd>
+  <dt>Day/Time:</dt>
+  <dd>Tuesdays, 5:30 p.m. - 8:15 p.m.</dd>
+  <dt>Room:</dt>
+  <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent</dd>
+</dl>
 
 ### About This Course
-Responsive web design isn’t just a technical solution for web design - it’s an entire process that brings multiple disciplines together to form one product that works across multiple devices.  The responsive design process includes user experience, content strategy, information architecture, visual design, development, usability testing and technical testing.  Students who will succeed in this field will be familiar with not just one, but all of these processes.
+Responsive web design isn’t just a technical solution for web design - it’s an entire process that brings multiple disciplines together to form one product that works across multiple devices.  The responsive design process includes user experience, content strategy, information architecture, visual design, development, usability testing and technical testing.  Students who will succeed in this field will need to be familiar with not just one, but all of these processes, while working in a team-based environment.
 
 In this course you will learn the fundamental principles for developing standards-based web sites from a mobile-first and content-first perspective.  We will explore each aspect of an agile-inspired process, during which you’ll learn each step of what it takes to build a website and ensure its functionality for its users in terms of both usability and performance.
 
@@ -30,13 +40,14 @@ Just a few of the topics planned to be covered in the Responsive Web Design cour
 * Modern Web Design Workflows
 * Mobile Content Strategy
 * Browser Testing
-* Git and GitHub Version Control
+* Version Control
 * Paired and Team Coding
 * Mobile-First Design
 * Style Tiles and Web Design Techniques
+* Modern Web Layout Tools
 
 ### Prerequisites
-Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and work with others from different backgrounds to solve complex problems.
+Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to help prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and collaborate with others from different backgrounds to solve complex problems.
 
 ### Subject to Change Statement
 The syllabus and course schedule may be subject to change. Changes will be communicated via email. It is the responsibility of students to check email messages and course announcements to stay current in the course.
@@ -47,20 +58,20 @@ In this course, students will:
 
 * Apply a modern workflow to a responsive web design, including competitive research techniques, content development, information architecture, design and development.
 * Gather and architect content for the web, with a focus on prioritizing content for use on multiple devices.
-* Rapidly prototype web design modules in Sketch, a vector-based design application, developing style tiles and reusable patterns for colors, typography, layout and user interface elements.
+* Rapidly prototype web design modules, developing style tiles and reusable patterns for colors, typography, layout and user interface elements.
 * Create interactive prototypes and wireframes in HTML/CSS, using standards-compliant HTML and CSS, media queries and responsive layouts.
 * Test prototypes for common performance, usability and web browser issues.
-* Use version control, Git and GitHub to create a staging server on which websites will be hosted and updated.
+* Use version control to create a staging server on which websites will be hosted and updated.
 * Work in a team environment, collaborating with students from a variety of disciplines.
-* Solve common web design problems both independently and as a group, through the use of online resources, books, videos and fellow web designers.
+* Solve common web design problems both independently and as a group, through the use of online resources, books, videos and fellow students.
 
 ### Learning outcomes
 
 Most importantly, by the end of this course, students will be able to:
 
-* Identify and write the most common HTML/CSS properties, with proper indentation and comments.  Understand how to use these properties efficiently.
-* Organize and prioritize website content to fit information architecture best practices, as well as a mobile-first methodology.
-* Use media queries to create a responsive HTML/CSS prototype that spans multiple devices.
+* Identify and write the most common HTML/CSS properties, with proper indentation and comments, and understand how to use these properties efficiently.
+* Organize and prioritize website content to fit information architecture best practices, including a mobile-first methodology.
+* Use media queries to create a responsive HTML/CSS/JavaScript prototype that accommodates multiple screen sizes and device types.
 * Speak intelligently about responsive web design and describe why it’s important to future clients, colleagues or employers.
 * Analyze predefined requirements and constraints that a client or employer may ask of a web designer, and creatively apply these to the solution.
 * Critique and speak intelligently about web design in terms of content, colors, typography, user interface elements and layout.
@@ -68,7 +79,7 @@ Most importantly, by the end of this course, students will be able to:
 * Understand the various roles that are essential to the web design process and appreciate the skills required for each discipline.
 * See themselves as capable and confident when working in code, even if they are not primarily developers.  Be willing to cross organizational lines and take chances.
 * Be motivated to expand their knowledge of web design by following influential web designers and businesses that are currently implementing responsive design.
-* Understand how the student and their current area of study fits into a web design role and expand on their current background to be able to take on future roles in web design.
+* Understand how the student and their current area of study fits into a web design role (and their role as a communicator) and expand on their current background to be able to take on future roles in interactive media.
 * Understand how HTML/CSS prototypes integrate into large, dynamic content management systems and complex organizations.
 * Develop test plans and iterate on future design and content systems after identifying usability or technical issues.
 * Identify solutions to complex design/development problems and use online resources to expand knowledge of HTML/CSS processes.
@@ -76,14 +87,14 @@ Most importantly, by the end of this course, students will be able to:
 ### Course Textbook and Materials
 There are 2 required textbooks for the course.  One provides detailed examples and instructions for HTML/CSS, and the other provides more practical knowledge on web design topics:
 
-* *[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* by Jon Duckett, November 2011, Wiley. ($17.39 on Amazon)
-* *[Responsive Web Design](http://abookapart.com/products/responsive-web-design)* by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
+* *[HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)* by Jon Duckett, November 2011, Wiley. ($18.51 on Amazon)
+* *[Responsive Web Design](http://abookapart.com/products/responsive-web-design)* by Ethan Marcotte, Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback + Shipping)
 
 This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
 ### Class Structure
 
-This class will be held once a week and will have both a lecture/discussion and studio/lab component.  Students will be assigned readings from a variety disciplines, authors and topics, which will be discussed during the first half of class.   All students will have the opportunity to pair with a student from a background different their own to work on hands-on examples on a computer in class each week, as well as a long-term project that will span the semester.  Short assignments will be given throughout the semester in order to master key topics.
+This class will be held once a week and will have both a lecture/discussion and studio/lab component.  Students will be assigned readings from a variety disciplines, authors and topics, which will be discussed during the first half of class.   All students will have the opportunity to pair with a student from a different background to work on hands-on examples in class each week, as well as a long-term project that will span the semester.  Short homework assignments will be given throughout the semester in order to master key topics.
 
 ### Preparing for Class
 Students are expected to come to class prepared.  This means:
@@ -94,24 +105,29 @@ Students are expected to come to class prepared.  This means:
 * Completing assignments on time and submitting them properly to GitHub each week.
 
 ### Course Schedule
-This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the class website on GitHub.
+This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com).
 
-Please see the [Detailed Course Schedule](/class/schedule) for specific dates, times and assignments.
+Please see the [Detailed Course Schedule](http://www.rwdkent.com/class/schedule) for specific dates, times and assignments.
 
 #### Part 1: Principles of Responsive Web Design and HTML
-Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML + CSS elements and selectors in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section, and will refer to the HTML and CSS textbook frequently.
+Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section and will refer to the HTML + CSS textbook frequently.
 
 #### Part 2:  Content Strategy and Content/Mobile-First Design
-Students will apply research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read some selections from Mobile-First Design by Luke Wroblewski as part of this section, and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.  
+Students will apply competitive research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read some selections from Mobile-First Design as part of this section and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.  
 
 #### Part 3:  Design and Development with CSS
-In the third part, students will begin an iterative design process, where they’ll mock-up design components in digital style tiles and then turn those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study Atomic Design, a methodology developed by Brad Frost.
+In the third part, students will begin an iterative design process using CSS, where they’ll begin by mock-uping design components in digital style tiles and then turning those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study the Atomic Design methodology.
 
 #### Part 4:  Prototyping, Testing and Style Guides
-In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
+In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability and accessibility testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
 
 ### Assignments
 Student learning will be assessed through three types of work: in-class participation, in-class quizzes, short assignments and a multi-stage small group/individual project.
+
+<dl>
+  <dt>Graduate Students</dt>
+  <dd>Graduate student assignments may include a more challenging component than undergraduate assignments to support advanced mastery of the subject.  When working in collaboration with an undergraduate student, only the graduate student is required to complete this component of the assignment.</dd>
+</dl>
 
 There are **100** total possible points for the semester.
 
@@ -201,7 +217,7 @@ This class uses team-based learning for part or all of the semester.  Students m
 
 ### Grading
 
-Final letter grades will be assigned on the basis of the following table:
+Final letter grades will be assigned on the basis of the following table.  Graduate student assignments will take into account additional advanced components (described within the assignment), differing from undergraduate assignments.
 
 | Letter       | Percentage  |
 | :------------- | :-------------|
@@ -221,7 +237,7 @@ Final letter grades will be assigned on the basis of the following table:
 * Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.
 * We will be using a variety of free and paid software programs and tools.
 * Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.
-* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, Git, web browsers and Google Drive.
+* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, web browsers and Google Drive.
 
 ### Communicating with the Instructor
 
@@ -231,7 +247,7 @@ My office hours for this semester are:
 * Thursdays: 4:00 - 5:00 p.m.
 
 #### Email
-My email address is challahan@ideabasekent.com. Here is my email policy:
+My email address is [challahan@ideabasekent.com](mailto:challahan@ideabasekent.com).  Here is my email policy:
 
 * I will usually respond within 24 hours during the week (Mon-Fri). Do not expect an immediate response.
 * I typically check email in the afternoons or evenings, not in the mornings.
