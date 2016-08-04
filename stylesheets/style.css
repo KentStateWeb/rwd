@@ -1817,8 +1817,10 @@ blockquote p {
 
 /* Class Details Listing */
 
-.detail-listing {
-	max-width:500px;
+@media screen and (min-width: 800px) {
+	.detail-listing.detail-listing--syllabus {
+		display: flex;
+	}
 }
 
 .detail-listing dt {
@@ -1844,6 +1846,13 @@ blockquote p {
 	padding: .7em 0 .5em 0;
 	line-height: 1.1;
 
+}
+
+
+@media screen and (min-width: 800px) {
+	.detail-list__column {
+		width: 50%;
+	}
 }
 
 @media screen and (min-width: 900px) {

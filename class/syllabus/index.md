@@ -3,23 +3,27 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-## CCI Special Topics Course 40095-002/50095
+## Kent State University CCI Course 40095-002/50095
 
-<dl class="detail-listing group">
-  <dt>Instructor Name:</dt>
-  <dd>Christopher Hallahan</dd>
-  <dt>Instructor Email:</dt>
-  <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
-  <dt>Terms:</dt>
-  <dd>Fall 2016</dd>
-  <dt>Undergrad:</dt>
-  <dd>CCI 40095-002 - CRN 21206</dd>
-  <dt>Grad:</dt>
-  <dd>CCI 50095 - CRN 21207</dd>
-  <dt>Day/Time:</dt>
-  <dd>Tuesdays, 5:30 p.m. - 8:15 p.m.</dd>
-  <dt>Room:</dt>
-  <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent</dd>
+<dl class="detail-listing detail-listing--syllabus group">
+  <div class="detail-list__column">
+    <dt>Instructor Name:</dt>
+    <dd>Christopher Hallahan</dd>
+    <dt>Instructor Email:</dt>
+    <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
+    <dt>Terms:</dt>
+    <dd>Fall 2016</dd>
+    <dt>Undergrad:</dt>
+    <dd>CCI ST 40095-002 - CRN 21206</dd>
+  </div>
+  <div class="detail-list__column">  
+    <dt>Grad:</dt>
+    <dd>CCI ST 50095 - CRN 21207</dd>
+    <dt>Day/Time:</dt>
+    <dd>Tuesdays, 5:30 p.m. - 8:15 p.m.</dd>
+    <dt>Room:</dt>
+    <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent</dd>
+  </div>
 </dl>
 
 ### About This Course
@@ -120,6 +124,8 @@ In the third part, students will begin an iterative design process using CSS, wh
 
 #### Part 4:  Prototyping, Testing and Style Guides
 In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability and accessibility testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
+
+<div class="page-break"></div>
 
 ### Assignments
 Student learning will be assessed through three types of work: in-class participation, in-class quizzes, short assignments and a multi-stage small group/individual project.
@@ -238,6 +244,8 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 * We will be using a variety of free and paid software programs and tools.
 * Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.
 * Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, web browsers and Google Drive.
+
+<div class="page-break"></div>
 
 ### Communicating with the Instructor
 
