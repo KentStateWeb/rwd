@@ -765,6 +765,8 @@
 
 <p>Open your CSS Basics 2 assignment.  Instead of editing the original pen, click the “Fork” option at the top.  Click Settings and rename the forked pen using this structure: “Your Last Name - Layout/Media Queries”.</p>
 
+<p>Remember these guidelines:  a. Order your media queries from smallest to largest  b. Organize your CSS by element (for example, header and footer)  and  c. Remember your first media query is no media at all.  These are your default styles.</p>
+
 <h3 id="choose-new-fonts">Choose New Fonts</h3>
 
 <ol>
@@ -782,24 +784,52 @@
 
 <ol>
   <li>Set paragraph font size to get slightly larger at 600px.</li>
-  <li>Set the pargraph font size to get even larger at 1300px.  Also, increase the line-height to increase readability at this size.</li>
-  <li>Bump the H2’s up when the screen gets big enough.  The size is your choice.</li>
-  <li>Set a margin-top on the H2’s starting at 600px to add some more spacing.</li>
+  <li>Set the paragraph font size to get even larger at 1300px.</li>
+  <li>Also, increase the paragraph line-height to increase readability at 1300px.</li>
+  <li>Bump the H2’s only up when the screen gets big enough.  The size is your choice.</li>
 </ol>
 
 <h3 id="main-content-area">Main Content Area</h3>
 
 <ol>
   <li>At 825px, change the main area’s padding to be 3.5em, but the padding at the top only to be .5em.</li>
-  <li>At 1300px, change the main area’s maximum width to 1200px.</li>
+  <li>At 1300px, change the main area’s width to 1200px (this will stop it from getting any larger).</li>
+</ol>
+
+<h3 id="floated-image">Floated image</h3>
+
+<p>Change the image to float left at a breakpoint.</p>
+
+<h3 id="absolutely-positioned-caption">Absolutely Positioned caption</h3>
+
+<p>Position the caption on top of the image.</p>
+
+<h3 id="figures-and-images">Figures and Images</h3>
+
+<p>We’re going to set the images to float to the left of the text at larger screen sizes.</p>
+
+<ol>
+  <li>Start the width of figures (aka your main image) at 100%.  Remove the padding on the figure.  Change the positioning to relative (this will allow text to flow around it).</li>
+  <li>Starting at 825px, float the image to the right.  Change the width to 50% and set a margin-top of 2em and a padding-left of 5%.  Set a margin-bottom of 1em.</li>
+</ol>
+
+<h3 id="figure-caption">Figure Caption</h3>
+
+<p>As the screen gets larger, choose a breakpoint to change the figcaption element (the caption of your main image) to an overlay on top of the image.</p>
+
+<ol>
+  <li>At 550px, change the positioning of figcaption to absolute, add bottom: 9px, add a Kent State blue background color (using rgba) at 80% opacity.</li>
+  <li>At 550px, change the color of the text to white.</li>
+  <li>At 550px, Add a margin-left and margin-right of 5px.</li>
+  <li>At 550px, Add padding of .75em.</li>
+  <li>At 550px, Finally, change the line height to 1.3.</li>
 </ol>
 
 <h3 id="quotes">Quotes</h3>
 
 <ol>
-  <li>Change blockquotes to start at a max-width of 90% and 1.2em font size.</li>
-  <li>Choose a breakpoint for the blockquote to change to an 80% max-width and increase its font-size again.</li>
-  <li>Change the cite tag to have a margin-left of 5%.  At the same time you change your blockquote to 80% width, change the left margin of the cite tag to 10%.  (This may vary depending on whether or not you put your cite tag inside of the blockquote or not in your HTML.)</li>
+  <li>Change blockquotes to start at a width of 90% and 1.2em font size.</li>
+  <li>Choose a breakpoint for the blockquote to change to an 80% width and increase its font-size again.</li>
 </ol>
 
 <h3 id="submitting-the-assignment">Submitting the Assignment</h3>
@@ -815,9 +845,9 @@
 <p>Use the following rubric to ensure you receive the highest possible grade for the assignment:</p>
 
 <ul>
-  <li><strong>4 - 5</strong>: CSS and accompanying media queries is written appropriately and with proper indentation.  All steps were followed and correct styles are applied.  Styles are added efficiently, for example, multiple H1 styles are grouped together, as opposed to separate styles for everything.</li>
-  <li><strong>2 - 3</strong>: CSS is mostly structured correctly, but there are some syntax and/or media query issues (for example, you forgot to close a rule with a semicolon).  Some of the steps were missed.  Similar styles are not grouped together.</li>
-  <li><strong>0 - 1</strong>: CSS does not use appropriate style attributes.  Media queries are not set correctly.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.</li>
+  <li><strong>5 - 6</strong>: CSS and accompanying media queries is written appropriately and with proper indentation.  All steps were followed and correct styles are applied.  Styles are added efficiently, for example, multiple H1 styles are grouped together, as opposed to separate styles for everything.</li>
+  <li><strong>3 - 4</strong>: CSS is mostly structured correctly, but there are some syntax and/or media query issues (for example, you forgot to close a rule with a semicolon).  Some of the steps were missed.  Similar styles are not grouped together.</li>
+  <li><strong>0 - 2</strong>: CSS does not use appropriate style attributes.  Media queries are not set correctly.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.</li>
 </ul>
 
 	<a class="button small" href="/class/assignments">Return to Assignments</a>

@@ -2,14 +2,14 @@
 title: "Boxes and Layout"
 description: "Description of the assignment"
 type: "mini"
-points: 7
+points: 6
 layout: assignment
 date: 2016-11-08 12:00:00
 semester: fall-2016
 
 ---
 
-Now that we've added a few breakpoints to our site, we're going to make some more dramatic layout adjustments using floats.  Be sure to reference the part of your book on floats and positioning for this section.
+This assignment begins a brand new webpage that will help you learn how to lay out and style boxes.
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
@@ -17,69 +17,124 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 ## What To Do
 
-Open your Layout/Media Queries assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - Layout/Media Queries 2".
+### Starter Content and HTML
+
+It's best to start with the content and structure first, and then move on to CSS.  I've provided some HTML and content to get you started.
+
+Visit [http://codepen.io/challahan/pen/WxagwO](http://codepen.io/challahan/pen/WxagwO) and fork my starter pen using the Fork button.
+
+Rename the pen by clicking on the Pencil icon and renaming it to this structure: Your Name - Boxes and Layout
+
+### Final Product
+
+Here's what we'll be making.  Don't try to do it all at once, we'll take each section at a time.  This is a responsive website, so there will be multiple changes in layout at different breakpoints.  
+
+<img src="../images/small.png" alt="Small Image" />
+
+<img src="../images/medium.png"  alt="Small Image" />
+
+<img src="../images/large.png" alt="Small Image" />
+
 
 ### Header
 
-Heads up - you're going to be doing some complex media queries in this section.  Remember these guidelines:  a. Order your media queries from smallest to largest  b. Organize your CSS by element (for example, header and footer)  and  c. Remember your first media query is no media at all.  These are your default styles.
+Let's start with the header.  Rather than telling you what rules to use, I'm going to provide you with an image of how the header should look.  It's up to you to style it, but it doesn't have to be exact.
 
-Your header will start out stacked, and then end up horizontal when the space allows for it.
+1.  Use colors hsl(206,100,14) (Blue) and hsl(43,100,90) (Yellow)
+2.  Set the header in font-family: 'Suez One', serif;
+3.  In order to get the word "Boxes" on its own line, you'll need to use the "display" property and target the "span" around the word "boxes".
 
-1.  Set the heading 1 (aka Welcome Weekend) to a smaller font-size to start out, so that the text fits small screens better.  
-2. Set the Welcome Weekend logo to start out at a smaller width of around 80px.
-3. At around 600px, change the Welcome Weekend logo to be 150px.
-4.  Add a media query to change the font size of the heading 1 (Welcome Weekend) as the screen gets larger.  The size and breakpoint are up to you.
-5. At a breakpoint of 1035px, change the padding-top of the H1 to 65px and set the margin-top to 0.
-6. At a breakpoint of 1300px, change the font-size of the H1 (Welcome Weekend) to 3em.
-7. At 1035px, set the entire header element (<HEADER>) to become aligned to the left.  Set the header's max width to 900px and display it as block.  Set the header height to 150px.  Finally, center the header itself using an auto margin on the left and right.
-8. At around 1035px set the Welcome Weekend logo to be 175px.  Also, set it to float to the left.  Set the margin to 0 .75em inherit 1.5em.
-9. At 1300px, set the header's max width to 1200px, margin-top of 1em and height of 170px.
-10. At 1300px, change the margin-left on the Welcome Weekend logo to 3% and up the width to 190px.
+<img src="../images/header.png" alt="Header Image" />
+
+<img src="../images/header-large.png" alt="Header Large" />
 
 
-### Figures and Images
+### Main Content Area
 
-We're going to set the images to float to the left of the text at larger screen sizes.
-
-1. Start the width of figures (aka your main image) at 100%.  Remove the padding on the figure.  Change the positioning to relative (this will allow text to flow around it).
-2. Starting at 825px, float the image to the right.  Change the width to 50% and set a margin-top of 2em and a padding-left of 5%.  Set a margin-bottom of 1em.
-
-### Figure Caption
-
-As the screen gets larger, choose a breakpoint to change the figcaption element (the caption of your main image) to an overlay on top of the image.  
-
-1.  At 550px, change the positioning of figcaption to absolute, add bottom: 9px, add a Kent State blue background color (using rgba) at 80% opacity.  
-2.  At 550px, change the color of the text to white.  
-3.  At 550px, Add a margin-left and margin-right of 5px.  
-4.  At 550px, Add padding of .75em.  
-5.  At 550px, Finally, change the line height to 1.3.
+Make this area stop getting any larger than 1000px wide.  Center it in the middle of the page (this will only be apparent when the viewport is larger than 1000px).
 
 
-### Clearfix
+### Navigation
 
-1.  We need to clear a float!  You need to clear floats anytime you use the float property.  Add a new class called clearfix with the following values:
-clearfix:after {
-  display: block;
-  content: "";
-  display: table;
-  clear: both;
-}
-2.  Add the "clearfix" class to the paragraph that follows What Is Welcome Weekend?
+The navigation starts as a stacked list, and then turns into a horizontal list.
+
+1.  Use background color hsl(32,100,50).
+2.  Remove the default bulleted style on the list, as well as its margin and padding.
+3.  When the screen gets large enough, use flexbox on the list to position items side-by-side.  Flexbox also has a property to tell each list item to take up equal space.
+4.  Give the navigation a margin of .25em to separate it from the header.
+
+<img src="../images/nav-small.png" alt="Header Large" />
+
+<img src="../images/nav-large.png" alt="Header Large" />
+
+### Sections
+
+We've used a section tag to surround each of our 3 "rows".  We could have also used a DIV to surround the rows, but sections are more semantically correct and will help us differentiate between DIVs later.
+
+1.  Give each of the sections a unique class name.  We'll use this to identify each of the rows and give them different styling.  
+2.  You might choose something like "first-row", "second-row" and "third-row", but it's up to you.
+
+### Boxes
+
+Now lets style all of the boxes to give them equal spacing.  There are 11 individual boxes (marked up as DIVs) in between the footer and navigation.
+
+1.  Give each of the DIV's an identical class name.
+2.  Set a style for that class name with padding: 2em and margin: .25em.
+
+
+### First Row
+
+Now it's time to style the first row of boxes.  This one is simple.  We'll start out with each box stacked and then, at a breakpoint, change to a 50%/50% layout.
+
+1.  Make each div in the first row have a white background.
+2.  At your favorite breakpoint, change the DIVs to be side-by-side using flexbox.
+
+<img src="../images/first-row-small.png" alt="First Row Small" />
+
+<img src="../images/first-row-large.png" alt="First Row Large" />
+
+
+### Second Row
+
+The next row is a bit more challenging.  We're going to add background images to each of the boxes, and also style the paragraphs inside to be boxes themselves, perfectly centered inside.
+
+1.  Use this image to declare a background image for both of the boxes in the second row.  https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/laptop.jpg
+2.  Use the background-cover property to tell the image to always use the available background space.
+3.  Style the paragraphs inside the box to have a background-color (hsla(197,82,38,.9) and closely match the style depicted.
+4.  Use flexbox to position the paragraph in the center, both vertically and horizontally.  
+5.  At your favorite breakpoint, use flexbox to position the two boxes side-by-side.  However, instead of making them an even 50%, make the first one 25% and the second one 75%.
+
+
+<img src="../images/second-row-small.png" alt="Second Row Small" />
+
+<img src="../images/second-row-large.png" alt="Second Row Large" />
+
+
+### Third Row
+
+The third "row" is deceptive because while there are 6 boxes, we're going to tell the boxes to wrap when they run out of room, thereby creating another row.  
+
+1.  Set the background of all boxes in the third row to be hsl(20,100,42) and color white.
+2.  At your favorite breakpoint, set all of the boxes to be side-by-side using flexbox.
+3.  Because the boxes are a bit too tight to have 6 all side-by-side, tell the boxes that it's alright to wrap.
+4.  Tell flexbox you'd like the boxes to be divided into thirds by making each of them width: 32%.
+5.  Things aren't quite lining up.  We can fix that by using "flex-grow: 1" to tell all of the boxes to take up the remaining extra space automatically.
+6.  Finally, at the next breakpoint of your choice, lets tell the items to go back to 6 boxes, side-by-side.  
+
+<img src="../images/third-row-large.png" alt="Third Row Large" />
+
+<img src="../images/third-row-medium.png" alt="Third Row Medium" />
+
+<img src="../images/third-row-small.png" alt="Third Row Small" />
 
 
 ### Footer
 
-Almost done!  As the screen gets larger, the 3 items in the footer could be placed so that they're side-by-side.
+Nothing special here.  Just make the footer background hsl(197,82,38), give it some padding and margin, and center the text inside.
 
-In the section, we'll be giving items a class name.  We assign class names to an element so that we can apply the exact same styling to all elements with that class.  Get used to classes - we'll be using them a lot.
+<img src="../images/footer.png" alt="Footer" />
 
-1. First, we need to make an edit to the HTML.  Add a DIV around each of the pieces of contact information in the footer with a class of "contact" - one for address, one for phone, one for email.
-2. At 1000px, set the footer to have a max-width of 900px and center it in the middle of the page using an auto margin on either side.
-3. At 1000px, set the "contact" class to float to the left.  Set it to be 33.3% width and add padding-top of 1em and padding-bottom of 2em.
 
-If you did the 3 steps correctly, at 1000px you should see the 3 pieces of contact information pop right beside each other, each taking up exactly 1/3 of the container.
-
-Your end result should look [something like this](/img/layout-screenshot.jpg), knowing that you may have chosen different typefaces and breakpoints than I did.
 
 ### Submitting the Assignment
 
@@ -91,6 +146,6 @@ Your end result should look [something like this](/img/layout-screenshot.jpg), k
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: CSS and accompanying media queries is written appropriately and with proper indentation.  All steps were followed and correct styles are applied.  Styles are added efficiently, for example, multiple H1 styles are grouped together, as opposed to separate styles for everything.  
-* **2 - 3**: CSS is mostly structured correctly, but there are some syntax and/or media query issues (for example, you forgot to close a rule with a semicolon).  Some of the steps were missed.  Similar styles are not grouped together.
-* **0 - 1**: CSS does not use appropriate style attributes.  Media queries are not set correctly.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.
+* **5 - 6**: CSS and accompanying media queries is written appropriately and with proper indentation.  All steps were followed and correct styles are applied to match screenshots as closely as possible.  Styles are added efficiently.  
+* **3 - 4**: CSS is mostly structured correctly, but there are some syntax and/or media query issues (for example, you forgot to close a rule with a semicolon).  Some of the steps were missed.  Similar styles are not grouped together.
+* **0 - 2**: CSS does not use appropriate style attributes.  Media queries are not set correctly.  Syntax is incorrect and many of the steps were missed. The pen was not set up or submitted according to instructions.
