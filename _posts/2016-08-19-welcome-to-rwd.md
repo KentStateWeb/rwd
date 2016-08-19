@@ -7,9 +7,9 @@ I just wanted to send a quick note and introduce myself - my name is Chris, and 
 
 * The class meets on Tuesday evenings from 5:30 - 8:15 p.m.
 * The class is held at IdeaBase in Downtown Kent.
-* The first class is on Tuesday, August 29.
+* The first class is on Tuesday, August 30.
 
-While it’s definitely no fun going back to class, I think we're going to really enjoy our semester together.  Much of the class will be discussion-based and hands-on, and by the end of our time together, you’ll have developed a good introductory understanding of web design.
+While we all don't like saying goodbye to summer, I think we're going to really enjoy our semester together.  Much of the class will be discussion-based and hands-on, and by the end of our time together, you’ll have developed a good understanding of web design that you can use forever.
 
 There are very few classes like this being taught right now in higher education, so things will definitely evolve as we go through the class, and I’ll rely on your feedback to know how things are going.
 
@@ -22,7 +22,7 @@ One provides detailed examples and instructions for HTML/CSS, and the other prov
 1. [HTML and CSS: Design and Build Websites by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189), November 2011, Wiley. ($16.68 on Amazon)
 2. [Responsive Web Design by Ethan Marcotte](http://abookapart.com/products/responsive-web-design), Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
 
-If you're eager to get started, you can start exploring articles posted on the class website, or visit some of these resources that we'll be using later on.  There's no up front knowledge needed prior to class.
+If you're eager to get started learning, you can start exploring articles posted on the [class website](http://www.rwdkent.com), or visit some of these resources that we'll be using later on.  There's no up front knowledge needed prior to class.
 
 * [CodePen](http://www.codepen.io)
 * [Lynda Video Tutorials](http://www.lynda.com)
@@ -39,7 +39,7 @@ Blackboard Learn will only be used for turning in assignments and keeping track 
 
 ## Getting to IdeaBase
 
-IdeaBase is a student-powered design agency that’s run through the College of Communication & Information in Downtown Kent.  It’s the perfect place for this type of class, but it may not be on your normal campus route.  IdeaBase is located in Acorn Alley at 138 E. Main Street, Suite 203 on the second floor above 4 Cats Art Studio and Flashers Cleaners.  Visit [the IdeaBase website](http://ideabasekent.com/directions) to get more detailed directions and parking information.  
+IdeaBase is a student-powered design agency that’s run through the College of Communication & Information in Downtown Kent.  It’s the perfect place for this type of class, but it may not be on your normal campus route.  IdeaBase is located in Acorn Alley at 138 E. Main Street, Suite 203 on the second floor above 4 Cats Art Studio and Flashers Cleaners.  Visit the [directions on the IdeaBase website](http://ideabasekent.com/directions) to get more detailed directions and parking information.  
 
 You can of course walk or bike to class along the esplanade, but if you’re driving, you can park for FREE in any of the public or metered spots on Main Street after 5:00 p.m.  Plus, you have access to all of the amenities that downtown Kent has to offer before and after class and on breaks.
 
