@@ -15,7 +15,7 @@ Part of understanding responsive web design is understanding the competitive lan
 2.  **Redesign Process**: What process and technologies did they use to design and develop the website?  How did they get feedback on design direction?  What ways did they test their design?  Was the design done in house or through an outside agency?
 3.  **Measuring Success**:  Were they successful?  How did they measure their success?  
 4.  **Demo**:  Show the class some representative pages and how they display at different screen sizes.  Tell us what you think works well and what could be improved.
-5.  **Graduate Students Only**: Graduate students will present alone.  In addition to the criteria listed above, slides should be included to help guide the presentation, along with screenshots and visual examples, where needed.  
+5.  **Graduate Students Only**: Graduate students will present alone.  In addition to the criteria listed above, a few slides should be included to help guide the presentation, along with screenshots and visual examples, where needed.  
 
 ## Case Study Options: To Be Assigned In Class
 
@@ -34,13 +34,14 @@ The link included with each website is a starting point.  There may be other inf
 * [Marriott](http://responsivewebdesign.com/podcast/marriott.html) - ##
 * [The Boston Globe](http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d) - ##
 * [Gov.uk](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/) - ##
-* [Entertainment Weekly](http://bradfrost.com/blog/post/entertainment-weekly/) - actually uses adaptive design, not responsive.
 * [Regent College](http://domain7.com/work/regent-college)
 * [CodePen](http://codepen.seesparkbox.com) - ##
 * [Netflix](http://techblog.netflix.com/2014/03/the-netflix-signup-flow-our-journey-to.html) - ##
 * [Notre Dame](http://responsivewebdesign.com/podcast/notre-dame/) - ##
 * [West Virginia University](http://responsivewebdesign.com/podcast/wvu/) - ##
 * [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - ##
+* [Carnegie Library of Pittsburgh](https://responsivewebdesign.com/podcast/carnegie-library-of-pittsburgh/) - ##
+* [U.S. Digital Service](https://responsivewebdesign.com/podcast/usds/) - ##
 
 ## Rubric
 

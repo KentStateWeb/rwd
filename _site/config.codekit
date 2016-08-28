@@ -2052,6 +2052,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/hallahan-headshot-old.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56319,
+		"inputAbbreviatedPath": "\/img\/hallahan-headshot-old.jpg",
+		"outputAbbreviatedPath": "\/img\/hallahan-headshot-old.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/hallahan-headshot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
