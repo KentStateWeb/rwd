@@ -7,8 +7,8 @@ layout: wide
 ## The Setup
 
 * You're an employee at a small web design shop and have just gotten one of your first clients - a small website project for their business.
-* Your boss has assigned you and another colleage to the project.  You are both equally responsible for development, design and content strategy.
-* The client is launching their business in January, so they need most of the design/development done and approved before then.
+* Your boss has assigned you and coworker to the project.  You are both equally responsible for development, design and content strategy.
+* The client is launching their business in February, so they need most of the design/development done and approved before then.
 * They plan to put the site into a content management system - but they need a working style guide and prototype in order to effectively implement it.
 * They have an onsite employee who will be maintaining and improving the website after the project is finished.
 
@@ -20,7 +20,7 @@ Why this type of project?  This allows you, the student, to apply what you're le
 
 ## Project Groups
 
-You'll work in pairs on this project (except for one group, which will be 3 people).  Each pair will work on a slightly different (but largely equivalent) web project.  The projects are as follows:
+You'll work in pairs on this project.  Each pair will work on a slightly different (but largely equivalent) web project.  The projects are as follows:
 
 <ul>
 {% for groups in site.groups %}
@@ -64,10 +64,11 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/sketching">View Sketching Project</a>
 
-###  4:  Style Tiles/Personality
+###  4:  Style Tiles/Personality and Concepts
 
 * Using the goals you discovered in your client meeting, you'll develop 2 sets of style tiles that show the colors, design aesthetic and personality of the website.
 * You'll show these to the "client" in class, and the class will ask questions.
+* From the style tile feedback, you'll develop a few visual mockups representing different screen sizes.
 
 <a class="button small" href="/class/assignments/style">View Style Tiles Project</a>
 
@@ -79,7 +80,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/wireframes">View Wireframe Project</a>
 
-###  6:  Technical and Usability Testing Plan
+###  6:  Technical, Accessibility and Usability Testing Plan
 
 * You'll prepare a testing plan for your prototypes, having some real users perform some simple tasks
 * You'll see how the site renders on different browsers and devices, and make adjustments.
@@ -89,8 +90,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 ###  7:  HTML/CSS Final Prototype/Templates
 
-* Using your content templates, you'll begin to add CSS styling to your CSS
-* You'll create some repeatable template elements using Jekyll
+* Using your content templates, you'll begin to add CSS styling to your code, creating working prototypes of representative templates in your website.
 * You'll determine how each repeatable element looks and functions together
 
 <a class="button small" href="/class/assignments/templates">View Template Project</a>
