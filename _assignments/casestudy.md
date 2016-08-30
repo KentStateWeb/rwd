@@ -9,13 +9,13 @@ semester: fall-2016
 
 ---
 
-Part of understanding responsive web design is understanding the competitive landscape, including how they've implemented responsive solutions, their processes and how they measured their success. It's also important that future web designers are able to talk about responsive web design and demonstrate their process. For the RWD Case Study assignment, you'll be assigned one of the following responsive website redesigns.  Many web designers are open about their processes and have documented them in an article or podcast.  After doing some research, you'll put together a **5-7 minute** summary (no slides) for the class (with a partner selected in class) that covers the following:
+Part of understanding responsive web design is understanding the competitive landscape, including how they've implemented responsive solutions, their processes and how they measured their success. It's also important that future web designers are able to talk about responsive web design and demonstrate their process. For the RWD Case Study assignment, you'll be assigned one of the following responsive website redesigns.  Many web designers are open about their processes and have documented them in an article or podcast.  After doing some quick research, you and a partner will put together a **5-7 minute** summary (no slides) for the class (with a partner selected in class) that covers the following:
 
 1.  **Goals For Going Responsive**:  Introduce the website and describe the problems were they trying to solve by going responsive?  
 2.  **Redesign Process**: What process and technologies did they use to design and develop the website?  How did they get feedback on design direction?  What ways did they test their design?  Was the design done in house or through an outside agency?
 3.  **Measuring Success**:  Were they successful?  How did they measure their success?  
 4.  **Demo**:  Show the class some representative pages and how they display at different screen sizes.  Tell us what you think works well and what could be improved.
-5.  **Graduate Students Only**: Graduate students will present alone.  In addition to the criteria listed above, a few slides should be included to help guide the presentation, along with screenshots and visual examples, where needed.  
+5.  **Graduate Students Only**: In addition to the criteria listed above, a few slides should be included to help guide the presentation, along with screenshots and visual examples, where needed.  
 
 ## Case Study Options: To Be Assigned In Class
 
