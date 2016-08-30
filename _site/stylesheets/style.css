@@ -738,9 +738,9 @@ p.introduction {
 	font-weight: 300;
 }
 
-p.section-introduction {
+p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
 	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.3em;
+	font-size: 1.3rem;
 	margin-top: 0;
 	font-weight: normal;
 	margin-bottom: 1em;
@@ -750,9 +750,13 @@ p.section-introduction {
 	margin-left: 2%;
 }
 
+.main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
+	border-bottom: none;
+}
+
 @media screen and (min-width: 800px) {
-	p.section-introduction {
-		font-size: 1.5em;
+	p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
+		font-size: 1.5rem;
 		margin-left: 7%;
 	}
 }
