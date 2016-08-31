@@ -21,25 +21,25 @@ Part of understanding responsive web design is understanding the competitive lan
 
 The link included with each website is a starting point.  There may be other information available from other sources to help inform your research.
 
-* [TechCrunch](http://danielmall.com/articles/techcrunch-responsive-redesign/) - ##
+* [TechCrunch](http://danielmall.com/articles/techcrunch-responsive-redesign/) - Brennan and Cory
 * [Greater Pittsburgh Community Food Bank](http://bradfrost.com/blog/post/greater-pittsburgh-community-food-bank-open-redesign/) - ##
-* [Time.com](http://appendto.com/work/time-com-responsive-redesign/) - ##
+* [Time.com](http://appendto.com/work/time-com-responsive-redesign/) - Lauren and Lindsey
 * [The Atlantic](http://responsivewebdesign.com/podcast/the-atlantic.html) - ##
 * [National Audubon Society](http://muledesign.com/2015/02/birds) - ##
 * [Children's Hospital of Philadelphia](http://responsivewebdesign.com/podcast/chop.html) - ##
 * [Microsoft](http://paravelinc.com/work/microsoft/) - ##
 * [The Guardian](http://www.creativebloq.com/netmag/guardian-redesign-71412518) - ##
-* [Starbucks](http://responsivewebdesign.com/podcast/starbucks.html) - ##
+* [Starbucks](http://responsivewebdesign.com/podcast/starbucks.html) - Laura and Julia
 * [Virgin America](http://www.wired.com/2014/06/the-super-slick-ux-of-virgin-americas-new-booking-site/) - ##
-* [Marriott](http://responsivewebdesign.com/podcast/marriott.html) - ##
+* [Marriott](http://responsivewebdesign.com/podcast/marriott.html) - Derek Courtney
 * [The Boston Globe](http://readwrite.com/2011/12/25/redux_how_the_boston_globe_pulled_off_html5_responsive_d) - ##
-* [Gov.uk](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/) - ##
+* [Gov.uk](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/) - Tyler and Kierstynn
 * [Regent College](http://domain7.com/work/regent-college)
-* [CodePen](http://codepen.seesparkbox.com) - ##
-* [Netflix](http://techblog.netflix.com/2014/03/the-netflix-signup-flow-our-journey-to.html) - ##
+* [CodePen](http://codepen.seesparkbox.com) - Sam and Dorothy
+* [Netflix](http://techblog.netflix.com/2014/03/the-netflix-signup-flow-our-journey-to.html) - Nicole and Lauren R.
 * [Notre Dame](http://responsivewebdesign.com/podcast/notre-dame/) - ##
 * [West Virginia University](http://responsivewebdesign.com/podcast/wvu/) - ##
-* [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - ##
+* [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - Josh and Nico
 * [Carnegie Library of Pittsburgh](https://responsivewebdesign.com/podcast/carnegie-library-of-pittsburgh/) - ##
 * [U.S. Digital Service](https://responsivewebdesign.com/podcast/usds/) - ##
 
