@@ -23,7 +23,7 @@ The link included with each website is a starting point.  There may be other inf
 
 * [TechCrunch](http://danielmall.com/articles/techcrunch-responsive-redesign/) - Brennan and Cory
 * [Greater Pittsburgh Community Food Bank](http://bradfrost.com/blog/post/greater-pittsburgh-community-food-bank-open-redesign/) - ##
-* [Time.com](http://appendto.com/work/time-com-responsive-redesign/) - Lauren and Lindsey
+* [Time.com](https://techcrunch.com/2014/03/05/time-redesign/) - Lauren and Lindsey
 * [The Atlantic](http://responsivewebdesign.com/podcast/the-atlantic.html) - ##
 * [National Audubon Society](http://muledesign.com/2015/02/birds) - ##
 * [Children's Hospital of Philadelphia](http://responsivewebdesign.com/podcast/chop.html) - ##
