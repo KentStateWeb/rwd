@@ -79,6 +79,6 @@ Jan Leach: jleach1@kent.edu, Jennifer Kramer: jlkramer@kent.edu, Melinda Stephan
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: HTML is structured appropriately.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately and lists are marked up correctly.  The client's notes were followed and the appropriate links were posted to Learn.
-* **2 - 3**: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Some of the client's notes were missed.
+* **3-4**: HTML is structured appropriately.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately and lists are marked up correctly.  The client's notes were followed and the appropriate links were posted to Learn.
+* **2**: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Some of the client's notes were missed.
 * **0 - 1**: HTML does not use appropriate tags for the types of content.  Few tags are formatted appropriately, client notes were missed and the pen was not set up or submitted according to instructions.  
