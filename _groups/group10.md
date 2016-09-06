@@ -33,4 +33,8 @@ A starter file with content, photos and more that you've received from the clien
 
 ### Logo
 
-Coming Soon
+Green: rgb(151,201,171)
+
+<img src="/class/groups/assets/group10/creativekids.svg" alt="Creative Kids" />
+
+<a href="/class/groups/assets/group10/creativekids.svg">SVG File</a>

@@ -33,4 +33,9 @@ A starter file with content, photos and more that you've received from the clien
 
 ### Logo
 
-Coming Soon
+Orange HEX: #f8a076
+Blue HEX: #334051
+
+<img src="/class/groups/assets/group11/pets-first-color.svg" alt="Pets First" />
+
+<a href="/class/groups/assets/group11/pets-first-color.svg">SVG File</a>
