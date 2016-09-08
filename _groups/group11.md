@@ -14,10 +14,25 @@ date: 2016-7-19 12:00:00
 
 **What are your top goals as a business this year?**
 
+* Invite new visitors to our clinic for the first time
+* Provide better resources and connections with our current clients, perhaps through a blog, social media or original articles
+* Set up and promote our new Pet Portal, which allows clients to see their pet's history, request appointments and communicate with our team (part of a separate website).
+
 
 **What would you like the website to be able to do for your users?**
 
 **Who are some of your top competitors?**
+
+Stow Kent Animal Hospital / Portage Animal Clinic: http://www.wetreatpets.com
+
+Memorial Animal Hospital:
+http://www.memorialanimalhospital.com
+
+Buckeye Veterinary Clinic:
+http://www.buckeyevetclinic.com
+
+Twin Lakes Vet Hospital:
+http://www.twinlakesvethospital.com
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
