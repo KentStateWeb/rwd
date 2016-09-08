@@ -309,7 +309,7 @@ main img {
 	.floated-feature-image-container {
 		width: 40%;
 		float: right;
-		margin-top: -22em;
+		margin-top: -20em;
 		padding-left: 2em;
 	}
 	.floated-feature-image {
@@ -334,7 +334,7 @@ main img {
 		padding-left: 0;
 	}
 	.floated-feature-image-container {
-		margin-top: -24em;
+		margin-top: -22em;
 	}
 
 }
