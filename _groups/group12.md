@@ -33,4 +33,12 @@ A starter file with content, photos and more that you've received from the clien
 
 ### Logo
 
-Coming Soon
+Black
+
+Red: #6C0B1C
+
+<img src="/class/groups/assets/group12/HoppsHouse-mark.svg" alt="Pets First" />
+<img src="/class/groups/assets/group12/HoppsHouse-logo.svg" alt="Pets First" />
+
+<a href="/class/groups/assets/group12/HoppsHouse-mark.svg">Mark SVG File</a><br/>
+<a href="/class/groups/assets/group12/HoppsHouse-logo.svg">Logo SVG File</a>
