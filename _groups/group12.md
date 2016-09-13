@@ -14,8 +14,20 @@ date: 2016-7-19 12:00:00
 
 **What are your top goals as a business this year?**
 
+* Develop and market some brand new brews, especially for the fall and winter
+* Promote attendance at our "Hoppy Hours" and other tasting events
+* Offer additional food items, including flatbreads and appetizers
+* Promote our growler service, allowing more people to enjoy our brews at home
+
 
 **What would you like the website to be able to do for your users?**
+
+* First, they need to be able to find our location and hours easily, since visitors are what sustains us as a business
+* Allow people to see our different craft brews (maybe sorted by type), which change out seasonally.  This is what keeps people coming back.  Each month we have a featured brew.
+* Secondarily, promote that we offer flatbreads and appetizers, which makes us a great first stop on a night out.  
+* Talk about our history and importance as a small business in the community
+* List upcoming events and tastings - which tends to get people to visit for the first time.
+* Allow people to connect with us on social media
 
 
 **Who are some of your top competitors?**
@@ -32,6 +44,13 @@ Paladin Brewing: http://paladinbrewing.com
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
+
+* Fun atmosphere
+* High quality and unique beers
+* Fresh and always changing
+* Community staple/destination
+* Local
+* Social
 
 
 ## Assets
