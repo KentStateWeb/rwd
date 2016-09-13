@@ -17,7 +17,18 @@ date: 2016-7-19 12:00:00
 
 **What would you like the website to be able to do for your users?**
 
+
 **Who are some of your top competitors?**
+
+Hoppin' Frog Brewery: http://www.hoppinfrog.com
+
+Rockmill Brewery: http://www.rockmillbrewery.com
+
+Ohio Brewing Company: http://www.ohiobrewing.com/home.html
+
+Royal Docks Brewing Co: http://www.royaldocksbrewing.com
+
+Paladin Brewing: http://paladinbrewing.com
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**

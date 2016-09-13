@@ -34,16 +34,16 @@ Julia Holmberg
 Laura Mamick
 
 Group 7:
-Nico
-Derek
+Nico Ciani
+Nicole Albright
 
 Group 8:
 Grant Wang
-Nicole Albright
+Derek Lawrence
 
 Group 9:
 Khan Van Le
-Brenan Strutter
+Brenan Stetzer
 
 ## Groups + Projects ##
 
