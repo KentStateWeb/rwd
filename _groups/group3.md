@@ -1,7 +1,7 @@
 ---
-title: "Group 3"
+title: "Group 8"
 client: "AROMA Coffee & Tea"
-members: "TBD"
+members: "Grant Wang and Derek Lawrence"
 layout: group
 link: TBD
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.

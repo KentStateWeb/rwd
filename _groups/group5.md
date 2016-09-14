@@ -1,7 +1,7 @@
 ---
 title: "Group 5"
 client: "Off the Vine"
-members: "TBD"
+members: "Cory and Samantha"
 layout: group
 link: TBD
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."

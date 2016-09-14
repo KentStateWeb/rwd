@@ -1,7 +1,7 @@
 ---
-title: "Group 8"
+title: "Group 1"
 client: "Franklin County Family & Community Services"
-members: "TBD"
+members: "Kierstynn Lund and Joshua Graef"
 layout: group
 link: TBD
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."

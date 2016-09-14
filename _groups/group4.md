@@ -1,5 +1,5 @@
 ---
-title: "Group 4"
+title: "Group #"
 client: "Wrench Automotive"
 members: "TBD"
 layout: group

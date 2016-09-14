@@ -1,7 +1,7 @@
 ---
-title: "Group 1"
+title: "Group 9"
 client: "Barb’s Bridal Boutique"
-members: "TBD"
+members: "Khanh Van Le and Brenan Stetzer"
 layout: group
 link: TBD
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."

@@ -44,7 +44,7 @@ The Poynter KSU Media Ethics Workshop is a one-day training program for professi
 
 Agenda
 
-***(Client Note: Can we maybe emphasize the dates with bold or italics and format this into bullets to make it more readable?)***
+***(Client Note: Can we maybe emphasize the times with bold or italics and format this into bullets to make it more readable?)***
 
 8:30 - 9:00
 Registration and Continental Breakfast

@@ -1,7 +1,7 @@
 ---
-title: "Group 6"
+title: "Group 2"
 client: "Buckeye Bed & Breakfast"
-members: "TBD"
+members: "Tyler Cronie and Lauren Rhinehalt"
 layout: group
 link: TBD
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."

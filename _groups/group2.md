@@ -1,7 +1,7 @@
 ---
-title: "Group 2"
+title: "Group 6"
 client: "Summit Street Family Restaurant"
-members: "TBD"
+members: ""
 layout: group
 link: TBD
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.

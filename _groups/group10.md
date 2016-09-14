@@ -1,6 +1,6 @@
 ---
-title: "Group 10"
-client: "Creative Kidz KinderCare"
+title: "Group 6"
+client: "Julia Holmberg and Laura Mamick"
 members: "TBD"
 layout: group
 link: TBD
