@@ -9,46 +9,15 @@ title: Groups & Projects
 
 ## Initial Group Members ##
 
-Group 1:
-Kierstynn Lund
-Joshua Graef
 
-Group 2:
-Tyler Cronie
-Lauren Rhinehalt
-
-Group 3:
-Courtney Klesta
-Dorothy Ly
-
-Group 4:
-Lauren Friedman
-Lindsey Meisterheim
-
-Group 5:
-Samantha Hudak
-Cory Sutter
-
-Group 6:
-Julia Holmberg
-Laura Mamick
-
-Group 7:
+Group 7 (Still Needs Client):
 Nico Ciani
 Nicole Albright
-
-Group 8:
-Grant Wang
-Derek Lawrence
-
-Group 9:
-Khan Van Le
-Brenan Stetzer
 
 ## Groups + Projects ##
 
 <ul>
-{% for groups in site.groups | sort: 'description' %}
+{% for groups in site.groups | sort: "number" %}
 	{% if groups.semester == 'fall-2016' %}
 	  {% include groups.html %}
 	{% endif %}

@@ -1,49 +1,51 @@
 ---
-title: "Group 6"
-client: "Summit Street Family Restaurant"
-members: ""
+title: "Group 2"
+client: "Buckeye Bed & Breakfast"
+members: "Tyler Cronie and Lauren Rhinehalt"
 layout: group
 link: TBD
-description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
+description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 semester: fall-2016
 date: 2016-7-11 12:00:00
+number: 2
 ---
 
 ## Goals
 
 **What are your top goals as a business this year?**
 
-* Increase catering orders
-* Connect with our customers on social media and our mailing list
-* Increase dine-in sales
-* Encourage customers to dine at our restaurant rather than large chain restaurants
+* Increase room reservations
+* Engage with past customers and increase returning customers
+* Increase specialty package sales, such as our "Sweatheart Package"
+* Provide better experiences for our customers through partnerships with surrounding area attractions
 
 **What would you like the website to be able to do for your users?**
 
-* Allow users to see our menu and daily specials before coming to the restaurant, especially from their phones
-* Allow users to easily get directions and find our restaurant locations
-* Allow users to get information about and place party catering orders online
-* Allow users to view photos of our restaurant, showing its friendly and inviting environment
-* Reward loyal customers who subscribe to our mailing list and social media with coupons
-* Less important - display a brief history of our restaurant and owners
+* The website should show the various rooms that we have available to choose from, along with their rates and amenities for each
+* Allow customers to schedule and check reservations online
+* List attractions from the surrounding area that customers may be interested in seeing, such as shopping, restaurants, and wineries
+* Encourage customers to view and purchase a special occasion package, especially newly weds and couples celebrating an anniversary
+* Open up a dialogue between us and our customers through blogging and comments
+* Display testimonials from past customers
+* Allow customers to easily find our location on a map
 
 **Who are some of your top competitors?**
 
-* Market Street Family Restaurant: http://www.marketstreetfamilyrestaurant.com
-* Village Family Restaurant: http://villagefamilyrestaurant.com
-* Perry Family Restaurant: http://www.perryfamilyrestaurant.com
-* Applebees': http://www.applebees.com - although not a direct competitor, many potential customers go to the nearby Applebees
+* Red Maple Inn: http://www.redmapleinn.com
+* The Mill House Bed and Breakfast: http://themillhouse.com
+* Whispering Pines Bed & Breakfast http://www.atwoodlake.com
+* Willow Brooke Bed & Breakfast: http://www.willowbrooke.com
+
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Friendly
-* Home-Cooked
-* Togetherness
-* Eat Local
-* Delicious
-* Family-Owned
-
-<!--http://evesbridalwear.co.za/product/prina/-->
+* A fabulous getaway
+* Charming
+* Unique
+* Enchanting
+* Caring
+* Historic
+* Quaint
 
 ## Assets
 
@@ -51,19 +53,17 @@ date: 2016-7-11 12:00:00
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group2/Group-2-Content.zip">Download Group 2 Content (Zip File)</a>
+<a href="/class/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group2/summitst.svg" alt="Summit Street Family Restaurant" />
+<img src="/class/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
 
-<a href="/class/groups/assets/group2/summitst.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group6/buckeye.ai">AI (Illustrator) File</a>
 
-<a href="/class/groups/assets/group2/summitst.eps">EPS (Vector) File</a>
+<a href="/class/groups/assets/group6/buckeye.eps">EPS (Vector) File</a>
 
-<a href="/class/groups/assets/group2/summitst.svg">SVG File</a>
+<a href="/class/groups/assets/group6/buckeye.svg">SVG File</a>
 
 ### Brand Colors
 
-Blue: #51708B
-
-Brown: #795C45
+Acorn Brown: #61574B

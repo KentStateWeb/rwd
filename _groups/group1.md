@@ -1,47 +1,53 @@
 ---
-title: "Group 9"
-client: "Barb’s Bridal Boutique"
-members: "Khanh Van Le and Brenan Stetzer"
+title: "Group 1"
+client: "Franklin County Family & Community Services"
+members: "Kierstynn Lund and Joshua Graef"
 layout: group
 link: TBD
-description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
+description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: fall-2016
 date: 2016-7-11 12:00:00
-
+number: 1
 ---
+
 
 ## Goals
 
 **What are your top goals as a business this year?**
 
-* Increase sales of designer dresses
-* Increase in-person traffic to our stores through free try-on appointments
-* Increase engagement on our social media
+* Increase donations - our organization depends on funds from the community
+* Involve new volunteers and retain our current volunteers
+* Increase the amount of community members who utilize our services
+* Do a better job of informing community members of upcoming events, such as
 
 **What would you like the website to be able to do for your users?**
 
-* Allow prospective customers to browse our dress catalog online
-* Encourage customers to come in and talk to our sales associates about their wedding
-* Allow customers to see stories from other brides and share their stories
-* Build trust with customers by introducing ourselves and our history
-* Allow customers to find our store location and hours easily
+* Inform community members of the various programs and services offered to them, such as counseling, crisis intervention, workforce development and financial education
+* Encourage more fortunate community members to volunteer or donate
+* List upcoming events, including fund raising events
+* Explain our core mission and values
+* Less important - list careers and job openings
+* Allow people to contact us and our various departments
 
 **Who are some of your top competitors?**
 
-* The Dress: Bridal Boutique: http://thedress.staging4.net
-* B.Loved Bridal Boutique: http://blovedbridal.com
-* Elyse's Boutique: Bridal & Prom: http://www.elysesboutique.com  (we don't like their website, but they're a competitor)
+We don't necessarily have competitors, but some surrounding communities have organizations similar to ours.  United Way also provides similar services, although we partner with them.
+
+* United Way: http://www.unitedway.org
+* Community Services of Stark: http://www.communityservicesofstark.org/index.php
+* Cobb County & Douglas County Community Services Boards: http://www.cobbcsb.com
+* North County Community Services: http://www.sdnccs.org
+* Greenleaf Family Center in http://greenleafctr.org - we like this one
+
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Modern
-* Sophisticated
-* Locally-owned (we have lived in Ohio all of our lives and operated this store for 25 years)
-* Trusted
-* Trendy
-* Customer-First
+* Non-Profit
+* Helpful
+* Community-Based
+* Supportive
+* Life-Saving
 
-<!--http://evesbridalwear.co.za/product/prina/-->
 
 ## Assets
 
@@ -49,17 +55,9 @@ date: 2016-7-11 12:00:00
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group1/Group-1-Content.zip">Download Group 1 Content (Zip File)</a>
+<a href="/class/groups/assets/group8/Group-8-Content.zip">Download Group 8 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group1/barb.svg" alt="Barb's Bridal Boutique" />
+<img src="/class/groups/assets/group8/FranklinCountyLogo-02.svg" alt="Franklin County" />
 
-<a href="/class/groups/assets/group1/barb.ai">AI (Illustrator) File</a>
-
-<a href="/class/groups/assets/group1/barb.eps">EPS (Vector) File</a>
-
-<a href="/class/groups/assets/group1/barb.svg">SVG File</a>
-
-### Brand Colors
-
-Blue: #445363
+<a href="/class/groups/assets/group8/FranklinCountyLogo-02.svg">SVG File</a>
