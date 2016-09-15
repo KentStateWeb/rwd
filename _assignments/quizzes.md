@@ -14,8 +14,3 @@ A maximum of 5 unannounced quizzes will be given during class.  Here are the rul
 * Quizzes will be given on the assigned readings for that class (listed on the schedule).  Questions may be open-ended or multiple choice.
 * Each quiz will be 1 or 2 questions, at 1 point each.
 * If you aren't present for a quiz, you won't be able to take the quiz and will get a 0.  If you have a university-approved absence, you may take a make-up quiz, which will be equivalent, but different questions.
-
-<dl>
- <dt>Graduate Students Only</dt>
- <dd>Instead of 1-2 word answers, your questions will be formed as short essay questions and answers.</dd>
-</dl>

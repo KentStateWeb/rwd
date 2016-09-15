@@ -137,6 +137,6 @@ Email:newatKSU@kent.edu **make this a clickable email address**
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **4 - 5**: HTML is structured appropriately and with proper indentation.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately, image and tables are marked up properly.  The client's notes were followed along with the 11 steps and the appropriate links were posted to Learn.
-* **2 - 3**: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Images are not appropriate size.  Some of the client's notes were missed.
+* **3 - 4**: HTML is structured appropriately and with proper indentation.  Headings show hierarchy, links are functional, paragraphs are tagged appropriately, image and tables are marked up properly.  The client's notes were followed along with the 11 steps and the appropriate links were posted to Learn.
+* **2**: The HTML is mostly structured correctly, but there are some syntax errors (tags are not closed or inappropriate tags are used).  Images are not appropriate size.  Some of the client's notes were missed.
 * **0 - 1**: HTML does not use appropriate tags for the types of content.  Few tags are formatted appropriately, client notes were missed and the pen was not set up or submitted according to instructions.  
