@@ -59,7 +59,7 @@ http://www.twinlakesvethospital.com
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group10/Group-11-Content.zip">Download Group 11 Content (Coming Soon)</a>
+<a href="/class/groups/assets/group11/group-11-content.zip">Download Pets First Content</a>
 
 ### Logo
 
