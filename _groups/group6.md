@@ -66,7 +66,7 @@ We're these children's home away from home, and we take that responsibility very
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group10/Group-10-Content.zip">Download Group 10 Content (Coming Soon)</a>
+<a href="/class/groups/assets/group10/group-10-content.zip">Download Group 10 Content</a>
 
 ### Logo
 
