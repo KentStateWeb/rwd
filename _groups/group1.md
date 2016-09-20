@@ -3,7 +3,8 @@ title: "Group 1"
 client: "Franklin County Family & Community Services"
 members: "Kierstynn Lund and Joshua Graef"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/fall2016-team-1
+livelink: https://kentstateweb.github.io/fall2016-team-1/
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: fall-2016
 date: 2016-7-11 12:00:00

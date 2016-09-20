@@ -3,7 +3,8 @@ title: "Group 5"
 client: "Off the Vine"
 members: "Cory and Samantha"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/fall2016-group-5
+livelink: https://kentstateweb.github.io/fall2016-group-5/
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
 semester: fall-2016
 date: 2016-7-11 12:00:00

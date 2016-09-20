@@ -3,7 +3,8 @@ title: "Group 8"
 client: "AROMA Coffee & Tea"
 members: "Grant Wang and Derek Lawrence"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/fall2016-team-8
+livelink: https://kentstateweb.github.io/fall2016-team-8/
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
 semester: fall-2016
 date: 2016-7-11 12:00:00

@@ -3,7 +3,8 @@ title: "Group 2"
 client: "Buckeye Bed & Breakfast"
 members: "Tyler Cronie and Lauren Rhinehalt"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/fall2016-team-2
+livelink: https://kentstateweb.github.io/fall2016-team-2/
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 semester: fall-2016
 date: 2016-7-11 12:00:00

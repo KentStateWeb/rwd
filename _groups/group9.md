@@ -3,7 +3,8 @@ title: "Group 9"
 client: "Barb’s Bridal Boutique"
 members: "Khanh Van Le and Brenan Stetzer"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/fall2016-group-9
+livelink: https://kentstateweb.github.io/fall2016-group-9/
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
 semester: fall-2016
 date: 2016-7-11 12:00:00

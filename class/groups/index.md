@@ -16,10 +16,11 @@ Nicole Albright
 
 ## Groups + Projects ##
 
+{% assign items = site.groups | sort: "number" %}
 <ul>
-{% for groups in site.groups | sort: "number" %}
-	{% if groups.semester == 'fall-2016' %}
-	  {% include groups.html %}
+{% for item in items %}
+	{% if item.semester == 'fall-2016' %}
+	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
 	{% endif %}
 {% endfor %}
 </ul>

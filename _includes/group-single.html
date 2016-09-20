@@ -1,5 +1,8 @@
 <h1>{{ page.title }}</h1>
 
+<a class="button small" href="/class/groups">Back to All Groups</a>
+
+
 <dl>
 	<dt>Client:</dt>
 	<dd>{{ page.client }}</dd>
@@ -13,12 +16,14 @@
 
 <dl>
 	<dt>GitHub Repository:</dt>
-	<dd>{{ page.link }}</dd>
+	<dd><a href="{{ page.link }}">{{ page.link }}</a></dd>
+</dl>
+
+<dl>
+	<dt>Project Hub:</dt>
+	<dd><a href="{{ page.livelink }}">{{ page.livelink }}</a></dd>
 </dl>
 
 <hr>
 
 <p>{{ page.description }}</p>
-
-
-<a class="button small" href="/class/groups">Back to All Groups</a>
