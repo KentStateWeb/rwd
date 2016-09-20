@@ -9,7 +9,7 @@ semester: fall-2016
 
 ---
 
-You've been tasked with creating a landing page for Kent State's Destination Kent State program.  Using the content and instructions below, create this webpage on CodePen using sementic markup.  Do not worry about presentation for this assignment.
+You've been tasked with creating a landing page for Kent State's Destination Kent State program.  Using the content and instructions below, create this webpage on CodePen using semantic markup.  Do not worry about presentation for this assignment.
 
 This is an individual assignment, and it will be turned in via Blackboard Learn.  
 
@@ -22,7 +22,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 3. All images must have alt text for accessibility
 4. When creating an image with a caption, use the figure and figcaption tags.
 5. Tables must include a header row and be set up in a proper grid format.
-6. YouTube videos should be embedded as an iframe.
+6. YouTube videos should be embedded using the embed code provided by YouTube (under Share > Embed - which will give you an iframe).
 7. When creating the contact information, use definition lists to connect the labels (for example, Phone) to the corresponding content (for example, Phone Number).
 8. Quotations should be marked up in proper blockquote and cite tags.
 9. Before the YouTube video, add an HTML comment that has the link to the YouTube video so that you can find it later if you need to.  Use proper HTML comment syntax.  Remember that HTML comments are only there for you, the developer, and do not display to the end-user.
@@ -31,7 +31,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 1. CodePen automatically inserts all of the required code for the HEAD of the document.  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag)
 2. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
 3. View your newly completed website as a web page on different devices.  Does everything render correctly?
-4. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
+4. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste the URL of the Pen (Editor Mode).  Click Submit.
 
 ## The Content
 
@@ -39,7 +39,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 **Welcome Weekend**
 
-***Client Note: Add this image between the text and the header.  It takes a long time to download.  Can you resize it?  Also add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."***
+***Client Note: Add this image between the text and the header.  Add a caption below it that says: "Students Attend Back to School Blastoff on the Student Green."***
 <a href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg">https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/DKSPage_WWImage.jpg</a>
 
 **What Is Welcome Weekend?**
@@ -123,7 +123,7 @@ STUDENT GREEN
 
 **Welcome Weekend Video**
 
-Embed this video directly on the page <a href="https://www.youtube.com/watch?v=tQmdT99jiYY">https://www.youtube.com/watch?v=tQmdT99jiYY</a>
+Embed this video so that it plays directly on the page <a href="https://www.youtube.com/watch?v=tQmdT99jiYY">https://www.youtube.com/watch?v=tQmdT99jiYY</a>
 
 **Student Success Programs**
 
