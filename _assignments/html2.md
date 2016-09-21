@@ -33,6 +33,8 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 3. View your newly completed website as a web page on different devices.  Does everything render correctly?
 4. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste the URL of the Pen (Editor Mode).  Click Submit.
 
+Your assignment should look <a href="/files/html2.png">something like this</a>.
+
 ## The Content
 
 ***Client Note - Add the Welcome Weekend logo at the top*** <a href="https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png">https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/DKS%2015.png</a>

@@ -2037,6 +2037,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/files\/html2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.96654e+06,
+		"inputAbbreviatedPath": "\/files\/html2.png",
+		"outputAbbreviatedPath": "\/files\/html2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/files\/type.png": {
 		"fileType": 32768,
 		"ignore": 0,
