@@ -7,13 +7,6 @@ title: Groups & Projects
 
 <p>You can learn more about the semester project in general by reading the <a href="/class/assignments/project-summary.html">Project Summary</a>.</p>
 
-## Initial Group Members ##
-
-
-Group 7 (Still Needs Client):
-Nico Ciani
-Nicole Albright
-
 ## Groups + Projects ##
 
 {% assign items = site.groups | sort: "number" %}
