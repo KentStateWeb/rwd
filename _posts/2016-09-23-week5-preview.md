@@ -4,7 +4,7 @@ title: Week Five Preview - Sketching and Mobile First
 category: blog
 ---
 
-The last class was all about content.  In the next class, we'll get into how to structure that content using the mobile-first and sketching.  
+The last class was all about content.  In the next class, we'll get into how to structure that content using mobile-first and sketching.  
 
 In the last class, we discussed:
 
@@ -18,7 +18,7 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ## For Next Class
 
-We'll be discussing the mobile-first and sketching readings, as well as your two latest assignments, HTML Basics 2 and Content/Architecture.  We'll do some hands-on sketching, so be sure to bring some a notebook or sketchbook.
+We'll be discussing the mobile-first and sketching readings, as well as your two latest assignments, HTML Basics 2 and Content/Architecture.  We'll do some hands-on sketching, so be sure to bring a notebook or sketchbook.
 
 ### HTML Basics 2
 
