@@ -6,6 +6,8 @@ points: 4
 layout: assignment
 date: 2016-09-27 12:00:00
 semester: fall-2016
+status: assignment-completed
+
 
 ---
 
