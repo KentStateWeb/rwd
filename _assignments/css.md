@@ -54,7 +54,7 @@ Open your HTML Basics 1 assignment.  Instead of editing the original pen, click 
 ### Submitting the Assignment
 
 1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
-2. View your newly completed website as a web page on different devices.  Does everything render correctly?  Your final product should look something [close to this](images/cssbasics1.png).
+2. View your newly completed website as a web page on different devices.  Does everything render correctly?  Your final product should look something [close to this](/img/cssbasics1.png).
 3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste the URL of the Pen (Editor Mode).  Click Submit.
 
 ## Rubric
