@@ -548,6 +548,19 @@ header {
 	header {
 		width: 93%;
 	}
+
+}
+
+@media screen and (min-width: 880px) {
+
+	header {
+		margin-bottom: 1.5em;
+	}
+	.header-inner {
+		display:flex;
+		align-items:center;
+		justify-content: space-between;
+	}
 }
 
 @media screen and (min-width: 1000px) {
@@ -561,6 +574,7 @@ header {
 	width: 100%;
 	max-width: 1500px;
 	padding: 0 10em;
+	margin-bottom: inherit;
 	}
 }
 
@@ -679,7 +693,7 @@ a.svg:after {
 	}
 	header .svg {
 		float: left;
-		margin-bottom: 1em;
+		margin-bottom: .25em;
 		padding-top: .5em;
 		width: 25%;
 		max-width: 250px;
@@ -882,7 +896,7 @@ main {
 }
 
 .main-content-area {
-	width: 60%;
+	width: 57%;
 	float: left;
 }
 
@@ -906,7 +920,7 @@ main {
 
 aside {
 	float: right;
-	width: 32%;
+	width: 35%;
 	margin-top: 0;
 }
 
@@ -1119,7 +1133,7 @@ nav a {
 	text-decoration: none;
 	color: #393839;
 	letter-spacing: 2px;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
 	text-transform: uppercase;
 	transition: .2s color ease-in-out;
@@ -1142,26 +1156,20 @@ nav ul {
 	padding: 0;
 	margin: 0 auto;
 	text-align: center;
-	display: table;
+	display: flex;
 	/*margin-bottom: .5em;*/
 	width: 100%;
+	flex-wrap: wrap;
 
-}
-
-@media screen and (min-width:400px) {
-	nav ul {
-		width: 85%;
-	}
 }
 
 nav ul li {
 	text-align: center;
-	float: left;
-	display: table-cell;
-	width: 33.3%; /* was 25% */
+	width: 50%; /* was 25% */
 	padding-bottom: 0em;
 	padding-top: .25em;
-	margin-bottom: 0;
+	margin-bottom: .5em;
+	line-height: 1;
 }
 
 nav ul li:before {
@@ -1181,13 +1189,15 @@ nav ul li:last-child:after {
 	padding: 0;
 }
 
-@media screen and (min-width:450px) {
+@media screen and (min-width:650px) {
 
 	nav {
 		padding: .5em;
+		max-width: 550px;
 	}
 	nav ul {
 		width: auto;
+		justify-content: space-between;
 	}
 	nav ul li {
 		width: inherit;
@@ -1197,7 +1207,7 @@ nav ul li:last-child:after {
 	width: 15px;
 	color: rgb(240,99,116);
 	font-weight: bold;
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 	padding-left: 1.25rem;
 	padding-right: 1.25rem;
 }
@@ -1205,21 +1215,22 @@ nav ul li:last-child:after {
 
 @media screen and (min-width:600px) {
 	nav a {
-		font-size: 1.3em;
+		font-size: 1.2em;
 	}
 	nav {
-		margin-bottom: 1.5em;
+		margin-top: .35em;
+		margin-bottom: 1.3em;
 	}
 }
 
 @media screen and (min-width:880px) {
 	nav {
-		display: inline-block;
-		float: right;
-		width: 65%;
 		background-color: inherit;
 		border-top: none;
-		margin-top: .9em;
+		margin-top: inherit;
+		margin-bottom: inherit;
+		margin: inherit;
+		padding-right: 0;
 	}
 
 	nav ul {
@@ -1232,25 +1243,28 @@ nav ul li:last-child:after {
 	}
 
 	nav a {
-		font-size: 1.3em;
+		font-size: 1.15em;
 	}
 
 }
 
 @media screen and (min-width: 1200px) {
 	nav {
-		margin-top: 2.75em;
 		margin-bottom: 0;
 	}
 
-	nav ul li:after {
-		padding-left: 1.25em;
-		padding-right: 1.25em;
+	nav a {
+		font-size: 1.2em;
 	}
 
-	nav a {
-		font-size: 1.5em;
+	nav ul {
+		flex-wrap: nowrap;
 	}
+
+	nav ul li:after {
+		margin: 0 auto;
+	}
+
 }
 
 
@@ -1863,8 +1877,19 @@ blockquote p {
 	}
 }
 
+.about-course p {
+	padding-right: 10%;
+	font-size: 1em;
+}
+
 @media screen and (min-width: 900px) {
-	.basic-information, .about-course {
+	.basic-information {
+		width: 45%;
+		float: left;
+		margin-right: 5%;
+	}
+
+	.about-course {
 		width: 50%;
 		float: left;
 	}
