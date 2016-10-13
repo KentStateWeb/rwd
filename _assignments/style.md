@@ -13,11 +13,11 @@ You understand the content of your website and have some ideas about its archite
 
 I'd like you to try Sketch to develop the Style Tiles.  I chose Sketch because it's vector-based (unlike Photoshop) and very simple to learn (unlike Illustrator).  However, that doesn't mean it's the one and only best program for developing static designs - it's just one I'd like you to try for this class.  If you're totally against using Sketch and would like to use Illustrator, that's fine too.
 
-## Compile a List of Adjectives (Due March 8)
+## Compile a List of Adjectives (Due October 18)
 
 Before you start, go through your notes from the initial client "meeting".  Make a list of adjectives that you've heard.  Did they use keywords like "energetic" or "formal"?  "Friendly" or "Traditional"?  This list will help you develop your tiles.
 
-## Create Two Sets of Style Tiles (Due March 8)
+## Create Two Sets of Style Tiles (Due October 18)
 
 After you've compiled your adjectives, you're going to put together two, single canvas tiles in Sketch.  Your tiles should include (but are not limited to):
 
@@ -34,7 +34,7 @@ Why two variations?  This will allow you to try out a few different ideas and le
  <dd>Choose one of your style tiles to mock up with HTML and CSS in CodePen or within your GitHub environment.  These interactive style tiles should include key components from your static style tiles, but also show some interactivity, such as button transitions.</dd>
 </dl>
 
-## Create At Least One, Mobile-First and Desktop Mockup (Due March 15)
+## Create At Least One, Mobile-First and Desktop Mockup (Due October 25)
 
 Based on your feedback from the class and the "client", create one mock-up that shows your style tiles in use.  You might create a small screen and a large screen to show the 2 extremes of your design in use.  
 
