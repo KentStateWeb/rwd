@@ -1943,14 +1943,14 @@ blockquote p {
 
 <h2 id="what-to-do">What To Do</h2>
 
-<p>Open your HTML Basics 1 assignemnt.  Instead of editing the original pen, click the “Fork” option at the top.  Click Settings and rename the forked pen using this structure: “Your Last Name - CSS Basics 2”.</p>
+<p>Open your HTML Basics 1 assignment.  Instead of editing the original pen, click the “Fork” option at the top.  Click Settings and rename the forked pen using this structure: “Your Last Name - CSS Basics 2”.</p>
 
 <h3 id="add-html5-layout-elements-and-set-background">Add HTML5 Layout Elements and Set Background</h3>
 
 <ol>
   <li>First, we need to add some HTML5 elements to surround our main sections of content: the header, main content area and footer.  In the HTML, surround the header logo and H1 with a header tag.  Surround the main content with a main tag (starting with figure and ending with the embedded video).  Surround the footer with a footer tag, starting with Student Success Programs and ending with the contact information.  Now we can target each of these areas separately with different CSS, plus they’re now semantically accessible to screen readers.</li>
   <li>Make everything on the page a sans-serif typeface.</li>
-  <li>Add a blue background-color to the entire page of rgb(0,38,100),</li>
+  <li>Add a blue background color to the entire page of rgb(0,38,100),</li>
 </ol>
 
 <h3 id="format-the-headings">Format the Headings</h3>
@@ -1958,55 +1958,55 @@ blockquote p {
 <ol>
   <li>Make your H1 (Welcome Weekend) have the following attributes: (a) a font-size of 2.3em, (b) letter spacing of 1px, (c) use the “Garamond, Georgia, serif” font family, (d) normal font weight (e) a top margin of .25em, (f) a text shadow of 1px 1px 2px rgba(0,0,0,.9).</li>
   <li>Make the H2’s (your subheading styles) the same color blue as the background.</li>
-  <li>Adjust the margins so that the top margin is 2em and the bottom margin is 0.5em.</li>
+  <li>Adjust the margins of your H2’s (your subheading styles) so that the top margin is 2em and the bottom margin is 0.5em.  This adds more space at the top than at the bottom.</li>
 </ol>
 
-<h3 id="style-the-header">Style the Header</h3>
+<h3 id="style-the-header-welcome-weekend">Style the Header (Welcome Weekend)</h3>
 
 <ol>
   <li>Align everything in the header to be centered (hint - use text-align).  Change all of the text in the header to be colored white.</li>
-  <li>We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class to the DKS logo within the HTML (you can choose any class name you like).</li>
-  <li>Target that class in the CSS to be a width of 150px and have a top margin of 1em.</li>
+  <li>We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class name to the DKS logo within the HTML (you can choose any class name you like).</li>
+  <li>Target that class in the CSS so that the DKS logo image only is 150px wide.</li>
+  <li>Give the DKS logo image a top margin of 1em.  This helps separate it from the top of the page.</li>
 </ol>
 
 <h3 id="style-the-main-content-area-and-paragraphs">Style the Main Content Area and Paragraphs</h3>
 
 <ol>
-  <li>Make the main content area have a 95% transparent white background color.  Use the color rgba(255,255,255,.95).</li>
-  <li>Also add the following attributes to the main content area: (a) Padding of 1.5em, (b) set the width at 90%, (c) margin: 0 auto (this centers it in the middle of the page), (d) round the corners at 5px, (e) set a maximum width of 900px, (f) set a slight shadow on the box using these values: 1px 1px 3px rgba(0,0,0,.8).</li>
+  <li>Make the main content area have a 95% transparent white background color.  Use the background color rgba(255,255,255,.95).</li>
+  <li>Also add the following attributes to the main content area: (a) Padding of 1.5em, (b) set the width to be 90%, (c) margin: 0 auto (this centers it in the middle of the page), (d) round the corners at 5px, (e) set a maximum width of 900px (hint use max-width), (f) set a slight shadow on the main content area using these values using box-shadow: 1px 1px 3px rgba(0,0,0,.8).</li>
   <li>Give all paragraphs a line height of 1.5.</li>
-  <li>Set all of the images and iframes on the page to be a maximum width of 100% (use max-width) so that they never overflow.</li>
-  <li>Set all blockquotes to closely <a href="/img/quote.png">match this style</a>.  Set the width to 70% and center the quote in the middle of the page using auto margins on either side.</li>
-  <li>You have to set cite to display:block in order for it to have a margin and appear on its own line.</li>
-  <li>Set the figure (which contains the image and caption) to take up 70% of the page as well and center it in the middle of the page using auto on the left and the right.  Add padding to the top and bottom of the figure to space things out.</li>
-  <li>Give the image (only the one inside the figure) a 5px white border.  Give it a box shadow using this value: 1px 1px 3px rgba(0,0,0,.2).</li>
-  <li>Make the figcaption have a margin to space things out.  Make the font italic, .8em and align it to the center.</li>
+  <li>Set all of the images and iframes on the page to be a maximum width of 100% (use max-width) so that they never overflow their container.</li>
+  <li>Set all blockquotes to closely <a href="/img/quote.png">match this style</a>.  Set the blockquote width to 70% and center the quote in the middle of the page.</li>
+  <li>If your cite tag does not appear inside of the blockquote tag, you have to set cite to display:block in order for it to have a margin and appear on its own line.</li>
+  <li>Set the figure (which should contain both the image and caption) to take up 70% of the page as well and center it in the middle of the page.  Add padding to the top and bottom of the figure to space it out away from surrounding elements.</li>
+  <li>Give the photo of welcome weekend (which is an image inside of a figure tag) a 5px white border.  Give it a box shadow using this value: 1px 1px 3px rgba(0,0,0,.2).</li>
+  <li>Make the figcaption have a margin to space things out away from the image.  Make the font italic, .8em and align it to the center.</li>
 </ol>
 
 <h3 id="style-the-table">Style the Table</h3>
 
 <ol>
-  <li>Make the table have the following attributes: (a) .8em font-size, (b) a line-height of 1.3.  You’ll notice that the table begins to overflow its container at small screens.  Set the following additional attributes: (a) width: 100%, (b) overflow-x: auto, (c) display: inline-block.  After setting these, you’ll notice that the table gets a scrollbar instead of overflowing the container.</li>
+  <li>Make the table have the following attributes: (a) .8em font-size, (b) a line-height of 1.3.</li>
+  <li>You’ll notice that the table begins to overflow its container at small screens.  Set the following additional attributes: (a) width: 100%, (b) overflow-x: auto, (c) display: inline-block.  After setting these, you’ll notice that the table gets a scrollbar at small screen widths instead of overflowing the container.</li>
   <li>Give all table cells (td’s) .5em of padding and 1em of padding on the bottom.</li>
-  <li>Tell the first table column to be wider.  Add this style: td:first-child {
- width: 25%; }</li>
-  <li>Make the table header stand out.  Make the TH elements have a background color of rgb(0,157,216), the text color white, .5em of padding and align the text to the left.</li>
+  <li>Make the table’s header row stand out.  Make the TH elements have a background color of rgb(0,157,216), the text color white, .5em of padding and align the text to the left.</li>
 </ol>
 
 <h3 id="style-the-footer">Style the Footer</h3>
 
 <ol>
-  <li>Almost done!  Now, make the headings (typically H2’s) in the footer only appear in gold: #eaab00.</li>
+  <li>Almost done!  Now, make the heading in the footer (Student Success Programs) appear in gold: #eaab00.  You’ll need to do this by only targeting headings that appear in the footer.</li>
   <li>Style the DT elements to appear in gold as well, make them uppercase with a font size of .9em, bold and a bottom margin of .5em.</li>
   <li>Make the DD Elements have a left margin of 0, a bottom margin of 1em, a font-size of .9em and a 1.5 line height.</li>
-  <li>You’ll notice that the email address is unreadable.  To fix this, make all links (a tags) in the footer appear in white.</li>
+  <li>You’ll notice that the email address is unreadable because links by default are blue.  To fix this, make all links (a tags) in the footer appear in white.</li>
   <li>Give the footer 1em padding on the bottom so that there’s some breathing room at the end of the window.</li>
   <li>Set everything in the footer to be centered using text-align.</li>
 </ol>
 
 <h3 id="change-box-sizing">Change Box-Sizing</h3>
 
-<p>Finally, you’ll notice that some of the elements still continue to overflow on small screens.  That’s because of the extra padding and borders we’ve added.</p>
+<p>Finally, you’ll notice that some of the elements still continue to overflow on small screens.  That’s because of the extra padding and borders we’ve added cause widths to become greater than 100%.</p>
 
 <p>To fix this, add this global style to make all boxes take their borders into account.  Use * { box-sizing: border-box; }</p>
 
