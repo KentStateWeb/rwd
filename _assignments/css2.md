@@ -23,7 +23,7 @@ Open your HTML Basics 1 assignment.  Instead of editing the original pen, click 
 
 ### Add HTML5 Layout Elements and Set Background
 
-1. First, we need to add some HTML5 elements to surround our main sections of content: the header, main content area and footer.  In the HTML, surround the header logo and H1 with a header tag.  Surround the main content with a main tag (starting with figure and ending with the embedded video).  Surround the footer with a footer tag, starting with Student Success Programs and ending with the contact information.  Now we can target each of these areas separately with different CSS, plus they're now semantically accessible to screen readers.
+1. First, we need to add some HTML5 elements to surround our main sections of content: the header, main content area and footer.  In the HTML, surround the header logo and H1 with a header tag.  Surround the main content with a main tag (starting with figure and ending with the embedded video).  Surround the footer with a footer tag, starting with Student Success Programs and ending with the contact information.  Now we can target each of these areas separately with different CSS, plus they're now semantically accessible to screen readers.  If you're confused on this part, read HTML&CSS Book Chapter 17.
 2.  Make everything on the page a sans-serif typeface.  
 3.  Add a blue background color to the entire page of rgb(0,38,100),
 
@@ -36,8 +36,8 @@ Open your HTML Basics 1 assignment.  Instead of editing the original pen, click 
 ### Style the Header (Welcome Weekend)
 
 1. Align everything in the header to be centered (hint - use text-align).  Change all of the text in the header to be colored white.
-2. We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class name to the DKS logo within the HTML (you can choose any class name you like).
-3.  Target that class in the CSS so that the DKS logo image only is 150px wide.
+2. We need to set a size for the Destination Kent State logo.  However, we only want to affect that image and not the other images on the page.  Add a class name directly to the DKS logo image within the HTML (you can choose any class name you like - hint:  use something like class="dks-logo").
+3.  Target that class in the CSS so that the DKS logo image only is 150px wide (Hint: you'll need to use a dot to call the class in the CSS).
 4.  Give the DKS logo image a top margin of 1em.  This helps separate it from the top of the page.
 
 ### Style the Main Content Area and Paragraphs
