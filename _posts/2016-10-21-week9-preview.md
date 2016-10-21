@@ -28,6 +28,8 @@ Based on your style tiles feedback from the class and the “client”, create o
 
 Combine your mockups with your style tiles into a single PDF file and be ready to submit your PDF file as part of your GitHub repository on your project hub page.
 
+<a href="http://rwdkent.com/class/assignments/css2/" class="button small">View Style Tiles Assignment Details</a>
+
 ### Reading
 
 There are a few assigned readings for class.  If nothing else, you should definitely be familiar with the reading from the Responsive Web Design book which cover the basics of CSS media queries that we'll use for the rest of the semester.
