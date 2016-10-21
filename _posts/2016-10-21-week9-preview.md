@@ -28,7 +28,7 @@ Based on your style tiles feedback from the class and the “client”, create o
 
 Combine your mockups with your style tiles into a single PDF file and be ready to submit your PDF file as part of your GitHub repository on your project hub page.
 
-<a href="http://rwdkent.com/class/assignments/css2/" class="button small">View Style Tiles Assignment Details</a>
+<a href="http://rwdkent.com/class/assignments/style" class="button small">View Style Tiles Assignment Details</a>
 
 ### Reading
 
