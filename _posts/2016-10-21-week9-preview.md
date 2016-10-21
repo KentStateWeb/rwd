@@ -11,13 +11,12 @@ In the last class we:
 
 * Had an in-class show-and-tell for your Style Tiles
 * Covered CSS boxes, layouts and images
-* Got started on the CSS Basics 2 assignment
 
 You can find the slides from each class under the [Class Schedule](http://rwdkent.com/class/schedule/) section of the website.
 
 ### CSS Basics 2
 
-This is the individual CodePen assignment that we started in class.  In it, you're applying CSS styles as well as HTML5 elements to your pre-existing Welcome Weekend website.  You'll be using the whole family of CSS attributes to make this happen.  Submit the assignment like normal via Blackboard.
+This is the individual CodePen assignment that I briefly explained in class.  In it, you're applying CSS styles as well as HTML5 elements (see chapter 17 in HTML&CSS) to your pre-existing Welcome Weekend website.  You'll be using the whole family of CSS attributes to make this happen.  Submit the assignment like normal via Blackboard.
 
 Because this is likely the most challenging mini-assignment yet, I will give you some time to finish it up at the beginning of class.  Please come see me if you'd like any additional help!
 
@@ -25,7 +24,9 @@ Because this is likely the most challenging mini-assignment yet, I will give you
 
 ### Style Tiles/Mockups
 
-Just a reminder - if you haven't yet turned the Style Tiles/Mockup assignment in on Blackboard, please be sure to submit it soon.
+Based on your style tiles feedback from the class and the “client”, create one mock-up that shows your style tiles in use. You might create a small screen and a large screen to show the 2 extremes of your design in use.
+
+Combine your mockups with your style tiles into a single PDF file and be ready to submit your PDF file as part of your GitHub repository on your project hub page.
 
 ### Reading
 
@@ -33,8 +34,7 @@ There are a few assigned readings for class.  If nothing else, you should defini
 
 * HTML&CSS - Ch. 17 HTML5 Layout (this finishes the book)
 * Responsive Web Design (yellow book) - Ch. 2 The Flexible Grid, Ch. 3 Flexible Images, Ch. 4 Media Queries
-* [Atomic Web Design by Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
-* [Responsive Deliverables by Dave Rupert](http://daverupert.com/2013/04/responsive-deliverables/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Just skim
 
 ## News and Announcements
 
@@ -44,4 +44,4 @@ Let your interested friends know that the basic RWD class will be held at the sa
 * Both undergraduate and graduate sections  
 * Permission from the student's advisor is required in order to register for the course
 
-This will be offered in additional to the [Advanced Responsive Web Design](http://www.rwdkent.com/advanced) class, which I mentioned a few weeks ago.
+This will be offered in addition to the [Advanced Responsive Web Design](http://rwdkent.com/advanced/) class, which I mentioned a few weeks ago.
