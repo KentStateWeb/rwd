@@ -5,13 +5,13 @@ category: blog
 published: true
 ---
 
-Next week, we'll continue practicing with CSS Media Queries in class and cover atomic design.  We'll also start wireframing your project assignments in HTML and get a visit from a special guest.
+Next week, we'll continue practicing with CSS Media Queries in class and cover the atomic design methodology.  We'll also start wireframing your project assignments in HTML and get a visit from a special guest.
 
 In the last class, we:
 
 * Introduced media queries and how they contribute to flexible designs
 * Reviewed how HTML 5 elements can bring more semantic meaning to websites
-* Started on the layout/media query assignment
+* Started on the fonts & media query assignment
 
 You can find the slides from each class under the [Class Schedule](http://rwdkent.com/class/schedule/) section of the website.
 
@@ -19,7 +19,7 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ### Special Guests: ipsoCreative
 
-ipsoCreative is a boutique web agency and custom web development firm based in Akron.  Joshua Mitchell, Partner and Creative Director, and members of his team will visit to tell us how their company's web design process works and show some of their recent work.  Be sure to ask questions for bonus points!
+[ipsoCreative](http://www.ipsocreative.com) is a boutique web agency and custom web development firm based in Akron.  Joshua Mitchell, Partner and Creative Director (and Kent State alum), and members of his team will visit to discuss how their company's web design process works and show some of their recent work.  Be sure to ask questions for bonus points!
 
 ### Fonts & Media Queries Assignment
 
@@ -33,10 +33,10 @@ Just a reminder - if you haven't yet turned the Style Tiles/Mockup assignment in
 
 ### Reading
 
-There are a few assigned readings for class that will help you better understand upcoming assignments:
+There are a few assigned readings for class that will help you better understand upcoming assignments and class discussions:
 
 <ul><li><i>Responsive Web Design</i> - Ch. 5 Becoming Responsive</li><li><a href="http://bradfrost.com/blog/post/html-wireframes/">HTML Wireframes by Brad Frost</a></li><li><a href="http://bradfrost.com/blog/post/atomic-web-design/">Atomic Web Design by Brad Frost</a></li><li><a href="http://daverupert.com/2013/04/responsive-deliverables/">Responsive Deliverables by Dave Rupert</a></li></ul>
 
 ## Extras
 
-We only have 5 classes left!  We'll now begin concentrating less on reading and discussions, and more on your hands-on final project.
+We only have 6 classes left!  We'll now begin concentrating less on reading and discussions, and more on your hands-on final project.
