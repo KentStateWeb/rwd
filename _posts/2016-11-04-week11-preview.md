@@ -52,6 +52,6 @@ You should be working on this assignment, but it isn't due until Nov. 15.
 
 ## Extras
 
-
+Please check over your latest grades in Blackboard Learn and let me know if you have any questions.  If an assignment is missing or I wasn't able to view it for some reason, it will have a 0 assigned.
 
 See you next week!
