@@ -52,14 +52,14 @@ Let's start with the header (<header>).  Rather than telling you what rules to u
 
 ### Main Content Area
 
-Make the main content area (<main>) stop getting any larger than 1000px wide (use the max-width CSS property).  Center this MAIN box in the middle of the page (this will only be apparent when the viewport is larger than 1000px).
+Make the main content area (main) stop getting any larger than 1000px wide (use the max-width CSS property).  Center this MAIN box in the middle of the page (this will only be apparent when the viewport is larger than 1000px).
 
 Note: The header and footer reside outside of the MAIN box and this therefore won't apply to them.
 
 
 ### Navigation
 
-The navigation (<nav>) starts as a stacked list, and then turns into a horizontal list.
+The navigation (nav) starts as a stacked list, and then turns into a horizontal list.
 
 1.  Use background color hsl(32,100,50).
 2.  Remove the default bulleted style on the unordered list within the <nav> box, as well as its margin and padding.  You can do this either using "nav ul" or by adding a class to the <ul> element.
