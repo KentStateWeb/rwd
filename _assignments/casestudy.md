@@ -43,6 +43,7 @@ The link included with each website is a starting point.  There may be other inf
 * [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - Josh and Nico
 * [Carnegie Library of Pittsburgh](https://responsivewebdesign.com/podcast/carnegie-library-of-pittsburgh/) - ##
 * [U.S. Digital Service](https://responsivewebdesign.com/podcast/usds/) - ##
+* [The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) - ##
 
 ## Rubric
 
