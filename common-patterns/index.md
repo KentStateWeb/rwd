@@ -9,13 +9,13 @@ Starting out a new responsive web site can be intimidating.  To help you get sta
 
 These patterns use very light styling, with the assumption that you'll add your own CSS.
 
-To learn more about creating accessible and maintainable patterns, pick up Ethan Marcotte's newest book, [Responsive Design Patterns and Principles](https://abookapart.com/products/responsive-design-patterns-principles). 
+To learn more about creating accessible and maintainable patterns, pick up Ethan Marcotte's newest book, [Responsive Design Patterns and Principles](https://abookapart.com/products/responsive-design-patterns-principles).
 
-Also see [This is Responsive](https://bradfrost.github.io/this-is-responsive/patterns.html) by Brad Frost, where I found many of these examples. 
+Also see [This is Responsive](https://bradfrost.github.io/this-is-responsive/patterns.html) by Brad Frost, where I found many of these examples.
 
 ----
 
-## Default HTML Code 
+## Default HTML Code
 
 Just put this at the beginning of every new HTML document you create - don't try to memorize it.  
 
@@ -44,11 +44,24 @@ Use these instructions for patterns below that require JavaScript and/or Jquery.
 
 ## Main Content Area with SideBar
 
-A common layout pattern start with main content and sidebar stacked until you reach a larger breakpoint, at which point the elements are floated left and right.
+A common layout pattern start with main content and sidebar stacked until you reach a larger breakpoint, at which point the elements are positioned left and right (using flexbox).
 
 **Uses**: HTML and CSS
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/qZPyWO/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/qZPyWO/'>Main column with sidebar (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
+----
+
+----
+
+## Typical Page Layout (Header, Nav, Main Area, Footer)
+
+A typical page setup - creativity away from this standard layout is encouraged though!
+
+**Uses**: HTML and CSS
+
+<iframe height='265' scrolling='no' title='Your Standard Header, Nav, Footer and Main Content' src='//codepen.io/challahan/embed/yVYLJa/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/yVYLJa/'>Your Standard Header, Nav, Footer and Main Content</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 ----
