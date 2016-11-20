@@ -25,7 +25,7 @@ As long as you've turned in everything due thus far, there aren't any assignment
 
 ### Performance & Usability Testing
 
-You'll put together a testing plan to ensure your website is usable and works well on multiple devices.  We'll conduct the actual testing in class on November 29, and you'll turn in the assignment after that.  Remember that your prototype needs to be in working condition (on both mobile and desktop) in order to conduct the testing!
+You'll put together a testing plan to ensure your website is usable and works well on multiple devices.  We'll conduct the actual testing in class on Dec. 6, and you'll turn in the assignment after that.  Remember that your prototype needs to be in working condition (on both mobile and desktop) in order to conduct the testing!
 
 <a href="http://rwdkent.com/class/assignments/testing" class="button small">View Usability and Technical Testing Assignment</a>
 

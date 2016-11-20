@@ -10,7 +10,7 @@ semester: fall-2016
 
 As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.
 
-We will run through your testing plan in class, on Nov. 29.
+We will run through your testing plan in class, on Dec. 6.
 
 ## Creating Your Usability Plan
 
