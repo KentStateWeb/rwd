@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 14 Preview - In Class Usability, Accessibility and Technical Testing
+title: Week 14 Preview - Testing Plans + In Class Work
 category: blog
 published: true
 ---
