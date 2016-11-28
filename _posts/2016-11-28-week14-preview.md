@@ -24,9 +24,15 @@ You can find the slides from each class under the [Class Schedule](http://rwdken
 
 ### Performance, Accessibility & Usability Testing
 
-Based on the plan you've put together, we'll conduct testing in class, and you'll turn in the assignment on Blackboard and Project Hub next week.  Your prototype needs to be in working condition in order to conduct the testing tasks you've selected, but it does not need to be finished or look perfect by any means.
+Based on the plan you've put together, we'll conduct testing in class next week.  Your prototype needs to be in working condition in order to conduct the testing tasks you've selected, but it does not need to be finished or look perfect by any means.
 
 <a href="http://rwdkent.com/class/assignments/testing" class="button small">View Testing Assignment</a>
+
+### HTML/CSS Prototypes/Templates Assignment
+
+These are the final prototypes for three main templates for your websites.  They will include the full visual elements from your mockups and style tiles, and also include functioning HTML/CSS and JavaScript.  You should be working on these in depth this week.
+
+<a href="http://rwdkent.com/class/assignments/templates/" class="button small">View HTML/CSS Templates Assignment</a>
 
 ### Reading
 
