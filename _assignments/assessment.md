@@ -12,7 +12,7 @@ Since this project was a collaborative assignment, I want to hear from each grou
 
 The survey must be completed by Thursday of finals week at 5 p.m.
 
-<a class="button button-small" href="https://kent.qualtrics.com/SE/?SID=SV_dnYNyr4Y7NpecLz">Take the Survey</a>
+<a class="button button-small" href="https://kent.qualtrics.com/SE/?SID=SV_55csMCXaNXX8Z5b">Take the Survey</a>
 
 ## Survey Questions
 
@@ -60,7 +60,7 @@ Now it's time to reflect on your performance during the project.
 
 Complete the survey online before the due date.  
 
-<a class="button button-small" href="https://kent.qualtrics.com/SE/?SID=SV_dnYNyr4Y7NpecLz">Take the Survey</a>
+<a class="button button-small" href="https://kent.qualtrics.com/SE/?SID=SV_55csMCXaNXX8Z5b">Take the Survey</a>
 
 ## Rubric
 
