@@ -28,16 +28,28 @@ title: Syllabus - Advanced Responsive Web Design
 
 ### About This Course
 
-Course description goes here.
+Advanced Responsive Web Design takes the key principles covered in the basic Responsive Web Design course (or equivalent courses) and expands upon them within the framework of a client project.
+
+The project will encompass the design and development of website in a content management system (CMS). Teams will be assigned responsibility to complete the project throughout the semester using advanced web design tools, including CSS preprocessors, templating languages and server configuration.
 
 #### Topics
 
 Just a few of the topics planned to be covered in the Responsive Web Design course include:
 
+* Content management systems
+* Themes and design systems
+* Content planning
+* Usability and device testing
+* Style guides
+* Agile/collaborative development
+* Advanced CSS
+* Project management
+* Client interaction and training
+* Server setup
 
 
 ### Prerequisites
-Sophomore standing.  This course has no other prerequisites, however you must be proficient in basic web and computer applications.  You will be expected to write HTML, CSS and light JavaScript code (familiarity with these will be helpful, but is not necessary).  You will also be working in vector-based editing tools to help prototype visual designs.  Success in this course will depend on your willingness to try learn new skills and collaborate with others from different backgrounds to solve complex problems.
+Sophomore standing and successful completion of Responsive Web Design OR an equivalent course.  The course instructor must give approval for a student to be enrolled in the course based on completion of prerequisites and proven execution of basic HTML, CSS and responsive design techniques.
 
 ### Subject to Change Statement
 The syllabus and course schedule may be subject to change. Changes will be communicated via email. It is the responsibility of students to check email messages and course announcements to stay current in the course.
@@ -46,37 +58,41 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 In this course, students will:
 
-
+* Course goals here
 
 ### Learning outcomes
 
 Most importantly, by the end of this course, students will be able to:
 
-
+*  Learning outcomes here
 
 ### Course Textbook and Materials
 
-No required textbooks.
+No required textbooks.  I will assign select readings from [Brad Frost's Atomic Design book](http://atomicdesign.bradfrost.com).
 
 This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
 ### Class Structure
 
+This will be a non-traditional class, as there won't be formal lectures or testing.  Classes will loosely run as follows:
+
+1.  Weekly group "stand-up" sessions: 5-10 minutes each.  Each team lead will provide updates from the group on what they worked on during the previous week, any problems they are having and what they expect to focus on for the next week.
+2.  Collaborative working time and consultation with the instructor.
+3.  Solidify tasks and planning for the coming week.
 
 ### Preparing for Class
 Students are expected to come to class prepared.  This means:
 
-* Familiarization with the required readings or videos.
-* Readiness to participate in class discussions and activities.
-* Participating in class discussions and hands-on activities.
-* Completing assignments on time and submitting them properly to GitHub each week.
+* Familiarization with the recommended readings or concepts, based on tasks for the week.
+* Readiness to participate in discussions, work sessions and update sessions.
+* Turning in assigned journal entries prior to class beginning.
+* Completing assigned tasks and updating team lead each week.
 
 ### Course Schedule
-This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com).
 
-Please see the [Detailed Course Schedule](http://www.rwdkent.com/advanced/schedule) for specific dates, times and assignments.
+Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com) and the Basecamp project management system.
 
-
+Because of the nature of this project, dates and priorities may change as the project progresses.
 
 <div class="page-break"></div>
 
@@ -90,10 +106,21 @@ Student learning will be assessed through three types of work: in-class particip
 
 There are **100** total possible points for the semester.
 
+<h4>Project Milestones</h4>
 
-<div class="table-float">
+* Assignments here
 
-<h4>Mini Assignments</h4>
+<h4>Individual Journal Updates & Attendance</h4>
+
+* Assignments here
+
+
+<h4>Self and Team Evaluation</h4>
+
+* Assignments here
+
+
+<!--<div class="table-float">
 
 <table>
 <thead>
@@ -149,13 +176,16 @@ There are **100** total possible points for the semester.
 	</tr>
 </tbody>
 </table>
-</div>
+
+</div>-->
 
 ### Attendance Policy
 
 We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 
 Students who miss more than two classes without proper documentation will receive a 0 for their class participation grade for the semester.
+
+In addition to class, there will be other required meetings or out-of-class working sessions.  Attendance at these sessions (dates and times agreed upon by the group) are critical and will be reflected in the participation grade.
 
 If you miss class, you are still responsible for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
 
@@ -164,11 +194,7 @@ Some assignments, such as in-class presentations, testing and quizzes, require a
 ### Late Submissions
 The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation).
 
-My policy for late assignments has 3 rules:
-
-* Late assignments will be accepted so long as you contact the instructor to indicate that it will be late and provide an explanation.
-* Late assignments must be submitted within 1 week of the original due date, without penalty, so long as the student meets the first rule. After 1 week the assignment will be marked as 0.
-* An additional extension may be possible in exceptional circumstances, with documentation. This requires a face-to-face conversation between the student and the instructor.
+Because of the nature of the course, all milestone deadlines must be met.  If deadlines are consistently missed, the group's performance grade for each milestone will be reduced accordingly.
 
 ### Group Work
 
@@ -195,8 +221,8 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 * Although a laptop is not required, if you have a laptop you are encouraged to bring it to class, as it may be helpful for following along in class.  You’ll also be viewing and testing your work on multiple devices, so phones and tablets are encouraged.
 * Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.
 * We will be using a variety of free and paid software programs and tools.
-* Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license.
-* Software programs and tools to be used in the course include: Sketch, Illustrator, Atom, GitHub, web browsers and Google Drive.
+* Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license, although certain licenses may be provided for the duration of the course only.
+* Software programs and tools to be used in the course include: Sketch, CodeKit, MAMP Pro, Photoshop, Tower, Illustrator, Atom, GitHub, web browsers and Google Drive.
 
 <div class="page-break"></div>
 
@@ -205,6 +231,7 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 My office hours for this semester are:
 
 * Tuesdays: 4:30 - 5:30 p.m.
+* Thursdays: 2:00 - 2:30 p.m.
 * By Appointment
 
 #### Email
