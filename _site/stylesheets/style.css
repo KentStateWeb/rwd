@@ -1329,6 +1329,7 @@ footer p {
 	color: white;
 	margin: 0;
 	padding: 0;
+	margin-bottom:.5em;
 }
 
 footer a {
@@ -1375,7 +1376,7 @@ footer img {
 }
 
 .footer-supplemental a {
-	margin: 0 1.5em;
+	margin: .5em 1.5em;
 	padding: .5em 0;
 	display: inline-block;
 }
