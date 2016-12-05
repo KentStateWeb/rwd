@@ -24,9 +24,9 @@ Based on the plan you've put together, we'll conduct testing in class on Tuesday
 
 <a href="http://rwdkent.com/class/assignments/testing" class="button small">View Testing Assignment</a>
 
-### Finals Week
+## Finals Week
 
-Your completed assignments are due on Tuesday, Dec. 13, which is also the date of the final class.  ***Class will start at starting at 5:30, our normal time***.  You should be working outside of class on your responsive <a href="http://rwdkent.com/class/assignments/templates">HTML/CSS Templates</a>, <a href="http://rwdkent.com/class/assignments/styleguide">Pattern Library</a> and <a href="http://rwdkent.com/class/assignments/timeline-presentation">Project Timeline/Review Presentation</a>.  
+Your completed assignments are due on Tuesday, Dec. 13, which is also the date of the final class.  ***Class will start at 5:30, our normal time***.  You should be working outside of class on your responsive <a href="http://rwdkent.com/class/assignments/templates">HTML/CSS Templates</a>, <a href="http://rwdkent.com/class/assignments/styleguide">Pattern Library</a> and <a href="http://rwdkent.com/class/assignments/timeline-presentation">Project Timeline/Review Presentation</a>.  
 
 I'll go over the format you'll use to present your final projects in class.
 
