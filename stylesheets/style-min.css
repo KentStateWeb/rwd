@@ -746,7 +746,7 @@ aside section {
 .tagline h1 {
   padding: 0;
   padding-top: 1.5em;
-  font-size: 1.75em;
+  font-size: 1.5em;
   margin-top: 0;
   line-height: 1.1;
   text-align: center;
@@ -759,7 +759,7 @@ aside section {
 
 @media screen and (min-width: 600px) {
   .tagline h1 {
-    font-size: 2.2em;
+    font-size: 2em;
     padding-top: 3rem; } }
 
 @media screen and (min-width: 700px) {
@@ -801,7 +801,7 @@ aside section {
   padding-bottom: .5em; }
 
 .tagline h1 strong {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: white;
   letter-spacing: 1px;
   font-weight: 600;
