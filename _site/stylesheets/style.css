@@ -1218,7 +1218,7 @@ nav ul li:last-child:after {
 	width: 15px;
 	color: rgb(240,99,116);
 	font-weight: bold;
-	font-size: 1.3rem;
+	font-size: 1.1rem;
 	padding-left: 1.25rem;
 	padding-right: 1.25rem;
 }
@@ -1251,6 +1251,7 @@ nav ul li:last-child:after {
 	nav ul li:after {
 		padding-left: .8em;
 		padding-right: 1em;
+		font-size: 1.3rem;
 	}
 
 	nav a {
