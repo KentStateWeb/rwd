@@ -1084,6 +1084,12 @@ aside.aside-home {
 	line-height: 1;
 }
 
+@media screen and (min-width: 450px) {
+	.tagline h1 strong {
+		font-size: 1.7rem;
+	}
+}
+
 @media screen and (min-width: 600px) {
 	.tagline h1 strong {
 		font-size: 2rem;
