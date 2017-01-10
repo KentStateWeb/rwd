@@ -3961,6 +3961,151 @@
 		"oAP": "\/_site\/advanced\/syllabus\/index.html",
 		"oF": 1
 		},
+	"\/_site\/analytics.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/min\/analytics-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/android-chrome-144x144.png": {
+		"ft": 32768,
+		"iS": 1418,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 1631,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-192x192.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/android-chrome-36x36.png": {
+		"ft": 32768,
+		"iS": 510,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-36x36.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/android-chrome-48x48.png": {
+		"ft": 32768,
+		"iS": 572,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-48x48.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/android-chrome-72x72.png": {
+		"ft": 32768,
+		"iS": 783,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-72x72.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/android-chrome-96x96.png": {
+		"ft": 32768,
+		"iS": 918,
+		"oA": 0,
+		"oAP": "\/_site\/android-chrome-96x96.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 1195,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 1152,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 1398,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 1470,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 1575,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 647,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 651,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 771,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 806,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 1945,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1575,
+		"oA": 0,
+		"oAP": "\/_site\/apple-touch-icon.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_site\/blog\/2015\/07\/16\/launching-the-rwd-website.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -4189,6 +4334,12 @@
 		"oAP": "\/_site\/blog\/index.html",
 		"oF": 1
 		},
+	"\/_site\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/browserconfig.xml",
+		"oF": 0
+		},
 	"\/_site\/class\/assignments\/assessment\/index.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -4338,6 +4489,126 @@
 		"oA": 1,
 		"oAP": "\/_site\/class\/assignments\/html2\/index.html",
 		"oF": 1
+		},
+	"\/_site\/class\/assignments\/images\/first-row-large.png": {
+		"ft": 32768,
+		"iS": 20216,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/first-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/first-row-small.png": {
+		"ft": 32768,
+		"iS": 22454,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/first-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/footer.png": {
+		"ft": 32768,
+		"iS": 8251,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/footer.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/header-large.png": {
+		"ft": 32768,
+		"iS": 25055,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/header-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/header.png": {
+		"ft": 32768,
+		"iS": 17868,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/large.png": {
+		"ft": 32768,
+		"iS": 344004,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/medium.png": {
+		"ft": 32768,
+		"iS": 361086,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/nav-large.png": {
+		"ft": 32768,
+		"iS": 9338,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/nav-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/nav-small.png": {
+		"ft": 32768,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/nav-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/second-row-large.png": {
+		"ft": 32768,
+		"iS": 248413,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/second-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/second-row-small.png": {
+		"ft": 32768,
+		"iS": 189538,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/second-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/small.png": {
+		"ft": 32768,
+		"iS": 315385,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/third-row-large.png": {
+		"ft": 32768,
+		"iS": 48783,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/third-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/third-row-medium.png": {
+		"ft": 32768,
+		"iS": 46078,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/third-row-medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/third-row-small.png": {
+		"ft": 32768,
+		"iS": 50564,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/third-row-small.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_site\/class\/assignments\/index.html": {
 		"ft": 8192,
@@ -4548,6 +4819,400 @@
 		"oA": 1,
 		"oAP": "\/_site\/class\/eval\/index.html",
 		"oF": 1
+		},
+	"\/_site\/class\/eval\/RWDFinalPresentationInstructorEvalSheets.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/eval\/RWDFinalPresentationInstructorEvalSheets.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group1\/barb.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group1\/barb.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group1\/barb.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group1\/barb.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group1\/barb.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group1\/barb.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group1\/Barbs-Bridal-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group1\/Barbs-Bridal-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group1\/Group-1-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group1\/Group-1-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group10\/creativekids.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group10\/creativekids.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group10\/group-10-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group10\/group-10-content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group11\/group-11-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group11\/group-11-content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group11\/pets-first-color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group11\/pets-first-color.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group11\/pets-first-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group11\/pets-first-color.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group12\/group-12-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group12\/group-12-content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group12\/HoppsHouse-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group12\/HoppsHouse-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group12\/HoppsHouse-mark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group12\/HoppsHouse-mark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group12\/HoppsHouse.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group12\/HoppsHouse.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group2\/Group-2-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group2\/Group-2-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group2\/Summit-St-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group2\/Summit-St-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group2\/summitst.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group2\/summitst.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group2\/summitst.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group2\/summitst.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group2\/summitst.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group2\/summitst.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/aroma.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/aroma.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/aroma.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/aroma.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/aroma.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/aroma.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/AromaCoffee-Rachel.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/AromaCoffee-Rachel.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/AromaCoffee-Todd.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/AromaCoffee-Todd.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group3\/Group-3-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group3\/Group-3-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group4\/Group-4-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group4\/Group-4-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group4\/Wrench-Automative-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group4\/Wrench-Automative-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group4\/wrench.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group4\/wrench.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group4\/wrench.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group4\/wrench.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group4\/wrench.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group4\/wrench.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/Group-5-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/Group-5-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Colors.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Colors.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Final.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Final.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Final.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/Off-The-Vine-Final.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/off-the-vine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/off-the-vine.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group5\/OfftheVine-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group5\/OfftheVine-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group6\/buckeye.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group6\/buckeye.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group6\/buckeye.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group6\/buckeye.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group6\/buckeye.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group6\/buckeye.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group6\/Group-6-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group6\/Group-6-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group7\/Group-7-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group7\/Group-7-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group7\/Group7-WilliamThomas-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group7\/Group7-WilliamThomas-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group7\/williamthomas.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group7\/williamthomas.ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group7\/williamthomas.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group7\/williamthomas.eps",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group7\/williamthomas.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group7\/williamthomas.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group8\/FranklinCounty-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group8\/FranklinCounty-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group8\/FranklinCountyLogo-02.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group8\/FranklinCountyLogo-02.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group8\/Group-8-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group8\/Group-8-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group9\/ChopShopSalonLogo-01.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group9\/ChopShopSalonLogo-01.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/class\/groups\/assets\/group9\/Group-9-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group9\/Group-9-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/group9\/OhioChopShop-plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/group9\/OhioChopShop-plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/RWD_ClassLogos (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/RWD_ClassLogos (CS6).ai",
+		"oF": 0
+		},
+	"\/_site\/class\/groups\/assets\/RWD_ClassLogos2 (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/groups\/assets\/RWD_ClassLogos2 (CS6).ai",
+		"oF": 0
 		},
 	"\/_site\/class\/groups\/fall-2015\/group1\/index.html": {
 		"ft": 8192,
@@ -5053,6 +5718,232 @@
 		"oAP": "\/_site\/class\/schedule\/spring-2016\/index.html",
 		"oF": 1
 		},
+	"\/_site\/class\/slides\/1\/1-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/1\/1-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/10\/10-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/10\/10-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/10\/10-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/10\/10-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/11\/11-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/11\/11-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/11\/11-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/11\/11-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/12\/12-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/12\/12-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/12\/12-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/12\/12-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/13\/13-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/13-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/13\/13-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/13-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/13\/multiple\/about.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/multiple\/about-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/class\/slides\/13\/multiple\/home.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/multiple\/home-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/class\/slides\/13\/multiple\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/multiple\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/13\/multiple\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/13\/multiple\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/class\/slides\/14\/14-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/14\/14-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/14\/14-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/14\/14-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/15\/15-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/15\/15-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/15\/15-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/15\/15-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/2\/2-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/2\/2-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/2\/2-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/2\/2-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/3\/3-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/3\/3-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/3\/3-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/3\/3-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/4\/4-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/4\/4-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/4\/4-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/4\/4-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/5\/5-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/5\/5-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/5\/5-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/5\/5-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/6\/6-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/6\/6-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/6\/6-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/6\/6-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/6\/website\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/6\/website\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/6\/website\/mystyles.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/6\/website\/mystyles-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/class\/slides\/7\/7-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/7\/7-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/7\/7-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/7\/7-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/8\/8-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/8\/8-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/8\/8-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/8\/8-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/9\/9-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/9\/9-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/9\/9-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/9\/9-Slides-RWD.pdf",
+		"oF": 0
+		},
 	"\/_site\/class\/survey\/index.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -5083,11 +5974,55 @@
 		"oAP": "\/_site\/class\/syllabus\/spring-2016\/index.html",
 		"oF": 1
 		},
+	"\/_site\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/CNAME",
+		"oF": 0
+		},
 	"\/_site\/common-patterns\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/common-patterns\/index.html",
 		"oF": 1
+		},
+	"\/_site\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 379,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-16x16.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/favicon-194x194.png": {
+		"ft": 32768,
+		"iS": 1913,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-194x194.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 570,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-32x32.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 1060,
+		"oA": 0,
+		"oAP": "\/_site\/favicon-96x96.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/favicon.ico",
+		"oF": 0
 		},
 	"\/_site\/feed.xml": {
 		"ft": 8192,
@@ -5095,11 +6030,337 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 1
 		},
+	"\/_site\/files\/CodePen Example\/5C.png": {
+		"ft": 32768,
+		"iS": 51876,
+		"oA": 0,
+		"oAP": "\/_site\/files\/CodePen Example\/5C.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/CodePen Example\/Button-Fill-Black-Large.png": {
+		"ft": 32768,
+		"iS": 9677,
+		"oA": 0,
+		"oAP": "\/_site\/files\/CodePen Example\/Button-Fill-Black-Large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/CodePen Example\/cci-placeholder.png": {
+		"ft": 32768,
+		"iS": 52848,
+		"oA": 0,
+		"oAP": "\/_site\/files\/CodePen Example\/cci-placeholder.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/CodePen Example\/CodePen.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/files\/CodePen Example\/CodePen.sketch",
+		"oF": 0
+		},
+	"\/_site\/files\/CodePen Example\/Desktop HD.png": {
+		"ft": 32768,
+		"iS": 92757,
+		"oA": 0,
+		"oAP": "\/_site\/files\/CodePen Example\/Desktop HD.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/CodePen Example\/magnifying-glass.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/files\/CodePen Example\/magnifying-glass.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/files\/CodePen Example\/Style Tiles.png": {
+		"ft": 32768,
+		"iS": 112049,
+		"oA": 0,
+		"oAP": "\/_site\/files\/CodePen Example\/Style Tiles.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/CodePen Example\/White-Vector.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/files\/CodePen Example\/White-Vector.pdf",
+		"oF": 0
+		},
+	"\/_site\/files\/html2.png": {
+		"ft": 32768,
+		"iS": 1966539,
+		"oA": 0,
+		"oAP": "\/_site\/files\/html2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/files\/RWD-Style-Tiles.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/files\/RWD-Style-Tiles.pdf",
+		"oF": 0
+		},
+	"\/_site\/files\/sketches.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/files\/sketches.pdf",
+		"oF": 0
+		},
+	"\/_site\/files\/Tool_13.2_Core_Model_Worksheets.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/files\/Tool_13.2_Core_Model_Worksheets.pdf",
+		"oF": 0
+		},
+	"\/_site\/files\/type.png": {
+		"ft": 32768,
+		"iS": 446869,
+		"oA": 0,
+		"oAP": "\/_site\/files\/type.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/Gemfile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/Gemfile",
+		"oF": 0
+		},
+	"\/_site\/Gemfile.lock": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/Gemfile.lock",
+		"oF": 0
+		},
 	"\/_site\/goals\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/goals\/index.html",
 		"oF": 1
+		},
+	"\/_site\/img\/assignments.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/assignments.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/calendar.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/calendar.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/css-assignment-screenshot.png": {
+		"ft": 32768,
+		"iS": 236499,
+		"oA": 0,
+		"oAP": "\/_site\/img\/css-assignment-screenshot.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/css2-assignment-screenshot.png": {
+		"ft": 32768,
+		"iS": 901841,
+		"oA": 0,
+		"oAP": "\/_site\/img\/css2-assignment-screenshot.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/cssbasics1.png": {
+		"ft": 32768,
+		"iS": 496035,
+		"oA": 0,
+		"oAP": "\/_site\/img\/cssbasics1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/devices-code.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/devices-code.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/devices.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/devices.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/document.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/document.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/fonts-large.png": {
+		"ft": 32768,
+		"iS": 827021,
+		"oA": 0,
+		"oAP": "\/_site\/img\/fonts-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/fonts-small.png": {
+		"ft": 32768,
+		"iS": 595445,
+		"oA": 0,
+		"oAP": "\/_site\/img\/fonts-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/groups.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/groups.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/hallahan-headshot-old.jpg": {
+		"ft": 16384,
+		"iS": 56319,
+		"oA": 0,
+		"oAP": "\/_site\/img\/hallahan-headshot-old.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/hallahan-headshot.jpg": {
+		"ft": 16384,
+		"iS": 126499,
+		"oA": 0,
+		"oAP": "\/_site\/img\/hallahan-headshot.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/html1.png": {
+		"ft": 32768,
+		"iS": 427360,
+		"oA": 0,
+		"oAP": "\/_site\/img\/html1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/iphone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/iphone.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/Kent-State-Logo-White.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/Kent-State-Logo-White.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/layout-screenshot.jpg": {
+		"ft": 16384,
+		"iS": 309736,
+		"oA": 0,
+		"oAP": "\/_site\/img\/layout-screenshot.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/quote.png": {
+		"ft": 32768,
+		"iS": 39176,
+		"oA": 0,
+		"oAP": "\/_site\/img\/quote.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/rwd.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/rwd.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/shapes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/shapes.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/slash.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/slash.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/spring-2016\/class1.jpg": {
+		"ft": 16384,
+		"iS": 57093,
+		"oA": 0,
+		"oAP": "\/_site\/img\/spring-2016\/class1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/img\/syllabus.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/syllabus.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_site\/index.html": {
 		"ft": 8192,
@@ -5107,17 +6368,179 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 1
 		},
+	"\/_site\/js\/flickity.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/js\/min\/flickity-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/js\/fonts.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/js\/min\/fonts-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/LICENSE",
+		"oF": 0
+		},
+	"\/_site\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 1622,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-144x144.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 1417,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-150x150.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 1519,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-310x150.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 2720,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-310x310.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 1131,
+		"oA": 0,
+		"oAP": "\/_site\/mstile-70x70.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/params.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/params-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/_site\/patterns\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/patterns\/index.html",
 		"oF": 1
 		},
+	"\/_site\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_site\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_site\/rwd.sublime-project": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/rwd.sublime-project",
+		"oF": 0
+		},
+	"\/_site\/rwd.sublime-workspace": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/rwd.sublime-workspace",
+		"oF": 0
+		},
+	"\/_site\/stylesheets\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/stylesheets\/normalize-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/stylesheets\/print.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/stylesheets\/print-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/_site\/timeline\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/timeline\/index.html",
 		"oF": 1
+		},
+	"\/_site\/website_icon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/website_icon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/wireframes\/class.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/wireframes\/class.html",
+		"oF": 0
+		},
+	"\/_site\/wireframes\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/wireframes\/index.html",
+		"oF": 0
+		},
+	"\/_site\/wireframes\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/wireframes\/style-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/_site\/workshop\/index.html": {
 		"ft": 8192,
