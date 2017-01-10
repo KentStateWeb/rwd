@@ -1,9 +1,11 @@
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Oswald');
+
 /* Set body type and consistent margins/padding */
 
 body {
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 	padding: 0;
 	margin: 0;
 }
@@ -157,13 +159,13 @@ p a:hover, p a:focus {
 /* Headings */
 
 h1, h2, h3 {
-	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+	font-family: 'Oswald', "Arial Narrow", sans-serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
 
 h1 {
-	font-size: 2.5em;
+	font-size: 2em;
 	margin-bottom: .75em;
 	padding-bottom: .3em;
 	margin-top: 0;
@@ -189,7 +191,7 @@ h1:after {
 @media screen and (min-width: 800px) {
 	h1 {
 		margin-top: .25em;
-		font-size: 3em;
+		font-size: 2.3em;
 		margin-left: inherit;
 		padding-left: 0;
 		margin-bottom: .75em;
@@ -197,7 +199,7 @@ h1:after {
 }
 
 h2 {
-	font-size: 1.8em;
+	font-size: 1.3em;
 	/*border-top: 2px solid rgb(240,99,116);*/
 	padding-top: .5em;
 	margin-top: 0;
@@ -207,7 +209,7 @@ h2 {
 @media screen and (min-width: 800px) {
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 }
@@ -240,7 +242,7 @@ h2:after {
 }*/
 
 h3 {
-	font-size: 1.3em;
+	font-size: 1.4em;
 	color: rgb(26,117,138);
 	margin-top: 0;
 	margin-bottom: .5em;
@@ -248,7 +250,7 @@ h3 {
 	line-height: 1.2;
 	text-transform: none;
 	letter-spacing: inherit;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 
 aside h3 {
@@ -262,7 +264,7 @@ aside ul {
 
 h4 {
 	font-size: 1.2em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 	margin-bottom: 0;
 }
 
@@ -367,84 +369,87 @@ main img {
 
 /* Animations for Devices */
 
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
-  }
+@media screen and (min-width: 800px) {
 
-  to {
-    opacity: 1;
-    -webkit-transform: none;
-    transform: none;
-  }
-}
+	@keyframes fadeInUp {
+	  from {
+	    opacity: 0;
+	    -webkit-transform: translate3d(0, 100%, 0);
+	    transform: translate3d(0, 100%, 0);
+	  }
 
-@-webkit-keyframes fadeInUp {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
-  }
+	  to {
+	    opacity: 1;
+	    -webkit-transform: none;
+	    transform: none;
+	  }
+	}
 
-  to {
-    opacity: 1;
-    -webkit-transform: none;
-    transform: none;
-  }
-}
+	@-webkit-keyframes fadeInUp {
+	  from {
+	    opacity: 0;
+	    -webkit-transform: translate3d(0, 100%, 0);
+	    transform: translate3d(0, 100%, 0);
+	  }
 
-#Page-1 {
-	animation: text .5s ease;
-}
+	  to {
+	    opacity: 1;
+	    -webkit-transform: none;
+	    transform: none;
+	  }
+	}
+
+	#Page-1 {
+		animation: text .5s ease;
+	}
 
 
-#tablet-text-top {
-	opacity: 0;
-	animation: text .8s ease;
-	animation-delay: .3s;
-	animation-direction: alternate;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-#tablet-text-middle {
-	opacity: 0;
-	animation: text .8s ease;
-	animation-delay: .7s;
-	animation-direction: alternate;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-#tablet-text-bottom {
-	opacity: 0;
-	animation: text .8s ease;
-	animation-delay: 1s;
-	animation-direction: alternate;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-#phone-text {
-	opacity: 0;
-	animation: text 1s ease;
-	animation-delay: 1.25s;
-	animation-direction: alternate;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-@keyframes text {
-	0% {
+	#tablet-text-top {
 		opacity: 0;
+		animation: text .8s ease;
+		animation-delay: .3s;
+		animation-direction: alternate;
+		animation-play-state: running;
+		animation-fill-mode: forwards;
 	}
-	100% {
-		opacity: 100;
-	}
-}
 
+	#tablet-text-middle {
+		opacity: 0;
+		animation: text .8s ease;
+		animation-delay: .7s;
+		animation-direction: alternate;
+		animation-play-state: running;
+		animation-fill-mode: forwards;
+	}
+
+	#tablet-text-bottom {
+		opacity: 0;
+		animation: text .8s ease;
+		animation-delay: 1s;
+		animation-direction: alternate;
+		animation-play-state: running;
+		animation-fill-mode: forwards;
+	}
+
+	#phone-text {
+		opacity: 0;
+		animation: text 1s ease;
+		animation-delay: 1.25s;
+		animation-direction: alternate;
+		animation-play-state: running;
+		animation-fill-mode: forwards;
+	}
+
+	@keyframes text {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 100;
+		}
+	}
+
+}
 
 /* Blog Teasers */
 
@@ -744,8 +749,8 @@ main {
 }
 
 p.introduction {
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.15em;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+	font-size: 1em;
 	margin-top: 0;
 	line-height: 1.55;
 	color: black;
@@ -753,14 +758,14 @@ p.introduction {
 }
 
 p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.3rem;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+	font-size: 1.1rem;
 	margin-top: 0;
 	font-weight: normal;
 	margin-bottom: 1em;
 	border-bottom: 1px solid rgba(25,25,25,.2);
 	padding-bottom: 1em;
-	line-height: 1.4;
+	line-height: 1.6;
 	margin-left: 2%;
 }
 
@@ -770,7 +775,7 @@ p.section-introduction, .main-content-area-full p.section-introduction, .main-co
 
 @media screen and (min-width: 800px) {
 	p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
-		font-size: 1.5rem;
+		font-size: 1.4rem;
 		margin-left: 7%;
 	}
 }
@@ -781,21 +786,21 @@ p.introduction-home {
 
 @media screen and (min-width:600px) {
 	p.introduction {
-		font-size: 1.2em;
+		font-size: 1.1em;
 		line-height: 1.4;
 	}
 }
 
 @media screen and (min-width:800px) {
 	p.introduction {
-		font-size: 1.25em;
+		font-size: 1.1em;
 		line-height: 1.4;
 	}
 }
 
 @media screen and (min-width:1000px) {
 	p.introduction {
-		font-size: 1.3em;
+		font-size: 1.25em;
 		line-height: 1.4;
 	}
 }
@@ -1004,7 +1009,7 @@ aside.aside-home {
 	line-height: 1.1;
 	text-align: center;
 	font-weight: 300;
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 	text-transform: none;
 	color: white;
 	letter-spacing: normal;
@@ -1044,7 +1049,7 @@ aside.aside-home {
 
 @media screen and (min-width: 1400px) {
 	.tagline h1 {
-		padding-top: 2.1em;
+		padding-top: 2.3em;
 		padding-bottom: .3em;
 	}
 }
@@ -1068,50 +1073,50 @@ aside.aside-home {
 }
 
 .tagline h1 strong {
-	font-size: 2.5rem;
+	font-size: 2rem;
 	color: white;
 	letter-spacing: 1px;
 	font-weight: 600;
 	display: block;
 	text-transform: uppercase;
-	font-family: nimbus-sans-condensed;
-	margin-bottom: .09em;
+	font-family: 'Oswald', 'Arial Narrow', sans-serif;
+	margin-bottom: .35em;
 	line-height: 1;
 }
 
 @media screen and (min-width: 600px) {
 	.tagline h1 strong {
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 }
 
 @media screen and (min-width: 700px) {
 	.tagline h1 strong {
-		font-size: 3.5rem;
+		font-size: 2rem;
 	}
 }
 
 @media screen and (min-width: 800px) {
 	.tagline h1 strong {
-		font-size: 3.3rem;
+		font-size: 2.3rem;
 	}
 }
 
 @media screen and (min-width: 1000px) {
 	.tagline h1 strong {
-		font-size: 3.5rem;
+		font-size: 2.5rem;
 	}
 }
 
 @media screen and (min-width: 1200px) {
 	.tagline h1 strong {
-		font-size: 4rem;
+		font-size: 3rem;
 	}
 }
 
 @media screen and (min-width: 1400px) {
 	.tagline h1 strong {
-		font-size: 4.7rem;
+		font-size: 3.5rem;
 	}
 }
 
@@ -1121,7 +1126,7 @@ aside.aside-home {
 
 nav {
 	display: block;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 	padding: .5em .0;
 	margin: 0 auto;
 	margin-top: 0em;
@@ -1133,15 +1138,15 @@ nav a {
 	text-decoration: none;
 	color: #393839;
 	letter-spacing: 2px;
-	font-size: 1em;
-	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+	font-size: .75em;
+	font-family: 'Oswald', 'Arial Narrow', sans-serif;
 	text-transform: uppercase;
 	transition: .2s color ease-in-out;
 }
 
 @media screen and (min-width: 500px) {
 	nav a {
-		font-size: 1.1em;
+		font-size: .75em;
 	}
 }
 
@@ -1215,7 +1220,7 @@ nav ul li:last-child:after {
 
 @media screen and (min-width:600px) {
 	nav a {
-		font-size: 1.2em;
+		font-size: .8em;
 	}
 	nav {
 		margin-top: .35em;
@@ -1238,12 +1243,12 @@ nav ul li:last-child:after {
 	}
 
 	nav ul li:after {
-		padding-left: 1em;
+		padding-left: .8em;
 		padding-right: 1em;
 	}
 
 	nav a {
-		font-size: 1.15em;
+		font-size: .8em;
 	}
 
 }
@@ -1254,7 +1259,7 @@ nav ul li:last-child:after {
 	}
 
 	nav a {
-		font-size: 1.2em;
+		font-size: .9em;
 	}
 
 	nav ul {
@@ -1347,7 +1352,7 @@ footer img {
 }
 
 .footer-heading  {
-	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+	font-family: 'Oswald', 'Arial Narrow', sans-serif;
 	text-transform: uppercase;
 	padding-bottom: .5em;
 }
@@ -1358,7 +1363,7 @@ footer img {
 	padding-right: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 }
 
 .footer-heading:after {
@@ -1367,7 +1372,7 @@ footer img {
 	padding-left: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 }
 
 .footer-supplemental {
@@ -1433,7 +1438,7 @@ footer img {
 	text-decoration: none;
 	background-color: rgb(26,117,138);
 	color: white;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 	font-size: .9em;
 	padding: 1.25rem 1.5rem;
 	display: inline-block;
@@ -1522,7 +1527,7 @@ footer img {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
 	padding: .75em;
 	border-radius: 5px;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
@@ -1676,7 +1681,7 @@ blockquote p {
 	left: 0;
 }
 
-.@media screen and (min-width: 600px) {
+@media screen and (min-width: 600px) {
 	.gallery-container:before {
 		margin-left: -2em;
 	}

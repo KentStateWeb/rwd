@@ -3,7 +3,7 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-## Kent State University CCI Course 40095-002/50095
+## Kent State University CCI Course 40095-002/50095 (Fall 2016)
 
 <dl class="detail-listing detail-listing--syllabus group">
   <div class="detail-list__column">
@@ -12,7 +12,7 @@ title: Syllabus - Responsive Web Design
     <dt>Instructor Email:</dt>
     <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
     <dt>Terms:</dt>
-    <dd>Spring 2017</dd>
+    <dd>Fall 2016</dd>
     <dt>Undergrad:</dt>
     <dd>CCI ST 40095-002 - CRN 21206</dd>
   </div>
@@ -233,7 +233,7 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 | B |  83-86% |
 | B- |  80-82% |
 | C |  70-79% |
-| D |  60-69% |
+| D |  60-70% |
 | F |  < 60% |
 
 

@@ -27,10 +27,12 @@
 		<style>
 			@charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 /* Set body type and consistent margins/padding */
 
 body {
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	padding: 0;
 	margin: 0;
 }
@@ -184,7 +186,7 @@ p a:hover, p a:focus {
 /* Headings */
 
 h1, h2, h3 {
-	font-family: nimbus-sans-condensed, "Arial Narrow", sans-serif;
+	font-family: 'Lato', "Arial Narrow", sans-serif;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
@@ -275,7 +277,7 @@ h3 {
 	line-height: 1.2;
 	text-transform: none;
 	letter-spacing: inherit;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 aside h3 {
@@ -289,7 +291,7 @@ aside ul {
 
 h4 {
 	font-size: 1.2em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	margin-bottom: 0;
 }
 
@@ -394,6 +396,7 @@ main img {
 
 /* Animations for Devices */
 
+@media screen and (min-width: 800px) {
 @keyframes fadeInUp {
   from {
     opacity: 0;
@@ -471,7 +474,7 @@ main img {
 		opacity: 100;
 	}
 }
-
+}
 
 /* Blog Teasers */
 
@@ -579,6 +582,10 @@ header {
 }
 
 @media screen and (min-width: 880px) {
+
+	header {
+		margin-bottom: 1.5em;
+	}
 	.header-inner {
 		display:flex;
 		align-items:center;
@@ -597,6 +604,7 @@ header {
 	width: 100%;
 	max-width: 1500px;
 	padding: 0 10em;
+	margin-bottom: inherit;
 	}
 }
 
@@ -669,6 +677,32 @@ a.svg:after {
 	animation-fill-mode: forwards;
 }
 
+@keyframes move {
+	0% {
+		transform: translate(0,0) scale(1.0);
+	}
+	100% {
+		transform: translate(13%,19%) scale(.8);
+	}
+}
+
+@keyframes move-left {
+	0% {
+		transform: translate(0,0);
+	}
+	100% {
+		transform: translate(-25%, 0);
+	}
+}
+
+@keyframes move-right {
+	0% {
+		transform: translate(0,0);
+	}
+	100% {
+		transform: translate(25%, 0);
+	}
+}
 
 @media screen and (min-width:600px) {
 
@@ -740,16 +774,16 @@ main {
 }
 
 p.introduction {
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
-	font-size: 1.1em;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-size: 1.15em;
 	margin-top: 0;
-	line-height: 1.4;
+	line-height: 1.55;
 	color: black;
 	font-weight: 300;
 }
 
 p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	font-size: 1.3rem;
 	margin-top: 0;
 	font-weight: normal;
@@ -1000,7 +1034,7 @@ aside.aside-home {
 	line-height: 1.1;
 	text-align: center;
 	font-weight: 300;
-	font-family: "nimbus-sans", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	text-transform: none;
 	color: white;
 	letter-spacing: normal;
@@ -1117,7 +1151,7 @@ aside.aside-home {
 
 nav {
 	display: block;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	padding: .5em .0;
 	margin: 0 auto;
 	margin-top: 0em;
@@ -1325,6 +1359,7 @@ footer p {
 	color: white;
 	margin: 0;
 	padding: 0;
+	margin-bottom:.5em;
 }
 
 footer a {
@@ -1353,7 +1388,7 @@ footer img {
 	padding-right: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .footer-heading:after {
@@ -1362,7 +1397,7 @@ footer img {
 	padding-left: .5em;
 	font-weight: bold;
 	font-size: .9em;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .footer-supplemental {
@@ -1371,7 +1406,7 @@ footer img {
 }
 
 .footer-supplemental a {
-	margin: 0 1.5em;
+	margin: .5em 1.5em;
 	padding: .5em 0;
 	display: inline-block;
 }
@@ -1428,7 +1463,7 @@ footer img {
 	text-decoration: none;
 	background-color: rgb(26,117,138);
 	color: white;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	font-size: .9em;
 	padding: 1.25rem 1.5rem;
 	display: inline-block;
@@ -1517,7 +1552,7 @@ footer img {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	font-family: "proxima-nova-soft", Helvetica, Arial, sans-serif;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
 	padding: .75em;
 	border-radius: 5px;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
@@ -1671,7 +1706,7 @@ blockquote p {
 	left: 0;
 }
 
-.@media screen and (min-width: 600px) {
+@media screen and (min-width: 600px) {
 	.gallery-container:before {
 		margin-left: -2em;
 	}
@@ -1898,9 +1933,155 @@ blockquote p {
 	}
 }
 
+/* Flickity */
+
+/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */
+
+.flickity-enabled {
+  position: relative;
+}
+
+.flickity-enabled:focus { outline: none; }
+
+.flickity-viewport {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+}
+
+.flickity-slider {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+/* draggable */
+
+.flickity-enabled.is-draggable {
+  -webkit-tap-highlight-color: transparent;
+          tap-highlight-color: transparent;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+.flickity-enabled.is-draggable .flickity-viewport {
+  cursor: move;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+
+/* ---- previous/next buttons ---- */
+
+.flickity-prev-next-button {
+  position: absolute;
+  top: 50%;
+  width: 44px;
+  height: 44px;
+  border: none;
+  border-radius: 50%;
+  background: white;
+  background: hsla(0, 0%, 100%, 0.75);
+  cursor: pointer;
+  /* vertically center */
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.flickity-prev-next-button:hover { background: white; }
+
+.flickity-prev-next-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 5px #09F;
+}
+
+.flickity-prev-next-button:active {
+  opacity: 0.6;
+}
+
+.flickity-prev-next-button.previous { left: 10px; }
+.flickity-prev-next-button.next { right: 10px; }
+/* right to left */
+.flickity-rtl .flickity-prev-next-button.previous {
+  left: auto;
+  right: 10px;
+}
+.flickity-rtl .flickity-prev-next-button.next {
+  right: auto;
+  left: 10px;
+}
+
+.flickity-prev-next-button:disabled {
+  opacity: 0.3;
+  cursor: auto;
+}
+
+.flickity-prev-next-button svg {
+  position: absolute;
+  left: 20%;
+  top: 20%;
+  width: 60%;
+  height: 60%;
+}
+
+.flickity-prev-next-button .arrow {
+  fill: #333;
+}
+
+/* ---- page dots ---- */
+
+.flickity-page-dots {
+  position: absolute;
+  width: 100%;
+  bottom: -25px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+  line-height: 1;
+}
+
+.flickity-rtl .flickity-page-dots { direction: rtl; }
+
+.flickity-page-dots .dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 0 8px;
+  background: #333;
+  border-radius: 50%;
+  opacity: 0.25;
+  cursor: pointer;
+}
+
+.flickity-page-dots .dot.is-selected {
+  opacity: 1;
+}
+
+/* enable Flickity by default */
+.gallery:after {
+  content: 'flickity';
+  display: none; /* hide :after */
+}
+
+@media screen and ( min-width: 800px ) {
+  /* disable Flickity for large devices */
+  .gallery:after {
+    content: '';
+  }
+}
+
 		</style>
-		<link rel="canonical" href="http://www.rwdkent.com/class/groups/group4/">
-		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="http://www.rwdkent.com/feed.xml" />
+		<link rel="canonical" href="https://rwdkent.com/class/groups/group4/">
+		<link rel="alternate" type="application/rss+xml" title="Responsive Web Design Kent State" href="https://rwdkent.com/feed.xml" />
 	</head>
 	<body>
 		<header class="group" role="banner">
