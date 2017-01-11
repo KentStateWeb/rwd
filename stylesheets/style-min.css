@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Set body type and consistent margins/padding */
 body {
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   padding: 0;
   margin: 0; }
 
@@ -178,7 +178,7 @@ h2 {
   padding-top: .5em; }
 
 .blog-post-title h3 {
-  font-size: 1.2em; }
+  font-size: 1.1em; }
 
 /*h2:before {
 	content: "<";
@@ -215,6 +215,14 @@ h4 {
   font-size: 1.2em;
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
   margin-bottom: 0; }
+
+h4 a {
+  color: #1a758a;
+  text-decoration: none; }
+
+.item-summary {
+  font-size: 1em;
+  margin-top: .5em; }
 
 /* Feature Images */
 main img {
@@ -557,7 +565,7 @@ main {
     padding: 0 6em; } }
 
 p.introduction {
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   font-size: 1em;
   margin-top: 0;
   line-height: 1.55;
@@ -565,7 +573,7 @@ p.introduction {
   font-weight: 300; }
 
 p.section-introduction, .main-content-area-full p.section-introduction, .main-content-area-wide p.section-introduction {
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   font-size: 1.1rem;
   margin-top: 0;
   font-weight: normal;
@@ -841,7 +849,7 @@ aside section {
 /* Navigation */
 nav {
   display: block;
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   padding: .5em .0;
   margin: 0 auto;
   margin-top: 0em;
@@ -1023,7 +1031,7 @@ footer img {
   padding-right: .5em;
   font-weight: bold;
   font-size: .9em;
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif; }
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif; }
 
 .footer-heading:after {
   color: #f06374;
@@ -1031,7 +1039,7 @@ footer img {
   padding-left: .5em;
   font-weight: bold;
   font-size: .9em;
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif; }
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif; }
 
 .footer-supplemental {
   font-size: .8em;
@@ -1079,7 +1087,7 @@ footer img {
   text-decoration: none;
   background-color: #1a758a;
   color: white;
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   font-size: .9em;
   padding: 1.25rem 1.5rem;
   display: inline-block;
@@ -1147,7 +1155,7 @@ footer img {
   display: inline-block;
   color: white;
   text-align: center;
-  font-family: 'Droid+Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
   padding: .75em;
   border-radius: 5px;
   box-shadow: 4px 4px 0px #f06374;
@@ -1234,6 +1242,9 @@ blockquote p {
   margin-bottom: 2em;
   /*width: calc(100% + .9em);*/
   height: 90%; }
+
+.gallery-container__advanced {
+  background-color: rgba(151, 151, 151, 0.1); }
 
 @media screen and (min-width: 600px) {
   .gallery-container {

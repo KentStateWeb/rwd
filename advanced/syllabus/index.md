@@ -58,66 +58,109 @@ The syllabus and course schedule may be subject to change. Changes will be commu
 
 In this course, students will:
 
-* Course goals here
+* Collaborate to develop and launch a professional-level, working website and design system using responsive design principles
+* Work as a team to solve complex problems around content, user experience, design and content management systems
+* Get regular feedback on design decisions from the semester's client
+* Utilize project management and agile/Scrum-inspired skills to effectively manage time, resources and project deliverables
 
 ### Learning outcomes
 
 Most importantly, by the end of this course, students will be able to:
 
-*  Learning outcomes here
+*  Understand how a website or interactive property is developed from the beginning to the end, recognizing the various disciplines and roles involved
+* Have the skills to create responsive patterns and HTML/CSS/JavaScript, fill those patterns with actual working content, arrange patterns and content to meet user goals and populate those designs into a working content management system
+* Interact successfully with clients on real-world projects, taking their feedback and priorities/goals into account
+* Apply project management skills to future projects, including resource management, task/deliverable timing and team collaboration skills
 
 ### Course Textbook and Materials
 
-No required textbooks.  I will assign select readings from [Brad Frost's Atomic Design book](http://atomicdesign.bradfrost.com).
+Because this course is centered primarily around the completion of a collaborative client project, there are no required textbooks.  I will assign select readings from [Brad Frost's Atomic Design book](http://atomicdesign.bradfrost.com) and other websites as needed.
 
-This course will also make use of video tutorials from Lynda.com (available at no charge to students taking this course), as well as free online readings and videos.
 
 ### Class Structure
 
 This will be a non-traditional class, as there won't be formal lectures or testing.  Classes will loosely run as follows:
 
-1.  Weekly group "stand-up" sessions: 5-10 minutes each.  Each team lead will provide updates from the group on what they worked on during the previous week, any problems they are having and what they expect to focus on for the next week.
-2.  Collaborative working time and consultation with the instructor.
-3.  Solidify tasks and planning for the coming week.
+1.  Weekly group Scrum sessions: 15 minutes each (1 in person, 1 virtual).  At the beginning of class, each team lead will provide updates from the group on what they worked on during the previous week, any problems they are having and what they expect to focus on for the next week.
+2.  Collaborative working time and consultation with the instructor during each class.
+3.  Solidifying tasks and planning for the upcoming sprint (Sprint Planning) at the end of each sprint.
+4.  Reviewing output from the previous sprint (Sprint Review) and evaluating the group's working process (Sprint Retrospective) every few weeks.
+5. Working outside of class (at least 2 hours per week) on project deliverables.
 
 ### Preparing for Class
 Students are expected to come to class prepared.  This means:
 
-* Familiarization with the recommended readings or concepts, based on tasks for the week.
-* Readiness to participate in discussions, work sessions and update sessions.
-* Turning in assigned journal entries prior to class beginning.
+* Readiness to fully participate in discussions, work sessions and update sessions.
+* Turning in assigned survey entries prior to each sprint.
 * Completing assigned tasks and updating team lead each week.
+* Taking the initiative to communicate and collaborate with team members, as needed.
+
+### Class Roles
+
+Officially, the Scrum framework (which we'll be using to organize the semester project) recognizes no specific roles or titles for development team members.  This ensures there are no barriers to collaboration - everyone is equally responsible for the end result.  
+
+However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.  
+
+You may, with the permission of the instructor, choose to trade roles with another team member at the beginning of a sprint, if needed.  
+
+#### Content Strategy & User Experience
+
+**3 Members (with 1 designated lead)**
+
+The User Experience (UX) team is responsible for advocating for all functionality related to how users interact with the product and the goals and user flows that drive them.  This includes testing and getting feedback from actual end-users of the product.  They will be particularly immersed in developing and refining content, requesting content from stakeholders (by way of the account manager.   The UX team is responsible for documenting how the content must be developed to speak to the users and their needs for future content development.
+
+The User Experience team must work directly with visual designers to ensure design elements are derived from real content and all design interactions make sense for the users.  They must also be in continual contact with the CMS team, ensuring the appropriate content types are built out in the CMS and the CMS architecture accurately represents the flows and needs of the end user.   Additionally the UX team is responsible for building out the final content (including media, photos, text) into the CMS for release.
+
+
+#### Visual Design and Front-End Development
+
+**3 Members (with 1 designated lead, graduate student preferred)**
+
+The Visual Design team is responsible for the visual design patterns as well as the general design language to be utilized for the product.  While the design team may sketch and wireframe concepts in static design programs, design patterns must ultimately be developed into responsive design patterns that are in working condition.  Additionally, by the end of the product, a library of design patterns and language used in the website will be developed.  
+
+The Visual Design team must collaborate closely with the UX team to ensure appropriate patterns are being designed to accomplish user goals.  Additionally, the patterns should incorporate real content that has been developed and written by the UX team.  They visual design team must also collaborate with the CMS team, ensuring their design patterns are properly integrated into the CMS and that the patterns ultimately work together to establish a cohesive design in the final website.
+
+
+#### Content Management System and Back-End Development
+
+**3 Members (with 1 designated lead)**
+
+Content Content Management System team is responsible for the final technical architecture that users will interact with, via the CMS.  They’ll also work closely on items that require more advanced database or dynamic functionality, including JavaScript.  This team will ultimately define the content structure and types in the CMS, building out HTML templates, CSS (SASS) and JavaScript that has been technically tested and takes performance and accessibility into account.  
+
+The CMS team will work closely with the content/UX team to ensure appropriate content types are developed and that those content types are intuitive for CMS users to input content.  They’ll also work closely with the visual design team, taking completed design patterns and integrating them into the final templates via HTML, CSS and JavaScript.  The CMS team will ultimately tie everything together for the public release.
+
+
+#### Non-classroom role:  Account Manager
+
+The amount manager, who will work directly with the instructor (Product Owner), is responsible for managing direct communications with stakeholders and the client.  If something is needed from the client, or a meeting is to be scheduled, the account manager will ensure requests are made according to deadlines and communication flows back to the development team and instructor.  The account manager will frequently attend Scrum meetings and classroom sessions and summarize Sprint planning and retrospectives, ensuring transparency among team members.
 
 ### Course Schedule
 
-Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com) and the Basecamp project management system.
+Information on preparing for class will be posted to the [class website](http://www.rwdkent.com) and on Trello (the project planning system).
 
 Because of the nature of this project, dates and priorities may change as the project progresses.
 
 <div class="page-break"></div>
 
 ### Assignments
-Student learning will be assessed through three types of work: in-class participation, in-class quizzes, short assignments and a multi-stage small group/individual project.
+Student learning will be assessed through the following types of work: in-class participation, out of class participation and periodic surveys.
+
+This includes:
+
+* Attending 15 minute virtual Scrum each week (attendance taken by Scrum Master)
+* Completing and logging their assigned tasks on Scrum Board at least 2 hours of project-related work per week
+* Attending each class, including 15 minute in-person Scrum
+* Completing a retrospective survey at the end of each Scrum (5 surveys)
+* Completing the peer evaluation survey at the end of the semester
 
 <dl>
   <dt>Graduate Students</dt>
-  <dd>Graduate student assignments may include a more challenging component than undergraduate assignments to support advanced mastery of the subject.  When working in collaboration with an undergraduate student, only the graduate student is required to complete this component of the assignment.</dd>
+  <dd>Graduate student assignments may include a more challenging leadership role to support advanced mastery of the subject.  When working in collaboration with an undergraduate student, only the graduate student is required to complete this component of the assignment.</dd>
 </dl>
 
 There are **100** total possible points for the semester.
 
-<h4>Project Milestones</h4>
-
-* Assignments here
-
-<h4>Individual Journal Updates & Attendance</h4>
-
-* Assignments here
-
-
-<h4>Self and Team Evaluation</h4>
-
-* Assignments here
+Coming soon
 
 
 <!--<div class="table-float">
@@ -181,20 +224,18 @@ There are **100** total possible points for the semester.
 
 ### Attendance Policy
 
-We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
+Attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 
-Students who miss more than two classes without proper documentation will receive a 0 for their class participation grade for the semester.
+Students who miss more than two classes without proper documentation will receive a 0 for their class attendance grade for the semester (10% of grade).
 
 In addition to class, there will be other required meetings or out-of-class working sessions.  Attendance at these sessions (dates and times agreed upon by the group) are critical and will be reflected in the participation grade.
 
-If you miss class, you are still responsible for contacting the instructor to see what was assigned that day, as well as meeting all assignment deadlines.
-
-Some assignments, such as in-class presentations, testing and quizzes, require attendance in order to receive full credit for the assignment.
+If you miss class, you are still responsible for contacting the team lead to see what was assigned that day, as well as meeting all assignment deadlines.
 
 ### Late Submissions
-The assignments deadlines are to help you manage the workload and stay on track with the course. If an assignment will be late, students must contact the instructor and explain. Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation).
+Late submissions in this class will not be accepted, unless the student has a university-approved excuse.  Kent State accepts the following reasons for late assignments: sickness with medical note, athletic event (with coach’s note), religious observation, military responsibility (with documentation), death in the family (with documentation).
 
-Because of the nature of the course, all milestone deadlines must be met.  If deadlines are consistently missed, the group's performance grade for each milestone will be reduced accordingly.
+Because of the nature of the course, all milestone deadlines must be met.  If deadlines are consistently missed, the student's retrospective survey grade for each milestone will be reduced accordingly.
 
 ### Group Work
 
@@ -212,7 +253,7 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 | B |  83-86% |
 | B- |  80-82% |
 | C |  70-79% |
-| D |  60-70% |
+| D |  60-69% |
 | F |  < 60% |
 
 
@@ -221,8 +262,8 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 * Although a laptop is not required, if you have a laptop you are encouraged to bring it to class, as it may be helpful for following along in class.  You’ll also be viewing and testing your work on multiple devices, so phones and tablets are encouraged.
 * Computers will be provided for in-class work, but you may be asked to share with another student.  Students will also be permitted to work on these computers outside of class, when needed.
 * We will be using a variety of free and paid software programs and tools.
-* Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, you will need to purchase a license, although certain licenses may be provided for the duration of the course only.
-* Software programs and tools to be used in the course include: Sketch, CodeKit, MAMP Pro, Photoshop, Tower, Illustrator, Atom, GitHub, web browsers and Google Drive.
+* Paid software may only be used on university-owned computers and will be provided at no charge.  If you would like to use paid software on your personal computer, the instructor may provide a license.  However, the license must be deactivated at the end of the semester.
+* Software programs and tools to be used in the course include: Sketch, CodeKit, MAMP Pro, Tower, Illustrator, Atom, GitHub, web browsers and Google Drive.
 
 <div class="page-break"></div>
 
