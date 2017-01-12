@@ -5,18 +5,30 @@ title: Groups & Projects
 
 <a href="/advanced" class="button small">Return to Class</a>
 
-<p>You can learn more about the semester project in general by reading the <a href="/class/assignments/project-summary.html">Project Summary</a>.</p>
+Officially, Scrum recognizes no specific roles or titles for development team members.  This ensures there are no barriers to collaboration - everyone is equally responsible for the end result.  
 
-## Groups + Projects ##
+However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.  
 
-{% assign items = site.groups | sort: "number" %}
-<ul>
+You may, with the permission of the instructor, choose to trade roles with another team member at the beginning of a sprint, if needed.  
+
+
+## Subgroups ##
+
+{% assign items = site.groups_arwd | sort: "number" %}
+
+<section>
 {% for item in items %}
-	{% if item.semester == 'fall-2016' %}
-	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
+	{% if item.semester == 'spring-2017' %}
+		<h3>{{ item.title }}</h3>
+		<dl>
+		<dt>Members</dt>
+		<dd>{{ item.members }}</dd>
+		</dl>
+		<p>{{ item.description }}</p>
 	{% endif %}
 {% endfor %}
-</ul>
+</section>
+<br/>
 
 <h2>Group Work Rules & Expectations</h2>
 
