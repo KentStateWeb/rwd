@@ -23,7 +23,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/assessment.html",
 		"oF": 0,
 		"oFM": 0,
@@ -41,7 +41,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/casestudy.html",
 		"oF": 0,
 		"oFM": 0,
@@ -59,7 +59,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/content.html",
 		"oF": 0,
 		"oFM": 0,
@@ -77,7 +77,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/css.html",
 		"oF": 0,
 		"oFM": 0,
@@ -95,7 +95,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/css2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -113,7 +113,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/assessment.html",
 		"oF": 0,
 		"oFM": 0,
@@ -131,7 +131,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/casestudy.html",
 		"oF": 0,
 		"oFM": 0,
@@ -149,7 +149,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/content.html",
 		"oF": 0,
 		"oFM": 0,
@@ -167,7 +167,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/css.html",
 		"oF": 0,
 		"oFM": 0,
@@ -185,7 +185,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/css2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -203,7 +203,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/html.html",
 		"oF": 0,
 		"oFM": 0,
@@ -221,7 +221,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/html2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -239,7 +239,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/layout.html",
 		"oF": 0,
 		"oFM": 0,
@@ -257,7 +257,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/participation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -275,7 +275,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/research.html",
 		"oF": 0,
 		"oFM": 0,
@@ -293,7 +293,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/sketching.html",
 		"oF": 0,
 		"oFM": 0,
@@ -311,7 +311,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/style.html",
 		"oF": 0,
 		"oFM": 0,
@@ -329,7 +329,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/styleguide.html",
 		"oF": 0,
 		"oFM": 0,
@@ -347,7 +347,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/templates.html",
 		"oF": 0,
 		"oFM": 0,
@@ -365,7 +365,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/testing.html",
 		"oF": 0,
 		"oFM": 0,
@@ -383,7 +383,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/timeline-presentation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -401,7 +401,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/fall-2015\/wireframes.html",
 		"oF": 0,
 		"oFM": 0,
@@ -419,7 +419,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/html.html",
 		"oF": 0,
 		"oFM": 0,
@@ -437,7 +437,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/html2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -575,7 +575,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/layout.html",
 		"oF": 0,
 		"oFM": 0,
@@ -593,7 +593,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/layout2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -611,7 +611,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/participation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -629,7 +629,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/quizzes.html",
 		"oF": 0,
 		"oFM": 0,
@@ -647,7 +647,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/research.html",
 		"oF": 0,
 		"oFM": 0,
@@ -665,7 +665,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/sketching.html",
 		"oF": 0,
 		"oFM": 0,
@@ -683,7 +683,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/assessment.html",
 		"oF": 0,
 		"oFM": 0,
@@ -701,7 +701,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/casestudy.html",
 		"oF": 0,
 		"oFM": 0,
@@ -719,7 +719,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/content.html",
 		"oF": 0,
 		"oFM": 0,
@@ -737,7 +737,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/css.html",
 		"oF": 0,
 		"oFM": 0,
@@ -755,7 +755,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/css2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -773,7 +773,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/html.html",
 		"oF": 0,
 		"oFM": 0,
@@ -791,7 +791,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/html2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -809,7 +809,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/layout.html",
 		"oF": 0,
 		"oFM": 0,
@@ -827,7 +827,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/layout2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -845,7 +845,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/participation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -863,7 +863,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/quizzes.html",
 		"oF": 0,
 		"oFM": 0,
@@ -881,7 +881,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/research.html",
 		"oF": 0,
 		"oFM": 0,
@@ -899,7 +899,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/sketching.html",
 		"oF": 0,
 		"oFM": 0,
@@ -917,7 +917,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/style.html",
 		"oF": 0,
 		"oFM": 0,
@@ -935,7 +935,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/styleguide.html",
 		"oF": 0,
 		"oFM": 0,
@@ -953,7 +953,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/templates.html",
 		"oF": 0,
 		"oFM": 0,
@@ -971,7 +971,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/testing.html",
 		"oF": 0,
 		"oFM": 0,
@@ -989,7 +989,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/timeline-presentation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1007,7 +1007,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/spring-2016\/wireframes.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1025,7 +1025,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/style.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1043,7 +1043,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/styleguide.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1061,7 +1061,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/templates.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1079,7 +1079,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/testing.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1097,7 +1097,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/timeline-presentation.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1115,8 +1115,290 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_assignments\/wireframes.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/attendance.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/attendance.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/images\/first-row-large.png": {
+		"ft": 32768,
+		"iS": 20216,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/first-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/first-row-small.png": {
+		"ft": 32768,
+		"iS": 22454,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/first-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/footer.png": {
+		"ft": 32768,
+		"iS": 8251,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/footer.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/header-large.png": {
+		"ft": 32768,
+		"iS": 25055,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/header-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/header.png": {
+		"ft": 32768,
+		"iS": 17868,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/large.png": {
+		"ft": 32768,
+		"iS": 344004,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/medium.png": {
+		"ft": 32768,
+		"iS": 361086,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/nav-large.png": {
+		"ft": 32768,
+		"iS": 9338,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/nav-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/nav-small.png": {
+		"ft": 32768,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/nav-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/second-row-large.png": {
+		"ft": 32768,
+		"iS": 248413,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/second-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/second-row-small.png": {
+		"ft": 32768,
+		"iS": 189538,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/second-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/small.png": {
+		"ft": 32768,
+		"iS": 315385,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-large.png": {
+		"ft": 32768,
+		"iS": 48783,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-medium.png": {
+		"ft": 32768,
+		"iS": 46078,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-small.png": {
+		"ft": 32768,
+		"iS": 50564,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/peer.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/peer.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/survey1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/survey2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/survey3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey4.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/survey4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey5.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/survey5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/task.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/task.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/teaching.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/teaching.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1133,7 +1415,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/1.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1151,7 +1433,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/10.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1169,7 +1451,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/11.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1187,7 +1469,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/12.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1205,7 +1487,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/13.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1223,7 +1505,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/14.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1241,7 +1523,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/15.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1259,7 +1541,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/16.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1277,7 +1559,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1295,7 +1577,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/3.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1313,7 +1595,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/4.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1331,7 +1613,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/5.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1349,7 +1631,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/6.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1367,7 +1649,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/7.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1385,7 +1667,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/8.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1403,7 +1685,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_classes\/9.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1413,7 +1695,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/1.md": {
+	"\/_classes\/fall-2016\/1.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1421,8 +1703,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/1.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/1.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1431,7 +1713,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/10.md": {
+	"\/_classes\/fall-2016\/10.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1439,8 +1721,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/10.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/10.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1449,7 +1731,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/11.md": {
+	"\/_classes\/fall-2016\/11.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1457,8 +1739,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/11.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/11.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1467,7 +1749,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/12.md": {
+	"\/_classes\/fall-2016\/12.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1475,8 +1757,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/12.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/12.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1485,7 +1767,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/13.md": {
+	"\/_classes\/fall-2016\/13.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1493,8 +1775,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/13.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/13.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1503,7 +1785,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/14.md": {
+	"\/_classes\/fall-2016\/14.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1511,8 +1793,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/14.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/14.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1521,7 +1803,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/15.md": {
+	"\/_classes\/fall-2016\/15.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1529,8 +1811,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/15.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/15.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1539,7 +1821,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/16.md": {
+	"\/_classes\/fall-2016\/16.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1547,8 +1829,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/16.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/16.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1557,7 +1839,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/2.md": {
+	"\/_classes\/fall-2016\/2.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1565,8 +1847,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/2.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/2.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1575,7 +1857,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/3.md": {
+	"\/_classes\/fall-2016\/3.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1583,8 +1865,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/3.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/3.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1593,7 +1875,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/4.md": {
+	"\/_classes\/fall-2016\/4.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1601,8 +1883,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/4.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/4.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1611,7 +1893,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/5.md": {
+	"\/_classes\/fall-2016\/5.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1619,8 +1901,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/5.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/5.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1629,7 +1911,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/6.md": {
+	"\/_classes\/fall-2016\/6.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1637,8 +1919,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/6.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/6.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1647,7 +1929,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/7.md": {
+	"\/_classes\/fall-2016\/7.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1655,8 +1937,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/7.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/7.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1665,7 +1947,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/8.md": {
+	"\/_classes\/fall-2016\/8.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1673,8 +1955,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/8.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/8.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1683,7 +1965,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/9.md": {
+	"\/_classes\/fall-2016\/9.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1691,8 +1973,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/fall-2015\/9.html",
+		"oA": 1,
+		"oAP": "\/_classes\/fall-2016\/9.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1701,7 +1983,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/1.md": {
+	"\/_classes_arwd\/1.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1709,8 +1991,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/1.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/1.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1719,7 +2001,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/10.md": {
+	"\/_classes_arwd\/10.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1727,8 +2009,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/10.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/10.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1737,7 +2019,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/11.md": {
+	"\/_classes_arwd\/11.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1745,8 +2027,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/11.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/11.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1755,7 +2037,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/12.md": {
+	"\/_classes_arwd\/12.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1763,8 +2045,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/12.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/12.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1773,7 +2055,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/13.md": {
+	"\/_classes_arwd\/13.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1781,8 +2063,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/13.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/13.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1791,7 +2073,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/14.md": {
+	"\/_classes_arwd\/14.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1799,8 +2081,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/14.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/14.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1809,7 +2091,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/15.md": {
+	"\/_classes_arwd\/15.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1817,8 +2099,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/15.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/15.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1827,7 +2109,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/16.md": {
+	"\/_classes_arwd\/16.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1835,8 +2117,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/16.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/16.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1845,7 +2127,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/2.md": {
+	"\/_classes_arwd\/2.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1853,8 +2135,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/2.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/2.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1863,7 +2145,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/3.md": {
+	"\/_classes_arwd\/3.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1871,8 +2153,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/3.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/3.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1881,7 +2163,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/4.md": {
+	"\/_classes_arwd\/4.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1889,8 +2171,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/4.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/4.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1899,7 +2181,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/5.md": {
+	"\/_classes_arwd\/5.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1907,8 +2189,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/5.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/5.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1917,7 +2199,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/6.md": {
+	"\/_classes_arwd\/6.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1925,8 +2207,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/6.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/6.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1935,7 +2217,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/7.md": {
+	"\/_classes_arwd\/7.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1943,8 +2225,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/7.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/7.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1953,7 +2235,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/8.md": {
+	"\/_classes_arwd\/8.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1961,8 +2243,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/8.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/8.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1971,7 +2253,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/9.md": {
+	"\/_classes_arwd\/9.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1979,8 +2261,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_classes\/spring-2016\/9.html",
+		"oA": 1,
+		"oAP": "\/_classes_arwd\/9.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2391,7 +2673,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group1.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2409,7 +2691,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2427,7 +2709,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group3.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2445,7 +2727,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group4.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2463,7 +2745,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group5.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2481,7 +2763,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group6.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2499,7 +2781,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/fall-2015\/group7.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2517,7 +2799,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group####.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2535,7 +2817,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group###.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2553,7 +2835,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group##.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2571,7 +2853,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group1.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2589,7 +2871,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2607,7 +2889,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group3.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2625,7 +2907,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group4.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2643,7 +2925,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group5.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2661,7 +2943,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group6.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2679,7 +2961,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group7.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2697,7 +2979,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group8.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2715,7 +2997,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/group9.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2733,7 +3015,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group1.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2751,7 +3033,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group2.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2769,7 +3051,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group3.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2787,7 +3069,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group4.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2805,7 +3087,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group5.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2823,7 +3105,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group6.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2841,7 +3123,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group7.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2859,7 +3141,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group8.html",
 		"oF": 0,
 		"oFM": 0,
@@ -2877,8 +3159,900 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_groups\/spring-2016\/group9.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/assets\/group1\/barb.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group1\/barb.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group1\/barb.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group1\/barb.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group1\/barb.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group1\/barb.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group1\/Barbs-Bridal-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group1\/Barbs-Bridal-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group1\/Group-1-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group1\/Group-1-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group10\/creativekids.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group10\/creativekids.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group10\/group-10-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group10\/group-10-content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group11\/group-11-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group11\/group-11-content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group11\/pets-first-color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group11\/pets-first-color.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group11\/pets-first-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group11\/pets-first-color.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group12\/group-12-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group12\/group-12-content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group12\/HoppsHouse-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group12\/HoppsHouse-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group12\/HoppsHouse-mark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group12\/HoppsHouse-mark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group12\/HoppsHouse.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group12\/HoppsHouse.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group2\/Group-2-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group2\/Group-2-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group2\/Summit-St-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group2\/Summit-St-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group2\/summitst.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group2\/summitst.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group2\/summitst.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group2\/summitst.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group2\/summitst.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group2\/summitst.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/aroma.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/aroma.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/aroma.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/aroma.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/aroma.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/aroma.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/AromaCoffee-Rachel.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/AromaCoffee-Rachel.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/AromaCoffee-Todd.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/AromaCoffee-Todd.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group3\/Group-3-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group3\/Group-3-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group4\/Group-4-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group4\/Group-4-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group4\/Wrench-Automative-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group4\/Wrench-Automative-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group4\/wrench.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group4\/wrench.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group4\/wrench.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group4\/wrench.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group4\/wrench.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group4\/wrench.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/Group-5-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/Group-5-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/Off-The-Vine-Colors.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/Off-The-Vine-Colors.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/Off-The-Vine-Final.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/Off-The-Vine-Final.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/Off-The-Vine-Final.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/Off-The-Vine-Final.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/off-the-vine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/off-the-vine.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group5\/OfftheVine-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group5\/OfftheVine-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group6\/buckeye.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group6\/buckeye.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group6\/buckeye.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group6\/buckeye.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group6\/buckeye.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group6\/buckeye.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group6\/Group-6-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group6\/Group-6-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group7\/Group-7-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group7\/Group-7-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group7\/Group7-WilliamThomas-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group7\/Group7-WilliamThomas-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group7\/williamthomas.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group7\/williamthomas.ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group7\/williamthomas.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group7\/williamthomas.eps",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group7\/williamthomas.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group7\/williamthomas.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group8\/FranklinCounty-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group8\/FranklinCounty-Plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group8\/FranklinCountyLogo-02.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group8\/FranklinCountyLogo-02.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group8\/Group-8-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group8\/Group-8-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group9\/ChopShopSalonLogo-01.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group9\/ChopShopSalonLogo-01.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_groups_arwd\/assets\/group9\/Group-9-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group9\/Group-9-Content.zip",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/group9\/OhioChopShop-plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/group9\/OhioChopShop-plan.pdf",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/RWD_ClassLogos (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/RWD_ClassLogos (CS6).ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/assets\/RWD_ClassLogos2 (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_groups_arwd\/assets\/RWD_ClassLogos2 (CS6).ai",
+		"oF": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group4.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group5.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group6.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group6.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/fall-2015\/group7.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/fall-2015\/group7.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group####.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group####.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group###.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group###.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group##.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group##.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group4.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group5.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group6.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group6.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group7.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group7.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group8.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group8.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/group9.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/group9.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group4.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group5.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group6.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group6.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group7.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group7.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group8.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group8.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/spring-2016\/group9.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_groups_arwd\/spring-2016\/group9.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2991,7 +4165,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-07-16-launching-the-rwd-website.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3009,7 +4183,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-07-17-class-resources.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3027,7 +4201,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-08-26-welcome-to-rwd.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3045,7 +4219,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-08-5-rustbelt-refresh-scholarships.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3063,7 +4237,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-09-03-week2-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3081,7 +4255,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-09-10-week3-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3099,7 +4273,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-09-16-free-text-editors.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3117,7 +4291,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-10-01-week6-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3135,7 +4309,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-10-08-week7-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3153,7 +4327,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-10-16-rwd-survey-week8-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3171,7 +4345,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-11-13-week12-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3189,7 +4363,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-11-17-pizza.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3207,7 +4381,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-11-19-week13-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3225,7 +4399,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-11-24-class-officehours.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3243,7 +4417,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-11-30-week14-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3261,7 +4435,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-12-08-week15-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3279,7 +4453,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2015-12-14-finalsweek-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3297,7 +4471,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-01-04-welcome-to-rwd.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3315,7 +4489,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-01-22-week2-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3333,7 +4507,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-02-05-week4-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3351,7 +4525,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-02-12-week5-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3369,7 +4543,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-02-21-week6-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3387,7 +4561,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-02-25-week7-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3405,7 +4579,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-03-03-rwd-survey-week8-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3423,7 +4597,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-03-11-week9-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3441,7 +4615,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-03-25-week10-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3459,7 +4633,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-04-01-week11-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3477,7 +4651,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-04-08-week12-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3495,7 +4669,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-04-24-week14-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3513,7 +4687,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-04-29-week15-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3531,7 +4705,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-05-05-finalsweek-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3549,7 +4723,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-08-19-welcome-to-rwd.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3567,7 +4741,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-09-02-week2-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3585,7 +4759,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-09-08-week3-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3603,7 +4777,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-09-15-week4-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3621,7 +4795,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-09-23-week5-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3639,7 +4813,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-09-30-week6-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3657,7 +4831,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-1-29-week3-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3675,7 +4849,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-10-07-week7-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3693,7 +4867,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-10-13-week8-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3711,7 +4885,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-10-21-week9-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3729,7 +4903,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-10-28-week10-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3747,7 +4921,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-11-04-week11-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3765,7 +4939,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-11-13-week12-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3783,7 +4957,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-11-20-week13-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3801,7 +4975,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-11-28-week14-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3819,7 +4993,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-12-05-week15-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3837,7 +5011,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-12-09-finalsweek-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3855,7 +5029,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2016-4-17-week13-preview.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3873,7 +5047,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_posts\/2017-01-13-welcome-to-rwd.html",
 		"oF": 0,
 		"oFM": 0,
@@ -3889,11 +5063,131 @@
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/assignments\/fall-2015\/index.html": {
+	"\/_site\/advanced\/assignments\/attendance\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/fall-2015\/index.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/attendance\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/first-row-large.png": {
+		"ft": 32768,
+		"iS": 20216,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/first-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/first-row-small.png": {
+		"ft": 32768,
+		"iS": 22454,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/first-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/footer.png": {
+		"ft": 32768,
+		"iS": 8251,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/footer.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/header-large.png": {
+		"ft": 32768,
+		"iS": 25055,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/header-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/header.png": {
+		"ft": 32768,
+		"iS": 17868,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/large.png": {
+		"ft": 32768,
+		"iS": 344004,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/medium.png": {
+		"ft": 32768,
+		"iS": 361086,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/nav-large.png": {
+		"ft": 32768,
+		"iS": 9338,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/nav-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/nav-small.png": {
+		"ft": 32768,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/nav-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/second-row-large.png": {
+		"ft": 32768,
+		"iS": 248413,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/second-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/second-row-small.png": {
+		"ft": 32768,
+		"iS": 189538,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/second-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/small.png": {
+		"ft": 32768,
+		"iS": 315385,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-large.png": {
+		"ft": 32768,
+		"iS": 48783,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-medium.png": {
+		"ft": 32768,
+		"iS": 46078,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-small.png": {
+		"ft": 32768,
+		"iS": 50564,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-small.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_site\/advanced\/assignments\/index.html": {
 		"ft": 8192,
@@ -3901,17 +5195,53 @@
 		"oAP": "\/_site\/advanced\/assignments\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/assignments\/project-summary.html": {
+	"\/_site\/advanced\/assignments\/peer\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/project-summary.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/peer\/index.html",
+		"oF": 0
 		},
-	"\/_site\/advanced\/assignments\/spring-2016\/index.html": {
+	"\/_site\/advanced\/assignments\/survey1\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/spring-2016\/index.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey1\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey2\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey2\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey3\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey3\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey4\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey4\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey5\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/task\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/task\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/teaching\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/teaching\/index.html",
+		"oF": 0
 		},
 	"\/_site\/advanced\/eval\/index.html": {
 		"ft": 8192,
@@ -3927,9 +5257,9 @@
 		},
 	"\/_site\/advanced\/groups\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/advanced\/groups\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/advanced\/groups\/policies\/index.html": {
 		"ft": 8192,
@@ -3949,22 +5279,10 @@
 		"oAP": "\/_site\/advanced\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/schedule\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/schedule\/fall-2015\/index.html",
-		"oF": 1
-		},
 	"\/_site\/advanced\/schedule\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/advanced\/schedule\/index.html",
-		"oF": 1
-		},
-	"\/_site\/advanced\/schedule\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/schedule\/spring-2016\/index.html",
 		"oF": 1
 		},
 	"\/_site\/advanced\/survey\/index.html": {
@@ -5532,208 +6850,112 @@
 		"oAP": "\/_site\/class\/schedule\/9\/index.html",
 		"oF": 1
 		},
-	"\/_site\/class\/schedule\/fall-2015\/1\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/1\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/10\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/10\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/11\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/11\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/12\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/12\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/13\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/13\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/14\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/14\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/15\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/15\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/16\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/16\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/2\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/2\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/3\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/3\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/4\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/4\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/5\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/5\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/6\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/6\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/7\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/7\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/8\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/8\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/9\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/9\/index.html",
-		"oF": 1
-		},
 	"\/_site\/class\/schedule\/fall-2015\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/class\/schedule\/fall-2015\/index.html",
 		"oF": 1
 		},
+	"\/_site\/class\/schedule\/fall-2016\/1\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/1\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/10\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/10\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/11\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/11\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/12\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/12\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/13\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/13\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/14\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/14\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/15\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/15\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/16\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/16\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/2\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/2\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/3\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/3\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/4\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/4\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/5\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/6\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/6\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/7\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/7\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/8\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/8\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/9\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/9\/index.html",
+		"oF": 0
+		},
 	"\/_site\/class\/schedule\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/class\/schedule\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/1\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/1\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/10\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/10\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/11\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/11\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/12\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/12\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/13\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/13\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/14\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/14\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/15\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/15\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/16\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/16\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/2\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/2\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/3\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/3\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/4\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/4\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/5\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/5\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/6\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/6\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/7\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/7\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/8\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/8\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/9\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/9\/index.html",
 		"oF": 1
 		},
 	"\/_site\/class\/schedule\/spring-2016\/index.html": {
@@ -6168,6 +7390,394 @@
 		"oAP": "\/_site\/goals\/index.html",
 		"oF": 1
 		},
+	"\/_site\/groups_arwd\/assets\/group1\/barb.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group1\/barb.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group1\/barb.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group1\/barb.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group1\/barb.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group1\/barb.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group1\/Barbs-Bridal-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group1\/Barbs-Bridal-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group1\/Group-1-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group1\/Group-1-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group10\/ KinderCare_Responsive Web Logo Color.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group10\/creativekids.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group10\/creativekids.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group10\/group-10-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group10\/group-10-content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group10\/KinderCare_Responsive Web Logo B_W.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group11\/group-11-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group11\/group-11-content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group11\/pets-first-color.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group11\/pets-first-color.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group11\/pets-first-color.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group11\/pets-first-color.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group12\/group-12-content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group12\/group-12-content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group12\/HoppsHouse-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group12\/HoppsHouse-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group12\/HoppsHouse-mark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group12\/HoppsHouse-mark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group12\/HoppsHouse.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group12\/HoppsHouse.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group2\/Group-2-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group2\/Group-2-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group2\/Summit-St-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group2\/Summit-St-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group2\/summitst.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group2\/summitst.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group2\/summitst.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group2\/summitst.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group2\/summitst.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group2\/summitst.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/aroma.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/aroma.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/aroma.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/aroma.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/aroma.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/aroma.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/AromaCoffee-Rachel.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/AromaCoffee-Rachel.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/AromaCoffee-Todd.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/AromaCoffee-Todd.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group3\/Group-3-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group3\/Group-3-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group4\/Group-4-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group4\/Group-4-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group4\/Wrench-Automative-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group4\/Wrench-Automative-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group4\/wrench.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group4\/wrench.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group4\/wrench.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group4\/wrench.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group4\/wrench.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group4\/wrench.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/Group-5-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/Group-5-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Colors.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Colors.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Final.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Final.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Final.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/Off-The-Vine-Final.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/off-the-vine.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/off-the-vine.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group5\/OfftheVine-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group5\/OfftheVine-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group6\/Buckeye-Bed-Breakfast-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group6\/buckeye.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group6\/buckeye.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group6\/buckeye.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group6\/buckeye.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group6\/buckeye.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group6\/buckeye.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group6\/Group-6-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group6\/Group-6-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group7\/Group-7-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group7\/Group-7-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group7\/Group7-WilliamThomas-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group7\/Group7-WilliamThomas-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group7\/williamthomas.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group7\/williamthomas.ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group7\/williamthomas.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group7\/williamthomas.eps",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group7\/williamthomas.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group7\/williamthomas.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group8\/FranklinCounty-Plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group8\/FranklinCounty-Plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group8\/FranklinCountyLogo-02.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group8\/FranklinCountyLogo-02.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group8\/Group-8-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group8\/Group-8-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group9\/ChopShopSalonLogo-01.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group9\/ChopShopSalonLogo-01.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group9\/Group-9-Content.zip": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group9\/Group-9-Content.zip",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/group9\/OhioChopShop-plan.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/group9\/OhioChopShop-plan.pdf",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/RWD_ClassLogos (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/RWD_ClassLogos (CS6).ai",
+		"oF": 0
+		},
+	"\/_site\/groups_arwd\/assets\/RWD_ClassLogos2 (CS6).ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/groups_arwd\/assets\/RWD_ClassLogos2 (CS6).ai",
+		"oF": 0
+		},
 	"\/_site\/img\/assignments.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -6486,7 +8096,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/README.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6598,53 +8208,23 @@
 		"oAP": "\/about\/index.html",
 		"oF": 0
 		},
-	"\/advanced\/assignments\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/assignments\/fall-2015\/index.html",
-		"oF": 0
-		},
 	"\/advanced\/assignments\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/assignments\/index.html",
-		"oF": 0
-		},
-	"\/advanced\/assignments\/project-summary.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/advanced\/assignments\/project-summary.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/advanced\/assignments\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/assignments\/spring-2016\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/eval\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/eval\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/groups\/fall-2015\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/groups\/fall-2015\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/groups\/index.md": {
 		"cS": 0,
@@ -6654,7 +8234,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/advanced\/groups\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6672,7 +8252,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/advanced\/groups\/policies\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6684,39 +8264,27 @@
 		},
 	"\/advanced\/groups\/spring-2016\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/groups\/spring-2016\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/index.html",
-		"oF": 0
-		},
-	"\/advanced\/schedule\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/schedule\/fall-2015\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/schedule\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/schedule\/index.html",
-		"oF": 0
-		},
-	"\/advanced\/schedule\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/schedule\/spring-2016\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/survey\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/advanced\/survey\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/advanced\/syllabus\/index.md": {
 		"cS": 0,
@@ -6726,7 +8294,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/advanced\/syllabus\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6913,7 +8481,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/assignments\/project-summary.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6955,7 +8523,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/groups\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6973,7 +8541,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/groups\/policies\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7253,7 +8821,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/syllabus\/fall-2015\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7271,7 +8839,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/syllabus\/fall-2016\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7289,7 +8857,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/syllabus\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7307,7 +8875,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/class\/syllabus\/spring-2016\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7331,7 +8899,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/common-patterns\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7501,7 +9069,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/goals\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -7829,7 +9397,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/README.html",
 		"oF": 0,
 		"oFM": 0,
@@ -9735,7 +11303,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",

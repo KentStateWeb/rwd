@@ -3,7 +3,7 @@ layout: wide
 title: Groups & Projects
 ---
 
-<a href="/class" class="button small">Return to Class</a>
+<a href="/advanced" class="button small">Return to Class</a>
 
 <p>You can learn more about the semester project in general by reading the <a href="/class/assignments/project-summary.html">Project Summary</a>.</p>
 
