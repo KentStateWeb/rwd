@@ -15,3 +15,10 @@ collections:
  assignments:
    output: true
    permalink: /class/assignments/:path/
+ assignments_arwd:
+   output: true
+   permalink: /advanced/assignments/:path/
+ classes_arwd:
+   output: false
+ groups_arwd:
+   output: false

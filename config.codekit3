@@ -1125,6 +1125,288 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_assignments_arwd\/attendance.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/attendance.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/images\/first-row-large.png": {
+		"ft": 32768,
+		"iS": 20216,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/first-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/first-row-small.png": {
+		"ft": 32768,
+		"iS": 22454,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/first-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/footer.png": {
+		"ft": 32768,
+		"iS": 8251,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/footer.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/header-large.png": {
+		"ft": 32768,
+		"iS": 25055,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/header-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/header.png": {
+		"ft": 32768,
+		"iS": 17868,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/large.png": {
+		"ft": 32768,
+		"iS": 344004,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/medium.png": {
+		"ft": 32768,
+		"iS": 361086,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/nav-large.png": {
+		"ft": 32768,
+		"iS": 9338,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/nav-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/nav-small.png": {
+		"ft": 32768,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/nav-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/second-row-large.png": {
+		"ft": 32768,
+		"iS": 248413,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/second-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/second-row-small.png": {
+		"ft": 32768,
+		"iS": 189538,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/second-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/small.png": {
+		"ft": 32768,
+		"iS": 315385,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-large.png": {
+		"ft": 32768,
+		"iS": 48783,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-medium.png": {
+		"ft": 32768,
+		"iS": 46078,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/images\/third-row-small.png": {
+		"ft": 32768,
+		"iS": 50564,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/images\/third-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments_arwd\/peer.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/peer.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey1.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/survey1.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey2.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/survey2.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey3.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/survey3.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey4.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/survey4.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/survey5.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/survey5.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/task.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/task.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/teaching.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_assignments_arwd\/teaching.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_classes\/1.md": {
 		"cS": 0,
 		"eF": 1,
@@ -1133,7 +1415,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/_classes\/1.html",
 		"oF": 0,
 		"oFM": 0,
@@ -1413,7 +1695,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/1.md": {
+	"\/_classes\/fall-2016\/1.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1421,8 +1703,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/1.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/1.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1431,7 +1713,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/10.md": {
+	"\/_classes\/fall-2016\/10.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1439,8 +1721,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/10.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/10.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1449,7 +1731,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/11.md": {
+	"\/_classes\/fall-2016\/11.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1457,8 +1739,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/11.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/11.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1467,7 +1749,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/12.md": {
+	"\/_classes\/fall-2016\/12.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1475,8 +1757,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/12.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/12.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1485,7 +1767,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/13.md": {
+	"\/_classes\/fall-2016\/13.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1493,8 +1775,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/13.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/13.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1503,7 +1785,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/14.md": {
+	"\/_classes\/fall-2016\/14.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1511,8 +1793,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/14.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/14.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1521,7 +1803,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/15.md": {
+	"\/_classes\/fall-2016\/15.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1529,8 +1811,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/15.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/15.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1539,7 +1821,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/16.md": {
+	"\/_classes\/fall-2016\/16.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1547,8 +1829,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/16.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/16.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1557,7 +1839,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/2.md": {
+	"\/_classes\/fall-2016\/2.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1565,8 +1847,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/2.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/2.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1575,7 +1857,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/3.md": {
+	"\/_classes\/fall-2016\/3.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1583,8 +1865,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/3.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/3.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1593,7 +1875,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/4.md": {
+	"\/_classes\/fall-2016\/4.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1601,8 +1883,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/4.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/4.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1611,7 +1893,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/5.md": {
+	"\/_classes\/fall-2016\/5.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1619,8 +1901,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/5.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/5.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1629,7 +1911,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/6.md": {
+	"\/_classes\/fall-2016\/6.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1637,8 +1919,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/6.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/6.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1647,7 +1929,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/7.md": {
+	"\/_classes\/fall-2016\/7.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1655,8 +1937,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/7.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/7.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1665,7 +1947,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/8.md": {
+	"\/_classes\/fall-2016\/8.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1673,8 +1955,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/8.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/8.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1683,7 +1965,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/fall-2015\/9.md": {
+	"\/_classes\/fall-2016\/9.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1691,8 +1973,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/fall-2015\/9.html",
+		"oA": 0,
+		"oAP": "\/_classes\/fall-2016\/9.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1701,7 +1983,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/1.md": {
+	"\/_classes_arwd\/1.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1709,8 +1991,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/1.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/1.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1719,7 +2001,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/10.md": {
+	"\/_classes_arwd\/10.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1727,8 +2009,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/10.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/10.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1737,7 +2019,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/11.md": {
+	"\/_classes_arwd\/11.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1745,8 +2027,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/11.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/11.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1755,7 +2037,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/12.md": {
+	"\/_classes_arwd\/12.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1763,8 +2045,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/12.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/12.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1773,7 +2055,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/13.md": {
+	"\/_classes_arwd\/13.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1781,8 +2063,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/13.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/13.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1791,7 +2073,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/14.md": {
+	"\/_classes_arwd\/14.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1799,8 +2081,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/14.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/14.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1809,7 +2091,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/15.md": {
+	"\/_classes_arwd\/15.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1817,8 +2099,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/15.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/15.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1827,7 +2109,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/16.md": {
+	"\/_classes_arwd\/16.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1835,8 +2117,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/16.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/16.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1845,7 +2127,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/2.md": {
+	"\/_classes_arwd\/2.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1853,8 +2135,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/2.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/2.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1863,7 +2145,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/3.md": {
+	"\/_classes_arwd\/3.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1871,8 +2153,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/3.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/3.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1881,7 +2163,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/4.md": {
+	"\/_classes_arwd\/4.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1889,8 +2171,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/4.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/4.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1899,7 +2181,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/5.md": {
+	"\/_classes_arwd\/5.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1907,8 +2189,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/5.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/5.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1917,7 +2199,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/6.md": {
+	"\/_classes_arwd\/6.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1925,8 +2207,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/6.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/6.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1935,7 +2217,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/7.md": {
+	"\/_classes_arwd\/7.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1943,8 +2225,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/7.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/7.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1953,7 +2235,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/8.md": {
+	"\/_classes_arwd\/8.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1961,8 +2243,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/8.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/8.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1971,7 +2253,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_classes\/spring-2016\/9.md": {
+	"\/_classes_arwd\/9.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -1979,8 +2261,8 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_classes\/spring-2016\/9.html",
+		"oA": 0,
+		"oAP": "\/_classes_arwd\/9.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2887,6 +3169,78 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_groups_arwd\/account.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_groups_arwd\/account.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/cms.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_groups_arwd\/cms.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/design.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_groups_arwd\/design.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_groups_arwd\/ux.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_groups_arwd\/ux.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_includes\/assignments.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -2895,7 +3249,7 @@
 		},
 	"\/_includes\/class.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_includes\/class.html",
 		"oF": 0
 		},
@@ -2931,7 +3285,7 @@
 		},
 	"\/_layouts\/assignment.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_layouts\/assignment.html",
 		"oF": 0
 		},
@@ -3983,7 +4337,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/min\/analytics-min.js",
+		"oAP": "\/_site\/analytics-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4366,33 +4720,33 @@
 		},
 	"\/_site\/class\/assignments\/assessment\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/assessment\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/casestudy\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/casestudy\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/content\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/content\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/css\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/css\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/css2\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/css2\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/fall-2015\/assessment\/index.html": {
 		"ft": 8192,
@@ -4504,15 +4858,15 @@
 		},
 	"\/_site\/class\/assignments\/html\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/html\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/html2\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/html2\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/images\/first-row-large.png": {
 		"ft": 32768,
@@ -4642,9 +4996,9 @@
 		},
 	"\/_site\/class\/assignments\/layout\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/layout\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/layout2\/index.html": {
 		"ft": 8192,
@@ -4672,15 +5026,15 @@
 		},
 	"\/_site\/class\/assignments\/research\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/research\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/sketching\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/sketching\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/spring-2016\/assessment\/index.html": {
 		"ft": 8192,
@@ -4804,39 +5158,39 @@
 		},
 	"\/_site\/class\/assignments\/style\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/style\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/styleguide\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/styleguide\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/templates\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/templates\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/testing\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/testing\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/timeline-presentation\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/timeline-presentation\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/assignments\/wireframes\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/wireframes\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/eval\/index.html": {
 		"ft": 8192,
@@ -5636,9 +5990,9 @@
 		},
 	"\/_site\/class\/schedule\/index.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_site\/class\/schedule\/index.html",
-		"oF": 1
+		"oF": 0
 		},
 	"\/_site\/class\/schedule\/spring-2016\/1\/index.html": {
 		"ft": 8192,
@@ -6396,7 +6750,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/js\/min\/flickity-min.js",
+		"oAP": "\/_site\/js\/flickity-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -6405,7 +6759,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/js\/min\/fonts-min.js",
+		"oAP": "\/_site\/js\/fonts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -6598,40 +6952,10 @@
 		"oAP": "\/about\/index.html",
 		"oF": 0
 		},
-	"\/advanced\/assignments\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/assignments\/fall-2015\/index.html",
-		"oF": 0
-		},
 	"\/advanced\/assignments\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/advanced\/assignments\/index.html",
-		"oF": 0
-		},
-	"\/advanced\/assignments\/project-summary.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/advanced\/assignments\/project-summary.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/advanced\/assignments\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/assignments\/spring-2016\/index.html",
 		"oF": 0
 		},
 	"\/advanced\/eval\/index.html": {
@@ -6654,7 +6978,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/advanced\/groups\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6694,22 +7018,10 @@
 		"oAP": "\/advanced\/index.html",
 		"oF": 0
 		},
-	"\/advanced\/schedule\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/schedule\/fall-2015\/index.html",
-		"oF": 0
-		},
 	"\/advanced\/schedule\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/advanced\/schedule\/index.html",
-		"oF": 0
-		},
-	"\/advanced\/schedule\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/advanced\/schedule\/spring-2016\/index.html",
 		"oF": 0
 		},
 	"\/advanced\/survey\/index.html": {
@@ -6726,7 +7038,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/advanced\/syllabus\/index.html",
 		"oF": 0,
 		"oFM": 0,
@@ -6740,7 +7052,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/min\/analytics-min.js",
+		"oAP": "\/analytics-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -7003,7 +7315,7 @@
 		},
 	"\/class\/schedule\/index.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/class\/schedule\/index.html",
 		"oF": 0
 		},
@@ -7739,7 +8051,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/flickity-min.js",
+		"oAP": "\/js\/flickity-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -7748,7 +8060,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/fonts-min.js",
+		"oAP": "\/js\/fonts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -9683,7 +9995,7 @@
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -9711,8 +10023,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -9722,8 +10034,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -9735,7 +10047,7 @@
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
-		"autoOutputAction": 1,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -9786,7 +10098,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -9814,7 +10126,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -9838,13 +10150,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -9979,7 +10291,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {

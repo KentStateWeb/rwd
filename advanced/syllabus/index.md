@@ -160,20 +160,17 @@ This includes:
 
 There are **100** total possible points for the semester.
 
-Coming soon
-
-
-<!--<div class="table-float">
-
+<div class="table-float">
+<h4>Retrospective Surveys</h4>
 <table>
 <thead>
   <th style="text-align:left;">Assignment</th>
   <th style="text-align:left;">Points</th>
 </thead>
 <tbody>
-{% assign items = site.assignments | sort: 'date' %}
+{% assign items = site.assignments_arwd | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'mini' and item.semester == 'fall-2016' %}  
+	{% if item.type == 'mini' and item.semester == 'spring-2017' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -186,23 +183,23 @@ Coming soon
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>45</strong></td>
+		<td><strong>25</strong></td>
 	</tr>
 </tbody>
 </table>
 </div>
 
 <div class="table-float">
-<h4>Semester Project Assignments</h4>
+<h4>Individual Assignments</h4>
 <table>
 <thead>
   <th style="text-align:left;">Assignment</th>
   <th style="text-align:left;">Points</th>
 </thead>
 <tbody>
-{% assign items = site.assignments | sort: 'date' %}
+{% assign items = site.assignments_arwd | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'project' and item.semester == 'fall-2016' %}  
+	{% if item.type == 'survey' and item.semester == 'spring-2017' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -215,12 +212,13 @@ Coming soon
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>55</strong></td>
+		<td><strong>75</strong></td>
 	</tr>
 </tbody>
 </table>
 
-</div>-->
+</div>
+<div class="group"></div>
 
 ### Attendance Policy
 
