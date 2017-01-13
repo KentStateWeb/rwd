@@ -4243,11 +4243,131 @@
 		"oAP": "\/_site\/about\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/assignments\/fall-2015\/index.html": {
+	"\/_site\/advanced\/assignments\/attendance\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/fall-2015\/index.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/attendance\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/first-row-large.png": {
+		"ft": 32768,
+		"iS": 20216,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/first-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/first-row-small.png": {
+		"ft": 32768,
+		"iS": 22454,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/first-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/footer.png": {
+		"ft": 32768,
+		"iS": 8251,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/footer.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/header-large.png": {
+		"ft": 32768,
+		"iS": 25055,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/header-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/header.png": {
+		"ft": 32768,
+		"iS": 17868,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/large.png": {
+		"ft": 32768,
+		"iS": 344004,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/medium.png": {
+		"ft": 32768,
+		"iS": 361086,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/nav-large.png": {
+		"ft": 32768,
+		"iS": 9338,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/nav-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/nav-small.png": {
+		"ft": 32768,
+		"iS": 10421,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/nav-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/second-row-large.png": {
+		"ft": 32768,
+		"iS": 248413,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/second-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/second-row-small.png": {
+		"ft": 32768,
+		"iS": 189538,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/second-row-small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/small.png": {
+		"ft": 32768,
+		"iS": 315385,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/small.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-large.png": {
+		"ft": 32768,
+		"iS": 48783,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-large.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-medium.png": {
+		"ft": 32768,
+		"iS": 46078,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-medium.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/advanced\/assignments\/images\/third-row-small.png": {
+		"ft": 32768,
+		"iS": 50564,
+		"oA": 0,
+		"oAP": "\/_site\/advanced\/assignments\/images\/third-row-small.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_site\/advanced\/assignments\/index.html": {
 		"ft": 8192,
@@ -4255,17 +4375,53 @@
 		"oAP": "\/_site\/advanced\/assignments\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/assignments\/project-summary.html": {
+	"\/_site\/advanced\/assignments\/peer\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/project-summary.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/peer\/index.html",
+		"oF": 0
 		},
-	"\/_site\/advanced\/assignments\/spring-2016\/index.html": {
+	"\/_site\/advanced\/assignments\/survey1\/index.html": {
 		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/assignments\/spring-2016\/index.html",
-		"oF": 1
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey1\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey2\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey2\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey3\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey3\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey4\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey4\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/survey5\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/survey5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/task\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/task\/index.html",
+		"oF": 0
+		},
+	"\/_site\/advanced\/assignments\/teaching\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/teaching\/index.html",
+		"oF": 0
 		},
 	"\/_site\/advanced\/eval\/index.html": {
 		"ft": 8192,
@@ -4303,22 +4459,10 @@
 		"oAP": "\/_site\/advanced\/index.html",
 		"oF": 1
 		},
-	"\/_site\/advanced\/schedule\/fall-2015\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/schedule\/fall-2015\/index.html",
-		"oF": 1
-		},
 	"\/_site\/advanced\/schedule\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/advanced\/schedule\/index.html",
-		"oF": 1
-		},
-	"\/_site\/advanced\/schedule\/spring-2016\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/advanced\/schedule\/spring-2016\/index.html",
 		"oF": 1
 		},
 	"\/_site\/advanced\/survey\/index.html": {
@@ -5886,209 +6030,113 @@
 		"oAP": "\/_site\/class\/schedule\/9\/index.html",
 		"oF": 1
 		},
-	"\/_site\/class\/schedule\/fall-2015\/1\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/1\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/10\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/10\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/11\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/11\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/12\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/12\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/13\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/13\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/14\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/14\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/15\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/15\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/16\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/16\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/2\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/2\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/3\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/3\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/4\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/4\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/5\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/5\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/6\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/6\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/7\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/7\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/8\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/8\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/fall-2015\/9\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/fall-2015\/9\/index.html",
-		"oF": 1
-		},
 	"\/_site\/class\/schedule\/fall-2015\/index.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/class\/schedule\/fall-2015\/index.html",
 		"oF": 1
 		},
+	"\/_site\/class\/schedule\/fall-2016\/1\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/1\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/10\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/10\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/11\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/11\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/12\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/12\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/13\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/13\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/14\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/14\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/15\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/15\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/16\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/16\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/2\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/2\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/3\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/3\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/4\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/4\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/5\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/5\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/6\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/6\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/7\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/7\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/8\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/8\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/schedule\/fall-2016\/9\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/schedule\/fall-2016\/9\/index.html",
+		"oF": 0
+		},
 	"\/_site\/class\/schedule\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/class\/schedule\/index.html",
 		"oF": 0
-		},
-	"\/_site\/class\/schedule\/spring-2016\/1\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/1\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/10\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/10\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/11\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/11\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/12\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/12\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/13\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/13\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/14\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/14\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/15\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/15\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/16\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/16\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/2\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/2\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/3\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/3\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/4\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/4\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/5\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/5\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/6\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/6\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/7\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/7\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/8\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/8\/index.html",
-		"oF": 1
-		},
-	"\/_site\/class\/schedule\/spring-2016\/9\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/class\/schedule\/spring-2016\/9\/index.html",
-		"oF": 1
 		},
 	"\/_site\/class\/schedule\/spring-2016\/index.html": {
 		"ft": 8192,
@@ -6840,7 +6888,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/_site\/README.html",
 		"oF": 0,
 		"oFM": 0,

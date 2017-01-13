@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Groups & Projects
+title: Advanced RWD Groups
 ---
 
 <a href="/advanced" class="button small">Return to Class</a>

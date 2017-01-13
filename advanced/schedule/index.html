@@ -4,7 +4,7 @@ title: Advanced RWD Calendar
 ---
 <p class="section-introduction">You can find the class schedule below. The dates and plans are subject to change.  I'll notify you of any modifications during class or via email.</p>
 
-<h2>Discovery and Planning</h2>
+<h2>Discovery/Planning and Sprint #1</h2>
 {% for classes in site.classes_arwd %}
 	{% if classes.part == '1' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
@@ -12,28 +12,28 @@ title: Advanced RWD Calendar
 {% endfor %}
 
 
-<h2>Part 2: ###</h2>
+<h2>Part 2: Sprint #2</h2>
 {% for classes in site.classes_arwd %}
 	{% if classes.part == '2' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 3: ###</h2>
+<h2>Part 3: Sprint #3</h2>
 {% for classes in site.classes_arwd %}
 	{% if classes.part == '3' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 4: ###</h2>
+<h2>Part 4: Sprint #4</h2>
 {% for classes in site.classes_arwd %}
 	{% if classes.part == '4' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Final Exam Period</h2>
+<h2>Part 5: Sprint #5</h2>
 {% for classes in site.classes_arwd %}
 	{% if classes.part == '5' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}

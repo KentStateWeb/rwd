@@ -150,7 +150,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'mini' and item.semester == 'fall-2016' %}  
+	{% if item.type == 'mini' and item.semester == 'spring-2017' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -179,7 +179,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'project' and item.semester == 'fall-2016' %}  
+	{% if item.type == 'project' and item.semester == 'spring-2017' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
