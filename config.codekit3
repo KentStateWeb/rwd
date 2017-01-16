@@ -1413,6 +1413,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_assignments\/test.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments\/test.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_assignments\/testing.md": {
 		"cS": 0,
 		"eF": 1,
@@ -6018,6 +6036,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/templates\/index.html",
+		"oF": 0
+		},
+	"\/_site\/class\/assignments\/test\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/assignments\/test\/index.html",
 		"oF": 0
 		},
 	"\/_site\/class\/assignments\/testing\/index.html": {

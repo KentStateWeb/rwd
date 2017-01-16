@@ -1,12 +1,12 @@
 ---
-title: "CSS Basics"
+title: "CSS Basics 1"
 description: "Style your conference website using basic CSS."
 type: "mini"
 points: 4
 layout: assignment
-date: 2016-10-11 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-02-14 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 ---
 
