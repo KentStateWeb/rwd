@@ -1569,11 +1569,13 @@ footer img {
 
 .blog-post-month {
 	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-left:3px;
 }
 
 .blog-post-day {
 	font-weight: bold;
-	font-size: 2.1em;
+	font-size: 1.8em;
 }
 
 

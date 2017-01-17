@@ -4,7 +4,7 @@ title: Calendar
 ---
 <p class="section-introduction">You can find the class schedule below. The dates and plans are subject to change.  I'll notify you of any modifications during class or via email.</p>
 
-<h2>Part 1: Principles of RWD (HTML)</h2>
+<h2>Part 1: Principles of Web Design</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '1' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
@@ -12,30 +12,16 @@ title: Calendar
 {% endfor %}
 
 
-<h2>Part 2: Content Strategy and Mobile-First</h2>
+<h2>Part 2: Web Design in Practice</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '2' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
-<h2>Part 3: Visual Design and Development (CSS)</h2>
+<h2>Final Projects</h2>
 {% for classes in site.classes %}
 	{% if classes.part == '3' and classes.semester == 'spring-2017' %}
-	  {% include class.html %}
-	{% endif %}
-{% endfor %}
-
-<h2>Part 4: Prototyping, Testing and Style Guides</h2>
-{% for classes in site.classes %}
-	{% if classes.part == '4' and classes.semester == 'spring-2017' %}
-	  {% include class.html %}
-	{% endif %}
-{% endfor %}
-
-<h2>Final Exam Period</h2>
-{% for classes in site.classes %}
-	{% if classes.part == '5' and classes.semester == 'spring-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
