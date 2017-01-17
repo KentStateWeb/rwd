@@ -1669,6 +1669,7 @@ blockquote p {
 	.gallery-container {
 		width: inherit;
 		height: inherit;
+		margin-top: 3em;
 	}
 }
 
