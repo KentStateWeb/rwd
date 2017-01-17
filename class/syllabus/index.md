@@ -109,21 +109,15 @@ Students are expected to come to class prepared.  This means:
 * Completing assignments on time and submitting them properly to GitHub each week.
 
 ### Course Schedule
-This course will be divided into four parts.  Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com).
+This course will be divided into two parts.  Readings, lecture notes and information on preparing for class will be posted to the [class website](http://www.rwdkent.com).
 
 Please see the [Detailed Course Schedule](http://www.rwdkent.com/class/schedule) for specific dates, times and assignments.
 
-#### Part 1: Principles of Responsive Web Design and HTML
-Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section and will refer to the HTML + CSS textbook frequently.
+#### Part 1: Principles of Responsive Web Design
+Students explore the concept of responsive web design, learn why it matters and will begin implementing simple HTML, CSS and JavaScript in the browser.  Students will read Responsive Web Design by Ethan Marcotte as part of this section and will refer to the HTML + CSS textbook frequently.
 
-#### Part 2:  Content Strategy and Content/Mobile-First Design
-Students will apply competitive research findings to a content prototype, which will collect, organize and prioritize the most important information.  Students will read some selections from Mobile-First Design as part of this section and will continue to learn intermediate HTML/CSS techniques.  We’ll also discuss the various research techniques that designers typically use to influence the design and architecture of a website.  
-
-#### Part 3:  Design and Development with CSS
-In the third part, students will begin an iterative design process using CSS, where they’ll begin by mock-uping design components in digital style tiles and then turning those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts.  In this section, students will study the Atomic Design methodology.
-
-#### Part 4:  Prototyping, Testing and Style Guides
-In the final part, the content and design will begin to come together in the form of prototypes.  We will discuss and implement different techniques for web layouts and grid systems.  Prototypes may include interactive components from third-parties that use customized use Jquery and/or JavaScript.  Students will learn how prototypes are tested with usability and accessibility testing.  They will also be exposed to performance and technical testing.  Part 4 will end with the presentation and class critique of a website prototype and pattern library.  We’ll briefly discuss how this prototype might be translated into a content management system or hosted as a static website.
+#### Part 2:  Responsive Design in Practice
+Students will apply competitive research findings to a content prototype, collecting, organizing and prioritizing the most important information. Students will begin an iterative design process using CSS, where they’ll begin by mocking up design components in digital style tiles and then turning those components into reusable HTML/CSS pattern libraries. Students will learn the importance of designing a visual language for their websites using web typography, colors, user interface elements and layouts. Finally, the content and design will begin to come together in the form of prototypes.  Students will learn how prototypes are tested with usability, technical and accessibility testing.  Part 2 will end with the presentation and class critique of a website prototype and pattern library.
 
 <div class="page-break"></div>
 
