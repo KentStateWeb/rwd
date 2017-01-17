@@ -1679,6 +1679,7 @@ blockquote p {
 	top:-50px;
 	display: flex;
 	overflow: scroll;
+	 -webkit-overflow-scrolling: touch;
 }
 
 @media screen and (min-width: 800px) {
