@@ -2,11 +2,11 @@
 title: "CSS Basics 2"
 description: "Description of the assignment"
 type: "mini"
-points: 5
+points: 4
 layout: assignment
-date: 2016-10-25 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-02-21 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 
 ---

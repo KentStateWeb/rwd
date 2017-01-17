@@ -1,12 +1,12 @@
 ---
-title: "HTML Basics"
+title: "HTML Basics 1"
 description: "You've received content for a website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen. "
 type: "mini"
 points: 4
 layout: assignment
-date: 2016-09-13 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-01-31 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 
 ---

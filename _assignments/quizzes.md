@@ -2,16 +2,16 @@
 title: "In-Class Quizzes"
 description: "Description of the assignment"
 type: "mini"
-points: 6
+points: 4
 layout: assignment
-date: 2016-12-13 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-05-09 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 
 ---
 
-A maximum of 5 unannounced quizzes will be given during class.  Here are the rules:
+A maximum of 4 unannounced quizzes will be given during class.  Here are the rules:
 
 * Quizzes will be given on the assigned readings for that class (listed on the schedule).  Questions may be open-ended or multiple choice.
 * Each quiz will be 1 or 2 questions, at 1 point each.
