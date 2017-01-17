@@ -1,13 +1,13 @@
 ---
-title: "Group"
+title: "Group 10"
 client: "Wrench Automotive"
 members: "TBD"
 layout: group
 link: TBD
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
-semester: fall-2016
+semester: spring-2017
 date: 2016-7-11 12:00:00
-number: 99
+number: 10
 ---
 
 ## Goals

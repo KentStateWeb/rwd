@@ -1,12 +1,12 @@
 ---
 title: "Group 7"
 client: "The Ohio Chop Shop Hair Salon"
-members: "Nico Ciani and Nicole Albright"
+members: "TBD"
 layout: group
-link: https://github.com/KentStateWeb/fall2016-team-7
-livelink: https://kentstateweb.github.io/fall2016-team-7
+link: TBD
+livelink: TBD
 description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Our stylists bring their clients the freshest styles, and our location is a high-end, but friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
-semester: fall-2016
+semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 7
 ---

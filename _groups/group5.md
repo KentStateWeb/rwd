@@ -1,12 +1,12 @@
 ---
 title: "Group 5"
 client: "Off the Vine"
-members: "Cory and Samantha"
+members: "TBD"
 layout: group
-link: https://github.com/KentStateWeb/fall2016-group-5
-livelink: https://kentstateweb.github.io/fall2016-group-5/
+link: TBD
+livelink: TBD
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
-semester: fall-2016
+semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 5
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Group"
+title: "Group 11"
 client: "Summit Street Family Restaurant"
 members: "TBD"
 layout: group
 link: TBD
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
-semester: fall-2016
+semester: spring-2017
 date: 2016-7-11 12:00:00
-number: 99
+number: 11
 ---
 
 ## Goals

@@ -1,12 +1,12 @@
 ---
 title: "Group 6"
 client: "Creative Kidz Kinder Care"
-members: "Julia Holmberg and Laura Mamick"
+members: "TBD"
 layout: group
-link: https://github.com/KentStateWeb/fall2016-team-6
-livelink: https://kentstateweb.github.io/fall2016-team-6/
+link: TBD
+livelink: TBD
 description: "We’re a child care center in Kent, Ohio specializing in creative learning experiences for your child, fostering educational exploration and relationship building opportunities that will last a lifetime"
-semester: fall-2016
+semester: spring-2017
 date: 2016-7-19 12:00:00
 number: 6
 
