@@ -6942,18 +6942,6 @@
 		"oAP": "\/_site\/class\/schedule\/spring-2016\/index.html",
 		"oF": 1
 		},
-	"\/_site\/class\/slides\/1\/1-Slides-RWD.key": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/class\/slides\/1\/1-Slides-RWD.key",
-		"oF": 0
-		},
-	"\/_site\/class\/slides\/1\/1-Slides-RWD.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/class\/slides\/1\/1-Slides-RWD.pdf",
-		"oF": 0
-		},
 	"\/_site\/class\/slides\/10\/10-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -8187,12 +8175,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/class\/slides\/1\/1-Slides-RWD.key",
-		"oF": 0
-		},
-	"\/class\/slides\/1\/1-Slides-RWD.pdf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/class\/slides\/1\/1-Slides-RWD.pdf",
 		"oF": 0
 		},
 	"\/class\/slides\/10\/10-Slides-RWD.key": {
