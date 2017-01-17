@@ -140,7 +140,7 @@ There are **100** total possible points for the semester.
 
 <div class="table-float">
 
-<h4>Mini Assignments</h4>
+<h4>In-Class Assignments/Quizzes</h4>
 
 <table>
 <thead>
@@ -163,7 +163,38 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>45</strong></td>
+		<td><strong>22</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
+
+<div class="table-float">
+
+<h4>CodePen Challenges</h4>
+
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'challenge' and item.semester == 'spring-2017' %}  
+	<tr>
+		<td>
+			<a href="{{ item.url }}">{{ item.title }}</a>
+		</td>
+		<td>
+			{{ item.points }}
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>28</strong></td>
 	</tr>
 </tbody>
 </table>
@@ -192,13 +223,14 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>55</strong></td>
+		<td><strong>50</strong></td>
 	</tr>
 </tbody>
 </table>
 </div>
+<br />
 
-### Attendance Policy
+<h3 style="clear: left;">Attendance Policy</h3>
 
 We'll be covering many topics during class, as well as working in groups on exercises to help you master web design techniques.  Therefore, attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 

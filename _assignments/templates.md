@@ -1,14 +1,22 @@
 ---
-title: "HTML/CSS Final Prototype/Templates"
+title: "HTML/CSS Final Templates/Patterns"
 description: "We're now on our way to making a real, functioning website.  "
 type: "project"
-points: 10
+points: 20
 layout: assignment
-date: 2016-12-13 11:00:00
-semester: fall-2016
+date: 2017-05-09 11:00:00
+semester: spring-2017
 ---
 
 We're now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.
+
+Instead of producing all of the templates at once, we'll split this assignment into 4 parts over the last part of the semester. (Details to be added)
+
+1.  Basic Wireframe Structure: April 11
+2.  Patterns 1: April 18
+3.  Patterns 2: April 25
+4.  Combined Templates and Patterns - Instructor Review: May 2
+5.  Final Templates and Patterns: May 9
 
 ## What To Do
 

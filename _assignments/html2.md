@@ -1,7 +1,7 @@
 ---
 title: "HTML Basics 2"
 description: "Description of the assignment"
-type: "mini"
+type: "challenge"
 points: 4
 layout: assignment
 date: 2017-02-07 12:00:00

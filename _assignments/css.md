@@ -1,7 +1,7 @@
 ---
 title: "CSS Basics 1"
 description: "Style your conference website using basic CSS."
-type: "mini"
+type: "challenge"
 points: 4
 layout: assignment
 date: 2017-02-14 12:00:00

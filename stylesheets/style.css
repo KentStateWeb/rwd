@@ -808,8 +808,8 @@ p.introduction-home {
 
 @media screen and (min-width:1000px) {
 	p.introduction {
-		font-size: 1.25em;
-		line-height: 1.4;
+		font-size: 1.2em;
+		line-height: 1.5;
 	}
 }
 
@@ -1888,7 +1888,7 @@ blockquote p {
 .detail-listing dd {
 	width: 55%;
 	float: left;
-	font-size: .85em;
+	font-size: .75em;
 	margin-bottom:0;
 	padding: .7em 0 .5em 0;
 	line-height: 1.1;

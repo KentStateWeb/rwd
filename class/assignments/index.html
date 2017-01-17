@@ -7,7 +7,7 @@ title: Assignments
 
 <a href="/class" class="button small">Return to Class</a>
 
-<h2>Mini Assignments</h2>
+<h2>In-Class Assignments/Quizzes</h2>
 <ul>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
@@ -17,8 +17,17 @@ title: Assignments
 {% endfor %}
 </ul>
 <hr>
+<h2>CodePen Challenges</h2>
+<ul>
+{% assign items = site.assignments | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'challenge' and item.semester == 'spring-2017' %}
+	  {% include assignments.html %}
+	{% endif %}
+{% endfor %}
+</ul>
+<hr>
 <h2>Project Assignments</h2>
-<a class="button small" href="/class/assignments/project-summary.html">Semester Project Overview</a>
 <ul>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
@@ -27,3 +36,4 @@ title: Assignments
 	{% endif %}
 {% endfor %}
 </ul>
+<a class="button small" href="/class/assignments/project-summary.html">Semester Project Overview</a>

@@ -1,7 +1,7 @@
 ---
 title: "Fonts and Media Queries"
 description: "Description of the assignment"
-type: "mini"
+type: "challenge"
 points: 6
 layout: assignment
 date: 2017-02-28 12:00:00

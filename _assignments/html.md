@@ -1,7 +1,7 @@
 ---
 title: "HTML Basics 1"
 description: "You've received content for a website and would like to begin structuring it in HTML.  Using the markup skills you've learned so far (text, lists and links), structure the plain text content into a webpage using CodePen. "
-type: "mini"
+type: "challenge"
 points: 4
 layout: assignment
 date: 2017-01-31 12:00:00

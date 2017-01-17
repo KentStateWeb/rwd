@@ -2,10 +2,10 @@
 title: "Group and Self Assessment"
 description: "Description of the assignment"
 type: "project"
-points: 5
+points: 4
 layout: assignment
-date: 2016-12-13 12:00:00
-semester: fall-2016
+date: 2017-05-09 12:00:00
+semester: spring-2017
 ---
 
 Since this project was a collaborative assignment, I want to hear from each group member about the work ethic and participation of his or her partner.  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.

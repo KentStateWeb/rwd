@@ -3,11 +3,11 @@
 title: "Research and Competitive Analysis"
 description: "Description of the assignment"
 type: "project"
-points: 5
+points: 4
 layout: assignment
-date: 2016-09-20 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-03-14 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 ---
 

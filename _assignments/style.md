@@ -1,12 +1,12 @@
 ---
-title: "Style Tiles/Personality"
+title: "Style Prototype and Mockups"
 description: "You understand the content of your website and have some ideas about its architecture.  Now it's time to develop the visual language of the website"
 type: "project"
-points: 5
+points: 6
 layout: assignment
-date: 2016-10-25 12:00:00
-semester: fall-2016
-status: assignment-completed
+date: 2017-04-04 12:00:00
+semester: spring-2017
+##status: assignment-completed
 
 
 ---

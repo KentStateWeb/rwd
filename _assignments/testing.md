@@ -4,8 +4,8 @@ description: "As you begin building your templates/prototype, you'll need to thi
 type: "project"
 points: 5
 layout: assignment
-date: 2016-11-29 12:00:00
-semester: fall-2016
+date: 2017-05-02 12:00:00
+semester: spring-2017
 ---
 
 As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.
