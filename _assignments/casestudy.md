@@ -23,33 +23,33 @@ Part of understanding responsive web design is understanding the competitive lan
 
 To keep things interesting, we're going to choose "rolling" due dates at the start of each class.  You'll choose a date to present your case study during the first class, and it will be due at the beginning of class on that date.  
 
-* Jan 24 (2 groups)
-* Jan 31 (2 groups)
-* Feb 07 (2 groups)
-* Feb 14 (2 groups)
-* Feb 21 (1 group)
+* Jan 24 (2 groups) - Elizabeth/Grace and Leigh/Dan
+* Jan 31 (2 groups) - Marissa/Emily and Katherine/Rachel
+* Feb 07 (2 groups) - Mike and Megan/Kathleen
+* Feb 14 (2 groups) - Will/Lesley and Stephanie/Cynthia
+* Feb 21 (1 group) - Jenna/Ciara
 
 ## Case Study Options: To Be Assigned In Class
 
 The link included with each website is a starting point.  There may be other information available from other sources to help inform your research.
 
 
-* [National Audubon Society](http://muledesign.com/2015/02/birds) - ##
-* [Virgin America](http://www.wired.com/2014/06/the-super-slick-ux-of-virgin-americas-new-booking-site/) - ##
+* [National Audubon Society](http://muledesign.com/2015/02/birds) - Elizabeth/Grace
+* [Virgin America](http://www.wired.com/2014/06/the-super-slick-ux-of-virgin-americas-new-booking-site/) - Leigh/Dan
 * [Marriott](http://responsivewebdesign.com/podcast/marriott.html) - ##
 * [Gov.uk](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/) - ##
-* [CodePen](http://codepen.seesparkbox.com) - ##
-* [Netflix](http://techblog.netflix.com/2014/03/the-netflix-signup-flow-our-journey-to.html) - ##
+* [CodePen](http://codepen.seesparkbox.com) - Katherine/Rachel
+* [Netflix](http://techblog.netflix.com/2014/03/the-netflix-signup-flow-our-journey-to.html) - Will and Lesley
 * [Notre Dame](http://responsivewebdesign.com/podcast/notre-dame/) - ##
 * [West Virginia University](http://responsivewebdesign.com/podcast/wvu/) - ##
-* [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - ##
+* [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - Megan/Kathleen
 * [Carnegie Library of Pittsburgh](https://responsivewebdesign.com/podcast/carnegie-library-of-pittsburgh/) - ##
 * [U.S. Digital Service](https://responsivewebdesign.com/podcast/usds/) - ##
-* [The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) - ##
+* [The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) - Mike
 * [TypeKit](https://responsivewebdesign.com/podcast/typekit/) - ##
-* [Casper](https://responsivewebdesign.com/podcast/casper/) - ##
-* [Toledo Public Library](https://responsivewebdesign.com/podcast/toledo-public-library/) - ##
-* [Google Fonts](https://responsivewebdesign.com/podcast/google-fonts/) - ##
+* [Casper](https://responsivewebdesign.com/podcast/casper/) - Jenna/Ciara
+* [Toledo Public Library](https://responsivewebdesign.com/podcast/toledo-public-library/) - Marissa and Emily
+* [Google Fonts](https://responsivewebdesign.com/podcast/google-fonts/) - Stephanie and Cynthia
 
 ## Rubric
 
