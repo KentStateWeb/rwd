@@ -1,6 +1,12 @@
 
 <div class="class-entry group">
-	<div class="blog-post-intro group">
+	<input class="toggle"
+				{% if classes.current == true %}
+				checked
+				{% endif %}
+  id="toggle-{{ classes.date | date_to_xmlschema }}" type="checkbox" name="toggle" />
+  <label for="toggle-{{ classes.date | date_to_xmlschema }}">
+		<div class="blog-post-intro group">
 		  <div class="blog-post-date {{ classes.status }}">
 				<div class="blog-post-month">
 					{% assign m = classes.date | date: "%B" %}
@@ -24,7 +30,8 @@
 			<p>{{ classes.description }}</p>
 		</div>
 	</div>
-<div class="class-summary">
+	</label>
+<div id="content-{{ classes.date | date_to_xmlschema }}" class="class-summary">
 	  <dl>
 	  	<dt>Read For Class</dt>
 	  	<dd>{{ classes.reading }}</dd>
