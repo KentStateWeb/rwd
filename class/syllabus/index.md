@@ -222,7 +222,6 @@ There are **100** total possible points for the semester.
 </tbody>
 </table>
 </div>
-<br />
 
 <h3 style="clear: left;">Attendance Policy</h3>
 

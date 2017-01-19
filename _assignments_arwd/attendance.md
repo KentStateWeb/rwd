@@ -10,8 +10,9 @@ status: not-completed
 
 ---
 
-Details go here.
+Attendance points will be awarded at the end of the semester and will take into account the following:
 
-## Rubric
-
-Rubric goes here.
+* You had fewer than 3 unexcused absences throughout the semester (see the [syllabus](/advanced/syllabus) for more information).
+* You attended the majority of 15-minute virtual Scrum sessions (attendance taken by Scrum Master)
+* During class and meeting sessions, you were engaged and present (participating in workload, asking questions to instructor and helping other team members).
+* When guest speakers attended class, you contributed meaningful questions and participated in discussions.

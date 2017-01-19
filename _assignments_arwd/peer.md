@@ -10,8 +10,8 @@ status: not-completed
 
 ---
 
-Details go here.
+Since this project was a highly collaborative assignment, I want to hear from each group member about the work ethic and participation of the members of the class (you may have worked more directly with some members than others).  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
 
-## Rubric
+The survey must be completed by Thursday of finals week at 5 p.m.
 
-Rubric goes here.
+Survey details will be added soon.
