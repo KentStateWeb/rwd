@@ -6942,6 +6942,18 @@
 		"oAP": "\/_site\/class\/schedule\/spring-2016\/index.html",
 		"oF": 1
 		},
+	"\/_site\/class\/slides\/1\/1-Slides-RWD.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/1\/1-Slides-RWD.key",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/1\/1-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/1\/1-Slides-RWD.pdf",
+		"oF": 0
+		},
 	"\/_site\/class\/slides\/10\/10-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -7431,6 +7443,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/_site\/img\/document.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/img\/down-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/img\/down-arrow.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -8177,6 +8199,12 @@
 		"oAP": "\/class\/slides\/1\/1-Slides-RWD.key",
 		"oF": 0
 		},
+	"\/class\/slides\/1\/1-Slides-RWD.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/1\/1-Slides-RWD.pdf",
+		"oF": 0
+		},
 	"\/class\/slides\/10\/10-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -8738,6 +8766,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/img\/document.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/down-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/down-arrow.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
