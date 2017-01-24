@@ -45,7 +45,7 @@ The link included with each website is a starting point.  There may be other inf
 * [The Great Discontent](http://responsivewebdesign.com/podcast/the-great-discontent/) - Megan/Kathleen
 * [Carnegie Library of Pittsburgh](https://responsivewebdesign.com/podcast/carnegie-library-of-pittsburgh/) - ##
 * [U.S. Digital Service](https://responsivewebdesign.com/podcast/usds/) - ##
-* [The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) - Mike
+* [The Verge](http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016) - Mike/Guangyi
 * [TypeKit](https://responsivewebdesign.com/podcast/typekit/) - ##
 * [Casper](https://responsivewebdesign.com/podcast/casper/) - Jenna/Ciara
 * [Toledo Public Library](https://responsivewebdesign.com/podcast/toledo-public-library/) - Marissa and Emily
