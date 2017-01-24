@@ -19,6 +19,8 @@ Your completed assignment should look <a href="/img/html1.png">something like th
 
 **Do not copy and paste another student's code.  If I catch you doing so, you'll receive a 0 for the assignment.**
 
+----
+
 ## What To Do
 
 1. Set up a [CodePen](http://www.codepen.io) account (in class).
@@ -27,15 +29,16 @@ Your completed assignment should look <a href="/img/html1.png">something like th
 4. CodePen automatically inserts all of the required code for the HEAD of the document (the HTML, BODY and TITLE tags).  Add in the Viewport meta tag to make the site behave responsively on mobile devices. (Settings > HTML > Insert the most common viewport meta tag)
 5. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode).  Click Submit.
 
+----
+
 ## The Content
 
-Enduring Trauma?
+**Enduring Trauma?**
 
 Poynter KSU Media Ethics Workshop 2015
 
-***(Client note - ^ these are the most important things on the page)***
-
 About the Conference
+
 Covering trauma -- a tragic accident, a horrendous attack, a sickening court case, a catastrophic weather event – exposes journalists and victims to complicated questions about ethics and responsibility. This year’s Poynter KSU Media Ethics Workshop will delve into significant topics including privacy, re-victimization and the trauma that journalists themselves often deny. Best practices for PR and other media professionals also will be covered.
 
 The Poynter KSU Media Ethics Workshop is a one-day training program for professionals, educators and students that examines critical issues and perspectives in media ethics. Moderated by distinguished ethics faculty from The Poynter Institute, the Media Ethics Workshop provides a unique forum for professionals and students alike to confront and discuss significant issues crucial to understanding media ethics and its effect on our world. Previous Workshops have addressed online ethics, sports media ethics, political media ethics, entertainment media ethics and the ethics of data mining. Established in 2004, the Poynter KSU Media Ethics Workshop continues its mission to strengthen media credibility and bolster citizens’ faith in media integrity.
@@ -66,7 +69,7 @@ How to Register
 
 ***(Client note - this is hard to read.  Can we number these in steps?  Also, make the words registration website one of those interactive things that takes you to a website when clicked.)***
 
-(1) Visit the Registration website http://mediaethics.jmc.kent.edu/registration.php (2) Select Student or Media Professional/Educator based on your role. (3) Complete the regsitration form and payment process. (4) You'll receive a ticket via email.  Bring this with you to the conference.
+(1) Visit the Registration website http://mediaethics.jmc.kent.edu/registration.php (2) Select Student or Media Professional/Educator based on your role. (3) Complete the registration form and payment process. (4) You'll receive a ticket via email.  Bring this with you to the conference.
 
 Contact Us
 
@@ -74,6 +77,7 @@ Contact Us
 
 Jan Leach: jleach1@kent.edu, Jennifer Kramer: jlkramer@kent.edu, Melinda Stephan: mcstepha@kent.edu
 
+----
 
 ## Rubric
 
