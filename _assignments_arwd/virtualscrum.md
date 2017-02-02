@@ -10,11 +10,11 @@ status: not-completed
 
 ---
 
-Our weekly update meeting (virtual Scrum) will be held each week at DAY/TIME for a maximum of 15 minutes.
+Our weekly update meeting (virtual Scrum) will be held each week at 4:00 on Tuesdays on Slack for a maximum of 15 minutes.
 
 These virtual meetings will help teams stay up-to-date and create a plan for the rest of the week.  
 
-Attendance will be taken by: NAME .  The team may also decide to take notes in Basecamp or Slack.
+The team may also decide to take notes in Basecamp or Slack.
 
 ## Format
 
