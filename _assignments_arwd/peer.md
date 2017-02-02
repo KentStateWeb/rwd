@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "mini"
 points: 5
 layout: assignment
-date: 2016-05-11 12:00:00
+date: 2016-05-12 12:00:00
 semester: spring-2017
 status: not-completed
 
@@ -12,6 +12,6 @@ status: not-completed
 
 Since this project was a highly collaborative assignment, I want to hear from each group member about the work ethic and participation of the members of the class (you may have worked more directly with some members than others).  Just as importantly, though, I want to hear your evaluation of how you felt you performed during the project.  Both evaluations will be used to calculate your assessment grade, and it is possible that group members will have different points awarded.
 
-The survey must be completed by Thursday of finals week at 5 p.m.
+The survey must be completed by Friday of finals week at 5 p.m.
 
-Survey details will be added soon.
+Survey details will be added in the coming weeks.
