@@ -789,6 +789,54 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_assignments\/images\/css1\/header.png": {
+		"ft": 32768,
+		"iS": 118922,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments\/images\/css1\/headings.png": {
+		"ft": 32768,
+		"iS": 28635,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/headings.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments\/images\/css1\/links.png": {
+		"ft": 32768,
+		"iS": 7092,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/links.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments\/images\/css1\/lists.png": {
+		"ft": 32768,
+		"iS": 55220,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/lists.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments\/images\/css1\/padding.png": {
+		"ft": 32768,
+		"iS": 68145,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/padding.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_assignments\/images\/css1\/paragraph.png": {
+		"ft": 32768,
+		"iS": 63281,
+		"oA": 0,
+		"oAP": "\/_assignments\/images\/css1\/paragraph.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_assignments\/images\/first-row-large.png": {
 		"ft": 32768,
 		"iS": 20216,
@@ -1759,6 +1807,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_assignments_arwd\/teaching.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_assignments_arwd\/virtualscrum.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_assignments_arwd\/virtualscrum.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -5017,6 +5083,12 @@
 		"oAP": "\/_site\/advanced\/assignments\/teaching\/index.html",
 		"oF": 0
 		},
+	"\/_site\/advanced\/assignments\/virtualscrum\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/advanced\/assignments\/virtualscrum\/index.html",
+		"oF": 0
+		},
 	"\/_site\/advanced\/eval\/index.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -5731,6 +5803,54 @@
 		"oA": 2,
 		"oAP": "\/_site\/class\/assignments\/html2\/index.html",
 		"oF": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/header.png": {
+		"ft": 32768,
+		"iS": 118922,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/header.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/headings.png": {
+		"ft": 32768,
+		"iS": 28635,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/headings.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/links.png": {
+		"ft": 32768,
+		"iS": 7092,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/links.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/lists.png": {
+		"ft": 32768,
+		"iS": 55220,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/lists.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/padding.png": {
+		"ft": 32768,
+		"iS": 68145,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/padding.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_site\/class\/assignments\/images\/css1\/paragraph.png": {
+		"ft": 32768,
+		"iS": 63281,
+		"oA": 0,
+		"oAP": "\/_site\/class\/assignments\/images\/css1\/paragraph.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_site\/class\/assignments\/images\/first-row-large.png": {
 		"ft": 32768,
@@ -7074,6 +7194,24 @@
 		"oAP": "\/_site\/class\/slides\/2\/2-Slides-RWD.pdf",
 		"oF": 0
 		},
+	"\/_site\/class\/slides\/2\/exercise1-error.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/2\/exercise1-error.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/2\/exercise1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/2\/exercise1.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/2\/HTMLParagraphandElementsExercise.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/2\/HTMLParagraphandElementsExercise.pdf",
+		"oF": 0
+		},
 	"\/_site\/class\/slides\/3\/3-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -7086,6 +7224,18 @@
 		"oAP": "\/_site\/class\/slides\/3\/3-Slides-RWD.pdf",
 		"oF": 0
 		},
+	"\/_site\/class\/slides\/3\/exercise2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/3\/exercise2.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/3\/List-LinkExerciseHTML2-3.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/3\/List-LinkExerciseHTML2-3.pdf",
+		"oF": 0
+		},
 	"\/_site\/class\/slides\/4\/4-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -7096,6 +7246,28 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/class\/slides\/4\/4-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/4\/exercise2.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/4\/exercise2-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/class\/slides\/4\/exercise2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/4\/exercise2.html",
+		"oF": 0
+		},
+	"\/_site\/class\/slides\/4\/IdeaBase Directions.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/class\/slides\/4\/IdeaBase Directions.pdf",
 		"oF": 0
 		},
 	"\/_site\/class\/slides\/5\/5-Slides-RWD.key": {
@@ -8325,6 +8497,24 @@
 		"oAP": "\/class\/slides\/2\/2-Slides-RWD.pdf",
 		"oF": 0
 		},
+	"\/class\/slides\/2\/exercise1-error.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/2\/exercise1-error.html",
+		"oF": 0
+		},
+	"\/class\/slides\/2\/exercise1.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/2\/exercise1.html",
+		"oF": 0
+		},
+	"\/class\/slides\/2\/HTMLParagraphandElementsExercise.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/2\/HTMLParagraphandElementsExercise.pdf",
+		"oF": 0
+		},
 	"\/class\/slides\/3\/3-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -8337,6 +8527,18 @@
 		"oAP": "\/class\/slides\/3\/3-Slides-RWD.pdf",
 		"oF": 0
 		},
+	"\/class\/slides\/3\/exercise2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/3\/exercise2.html",
+		"oF": 0
+		},
+	"\/class\/slides\/3\/List-LinkExerciseHTML2-3.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/3\/List-LinkExerciseHTML2-3.pdf",
+		"oF": 0
+		},
 	"\/class\/slides\/4\/4-Slides-RWD.key": {
 		"ft": 8192,
 		"oA": 2,
@@ -8347,6 +8549,28 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/class\/slides\/4\/4-Slides-RWD.pdf",
+		"oF": 0
+		},
+	"\/class\/slides\/4\/exercise2.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/class\/slides\/4\/exercise2-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/class\/slides\/4\/exercise2.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/4\/exercise2.html",
+		"oF": 0
+		},
+	"\/class\/slides\/4\/IdeaBase Directions.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/class\/slides\/4\/IdeaBase Directions.pdf",
 		"oF": 0
 		},
 	"\/class\/slides\/5\/5-Slides-RWD.key": {
