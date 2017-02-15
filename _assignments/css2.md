@@ -23,7 +23,7 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 ## What To Do
 
-Open your HTML Basics 1 assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - CSS Basics 2".
+Open your HTML Basics 2 assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - CSS Basics 2".
 
 Notice how we've broken the page up into parts.  This is good practice and will help you organize your HTML and CSS better.
 
