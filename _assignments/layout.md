@@ -20,68 +20,112 @@ This is an individual assignment, and it will be turned in via Blackboard Learn.
 
 Open your CSS Basics 2 assignment.  Instead of editing the original pen, click the "Fork" option at the top.  Click Settings and rename the forked pen using this structure: "Your Last Name - Layout/Media Queries".
 
-Remember these guidelines:  
+You're going to be using fonts and media queries to add on to your website, making it work well at all screen sizes.
 
-* a. Order your media queries from smallest to largest  
-* b. Organize your CSS by element (for example, header and footer)
-* c. Your first media query is no media at all.  These are your default styles.
+It should resemble the screenshots from these examples:
 
-### Choose New Fonts
+<a class="button small" href="../images/fonts/small.png">Small Screen Version</a>
+<a class="button small" href="../images/fonts/large.png">Large Screen Version</a>
 
-1. Replace the sans-serif and serif typefaces in the document with a Google Web Font.  Go to [https://www.google.com/fonts](https://www.google.com/fonts) and choose one serif and one sans-serif typeface (whatever you think fits) by clicking the "Select this Font option".
-2. At the bottom of the screen you'll see "2 Families Selected".  Select this box and choose the @IMPORT option.
-3. Copy this import code into the top of your CSS in CodePen.  Do not include the "Style" tags.  If you used the Standard option instead, put this code in your HTML.
-4. Replace the font-family values in your CodePen with the values for the fonts you selected.  See the Specify in CSS section on Google Fonts for the correct way to define your fonts in your CodePen CSS.
+**Remember these guidelines:**
 
-### Typography Changes
+1. Order your media queries from smallest to largest  
+2. Organize your CSS by element (for example, header and footer)
+3. Your first media query is no media at all.  These are your default styles.
 
-It's time to implement your first media query.  For this part, we're going to be making the paragraph and heading text get larger as the screen gets bigger.  
+---
+
+### Step 1: Choose New Fonts
+
+You're going to replace the sans-serif and serif typefaces in the document with a Google Web Font of your choice.  
+
+<figure class="figure">
+<a href="../images/fonts/fonts.png"><img src="../images/fonts/fonts.png" alt="Fonts Example" /></a>
+</figure>
+
+1.  Go to [https://www.google.com/fonts](https://www.google.com/fonts) and choose one serif and one sans-serif typeface (whatever you think fits) by clicking the "+" icon.
+2. At the bottom of the screen you'll see "2 Families Selected".  Click on this box.
+3. Copy the code beginning with < link href > under Standard.
+4. Paste this code into the HTML of your CodePen (preferably below your content).  This will import the fonts for use on your web page.
+5. Finally, replace the font-family values in your CodePen with the values for the fonts you selected.  See the "Specify in CSS" section on Google Fonts for the correct way to define your fonts in your CodePen CSS.  For example if you chose the Oswald font, instead of "font-family: Helvetica, sans-serif" you would do "font-family: 'Oswald', sans-serif;".
+
+---
+
+### Step 2: Paragraph Size Adjustments
+
+<figure class="figure">
+<img src="../images/fonts/paragraph.png" alt="Heading Example" />
+</figure>
+
+It's time to implement your first media query.  For this part, we're going to be making the paragraph text get larger as the screen gets bigger.  
 
 ***Remember, the first media query is no media query at all.  This is your default (mobile) state.  Only add a media query when you need to tweak a style as the screen gets larger.***
 
-1.  Set all paragraph font sizes to get slightly larger at a minimum width of 600px.
+1.  Set all paragraph font sizes to get slightly larger starting at a minimum width of 600px.
 2.  Set all paragraph font sizes to get even larger at a minimum width of 1000px.  
 3.  Increase all paragraph line-heights at a minimum width of 1000px.
-4.  Increase all H2 font sizes at a minimum width of 1000px.
 
-### Main Content Area
+---
 
-1.  At a minimum width of 825px, change the main area's padding to be 3.5em, but the padding at the top only to be 1em.
-2. At 1000px, change the main area's width to be fixed at 1200px (this will stop it from getting any larger).
+### Step 3: Heading Size Adjustments
 
+<figure class="figure">
+<img src="../images/fonts/heading.png" alt="Heading Example" />
+</figure>
 
-### Floated image
+1.  Increase all H2 font sizes at a breakpoint of your choice as the screen gets larger.
+
+---
+
+### Step 4: Main Content Area Size
+
+<figure class="figure">
+<img src="../images/fonts/padding.png" alt="Padding Example" />
+</figure>
+
+1.  At a breakpoint width of your choice, change the main area to have more space inside of it (padding).
+2. Change the main area's maximum width to be fixed at 1200px (this will stop it from getting any larger).
+
+---
+
+### Step 5: Figure Image + Caption
 
 Now we're going to set the welcome weekend image to float to the right of the text at larger screen sizes.
 
-1. Starting at a minimum width of 825px, float your "figure" element to the right.  
-2. Starting at a minimum width of 825px, change the width of your figure element to 50%.
-3. Starting at a minimum width of 825px, set a margin-top of 2em and a padding-left of 5% to your figure element.  
-4. Starting at a minimum width of 825px, set a margin-bottom of 1em to your figure element.
+<figure class="figure">
+<img src="../images/fonts/image.png" alt="Figure Example" />
+</figure>
 
-If you've done everything correctly, you should see your image float within the text starting at 825px.
+1. At a starting breakpoint width of your choice, float your "figure" element (which should contain an image and caption) to the right. You'll need to look up how to use the "float" property.
+2. Change the width of your figure element to 50% at this same breakpoint.
+3. Add space on the top, left and bottom around your figure element at this same breakpoint.
 
+If you've done everything correctly, you should see your image float within the text starting at your breakpoint.
 
-### Absolutely Positioned caption
+---
 
-As the screen gets larger, choose a breakpoint to change the figcaption element (the caption of your main image) to overlay on top of the image.  
+### Step 6:  Set the Logo To Get Bigger
 
-1.  Starting at a minimum width of 550px, change the positioning of figcaption to absolute.
-2.  Starting at a minimum width of 550px, add bottom: 9px to figcaption.
-3.  Starting at a minimum width of 550px, add a Kent State blue background color (using rgba) at 80% opacity to figcaption.  
-4.  Starting at a minimum width of 550px, change the color of the figcaption text to white.  
-5.  Starting at a minimum width of 550px, Add a margin-left and margin-right of 5px to figcaption.  
-6.  Starting at a minimum width of 550px, Add padding of .75em to figcaption.  
-7.  Your caption likely isn't on top of your image!  That's because we need to tell the caption to position itself relative to the "figure" element.  Go back to your default "figure" styles and add "position: relative" to the figure element.  You should see the caption now positions itself on top of the image at 825px.  Check your HTML - "figcaption" must be inside of "figure" in order for this to position correctly.  If it is not, adjust your HTML.
+<figure class="figure">
+<img src="../images/fonts/logo.png" alt="Logog Example" />
+</figure>
 
+1.  Once there is enough room, set the Destination Kent State logo ONLY to get slightly larger (increase the width).
+2.  Do this by giving the logo a CLASS name in the HTML and using that class in the CSS.  While this could be accomplished in other ways, I want you to practice using a class here.
+
+---
 
 ### Submitting the Assignment
 
-Your final product should look something close to mine, understanding that your fonts and screen widths will vary.  See the [Small Screen Version](/img/fonts-small.png) and [Large Screen Version](/img/fonts-large.png).
+Your final product should look something close to mine, understanding that your fonts and screen widths will vary.  
 
-1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
-2. View your newly completed website as a web page on different devices.  Does everything render correctly?
-3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
+<a class="button small" href="../images/fonts/small.png">Small Screen Version</a>
+<a class="button small" href="../images/fonts/large.png">Large Screen Version</a>
+
+1. Once you're satisfied, copy the Editor Mode URL from CodePen
+2. Log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste the URL of the Pen (Editor Mode).  Click Submit.
+
+---
 
 ## Rubric
 
