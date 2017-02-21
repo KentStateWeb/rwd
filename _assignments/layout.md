@@ -22,7 +22,7 @@ Open your CSS Basics 2 assignment.  Instead of editing the original pen, click t
 
 You're going to be using fonts and media queries to add on to your website, making it work well at all screen sizes.
 
-It should resemble the screenshots from these examples:
+It should resemble the screenshots from these examples (remember that I may have chosen different fonts than you).
 
 <a class="button small" href="../images/fonts/small.png">Small Screen Version</a>
 <a class="button small" href="../images/fonts/large.png">Large Screen Version</a>
