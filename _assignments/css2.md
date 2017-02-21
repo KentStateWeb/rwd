@@ -82,7 +82,7 @@ First, we need to add some HTML5 elements to surround our main sections of conte
 1. Make the main content area only have a 95% transparent white background color.
 2.  Adjust the spacing inside of the main content area so that there is some whitespace.  This might be accomplished with padding.
 3.  Set the main content area to a 90% width.  This will give some space around it.
-4.  Center the main content area in the middle of the page (hint: use width: 0 auto).
+4.  Center the main content area in the middle of the page (hint: use margin: 0 auto).
 5.  Tell the main content area to get no wider than 900px (hint use max-width)
 6.  Set a slight drop shadow on the main content area
 
