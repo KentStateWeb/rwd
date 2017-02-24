@@ -1891,7 +1891,7 @@ blockquote p {
 	text-align: right;
 	font-size: .85em;
 	margin-right: 5%;
-	margin-bottom: .5em;
+	margin-bottom: 1em;
 	border-radius: 0px 2px 2px 0px;
 	box-shadow: 2px 2px 0px rgb(1,65,79);
 }
@@ -1901,8 +1901,8 @@ blockquote p {
 	float: left;
 	font-size: .75em;
 	margin-bottom:0;
-	padding: .7em 0 .5em 0;
-	line-height: 1.1;
+	padding: .8em 0 .5em 0;
+	line-height: 1.3;
 
 }
 
