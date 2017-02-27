@@ -1,5 +1,5 @@
 ---
-title: "HTML/CSS Comprehension Test"
+title: "HTML/CSS Mini Exam"
 description: "Description of the assignment"
 type: "mini"
 points: 10
