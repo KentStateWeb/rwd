@@ -30,35 +30,48 @@ Rename the pen by clicking on the Pencil icon and renaming it to this structure:
 
 Here's what we'll be making.  Don't try to do it all at once, we'll take each section at a time.  This is a responsive website, so there will be multiple changes in layout at different breakpoints.  
 
-<img src="../images/small.png" alt="Small Image" />
+#### Small Screen
 
-<img src="../images/medium.png"  alt="Small Image" />
+<figure class="figure">
+<img src="../images/small-new.png" alt="Small Image" />
+</figure>
 
-<img src="../images/large.png" alt="Small Image" />
+#### Large Screen
 
+<figure class="figure">
+<img src="../images/large-new.png" alt="Small Image" />
+</figure>
+---
 
-### Header
+### Step 1: Header
 
 Let's start with the header (<header>).  Rather than telling you what rules to use, I'm going to provide you with an image of how the header should look.  It's up to you to style it, but it doesn't have to be exact.
 
-1.  Use colors hsl(206,100,14) (Blue in Blackboard), hsl(43,100,90) (Yellow) and White
+1.  Use colors Blue: hsl(206,100,14), Yellow: hsl(43,100,90) (Yellow) and White.
 2.  Set the header in font-family: 'Suez One', serif;
 3.  In order to get the word "Boxes" on its own line, you'll need to use the "display: block" property and target the "span" around the word "boxes".
-4.  We can create a line above the word "boxes" using border-top.
+4.  Create a line above the word "boxes" using border-top.
 
+<figure class="figure">
 <img src="../images/header.png" alt="Header Image" />
+</figure>
 
+<figure class="figure">
 <img src="../images/header-large.png" alt="Header Large" />
+</figure>
 
+---
 
-### Main Content Area
+### Step 2: Main Content Area
 
-Make the main content area (main) stop getting any larger than 1000px wide (use the max-width CSS property).  Center this MAIN box in the middle of the page (this will only be apparent when the viewport is larger than 1000px).
+1.  Make the main content area (main) stop getting any larger than 900px wide (use the max-width CSS property).  
+2.  Center this MAIN box in the middle of the page (this will only be apparent when the viewport is larger than 900px).
 
 Note: The header and footer reside outside of the MAIN box and this therefore won't apply to them.
 
+---
 
-### Navigation
+### Step 3: Navigation
 
 The navigation (nav) starts as a stacked list, and then turns into a horizontal list.
 
@@ -66,44 +79,45 @@ The navigation (nav) starts as a stacked list, and then turns into a horizontal 
 2.  Remove the default bulleted style on the unordered list within the <nav> box, as well as its margin and padding.  You can do this either using "nav ul" or by adding a class to the <ul> element.
 3.  Set the list items to be centered (see picture).
 4.  Set the list items to be colored white.
-5.  Set each list item (li) to have 1em of padding around it.
-6.  Give the nav box a margin of .25em to separate it from the header.
-7.  It's time to add a CSS media query.  When the screen gets large enough (you choose the size), use flexbox on the list to position items side-by-side.  You can do this either by targeting "nav ul" or by adding a class to the <ul> element and setting it to display: flex.
-8.  Flexbox also has a property to tell each list item to take up equal space.  Hint: see the section in [CSS Tricks called "Justify Content"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+5.  Set each list item (li) to have padding around it.
+6.  Aadd a CSS media query.  When the screen gets large enough (you choose the size), use flexbox on the list to position items side-by-side.  You can do this either by targeting "nav ul" or by adding a class to the <ul> element and setting it to display: flex.
+7.  Flexbox also has a property to tell each list item to take up equal space.  Hint: see the section in [CSS Tricks called "Justify Content"](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-
+<figure class="figure">
 <img src="../images/nav-small.png" alt="Header Small" />
+</figure>
 
+<figure class="figure">
 <img src="../images/nav-large.png" alt="Header Large" />
+</figure>
 
-### Sections
+---
 
-We've used a section tag to surround each of our 3 "rows".  We could have also used a DIV to surround the rows, but sections are more semantically correct and will help us differentiate between DIVs later.
-
-1.  Give each of the sections a unique class name within the HTML.  We'll use this to identify each of the rows and give them different styling.  
-2.  Choose something like "first-row", "second-row" and "third-row" as the class name for each section.
-
-### Boxes
+### Step 4: Boxes
 
 Now lets style all of the divs to give them equal spacing.  There are 9 individual boxes (marked up as DIVs) in between the footer and navigation.
 
 1.  Each of the boxes have already been given identical class name of class="box".  
 2.  Set a style for each .box in your CSS of padding: 2em and margin: .25em.
 
+---
 
-### First Row
+### Step 5: First Row
 
-Now it's time to style the first row of boxes.  This one is simple.  We'll start out with each box stacked and then, at a breakpoint, change to a 50%/50% layout.
+Now it's time to style the first row of boxes.  This one is simple.  We'll start out with each box stacked and then, at a breakpoint, change to a 50/50 layout.
 
-1.  Make each individual box in the first row have a white background.  To do this, you'll have to use a class in your CSS like .first-row .box {background-color: white;}.
+Your first row has already been given the class "first-row".
+
+1.  Make each individual box in the first row have a white background.  To do this, you'll have to use a class in your CSS: .first-row .box {background-color: white;}.
 2.  At your favorite breakpoint, change the boxes in the first row to become side-by-side using display: flex.  Remember that display:flex goes on the parent box (.first-row) and not on each individual box.  Upon applying flex, the boxes will by default line up side-by-side.
 
 <img src="../images/first-row-small.png" alt="First Row Small" />
 
 <img src="../images/first-row-large.png" alt="First Row Large" />
 
+---
 
-### Second Row
+### Step 6: Second Row
 
 The next row is a bit more challenging.  We're going to add background images to each of the boxes, and also style the paragraphs inside to be boxes themselves, perfectly centered inside.
 
@@ -111,44 +125,31 @@ The next row is a bit more challenging.  We're going to add background images to
 2.  Use the "background-size: cover" property to tell the image to always use the available background space.
 3.  Two of the boxes that are inside the second row already have a class name of "inner-box".  Style the boxes inside the second-row boxes to have a background-color (hsla(197,82,38,.9) and white text.
 4.  At your favorite breakpoint, use flexbox to position the two second-row boxes  side-by-side (be sure to target the .second-row class with the display: flex property).  However, instead of making them an even 50%, make the first box 25% and the second one 75%.  Hint - the only way to do this is to set a width on each of the boxes using the preexisting class names .box-left and .box-right.
-5.  If you've done everything right, you'll notice that the content in the right box is not vertically centered at larger screen sizes.  You can fix this by adding display: flex; and align-items: center; to the ".right-box" styles.  This will perfectly center the content vertically (which until flexbox was quite difficult to achieve).
+5.  If you've done everything right, you'll notice that the content in the right box is not vertically centered at larger screen sizes.  You can fix this by adding display: flex; and align-items: center; to the ".right-box" styles.  This will perfectly center the content vertically.
 
 <img src="../images/second-row-small.png" alt="Second Row Small" />
 
 <img src="../images/second-row-large.png" alt="Second Row Large" />
 
+---
 
-### Third Row
-
-The third "row" is deceptive because while there are 6 boxes, we're going to tell the boxes to wrap when they run out of room, thereby creating another row.  
-
-1.  Set the background of all boxes in the third row to be hsl(20,100,42) and color white.
-2.  At your favorite breakpoint, set all of the boxes to be side-by-side using display: flex on the parent element (.third-row).
-3.  Because the boxes are a bit too tight to have 6 all side-by-side, tell the boxes that it's alright to wrap.  Use the instructions on [CSS-Tricks under the Flex Wrap section](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-4.  Tell flexbox you'd like the boxes to be divided into thirds by making each of them width: 32%.  To do this, you'll need to target .third-row .box with CSS.
-5.  Things aren't quite lining up.  We can fix that by using "flex-grow: 1" to tell all of the boxes to take up the remaining extra space automatically.  Add this property to your ".third-row .box" class.  More information about flex-grow is [available under the flex-grow section on CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-6.  Finally, at the next larger breakpoint of your choice, lets tell the items to go back to 6 boxes, side-by-side.  To do that, we'll have to reverse what we did prior using flex-wrap: nowrap on the .third-box class.
-
-<img src="../images/third-row-small.png" alt="Third Row Small" />
-
-<img src="../images/third-row-medium.png" alt="Third Row Medium" />
-
-<img src="../images/third-row-large.png" alt="Third Row Large" />
-
-
-### Footer
+### Step 7: Footer
 
 Nothing special here.  Just make the footer background hsl(197,82,38), give it some padding and margin, and center the text inside.
 
 <img src="../images/footer.png" alt="Footer" />
 
-
+---
 
 ### Submitting the Assignment
 
-1. Once you're satisfied, go to Choose a View > Full Page > Copy the Live URL.
-2. View your newly completed website as a web page on different devices.  Does everything render correctly?
-3. After you've completed your testing, log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste both the URL of the Pen (Editor Mode) as well as the Full View  URL.  Click Submit.
+Your final product should look something close to mine, understanding that your fonts and screen widths will vary.  
+
+<a class="button small" href="../images/small-new.png">Small Screen Version</a>
+<a class="button small" href="../images/large-new.png">Large Screen Version</a>
+
+1. Once you're satisfied, copy the Editor Mode URL from CodePen
+2. Log in to Blackboard Learn to submit your assignment.  Go to Assignments > Assignment Name.  Under Write Submission, Paste the URL of the Pen (Editor Mode).  Click Submit.
 
 ## Rubric
 
