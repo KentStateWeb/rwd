@@ -27,3 +27,5 @@ Note:  MAMP Pro Must be running in order to access your site on your local compu
 1.  Craft CMS template files are located in studentmedia/craft/templates.  You can organize these however you want, but the main template is "_layout.html".
 2.  The CSS/SCSS, Images and JavaScript related to the CMS are in a different directory.  That directory is studentmedia/httpdocs/assets.
 3.  Pattern Lab and Craft CMS share the same assets, so they'll automatically be in sync (yay).
+
+For more information about how to build Craft templates and fields, see [this article](craft2.html).
