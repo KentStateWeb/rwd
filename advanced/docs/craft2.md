@@ -175,7 +175,7 @@ i.e for the title field it would be {{ entry.title }}
 
 ----
 
-##Step 8: Test and production web site
+## Step 8: Test and production web site
 
 ***Important - Fields and sections do not sync between local and production environments, while changes to files and folders outside of Craft (such as templates folder) do.***  
 
