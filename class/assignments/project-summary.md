@@ -7,8 +7,8 @@ layout: wide
 ## The Setup
 
 * You're an employee at a small web design shop and have just gotten one of your first clients - a small website project for their business.
-* Your boss has assigned you and coworker to the project.  You are both equally responsible for development, design and content strategy.
-* The client is launching their business in February, so they need most of the design/development done and approved before then.
+* Your boss has assigned you (and maybe a coworker) to the project.  You are both equally responsible for development, design and content strategy.
+* The client is launching their business in a few months, so they need most of the design/development done and approved before then.
 * They plan to put the site into a content management system - but they need a working style guide and prototype in order to effectively implement it.
 * They have an onsite employee who will be maintaining and improving the website after the project is finished.
 
@@ -24,7 +24,7 @@ You'll work in pairs on this project.  Each pair will work on a slightly differe
 
 <ul>
 {% for groups in site.groups %}
-    {% if groups.semester == 'fall-2016' %}
+    {% if groups.semester == 'spring-2017' %}
 	  {% include groups.html %}
     {% endif %}
 {% endfor %}
@@ -33,10 +33,10 @@ You'll work in pairs on this project.  Each pair will work on a slightly differe
 
 ## Project Schedule
 
-You and your boss have worked together to develop a brief project schedule - based on her previous experience.  He or she knows this may need to be adjusted, but it's a good starting point.
+You and your boss have worked together to develop a brief project schedule.
 
 
-### 1: Kickoff Meeting and Research
+### 1: Research
 
 * Meet with the client and determine project goals, design aesthetic, etc.
 * Communicate why investing in a responsive website makes sense for their business.
@@ -47,40 +47,40 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/research">View Research Project</a>
 
-###  2: Content & Architecture
+###  2: Content, Architecture and Sketching
 
 * Collect any existing content that the client has provided
 * Reformat and rewrite that content using a mobile-first methodology
 * Ask the client for any missing content
 * Put together a sitemap in Google Docs
-
-<a class="button small" href="/class/assignments/content">View Content Project</a>
-
-###  3: Sketching
-
 * Based on your content, you'll develop a few, mobile-first sketches to show the client
 * The sketches will show some of the main templates that you'll be developing.  You may choose to show them at different breakpoints.
 * Using the sketches, you'll identify the repeatable patterns present in your design
 
-<a class="button small" href="/class/assignments/sketching">View Sketching Project</a>
+<a class="button small" href="/class/assignments/content">View Content Project</a>
 
-###  4:  Style Tiles/Personality and Concepts
+###  3:  Style Tiles, Prototype and Concepts
 
 * Using the goals you discovered in your client meeting, you'll develop 2 sets of style tiles that show the colors, design aesthetic and personality of the website.
 * You'll show these to the "client" in class, and the class will ask questions.
 * From the style tile feedback, you'll develop a few visual mockups representing different screen sizes.
 
-<a class="button small" href="/class/assignments/style">View Style Tiles Project</a>
+<a class="button small" href="/class/assignments/style">View Style Project</a>
 
-###  5:  HTML Wireframes
+###  4:  Basic Wireframes and HTML/CSS Final Patterns/Prototype/Templates
+
+This piece includes Basic Wireframes, Patterns 1 and 2 and Final Templates/Pattern Library.  You'll submit project updates each week, but won't actually submit this part until the end.
 
 * You'll begin putting together the content you gathered into an HTML template structure
 * You'll prioritize the most important content up top
 * The content wireframes will demonstrate to the client how the site will respond at different breakpoints.
+* Using your content templates, you'll begin to add CSS styling to your code, creating working prototypes of representative templates in your website.
+* You'll determine how each repeatable element looks and functions together
+* Based on your final prototypes, you'll develop a pattern library that demonstrates the typography, colors and primary atomic elements used in the design
 
-<a class="button small" href="/class/assignments/wireframes">View Wireframe Project</a>
+<a class="button small" href="/class/assignments/templates">View Template Project</a>
 
-###  6:  Technical, Accessibility and Usability Testing Plan
+###  4:  Technical, Accessibility and Usability Testing
 
 * You'll prepare a testing plan for your prototypes, having some real users perform some simple tasks
 * You'll see how the site renders on different browsers and devices, and make adjustments.
@@ -88,20 +88,7 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/testing">View Testing Project</a>
 
-###  7:  HTML/CSS Final Prototype/Templates
-
-* Using your content templates, you'll begin to add CSS styling to your code, creating working prototypes of representative templates in your website.
-* You'll determine how each repeatable element looks and functions together
-
-<a class="button small" href="/class/assignments/templates">View Template Project</a>
-
-### 8:  HTML/CSS Pattern Library
-
-* Based on your final prototypes, you'll develop a pattern library that demonstrates the typography, colors and primary atomic elements used in the design
-
-<a class="button small" href="/class/assignments/style">View Pattern Library Project</a>
-
-### 9:  Project Hub, Review Session & Critiques
+### 6:  Project Hub, Review Session & Critiques
 
 * You'll invite the client in for a hands-on walkthrough of the final prototype and style guide
 * You'll show a retrospective of what you did to get to this point via the Project Hub
@@ -110,9 +97,9 @@ You and your boss have worked together to develop a brief project schedule - bas
 
 <a class="button small" href="/class/assignments/timeline-presentation">View Project Hub/Review Session Project</a>
 
-### 10:  Group and Self Assessment
+### 7:  Group and Self Assessment
 
 * Your boss wants to know how you think the project went and what you could do better.
-* You'll evaluate yourself and your team member.
+* You'll evaluate yourself and your team member (if applicable)
 
 <a class="button small" href="/class/assignments/">View Group/Self Assessment Project</a>
