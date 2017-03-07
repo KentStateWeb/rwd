@@ -80,7 +80,7 @@ This piece includes Basic Wireframes, Patterns 1 and 2 and Final Templates/Patte
 
 <a class="button small" href="/class/assignments/templates">View Template Project</a>
 
-###  4:  Technical, Accessibility and Usability Testing
+###  5:  Technical, Accessibility and Usability Testing
 
 * You'll prepare a testing plan for your prototypes, having some real users perform some simple tasks
 * You'll see how the site renders on different browsers and devices, and make adjustments.
