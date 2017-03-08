@@ -9,6 +9,7 @@ description: AROMA Coffee & Tea, a family-owned coffee company that specializes 
 semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 3
+pm: "../pm/group3.pdf"
 ---
 
 ## Goals

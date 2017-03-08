@@ -9,7 +9,7 @@ description: "It’s all about the hops man!  At Hops House, we craft the tastie
 semester: spring-2017
 date: 2016-7-19 12:00:00
 number: 9
-
+pm: "../pm/group9.pdf"
 ---
 
 ## Goals

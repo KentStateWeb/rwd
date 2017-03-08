@@ -9,6 +9,7 @@ description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele
 semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 8
+pm: "../pm/group8.pdf"
 ---
 
 ## Goals

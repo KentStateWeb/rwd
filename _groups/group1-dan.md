@@ -9,6 +9,7 @@ description: "We’re a child care center in Kent, Ohio specializing in creative
 semester: spring-2017
 date: 2016-7-19 12:00:00
 number: 1
+pm: "../pm/group1-dan.pdf"
 
 ---
 

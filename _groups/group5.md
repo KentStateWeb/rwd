@@ -9,6 +9,7 @@ description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Ou
 semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 5
+pm: "../pm/group5.pdf"
 ---
 
 ## Goals
