@@ -1,11 +1,11 @@
 ---
 title: "Group 8"
-client: "AROMA Coffee & Tea"
-members: "TBD"
+client: "Buckeye Bed & Breakfast"
+members: "Grace and Mike"
 layout: group
-link: TBD
-livelink: TBD
-description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
+link: https://github.com/KentStateWeb/s2017-bedandbreakfast8_spring2017
+livelink: https://kentstateweb.github.io/s2017-bedandbreakfast8_spring2017/
+description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 8
@@ -13,36 +13,40 @@ number: 8
 
 ## Goals
 
-
 **What are your top goals as a business this year?**
 
-* Increased coffee sales, especially our new pour-over varieties and iced cold brews
-* Increase walk-in traffic and customer engagement - we want to make our location an inviting place to get together or study.  We're offering events this year to boost awareness.
-* Increase sales of supplemental goods, such as pastries and whole-bean coffee
-* Tell customers about our new location in Columbus
+* Increase room reservations
+* Engage with past customers and increase returning customers
+* Increase specialty package sales, such as our "Sweatheart Package"
+* Provide better experiences for our customers through partnerships with surrounding area attractions
 
 **What would you like the website to be able to do for your users?**
 
-* Ensure customers know our opening and closing times - this is especially improtant for people commuting to work and for students who are studying late at night
-* Allow customers to see special upcoming events - such as our coffee tasting and brewing workshops
-* Communicate why buying local and direct-trade is good for everyone
-* Allow customers to find our location easily
-* Allow customers to see the types of coffee we serve, and communicate the stories behind the origin of those coffees
+* The website should show the various rooms that we have available to choose from, along with their rates and amenities for each
+* Allow customers to schedule and check reservations online
+* List attractions from the surrounding area that customers may be interested in seeing, such as shopping, restaurants, and wineries
+* Encourage customers to view and purchase a special occasion package, especially newly weds and couples celebrating an anniversary
+* Open up a dialogue between us and our customers through blogging and comments
+* Display testimonials from past customers
+* Allow customers to easily find our location on a map
 
 **Who are some of your top competitors?**
 
-* Backroom Coffee Roasters: http://www.imperocoffee.com
-* Mission Coffee Co: http://missioncoffeeco.com
-* Short North Coffee House: http://shortnorthcoffeehouse.com
-* Starbucks: http://www.starbucks.com
+* Red Maple Inn: http://www.redmapleinn.com
+* The Mill House Bed and Breakfast: http://themillhouse.com
+* Whispering Pines Bed & Breakfast http://www.atwoodlake.com
+* Willow Brooke Bed & Breakfast: http://www.willowbrooke.com
+
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Inviting Atmosphere
-* A Place for Friends
-* Locally-Sourced
-* High Quality
-* Authentic
+* A fabulous getaway
+* Charming
+* Unique
+* Enchanting
+* Caring
+* Historic
+* Quaint
 
 ## Assets
 
@@ -50,17 +54,17 @@ number: 8
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group3/Group-3-Content.zip">Download Group 3 Content (Zip File)</a>
+<a href="/class/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group3/aroma.svg" alt="AROMA Coffee & Tea" />
+<img src="/class/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
 
-<a href="/class/groups/assets/group3/aroma.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group6/buckeye.ai">AI (Illustrator) File</a>
 
-<a href="/class/groups/assets/group3/aroma.eps">EPS (Vector) File</a>
+<a href="/class/groups/assets/group6/buckeye.eps">EPS (Vector) File</a>
 
-<a href="/class/groups/assets/group3/aroma.svg">SVG File</a>
+<a href="/class/groups/assets/group6/buckeye.svg">SVG File</a>
 
 ### Brand Colors
 
-Tan: #D2D1C0
+Acorn Brown: #61574B
