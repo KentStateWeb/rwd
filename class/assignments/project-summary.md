@@ -22,14 +22,14 @@ Why this type of project?  This allows you, the student, to apply what you're le
 
 You'll work in pairs on this project.  Each pair will work on a slightly different (but largely equivalent) web project.  The projects are as follows:
 
+{% assign items = site.groups | sort: "number" %}
 <ul>
-{% for groups in site.groups %}
-    {% if groups.semester == 'spring-2017' %}
-	  {% include groups.html %}
-    {% endif %}
+{% for item in items %}
+	{% if item.semester == 'spring-2017' %}
+	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
+	{% endif %}
 {% endfor %}
 </ul>
-
 
 ## Project Schedule
 

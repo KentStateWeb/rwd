@@ -1,49 +1,59 @@
 ---
 title: "Group 9"
-client: "Barb’s Bridal Boutique"
-members: "TBD"
+client: "Hops House Microbrewery"
+members: "Stephanie and Marissa"
 layout: group
-link: TBD
-livelink: TBD
-description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
+link: https://github.com/KentStateWeb/s2017-hops_house_brewery_s17
+livelink: https://kentstateweb.github.io/s2017-hops_house_brewery_s17/
+description: "It’s all about the hops man!  At Hops House, we craft the tastiest of brews every week that will keep you coming back for more.  Our brews can only be found at Hops House, and our modern, chill environment is perfect for after-work drinks or a night out on the town."
 semester: spring-2017
-date: 2016-7-11 12:00:00
+date: 2016-7-19 12:00:00
 number: 9
-
+pm: "../pm/group9.pdf"
 ---
 
 ## Goals
 
 **What are your top goals as a business this year?**
 
-* Increase sales of designer dresses
-* Increase in-person traffic to our stores through free try-on appointments
-* Increase engagement on our social media
+* Develop and market some brand new brews, especially for the fall and winter
+* Promote attendance at our "Hoppy Hours" and other tasting events
+* Offer additional food items, including flatbreads and appetizers
+* Promote our growler service, allowing more people to enjoy our brews at home
+
 
 **What would you like the website to be able to do for your users?**
 
-* Allow prospective customers to browse our dress catalog online
-* Encourage customers to come in and talk to our sales associates about their wedding
-* Allow customers to see stories from other brides and share their stories
-* Build trust with customers by introducing ourselves and our history
-* Allow customers to find our store location and hours easily
+* First, they need to be able to find our location and hours easily, since visitors are what sustains us as a business
+* Allow people to see our different craft brews (maybe sorted by type), which change out seasonally.  This is what keeps people coming back.  Each month we have a featured brew.
+* Secondarily, promote that we offer flatbreads and appetizers, which makes us a great first stop on a night out.  
+* Talk about our history and importance as a small business in the community
+* List upcoming events and tastings - which tends to get people to visit for the first time.
+* Allow people to connect with us on social media
+
 
 **Who are some of your top competitors?**
 
-* The Dress: Bridal Boutique: http://thedress.staging4.net
-* B.Loved Bridal Boutique: http://blovedbridal.com
-* Elyse's Boutique: Bridal & Prom: http://www.elysesboutique.com  (we don't like their website, but they're a competitor)
+Hoppin' Frog Brewery: http://www.hoppinfrog.com
+
+Rockmill Brewery: http://www.rockmillbrewery.com
+
+Ohio Brewing Company: http://www.ohiobrewing.com/home.html
+
+Royal Docks Brewing Co: http://www.royaldocksbrewing.com
+
+Paladin Brewing: http://paladinbrewing.com
+
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Modern
-* Sophisticated
-* Locally-owned (we have lived in Ohio all of our lives and operated this store for 25 years)
-* Trusted
-* Trendy
-* Customer-First
+* Fun atmosphere
+* High quality and unique beers
+* Fresh and always changing
+* Community staple/destination
+* Local
+* Social
 
-<!--http://evesbridalwear.co.za/product/prina/-->
 
 ## Assets
 
@@ -51,17 +61,16 @@ number: 9
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group1/Group-1-Content.zip">Download Group 1 Content (Zip File)</a>
+<a href="/class/groups/assets/group12/group-12-content.zip">Download Hopps House Content</a>
 
 ### Logo
-<img src="/class/groups/assets/group1/barb.svg" alt="Barb's Bridal Boutique" />
 
-<a href="/class/groups/assets/group1/barb.ai">AI (Illustrator) File</a>
+Black
 
-<a href="/class/groups/assets/group1/barb.eps">EPS (Vector) File</a>
+Red: #6C0B1C
 
-<a href="/class/groups/assets/group1/barb.svg">SVG File</a>
+<img src="/class/groups/assets/group12/HoppsHouse-mark.svg" alt="Pets First" />
+<img src="/class/groups/assets/group12/HoppsHouse-logo.svg" alt="Pets First" />
 
-### Brand Colors
-
-Blue: #445363
+<a href="/class/groups/assets/group12/HoppsHouse-mark.svg">Mark SVG File</a><br/>
+<a href="/class/groups/assets/group12/HoppsHouse-logo.svg">Logo SVG File</a>

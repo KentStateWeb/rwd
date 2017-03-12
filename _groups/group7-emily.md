@@ -1,13 +1,15 @@
 ---
-title: "Group 10"
+title: "Group 7"
 client: "Wrench Automotive"
-members: "TBD"
+members: "Emily"
 layout: group
-link: TBD
+link: https://github.com/KentStateWeb/s2017-wrench-automotive-group-7-emily
+livelink: https://kentstateweb.github.io/s2017-wrench-automotive-group-7-emily/
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 semester: spring-2017
 date: 2016-7-11 12:00:00
-number: 10
+number: 7
+pm: "../pm/group7-emily.pdf"
 ---
 
 ## Goals
