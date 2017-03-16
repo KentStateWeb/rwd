@@ -3,8 +3,8 @@ title: "Group 1"
 client: "Creative Kidz Kinder Care"
 members: "Rachel"
 layout: group
-link: https://github.com/KentStateWeb/s2017-1-creative-kidz-rachel-reed-spring-2017
-livelink: TBD
+link: https://github.com/KentStateWeb/s2017-creative_kidz_reed_spring2017
+livelink: https://kentstateweb.github.io/s2017-creative_kidz_reed_spring2017/
 description: "We’re a child care center in Kent, Ohio specializing in creative learning experiences for your child, fostering educational exploration and relationship building opportunities that will last a lifetime"
 semester: spring-2017
 date: 2016-7-19 12:00:00
