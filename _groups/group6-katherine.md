@@ -1,7 +1,7 @@
 ---
 title: "Group 6"
 client: "Off the Vine"
-members: "Kathleen and Katherine"
+members: "Katherine"
 layout: group
 link: https://github.com/KentStateWeb/s2017-on-the-vine
 livelink: https://kentstateweb.github.io/s2017-on-the-vine/
