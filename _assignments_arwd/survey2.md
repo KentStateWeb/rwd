@@ -7,7 +7,7 @@ points: 15
 layout: assignment
 date: 2016-03-03 12:00:00
 semester: spring-2017
-status: not-completed
+status: assignment-completed
 
 ---
 
