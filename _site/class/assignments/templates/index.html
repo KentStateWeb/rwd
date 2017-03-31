@@ -2116,12 +2116,38 @@ http://flickity.metafizzy.co
 <p>Instead of producing all of the templates at once, we’ll split this assignment into 4 parts over the last part of the semester. (Details to be added)</p>
 
 <ol>
-  <li>Basic Wireframe Structure: April 11</li>
+  <li>Basic Wireframe Structure and Mockups: April 11</li>
   <li>Patterns 1: April 18</li>
   <li>Patterns 2: April 25</li>
   <li>Combined Templates and Patterns - Instructor Review: May 2</li>
   <li>Final Templates and Patterns: May 9</li>
 </ol>
+
+<h2 id="basic-html-wireframes">Basic HTML Wireframes</h2>
+
+<p>You’ve already sketched out your site on paper and developed a lot of the core content.  Now we need to start developing your content into HTML wireframes.  The wireframes will be built mobile-first and demonstrate the content priority in each of your 3 templates.</p>
+
+<p>Remember, the wireframes don’t need to be “pretty” yet.  We’re going to create the structure first, and then slowly add style and layout (including responsive breakpoints) to our templates through CSS.</p>
+
+<ol>
+  <li>Create a new folder in your project repository and call it “wireframes”.</li>
+  <li>Inside the folder, create three individual HTML files.  One is going to be called index.html (which will be your home page template).  The other two are your choice, depending on which 2 other templates are most important for your website.  For example, a Product page might be considered a template.  You don’t have to create a separate template for each Product, since they will all follow the same basic format.</li>
+  <li>Create a structure for each of the HTML pages, based on your content.  Most of your sites will include a header and footer.  The rest of the content elements are up to you.  Don’t forget to add the required HTML DOCTYPE code in the HTML files.</li>
+  <li>Use semantic HTML to mark up your content.  For example, you might surround your main content using the MAIN HTML template and the header using the HEADER tag.  Some elements will be surround by DIVs with class names (for example, a DIV called “menu-item”).</li>
+  <li>If your site uses navigation, mark it up using an unordered list.  We’ll style it to look like a menu later.</li>
+  <li>Add real content into your 3 templates.  The content should be representative of the actual content that will be on the website, not lorem ipsum.  Links need not work right now.  You can link to a “#” if the link is not available.</li>
+  <li>Once you have created your three templates, create a new file called “style.css”.  This is where your styles will eventually go.</li>
+  <li>Link your stylesheet to each of your main templates, using the code below.</li>
+  <li>Add a few default styles to make your templates a bit easier to view.  Use the CSS below.</li>
+</ol>
+
+<h3 id="adding-a-stylesheet-link">Adding a Stylesheet Link</h3>
+
+<script src="https://gist.github.com/challahan/08eddc8da7152f483f99.js"></script>
+
+<h3 id="adding-wireframe-styles">Adding Wireframe Styles</h3>
+
+<script src="https://gist.github.com/challahan/8d1a513d126feb7e69ce.js"></script>
 
 <h2 id="what-to-do">What To Do</h2>
 
@@ -2142,45 +2168,6 @@ http://flickity.metafizzy.co
 <p>Your templates should be fully responsive and use appropriate media queries and breakpoints.</p>
 
 <p>If you are using a single-scroll template, you should include three distinct sections within your page.</p>
-
-<!--## Install Jekyll
-
-We've created three prototype files, but there are some problems.  What happens if we change the content of a global element like the header or footer?  Right now if we make a change, we have to change it in all three documents.  By setting these global elements up in a template, we can make changes just once and have them automatically update everywhere.
-
-First, we need to setup Jekyll, a popular static website generator.  We'll do this together in class.
-
-1.  Open terminal.  "Sudo gem install bundler".
-2.  Create a new file in your project repository called "Gemfile" - there is no file extension.
-3.  Inside Gemfile, add the following line: gem 'github-pages'
-4.  Change directories in Terminal by typing "cd (YourDirectoryName)"
-5.  Back in the terminal, run "bundle install"
-6.  You're ready to run Jekyll.  In terminal, run "bundle exec jekyll serve".
-7.  In your browser, go to http://localhost:4000 .  You'll see your site, just as you expected.
-
-## Make Your Templates Dynamic
-
-We're now running a Jekyll site, but we aren't benefiting from Jekyll yet.
-
-1.  Create a folder in your project called "_includes".  The underscore is required.
-2.  In your includes folder, create a file called "header.html" and "footer.html".
-3.  Copy the code that makes up everything above the start of your main content area and paste it into your header file.
-4.  Do the same with the footer file.  Everything below the end of your main content area.
-5.  Create another new folder called "_layouts".
-6.  Inside layouts, create a new file called "default.html".
-7.  Inside default.html, place the code under Default Layout Template below.
-8.  Open up each of your 3 templates.  Delete the header and footer from each of them.  At the very top of each, paste the code below called Default Frontmatter.
-8.  Open your site back up in your web browser at http://localhost:4000 and navigate to your templates.  You'll see that all three pages display as expected with the same header and footer.  The difference now is that the header/footer is shared.  Try making a change to the header under the "_includes" folder.  You'll notice that the change is reflected automatically on all three templates!
-9. Move your stylesheet.css file into the root folder calledd "style" (it should have been created automatically by Jekyll).  We're going to be referencing this file from different places, so it's best that it's in the root directory.
-10. Finally, in your includes/footer file, change the reference to your stylesheet to be ../style/style.css (we're going up one level since we're in the templates folder.).  Make sure your stylesheet link hasn't broken!
-11. Sync your files back up to GitHub.
-
-### Default Layout Template
-
-<script src="https://gist.github.com/challahan/a96842301446e9eab594.js"></script>
-
-### Default Frontmatter
-
-<script src="https://gist.github.com/challahan/ffac402d02474ab67ade.js"></script> -->
 
 <h2 id="how-to-turn-in-the-assignment">How to Turn In the Assignment</h2>
 
