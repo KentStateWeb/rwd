@@ -1,6 +1,6 @@
 ---
-title: "HTML/CSS Final Templates/Patterns"
-description: "We're now on our way to making a real, functioning website.  "
+title: "HTML/CSS Templates/Patterns"
+description: "We're now on our way to making a real, functioning website."
 type: "project"
 points: 20
 layout: assignment
@@ -10,60 +10,101 @@ semester: spring-2017
 
 We're now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.
 
-Instead of producing all of the templates at once, we'll split this assignment into 4 parts over the last part of the semester. (Details to be added)
+Instead of producing all of the templates at once, we'll split this assignment into 5 parts over the last part of the semester.
 
-1.  Basic Wireframe Structure and Mockups: April 11
-2.  Patterns 1: April 18
-3.  Patterns 2: April 25
-4.  Combined Templates and Patterns - Instructor Review: May 2
-5.  Final Templates and Patterns: May 9
+1.  <a href="#1">Basic Wireframe Structure and Mockups: April 11</a>
+2.  <a href="#2">Patterns - Global: April 18</a>
+3.  <a href="#3">Patterns - Page Level: April 25</a>
+4.  <a href="#4">Combined Templates and Patterns - Instructor Review: May 2</a>
+5.  <a href="#5">Final Templates and Patterns: May 9</a>
 
+---
 
-## Basic HTML Wireframes
+<span id="1"></span>
+
+## Part 1: Basic HTML Wireframes
 
 You've already sketched out your site on paper and developed a lot of the core content.  Now we need to start developing your content into HTML wireframes.  The wireframes will be built mobile-first and demonstrate the content priority in each of your 3 templates.
 
 Remember, the wireframes don't need to be "pretty" yet.  We're going to create the structure first, and then slowly add style and layout (including responsive breakpoints) to our templates through CSS.
 
-1.  Create a new folder in your project repository and call it "wireframes".  
+### What To Do
+
+1.  Create a new folder in your project repository and call it "prototype".  
 2.  Inside the folder, create three individual HTML files.  One is going to be called index.html (which will be your home page template).  The other two are your choice, depending on which 2 other templates are most important for your website.  For example, a Product page might be considered a template.  You don't have to create a separate template for each Product, since they will all follow the same basic format.
-3. Create a structure for each of the HTML pages, based on your content.  Most of your sites will include a header and footer.  The rest of the content elements are up to you.  Don't forget to add the required HTML DOCTYPE code in the HTML files.
-4. Use semantic HTML to mark up your content.  For example, you might surround your main content using the MAIN HTML template and the header using the HEADER tag.  Some elements will be surround by DIVs with class names (for example, a DIV called "menu-item").
-5. If your site uses navigation, mark it up using an unordered list.  We'll style it to look like a menu later.
-6. Add real content into your 3 templates.  The content should be representative of the actual content that will be on the website, not lorem ipsum.  Links need not work right now.  You can link to a "#" if the link is not available.
-7. Once you have created your three templates, create a new file called "style.css".  This is where your styles will eventually go.
-8. Link your stylesheet to each of your main templates, using the code below.
-9. Add a few default styles to make your templates a bit easier to view.  Use the CSS below.
+3. Create a structure for each of the HTML pages, based on your content.  Most of your sites will include the global header and footer patterns.  The rest of the content elements are up to you.
+4. Use semantic HTML to mark up your content.  For example, you might surround your main content using the MAIN HTML template and the header using the HEADER tag. If your site uses navigation, mark it up using an unordered list.  We'll everything in the next assignments.
+5. Add real content into your 3 templates.  The content should be representative of the actual content that will be on the website, not lorem ipsum.  Links don't necessary need to work right now.
+6. Once you have created your three templates, create a new file called "style.css".  This is where your styles will eventually go.
+7. Link your stylesheet to each of your main templates, using the code below.
+8. Add a few default styles to make your templates a bit easier to view.  Use the starter CSS below.
 
-### Adding a Stylesheet Link
-
+### Starter HTML Code with Stylesheet Link
 
 <script src="https://gist.github.com/challahan/08eddc8da7152f483f99.js"></script>
 
-### Adding Wireframe Styles
+### Starter CSS Code for Wireframing
 
+These styles will help give outlines to your elements.  You'll delete them eventually.
 
 <script src="https://gist.github.com/challahan/8d1a513d126feb7e69ce.js"></script>
 
-## What To Do
 
-This will likely be the most challenging part of the project because it involves putting everything together that you've learned thus far.  
+---
 
-1.  Take the folder that you previously created for your HTML wireframes and duplicate it.  
-2. Name the duplicated folder "templates".
-3. These are the three template files that you'll be working with for the rest of the semester.
+<span id="2"></span>
 
-## Adding Styles
+## Part 2: Prototype Patterns - Global
 
-You've already created a stylesheet (style.css).  This is where you'll style each of your elements, using the appropriate class and HTML element names.  I'm not going to be too specific here, because each of your projects will vary.  However, when completed, your HTML templates will be fully styled with CSS that follows the design language you created in your style tiles.
+### What To Do
 
-You may find that you need to create a few page layout mockups in Sketch in order to visualize all of your elements together in a single view.  This is totally fine.  I won't be reviewing your mockups - only the final templates.  If you are doing mockups, just design enough to get you started.  You should refine your designs using your HTML templates.
+Rather than styling everything at once, this week we're going to pick out "global" patterns to style first on your templates.
 
-Your templates should be fully responsive and use appropriate media queries and breakpoints.
+What do we mean by global?  These are design pieces that are shared among most or every page on the website.  This commonly includes:
 
-If you are using a single-scroll template, you should include three distinct sections within your page.
+* Header and Logo
+* Primary Navigation
+* Footer
+* Heading Styles (1 - 6)
+* Paragraph Styles
+* Buttons
+* Ordered/Unordered List Styles
+* Sidebar/Secondary Navigation
+* Main Content Area (Container that holds the main content)
+
+Using the stylesheet you've already created and your 3 "wireframe" templates, focus on styling these components for this week.  You will review these with both the instructor and class.  
+
+---
+
+<span id="3"></span>
+
+## Part 3: Prototype Patterns - Page Level Components
+
+For this week, we're going to dive into the specific components that make up each page or template.  These might be considered molecules or organisms in atomic design.  
+
+Specific page-level components could include:
+
+1.  A hero image or slider
+2.  A food menu item
+3.  An embedded video or map
+4.  A calendar or event item
+5.  A news story or blog post
+
+---
+
+<span id="4"></span>
+
+## Part 4: Combined Templates and Patterns: Instructor Review
 
 
+---
+
+<span id="5"></span>
+
+## Part 5: Final Templates and Patterns
+
+
+---
 
 ## How to Turn In the Assignment
 
@@ -72,7 +113,7 @@ You'll be submitting your templates via your GitHub repository.
 1.  Make sure your three templates are placed in the "templates" folder
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Templates.
 3.  Add a link to your three templates under the Templates section.  Name each link with the title of the template, for example "Product Page Template".
-4.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link your three templates via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
+4.  After you've committed and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link your three templates via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
 
 ## Rubric
 

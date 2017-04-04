@@ -6,7 +6,7 @@ points: 6
 layout: assignment
 date: 2017-04-04 12:00:00
 semester: spring-2017
-##status: assignment-completed
+status: assignment-completed
 
 
 ---
@@ -88,6 +88,6 @@ You'll be submitting the style tiles, prototype and mockup to your project repos
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **5 - 6**: Your style tiles and prototype communicate the visual language that you've designed for your website.  They include the necessary elements (described above) and there are two unique variations.  The design utilizes type, colors and UI elements that effectively mirror your website's goals.    You also integrated your favorite style iteration into a mockup that shows the style elements in context.  Everything was submitted according to directions.
-* **3 - 4**: You've developed the tiles, prototype and a mockup, but they don't include all of the elements, or they were developed as static comps/mockups instead of style tiles.  Style Tiles may lack needed detail.  Everything was submitted according to directions.
+* **5 - 6**: Your style tiles and prototype communicate the visual language that you've designed for your website.  They include the necessary elements (described above).  The design utilizes type, colors and UI elements that effectively mirror your website's goals.    You also integrated your favorite style iteration into a mockup that shows the style elements in context.  Everything was submitted according to directions.
+* **3 - 4**: You've developed the tiles, prototype and a mockup, but they don't include all of the elements, or they were developed only as static comps/mockups instead of style tiles.  Style Tiles may lack needed detail.  Everything was submitted according to directions.
 * **0 - 2**: Your style tiles, prototype or mockup show little attention to client needs, and lack detail to effectively communicate your design language.  They may be missing required elements or a part is missing entirely.
