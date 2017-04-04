@@ -23,6 +23,40 @@ Here's what you'll review with the class/client during your review session.  Eac
 5.  Discuss any next steps.  What would you have done with more time?  What still remains to be decided?
 6.  Ask for feedback and questions from the class/"client".  Note - I may ask some questions during your review, just like a client might do.
 
+## Style Guide
+
+You've been developing your sites' templates using a variety of components that make up the website as a whole.  Lets take a step back and document the primary elements and styles used in your website.  
+
+Why create a pattern library? We need to communicate our design choices to anyone else who may be managing or editing the site once we're gone.  A pattern library serves as a great reference for your client or other developers who want to look up fonts, color values, or code examples.
+
+Pattern Libraries can be very simple or very complex (see MailChimp).  They may also include a style guide component, which discusses things like voice & tone, messaging, etc.  We're going to keep ours simple.
+
+## What To Do
+
+It's helpful to view our site both as a whole and also via its atomic components/patterns (as we learned when studying Brad Frost's Atomic Design methodology).  The components that make up your site can be repeated across many different templates for consistency.  A component might be as simple as a heading, or as complex as a header or primary navigation.
+
+1.  Identify 5 common patterns that make up your website.  These could be generic patterns, like headers, headings, paragraphs, lists, or patterns that are specific to your website, like product description, shopping cart, etc.
+
+2.  Create a new directory in your repository and call it "patterns".  Create a new index.html in the patterns folder.  You can use the HTML code below to fill in the default HTML header code.
+
+3.  You could create a separate styles.css.  However, since you already have a working stylesheet in your templates folder, you can instead change the link tag to reference the existing stylesheet (in the templates folder).  Hint: it will probably be: link href="../templates/style.css" rel="stylesheet" type="text/css" media="screen"
+
+4.  Add a heading titled Pattern Library.
+
+5.  Copy the code for your 5 patterns onto your pattern library, each separated with a heading.
+
+6.  Under typography, document the fonts used on your website.
+
+7.  Under colors, document the colors used on your website.  You might display these in the actual colors.
+
+### View an Example
+
+You can <a href="http://rwdkent.com/patterns/">view the pattern library for the RWD Kent State site</a> to see an example.
+
+### Adding HTML + Stylesheet
+
+<script src="https://gist.github.com/challahan/08eddc8da7152f483f99.js"></script>
+
 <dl>
  <dt>Graduate Students Only</dt>
  <dd>Provide a mock timeline and estimated cost structure plan for completing the project.  This should include what you've already implemented with your design prototype, as well as the implementation of the website within a content management system.  Note: Graduate students will receive a grade that may vary from their partner for this group assignment.</dd>
