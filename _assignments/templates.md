@@ -49,6 +49,9 @@ These styles will help give outlines to your elements.  You'll delete them event
 
 <script src="https://gist.github.com/challahan/8d1a513d126feb7e69ce.js"></script>
 
+### Wireframe Example
+
+Your wireframes might look something like <a href="http://rwdkent.com/wireframes/index.html">these wireframes, used to create the RWD website</a>.
 
 ---
 
