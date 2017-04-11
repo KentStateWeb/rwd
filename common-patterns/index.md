@@ -152,11 +152,13 @@ Displays navigation as an animated overlay on top of the main content area.  Cou
 
 At smaller screens, only the most important navigation items are shown, with a toggle to turn on the rest of the options.  At larger screens, all of the options are shown.
 
-**Uses**: HTML, CSS and JavaScript with Jquery
+**Uses**: HTML, CSS and JavaScript
 
-
-<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/LNzBXL/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/LNzBXL/'>Priority+ Navigation (Forked from Brad Frost)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='265' scrolling='no' title='PriorityNavigation.js Demo' src='//codepen.io/challahan/embed/GmKXmY/?height=265&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/GmKXmY/'>PriorityNavigation.js Demo</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
+
+
+Source: https://github.com/gijsroge/priority-navigation
 
 ----
 
