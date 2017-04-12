@@ -53,8 +53,6 @@ A common layout pattern start with main content and sidebar stacked until you re
 
 ----
 
-----
-
 ## Typical Page Layout (Header, Nav, Main Area, Footer)
 
 A typical page setup - creativity away from this standard layout is encouraged though!
@@ -222,6 +220,8 @@ There are some additional customizations you can make and you can find them in t
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/XdZKyw/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/XdZKyw/'>Responsive Date Picker Demo (using Pikaday Responsive)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
+---
+
 ## Response Modal Window/Popover
 
 I like this modal example because it fills the entire screen on small screens, and on larger screens, allows the user to exit by tapping anywhere outside of the window.
@@ -232,6 +232,8 @@ I like this modal example because it fills the entire screen on small screens, a
 <iframe height='266' scrolling='no' src='//codepen.io/challahan/embed/xVaVYG/?height=266&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/xVaVYG/'>Responsive Modal/Popover Example</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
+---
+
 ## Smooth Scroll to a Page Location (Anchor)
 
 Scrolls user to a particular location up or down the page by clicking a link.  JavaScript adds the smooth scrolling motion.
@@ -240,6 +242,8 @@ Scrolls user to a particular location up or down the page by clicking a link.  J
 
 <iframe height='265' scrolling='no' title='Smooth Scroll Demo' src='//codepen.io/challahan/embed/VbwMgo/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/VbwMgo/'>Smooth Scroll Demo</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
+
+---
 
 ## Skip to Main Navigation (Accessibility)
 
