@@ -3,8 +3,8 @@ title: "Group 6"
 client: "Off the Vine"
 members: "Kathleen"
 layout: group
-link: TBD
-livelink: TBD
+link: http://github.com/KatMorris/Off-the-Vine
+livelink: https://katmorris.github.io/Off-theVine/
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
 semester: spring-2017
 date: 2016-7-11 12:00:00
