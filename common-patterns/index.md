@@ -232,6 +232,15 @@ I like this modal example because it fills the entire screen on small screens, a
 <iframe height='266' scrolling='no' src='//codepen.io/challahan/embed/xVaVYG/?height=266&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/xVaVYG/'>Responsive Modal/Popover Example</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
+## Smooth Scroll to a Page Location (Anchor)
+
+Scrolls user to a particular location up or down the page by clicking a link.  JavaScript adds the smooth scrolling motion.
+
+**Uses**: HTML, CSS and JavaScript with Jquery
+
+<iframe height='265' scrolling='no' title='Smooth Scroll Demo' src='//codepen.io/challahan/embed/VbwMgo/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/VbwMgo/'>Smooth Scroll Demo</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
+
 ## Skip to Main Navigation (Accessibility)
 
 Not really anything to do with responsive design, but add this code to your website to ensure users on screen readers can skip past your main navigation directly to your content.  I put this on all of my sites.
