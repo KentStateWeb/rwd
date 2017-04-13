@@ -1,6 +1,6 @@
 ---
 
-title: "Sprint Retrospective Survey 5"
+title: "Sprint Retrospective Presentation 5"
 description: "Description of the assignment"
 type: "survey"
 points: 15
@@ -11,13 +11,11 @@ status: not-completed
 
 ---
 
-Welcome to the Sprint Retrospective Survey for Advanced Responsive Web Design.  Please answer these questions honestly.  Your answers will be used to calculate your grade for this sprint.   You didn't have to complete every task perfectly in order to receive full credit.  You just have to be able to thoughtfully explain how your attempted to meet your commitment.
+You'll give a short, 5-minute individual presentation during our finals week class, in addition to finishing up any remaining sprint items.  
 
-Please be sure to take the survey by the due date (listed above) @ midnight.  Late submissions won't be accepted.
+The presentation will cover what you've contributed to the project throughout the semester, your successes, your challenges and what you'd improve upon.  This presentation should include some kind of visual to illustrate your main points.
 
-You can see the rubric criteria used for grading below.  The questions in later surveys may change slightly over time based on prior responses.
-
-***Link Coming Soon***
+***More information on grading coming soon***
 
 ## Rubric
 
