@@ -8,26 +8,34 @@ date: 2017-05-02 12:00:00
 semester: spring-2017
 ---
 
-As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them.  At the same time, you have technical concerns as well (browsers, speed, etc.).  This testing plan will help you validate some of these concerns.
+As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them (usability), how they perform on  various browsers and devices (technical testing) and how accessible they are to all users (accessibility).  This testing plan will help you validate some of these concerns.
 
-We will run through your testing plan in class, on Dec. 6.
+We will run through your testing plan in class on the due date, but your usability tasks should be prepared and your sites should be in working shape before the testing begins in class.
 
-## Creating Your Usability Plan
+## Assignment Template
 
-First, we need to consider the top goals for your website.  Then,  we'll develop some actionable tasks that you can test with real users based on your goals.  Your goals and tasks can be listed in a Google Doc.
+In order to make preparing your tasks and collecting results easier, I've prepared a template for you in Google Sheets.  You can copy and use this template for your final assignment (although you can feel free to modify it as needed).
+
+<a class="button small" href="https://docs.google.com/a/kent.edu/spreadsheets/d/1cj8GdaVCttFxcbRQqckyU3X1SF-XetH4U9EHWElagiA/edit?usp=sharing">Get the Template</a>
+
+### Usability Plan
+
+First, we need to consider the top goals for your website.  Then, we'll develop some actionable tasks that you can test with real users based on your goals.  Your goals and tasks can be listed in a Google Doc.
 
 1.  Develop and write down 3 of your website's top goals.  You may have defined many of these already in your previous assignments.  A goal is something like "Allow a customer to quickly find our hours of operation".
 
 2.  Based on each goal, create a task that a user will be able to complete using your website templates.  Note:  It's okay that your website is not complete yet.  You can test much of the functionality even when the website is not complete.  In fact, it's better to test early.  A task is typically scenario based and is something like "It's Saturday night around 8 and you'd like to see if Business Name is still open.  Find the answer using the website."  Tasks should frame real-life scenarios that your users might encounter and should not lead them directly to the answer.
 
-3.  On the day of testing, find a group to test your website.  One person will act as the facilitator while another group member or members(s) will take notes and record observations. Summarize your notes in Google Docs.
+3.  On the day of testing, find a group to test your website.  One person will act as the facilitator while another group member or members(s) will take notes and record observations.
+
+4.  Based on the results, summarize your notes into 4 recommendations for improvement or changes.
 
 
-## Creating Your Technical Testing Plan
+### Technical Testing Plan
 
 Unlike usability testing, technical testing resolves around the technology.  When developing your testing plan:
 
-1.  Create a grid in Google Sheets.  In your sheet, list your 3 user testing tasks.  These will be the same as your usability test, but you're going to run through them on different devices and browsers to ensure they can be completed.
+1.  In your Google sheet, list your 3 template pages that make up your prototype.
 
 2.  In each column of your spreadsheet, list the following browsers and devices, which you'll test:  Internet Explorer (PC), Safari (Mac), Chrome (PC), Firefox (Mac), Mobile Safari (iOS) and Chrome (Android).
 
@@ -40,7 +48,7 @@ Unlike usability testing, technical testing resolves around the technology.  Whe
 Note:  Your performance results will not impact your grade in any way at this time.  It's just a benchmark from which you can make improvements.
 
 
-## Accessibility Test
+### Accessibility Testing Plan
 
 This will be done on the day of testing.  
 
@@ -53,11 +61,11 @@ Note:  Simply following this checklist does not ensure your website is compliant
 
 ## How to Turn In the Assignment
 
-You'll be submitting the links to your various documents via your project repository.  The content will be filled in on the date of testing in class.
+You'll be submitting the links to your Google Sheet (made publicly viewable) in your project repository.  Remember that you should use <a href="https://docs.google.com/a/kent.edu/spreadsheets/d/1cj8GdaVCttFxcbRQqckyU3X1SF-XetH4U9EHWElagiA/edit?usp=sharing">this template</a> to format your results.  The content will be filled in on the date of testing in class.
 
-1.  Create a publicly shareable Google Drive link that points to your testing results from (a) Usability testing summary + tasks, (b) Technical Testing and (c) Accessibility Testing.  Don't forget to make your links publicly accessible!!
+1.  Create a publicly shareable Google Drive link that points to your testing results from (a) Usability testing summary + tasks, (b) Technical Testing and (c) Accessibility Testing.  Don't forget to make your links publicly accessible!
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Usability and Technical Testing.
-3.  After you've commited and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the Google folder via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
+3.  After you've committed and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the Google folder via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
 
 ## Rubric
 
