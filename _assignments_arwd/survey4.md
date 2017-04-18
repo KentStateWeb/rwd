@@ -17,7 +17,7 @@ Please be sure to take the survey by the due date (listed above) @ midnight.  La
 
 You can see the rubric criteria used for grading below.  The questions in later surveys may change slightly over time based on prior responses.
 
-***Link Coming Soon***
+<a class="button small" href="https://kent.qualtrics.com/jfe/form/SV_ehW2TB033jEsMWV">Take Retrospective Survey 4</a>
 
 ## Rubric
 
