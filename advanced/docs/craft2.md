@@ -153,12 +153,12 @@ i.e for the title field it would be {{ entry.title }}
 {% endraw %}
 {% endhighlight %}
 
-###Entries field
+### Entries field
 
 {% highlight twig %}
 {% raw %}
 {% for entry in entry.FIELDHANDLE %}
-	{{ entry.FIELDHANDLE }}
+	<a href="{{entry.url}}>"{{ entry.title }}</a>
 {% endfor %}
 {% endraw %}
 {% endhighlight %}
