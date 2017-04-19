@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+  main {
+    display: flex;
+  }
+}
+
+.section {
+  border-top: 2px solid black;
+  color: red;
+  font-size: 1.2em;
+  margin-top: 1em;
+  padding-left: 1em;
+}
