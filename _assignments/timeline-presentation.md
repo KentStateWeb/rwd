@@ -70,6 +70,8 @@ You can <a href="http://rwdkent.com/patterns/">view the pattern library for the 
  <dd>Provide a mock timeline and estimated cost structure plan for completing the project.  This should include what you've already implemented with your design prototype, as well as the implementation of the website within a content management system.  Note: Graduate students will receive a grade that may vary from their partner for this group assignment.</dd>
 </dl>
 
+<a class="button button-small" href="https://docs.google.com/presentation/d/1hNXkSwpiqiy7wNlGQZYLua4oKqqxTLOynjltCwsJVjc/edit#slide=id.g1a95e9681e_0_133">View Grad Presentation Example</a>
+
 ---
 
 ## Class Evaluations
