@@ -16,6 +16,7 @@ While attendance and participation is important, it's also important that you co
 * Your GitHub history shows that you've contributed quality work to the overall project (instructor can see all commits)
 * According to your retrospective surveys, you have verbally described the tasks you've completed, as well as any trouble you had along the way.  
 * According to your retrospective surveys, you committed an average of 2 hours of work to the project outside of class each week.
+* Your final sprint #5 summary demonstrated that you completed your tasks in a quality and timely manner
 
 ## Rubric
 
