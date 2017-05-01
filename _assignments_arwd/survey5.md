@@ -5,7 +5,7 @@ description: "Description of the assignment"
 type: "survey"
 points: 15
 layout: assignment
-date: 2016-05-12 12:00:00
+date: 2016-05-11 12:00:00
 semester: spring-2017
 status: not-completed
 
