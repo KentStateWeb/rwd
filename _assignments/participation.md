@@ -6,6 +6,8 @@ points: 4
 layout: assignment
 date: 2017-05-09 12:00:00
 semester: spring-2017
+status: assignment-completed
+
 ---
 
 In-class participation and attendance points will be awarded at the end of the semester and will take into account the following:
