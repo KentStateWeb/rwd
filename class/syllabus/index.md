@@ -3,7 +3,7 @@ layout: wide
 title: Syllabus - Responsive Web Design
 ---
 
-## Kent State University CCI Course 40095-002/50095
+## Kent State University CCI Course 46001/56001
 
 <dl class="detail-listing detail-listing--syllabus group">
   <div class="detail-list__column">
@@ -12,13 +12,13 @@ title: Syllabus - Responsive Web Design
     <dt>Instructor Email:</dt>
     <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
     <dt>Terms:</dt>
-    <dd>Spring 2017</dd>
+    <dd>Fall 2017</dd>
     <dt>Undergrad:</dt>
-    <dd>CCI ST 40095-002 - CRN 21206</dd>
+    <dd>CCI 46001-001 - CRN 20941</dd>
   </div>
   <div class="detail-list__column">  
     <dt>Grad:</dt>
-    <dd>CCI ST 50095 - CRN 21207</dd>
+    <dd>CCI 56001-001 - CRN 20942</dd>
     <dt>Day/Time:</dt>
     <dd>Tuesdays, 5:30 p.m. - 8:15 p.m.</dd>
     <dt>Room:</dt>

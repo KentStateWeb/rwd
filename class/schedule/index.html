@@ -6,7 +6,7 @@ title: Calendar
 
 <h2 class="part">Part 1: Principles of Responsive Web Design</h2>
 {% for classes in site.classes %}
-	{% if classes.part == '1' and classes.semester == 'spring-2017' %}
+	{% if classes.part == '1' and classes.semester == 'fall-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
@@ -14,14 +14,14 @@ title: Calendar
 
 <h2 class="part">Part 2: Responsive Design in Practice</h2>
 {% for classes in site.classes %}
-	{% if classes.part == '2' and classes.semester == 'spring-2017' %}
+	{% if classes.part == '2' and classes.semester == 'fall-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
 
 <h2 class="part">Final Projects</h2>
 {% for classes in site.classes %}
-	{% if classes.part == '3' and classes.semester == 'spring-2017' %}
+	{% if classes.part == '3' and classes.semester == 'fall-2017' %}
 	  {% include class.html %}
 	{% endif %}
 {% endfor %}
