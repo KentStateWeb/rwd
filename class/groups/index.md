@@ -12,7 +12,7 @@ title: Groups & Projects
 {% assign items = site.groups | sort: "number" %}
 <ul>
 {% for item in items %}
-	{% if item.semester == 'spring-2017' %}
+	{% if item.semester == 'fall-2017' %}
 	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
 	{% endif %}
 {% endfor %}

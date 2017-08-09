@@ -4,6 +4,7 @@ client: "William Thomas & Associates"
 members: "TBD"
 layout: group
 link: TBD
+semester: fall-2017
 description: "William Thomas & Associates: A small, but growing, accounting firm that has prided itself in serving its local clientele across many generations."
 date: 2016-7-11 12:00:00
 number: 12

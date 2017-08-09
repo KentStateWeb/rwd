@@ -5,8 +5,8 @@ type: "mini"
 points: 4
 layout: assignment
 date: 2017-05-09 12:00:00
-semester: spring-2017
-status: assignment-completed
+semester: fall-2017
+##status: assignment-completed
 
 ---
 

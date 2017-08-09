@@ -1,15 +1,15 @@
 ---
 title: "Group 3"
 client: "AROMA Coffee & Tea"
-members: "TBD"
+members: "Will and Lesley"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/Aroma-Coffee
+livelink: https://kentstateweb.github.io/Aroma-Coffee/
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
-semester: fall-2017
+semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 3
-##pm: "../pm/group3.pdf"
+pm: "../pm/group3.pdf"
 ---
 
 ## Goals

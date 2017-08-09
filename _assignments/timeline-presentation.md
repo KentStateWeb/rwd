@@ -5,7 +5,7 @@ type: "project"
 points: 6
 layout: assignment
 date: 2017-05-09 12:00:00
-semester: spring-2017
+##semester: fall-2017
 ---
 
 We're almost done!  Now that you've developed template prototypes and a pattern library, it's time to do a final review with your "client" and the class.  There won't be any slides or reports to turn in - you'll only be showing your project timeline, prototypes and pattern library.

@@ -5,7 +5,7 @@ type: "project"
 points: 4
 layout: assignment
 date: 2017-05-11 12:00:00
-semester: spring-2017
+semester: fall-2017
 ---
 
 Since this project was a complex assignment, I want to hear feedback from each group/individual member.  Evaluations will be used to calculate your assessment grade, and it is possible that group team members will have different points awarded.

@@ -5,7 +5,7 @@ type: "project"
 points: 20
 layout: assignment
 date: 2017-05-09 11:00:00
-semester: spring-2017
+semester: fall-2017
 ---
 
 We're now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.

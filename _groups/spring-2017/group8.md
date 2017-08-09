@@ -1,15 +1,15 @@
 ---
 title: "Group 8"
 client: "Buckeye Bed & Breakfast"
-members: "TBD"
+members: "Grace and Mike"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/s2017-bedandbreakfast8_spring2017
+livelink: https://kentstateweb.github.io/s2017-bedandbreakfast8_spring2017/
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
-semester: fall-2017
+semester: spring-2017
 date: 2016-7-11 12:00:00
 number: 8
-##pm: "../pm/group8.pdf"
+pm: "../pm/group8.pdf"
 ---
 
 ## Goals

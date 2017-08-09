@@ -1,15 +1,15 @@
 ---
 title: "Group 9"
 client: "Hops House Microbrewery"
-members: "TBD"
+members: "Stephanie and Marissa"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/s2017-hops_house_brewery_s17
+livelink: https://kentstateweb.github.io/s2017-hops_house_brewery_s17/
 description: "It’s all about the hops man!  At Hops House, we craft the tastiest of brews every week that will keep you coming back for more.  Our brews can only be found at Hops House, and our modern, chill environment is perfect for after-work drinks or a night out on the town."
-semester: fall-2017
+semester: spring-2017
 date: 2016-7-19 12:00:00
 number: 9
-##pm: "../pm/group9.pdf"
+pm: "../pm/group9.pdf"
 ---
 
 ## Goals

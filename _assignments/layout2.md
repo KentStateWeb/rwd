@@ -5,8 +5,8 @@ type: "challenge"
 points: 6
 layout: assignment
 date: 2017-03-07 12:00:00
-semester: spring-2017
-status: assignment-completed
+semester: fall-2017
+##status: assignment-completed
 
 ---
 
