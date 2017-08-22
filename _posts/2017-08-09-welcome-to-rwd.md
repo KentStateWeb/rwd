@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Responsive Web Design - Fall 2017
 category: blog
 ---
-I just wanted to send a quick note and introduce myself - my name is Chris, and I'll be your instructor for the Fall 2017 Responsive Web Design class.
+I just wanted to send a quick note and introduce myself.  My name is Chris, and I'll be your instructor for the Fall 2017 Responsive Web Design class.  I hope you’re as excited as I am to get started learning to design and build responsive web sites!
 
 * The class meets on Tuesday evenings from 5:30 - 8:15 p.m.
 * The class is held at IdeaBase in Downtown Kent.
@@ -15,8 +15,8 @@ If you would like to get a head start, there are 2 required textbooks for the co
 
 One provides detailed examples and instructions for HTML/CSS, and the other provides more practical knowledge on responsive web design specifically.  They’re easy to read and inexpensive.
 
-1. [HTML and CSS: Design and Build Websites by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189), November 2011, Wiley. ($16.68 on Amazon)
-2. [Responsive Web Design by Ethan Marcotte](http://abookapart.com/products/responsive-web-design), Second Edition, December 2014, A Book Apart. ($9.00/Ebook or $18.00/Paperback)
+1. [HTML and CSS: Design and Build Websites by Jon Duckett](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189), November 2011, Wiley. ($18.10 on Amazon)
+2. [Responsive Web Design by Ethan Marcotte](http://abookapart.com/products/responsive-web-design), Second Edition, December 2014, A Book Apart. ($11.00/Ebook or $21.00/Paperback)
 
 If you're eager to get started learning, you can start exploring articles posted on the [class website](http://www.rwdkent.com), or visit some of these resources that we'll be using later on.  There's no up front knowledge needed prior to class.
 
