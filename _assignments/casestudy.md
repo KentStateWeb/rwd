@@ -1,10 +1,10 @@
 ---
-title: "RWD Case Study"
+title: "Explore RWD"
 description: "Description of the assignment"
 type: "mini"
 points: 4
 layout: assignment
-date: 2017-01-24 12:00:00
+date: 2017-09-05 12:00:00
 semester: fall-2017
 ##status: assignment-completed
 

@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "project"
 points: 5
 layout: assignment
-date: 2017-03-21 12:00:00
+date: 2017-10-31 12:00:00
 semester: fall-2017
 ##status: assignment-completed
 

@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "mini"
 points: 10
 layout: assignment
-date: 2017-03-07 12:00:00
+date: 2017-10-17 12:00:00
 semester: fall-2017
 ##status: assignment-completed
 

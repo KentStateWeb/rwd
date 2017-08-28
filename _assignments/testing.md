@@ -4,7 +4,7 @@ description: "As you begin building your templates/prototype, you'll need to thi
 type: "project"
 points: 5
 layout: assignment
-date: 2017-05-02 12:00:00
+date: 2017-12-05 12:00:00
 semester: fall-2017
 ---
 
