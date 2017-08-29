@@ -2,7 +2,7 @@
 title: "Fonts and Media Queries"
 description: "Description of the assignment"
 type: "challenge"
-points: 6
+points: 5
 layout: assignment
 date: 2017-10-10 12:00:00
 semester: fall-2017

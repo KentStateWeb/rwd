@@ -3,7 +3,7 @@
 title: "Research and Competitive Analysis"
 description: "Description of the assignment"
 type: "project"
-points: 4
+points: 5
 layout: assignment
 date: 2017-10-24 12:00:00
 semester: fall-2017

@@ -1,5 +1,5 @@
 ---
-title: "Boxes and Layout"
+title: "Flexible Boxes and Layout"
 description: "Description of the assignment"
 type: "challenge"
 points: 6

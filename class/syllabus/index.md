@@ -188,7 +188,7 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>28</strong></td>
+		<td><strong>33</strong></td>
 	</tr>
 </tbody>
 </table>
@@ -217,7 +217,7 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>50</strong></td>
+		<td><strong>45</strong></td>
 	</tr>
 </tbody>
 </table>
