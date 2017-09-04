@@ -124,11 +124,11 @@ To keep things interesting, we're going to choose "rolling" due dates at the sta
 **September 12**
 * Amrita and Jordan - Tool: Adobe XD
 * Maddie and Drew - Tool: Web Fonts (Google/TypeKit)
-* Nicole - TBD
 
 **September 19**
 * Betsy and Jo - Tool: Google Analytics
 * Shane and Jacob - Website: Netflix
+* Nicole - Person/Company: HappyCogg
 
 ---
 
