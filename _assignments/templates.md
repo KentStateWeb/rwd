@@ -2,7 +2,7 @@
 title: "HTML/CSS Templates/Patterns"
 description: "We're now on our way to making a real, functioning website."
 type: "project"
-points: 20
+points: 15
 layout: assignment
 date: 2017-12-12 11:00:00
 semester: fall-2017
@@ -135,6 +135,6 @@ You'll be submitting your templates via your GitHub repository.  You'll simply u
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **15 - 20**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS. Your website renders correctly on popular phones, tablets and desktop computers. You demonstrated weekly progress and stayed on task for each of the 5 parts.
-* **10 - 15**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens or devices.  There are also a few HTML and CSS errors.  You showed progress most weeks, but may have fallen behind on some parts.
-* **0 - 10**: The design system for your templates is week and templates don't follow the structure of your content.  HTML and CSS structure is weak and doesn't follow what you've learned in class.   A lot more work is required to make the templates ready for client review.  You waited until the last minute and didn't have templates/patterns available for class review.
+* **10-15**: You've put everything you've learned so far together.  Your templates' HTML and CSS uses the appropriate content and styles.  Your templates form a cohesive whole, but also demonstrate a unified design system.  Your HTML is structured well, and you are using appropriate breakpoints in your CSS. Your website renders correctly on popular phones, tablets and desktop computers. You demonstrated weekly progress and stayed on task for each of the 5 parts.
+* **5-9**: You've put together the templates, but they don't always show a unified design system.  Some of the content is missing or not in appropriate places.  There are some issues with the responsive breakpoints - more testing may be needed on different sized screens or devices.  There are also a few HTML and CSS errors.  You showed progress most weeks, but may have fallen behind on some parts.
+* **0 - 4**: The design system for your templates is week and templates don't follow the structure of your content.  HTML and CSS structure is weak and doesn't follow what you've learned in class.   A lot more work is required to make the templates ready for client review.  You waited until the last minute and didn't have templates/patterns available for class review.
