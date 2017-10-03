@@ -10,7 +10,7 @@ semester: fall-2017
 
 ---
 
-Assignment details coming soon.
+Assignment details coming soon.  Assignment involves redesign of a non-responsive website home page into a working responsive home page using grid and/or flexbox. 
 
 ---
 
