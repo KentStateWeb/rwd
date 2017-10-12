@@ -14,13 +14,13 @@ title: Syllabus - Advanced Responsive Web Design
     <dt>Terms:</dt>
     <dd>Spring 2017</dd>
     <dt>Undergrad:</dt>
-    <dd>CCI 40095-003 - 21393</dd>
+    <dd>CCI 40095-002 - 20826</dd>
   </div>
   <div class="detail-list__column">  
     <dt>Grad:</dt>
-    <dd>CCI 50095-003 - 21394</dd>
+    <dd>CCI 50095-002 - 20827</dd>
     <dt>Day/Time:</dt>
-    <dd>Thursdays, 2:30 p.m. - 5:00 p.m.</dd>
+    <dd>Tuesdays, 3:45 - 5:00 p.m. and Thursdays, 3:00 - 5:00 p.m.</dd>
     <dt>Room:</dt>
     <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent</dd>
   </div>
