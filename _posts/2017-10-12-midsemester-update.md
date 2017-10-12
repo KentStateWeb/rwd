@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mid Semester Survey, Groups and More
+title: Fall 2017 Mid Semester Updates
 category: blog
 ---
 
