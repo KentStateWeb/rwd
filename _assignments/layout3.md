@@ -12,11 +12,13 @@ semester: fall-2017
 
 ## Introduction
 
-The Great Race is held yearly in Pittsburgh.  The race organizers have come to you because they're really unhappy with their outdated website, but they don't have a lot of time or budget for a redesign.
+[The Great Race](http://www.rungreatrace.com) is held yearly in Pittsburgh.  The race organizers have come to you because they're really unhappy with their outdated website, but they don't have a lot of time or budget for a redesign.
 
 Their chief complaint is that the website isn't responsive!  Many people use the website from their phones to register for the race and check race results.
 
 They'd like to do a full redesign in the future, but in the interim, they'd like to "retrofit" the website's home page into a responsive one.  
+
+<a href="http://www.rungreatrace.com" class="button small">View Current Site</a>
 
 
 ## What To Do
@@ -25,7 +27,7 @@ In CodePen, you're going to translate the existing desktop-only website into a r
 
 You and the client have already worked on a sketch of how you think the content might be laid out on the responsive version.
 
-VIEW SKETCH
+<a class="button small" href="/files/greatrace-sketch.pdf">View Sketch</a>
 
 ### Body and Global Elements
 
@@ -48,6 +50,31 @@ There are 3 additional link sections below the images.  You should use either fl
 Includes 3 logos, a row of social icons and a promotional tile for a video.  You should use either flexbox or grid here to accomplish this.
 
 Also includes contact information and a hotline phone number.
+
+
+### Assets and Colors
+
+CodePen won't allow you to upload images and assets, so I've provided the links below.
+
+You may also need to use the web inspector to see how the page is built now.
+
+#### Colors
+
+*
+
+#### Assets
+
+* Title (this could also be converted to text) - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/title.png
+* Logo - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/homelogo.png
+* Sponsor tile - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/logo_eatnpark.gif
+* Results Burst - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/burst-ov.png
+* Facebook - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/icons-tmp.png
+* Instagram - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/instagram.png
+* Twitter - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/twitter.png
+* Background Image - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/backgroundanew.png
+* Main Feature Photo - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Next0917-RaceStart.jpg
+* Additional Sponsor Logos - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/icons.png
+* Video Highlights - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/videopromo.png
 
 ## How You'll Be Graded
 
