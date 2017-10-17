@@ -60,7 +60,9 @@ You may also need to use the web inspector to see how the page is built now.
 
 #### Colors
 
-*
+* Dark Blue: #006699
+* Gold: #FFCC00
+* Green: #CCFF00
 
 #### Assets
 
