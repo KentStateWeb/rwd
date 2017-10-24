@@ -77,6 +77,7 @@ You may also need to use the web inspector to see how the page is built now.
 * Main Feature Photo - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/Next0917-RaceStart.jpg
 * Additional Sponsor Logos - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/icons.png
 * Video Highlights - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/videopromo.png
+* Background Gradient - https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/grade.png (you could probably also just do this with a CSS gradient)
 
 ## How You'll Be Graded
 
