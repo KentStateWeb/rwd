@@ -1,49 +1,50 @@
 ---
 title: "Group 3"
-client: "AROMA Coffee & Tea"
-members: "TBD"
+client: "Off the Vine"
+members: "Chris & Jason"
 layout: group
 link: TBD
 livelink: TBD
-description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
+description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
 semester: fall-2017
 date: 2016-7-11 12:00:00
 number: 3
-##pm: "../pm/group3.pdf"
+##pm: TBD
 ---
 
 ## Goals
 
-
 **What are your top goals as a business this year?**
 
-* Increased coffee sales, especially our new pour-over varieties and iced cold brews
-* Increase walk-in traffic and customer engagement - we want to make our location an inviting place to get together or study.  We're offering events this year to boost awareness.
-* Increase sales of supplemental goods, such as pastries and whole-bean coffee
-* Tell customers about our new location in Columbus
+* Increase in-person traffic from visitors to our winery and wine bar
+* Increase retail sales of our wines
+* Encourage more people to attend our wine tastings and monthly events
 
 **What would you like the website to be able to do for your users?**
 
-* Ensure customers know our opening and closing times - this is especially improtant for people commuting to work and for students who are studying late at night
-* Allow customers to see special upcoming events - such as our coffee tasting and brewing workshops
-* Communicate why buying local and direct-trade is good for everyone
-* Allow customers to find our location easily
-* Allow customers to see the types of coffee we serve, and communicate the stories behind the origin of those coffees
+* Allow customers to see our various wine offerings and prices, as well as our appetizer menu
+* Promote upcoming events, tours and wine tastings
+* Allow customers to place a mail order for wine
+* Allow people to get directions to our winery, as well as find places to stay near our location
+* Allow people to view our hours and closings
+* Allow potential patrons to view our vinyards and facility to see how beautiful it is
 
 **Who are some of your top competitors?**
 
-* Backroom Coffee Roasters: http://www.imperocoffee.com
-* Mission Coffee Co: http://missioncoffeeco.com
-* Short North Coffee House: http://shortnorthcoffeehouse.com
-* Starbucks: http://www.starbucks.com
+* Debonne Vineyards: https://www.debonne.com
+* Hundley Cellars: http://www.hundleycellars.com
+* Harpersfield Vinyard: https://harpersfield.com
+* The Winery at Spring Hill: http://www.thewineryatspringhill.com - we don't like this one as much, but they do a nice job of selling wine online
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
+* Comfortable
+* Quality
+* Premium Offerings
 * Inviting Atmosphere
-* A Place for Friends
-* Locally-Sourced
-* High Quality
-* Authentic
+* Relaxing
+* Diverse Selection
+
 
 ## Assets
 
@@ -51,17 +52,11 @@ number: 3
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group3/Group-3-Content.zip">Download Group 3 Content (Zip File)</a>
+<a href="/class/groups/assets/group5/Group-5-Content.zip">Download Group 5 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group3/aroma.svg" alt="AROMA Coffee & Tea" />
+<img src="/class/groups/assets/group5/off-the-vine.svg" alt="Off the Vine: Winery and Vinyard" />
 
-<a href="/class/groups/assets/group3/aroma.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group5/Off-The-Vine-Final.ai">AI (Illustrator) File</a>
 
-<a href="/class/groups/assets/group3/aroma.eps">EPS (Vector) File</a>
-
-<a href="/class/groups/assets/group3/aroma.svg">SVG File</a>
-
-### Brand Colors
-
-Tan: #D2D1C0
+<a href="/class/groups/assets/group5/off-the-vine.svg">SVG File</a>

@@ -1,7 +1,7 @@
 ---
 title: "Group 4"
 client: "Pets First! Veterinary Clinic"
-members: "TBD"
+members: "Max & Drew"
 layout: group
 link: TBD
 livelink: TBD

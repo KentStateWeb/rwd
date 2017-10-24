@@ -1,14 +1,14 @@
 ---
-title: "Group 9"
+title: "Group 6 (Shane)"
 client: "Hops House Microbrewery"
-members: "TBD"
+members: "Shane"
 layout: group
 link: TBD
 livelink: TBD
 description: "It’s all about the hops man!  At Hops House, we craft the tastiest of brews every week that will keep you coming back for more.  Our brews can only be found at Hops House, and our modern, chill environment is perfect for after-work drinks or a night out on the town."
 semester: fall-2017
 date: 2016-7-19 12:00:00
-number: 9
+number: 6
 ##pm: "../pm/group9.pdf"
 ---
 
