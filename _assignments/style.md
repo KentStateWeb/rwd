@@ -47,7 +47,13 @@ Represent one of your style tiles in HTML/CSS in CodePen or in a folder on your 
 
 See [this example](http://sparkbox.github.io/style-prototype/) from SparkBox.
 
-**Note about images**:  If you are using CodePen for your prototype, CodePen only allows Pro users to upload images to their servers.  You won't be able to upload assets such as images and logos to CodePen.  One way around this is to upload the image file first to your GitHub repository and then reference this URL in CodePen.  
+**Note About Images**:  
+
+If you are using CodePen for your prototype, CodePen only allows Pro users to upload images to their servers.  You won't be able to upload assets such as images and logos to CodePen.  One way around this is to upload the image file first to your GitHub repository and then reference this URL in CodePen.  Here's what to do:
+
+1.  Move your images into your GitHub repository's folder on your computer (location will vary).  I recommend removing all spaces and capital letters from your image file names.
+2.  Use the GitHub Desktop software to sync the changes to the folder you just made (commit and then push the changes)
+3.  In a few minutes you'll be able to access your image via your GitHub URL.  For example, if your image file is "image.jpg" and your repository URL is https://kentstateweb.github.io/mygroup-name/, then your image is accessible at https://kentstateweb.github.io/mygroup-name/image.jpg.  This is the URL you'll use for your IMG tags.
 
 ---
 
