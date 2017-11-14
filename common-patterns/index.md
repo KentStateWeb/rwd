@@ -112,6 +112,16 @@ Start your menu as a toggle menu for small screens.  When there is room, the tog
 
 ----
 
+## Adding Tint On Top of Images/Boxes
+
+Add a tinted overlay on top of an HTML element (such as an image) with CSS.  You can adjust the tint color and percentage in the CSS (even adding a gradient instead).
+
+<iframe height='300' scrolling='no' title='Image with Tinted Overlay' src='//codepen.io/challahan/embed/MOvaEx/?height=117&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/MOvaEx/'>Image with Tinted Overlay</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+
+----
+
 ## Basic Toggle Navigation with Hamburger
 
 People seem to love this pattern, so I'm including it here.  In my example, I kept the menu label and added an additional element for the hamburger icon (which animates).
@@ -120,6 +130,8 @@ People seem to love this pattern, so I'm including it here.  In my example, I ke
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/qZPMro/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/qZPMro/'>Toggle Navigation - with Hamburger Menu</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
+
+---
 
 ## Off Canvas Navigation
 
@@ -160,13 +172,24 @@ Source: https://github.com/gijsroge/priority-navigation
 
 ----
 
-## CSS-Only Accordions
+## Simple CSS-only Accordion
 
 Achieve an accordion effect using only HTML and CSS.
 
 **Uses**: HTML and CSS
 
-<iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/BKwObo/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/BKwObo/'>Pure CSS Accordion Using Radio Buttons (Fork from Andor Nagy)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='300' scrolling='no' title='Pure CSS Accordion - Forked from Oliver Knoblich' src='//codepen.io/challahan/embed/zPdvrQ/?height=107&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/zPdvrQ/'>Pure CSS Accordion - Forked from Oliver Knoblich</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+---
+
+## Simple Tabs
+
+Some very easily implemented tabs.  If you have many tabs, you might want to try the tab/accordion combination below for a better mobile experience
+
+**Uses**: HTML, CSS and JavaScript with Jquery
+
+<iframe height='268' scrolling='no' title='Tabbed Content with jQuery and CSS (Forked)' src='//codepen.io/challahan/embed/QOMbJq/?height=134&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/QOMbJq/'>Tabbed Content with jQuery and CSS (Forked)</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 ---
@@ -196,7 +219,10 @@ People commonly want to center text vertically on top of an element (such as an 
 
 ## Slider/Carousel
 
-There are thousands of image carousels on the internet.  I like one called Flickity because the HTML markup is minimal and it supports touch.  Here's a simple implementation.
+Creates a carousel of images.  The example below is using the Flickity plugin, but there are many out there:
+
+* [Flickity](http://flickity.metafizzy.co)
+* [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 **Uses**: HTML, CSS and JavaScript (can either download the CSS/JS files or reference them from Flickity)
 
@@ -204,6 +230,16 @@ You can also download and customize Flickity at [http://flickity.metafizzy.com](
 
 <iframe height='268' scrolling='no' src='//codepen.io/challahan/embed/dMVqKQ/?height=268&theme-id=0&default-tab=result' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/dMVqKQ/'>Flickity Slider (JavaScript)</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
+
+----
+
+## Photo Gallery
+
+Displays thumbnail photos as a gallery, with the option to click through for a full-screen version.
+
+Note - this is a more advanced implementation
+
+* [PhotoSwipe](http://photoswipe.com)
 
 ----
 
@@ -234,6 +270,18 @@ I like this modal example because it fills the entire screen on small screens, a
 
 ---
 
+## Simple CSS-Only Content Filter
+
+Uses pure CSS to filter a list of items by category when selected.
+
+**Uses**: HTML & CSS
+
+
+<iframe height='265' scrolling='no' title='Pure CSS content filter (Forked from Sam Gordon)' src='//codepen.io/challahan/embed/GOvJNR/?height=10&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/GOvJNR/'>Pure CSS content filter (Forked from Sam Gordon)</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+---
+
 ## Smooth Scroll to a Page Location (Anchor)
 
 Scrolls user to a particular location up or down the page by clicking a link.  JavaScript adds the smooth scrolling motion.
@@ -242,6 +290,25 @@ Scrolls user to a particular location up or down the page by clicking a link.  J
 
 <iframe height='265' scrolling='no' title='Smooth Scroll Demo' src='//codepen.io/challahan/embed/VbwMgo/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/challahan/pen/VbwMgo/'>Smooth Scroll Demo</a> by Christopher Hallahan (<a href='http://codepen.io/challahan'>@challahan</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
+
+---
+
+## Lazy Loading Plugins
+
+Options for intelligently loading content only when the user reaches that position on the page.  Note - these are more advanced, but provided in case you need them.
+
+* [Lozad.js](https://github.com/ApoorvSaxena/lozad.js)
+* [jQuery.Lazy](http://jquery.eisbehr.de/lazy/)
+
+---
+
+## CSS Animations
+
+Easily add CSS animations to elements on your page with this animation library.
+
+Note - you do not need to add this entire CSS file to your website - only the animations you need.
+
+* [Animate.css](ttps://daneden.github.io/animate.css/)
 
 ---
 
