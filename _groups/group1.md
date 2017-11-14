@@ -3,13 +3,13 @@ title: "Group 1"
 client: "AROMA Coffee & Tea"
 members: "Betsy & Jordan"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-group-1-betsy-jordan
+livelink: https://kentstateweb.github.io/f2017-group-1-betsy-jordan/
 description: AROMA Coffee & Tea, a family-owned coffee company that specializes in locally-sourced coffee.  They have two locations in Columbus, OH.
 semester: fall-2017
 date: 2016-7-11 12:00:00
 number: 1
-##pm: "../pm/group3.pdf"
+pm: "../pm/group1.pdf"
 ---
 
 ## Goals

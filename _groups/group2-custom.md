@@ -3,12 +3,13 @@ title: "Group 2"
 client: "Taco Tontos"
 members: "Amrita & Nicole"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-taco-tontos
+livelink: https://kentstateweb.github.io/f2017-taco-tontos/
 semester: fall-2017
 description: "Taco Tontos, a Mexican restaurant in Kent, OH"
 date: 2016-7-11 12:00:00
 number: 2
+pm: "../pm/group2.pdf"
 
 ---
 

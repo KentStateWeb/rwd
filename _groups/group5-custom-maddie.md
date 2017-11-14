@@ -3,8 +3,8 @@ title: "Group 5 (Maddie)"
 client: "Sunflower Bean (Band)"
 members: "Maddie"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-group-5-maddie-harbert
+livelink: https://kentstateweb.github.io/f2017-group-5-maddie-harbert/
 semester: fall-2017
 description: "Sunflower Bean, a band"
 date: 2016-7-11 12:00:00

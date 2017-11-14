@@ -3,8 +3,8 @@ title: "Group 8 (Julie)"
 client: "Buckeye Bed & Breakfast"
 members: "Julie"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-juliana-houck-group-8
+livelink: https://kentstateweb.github.io/f2017-juliana-houck-group-8/
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 semester: fall-2017
 date: 2016-7-11 12:00:00

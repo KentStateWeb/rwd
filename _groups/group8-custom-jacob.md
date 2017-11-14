@@ -3,8 +3,8 @@ title: "Group 8 (Jacob)"
 client: "Buckeye Bed and Breakfast"
 members: "Jacob"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-jacob-lisic-group-8
+livelink: https://kentstateweb.github.io/f2017-jacob-lisic-group-8/
 semester: fall-2017
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 date: 2016-7-11 12:00:00

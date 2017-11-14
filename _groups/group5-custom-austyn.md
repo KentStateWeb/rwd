@@ -3,8 +3,8 @@ title: "Group 5 (Austyn)"
 client: "honeymoon (Band)"
 members: "Austyn"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-5-austyn-benyak
+livelink: https://kentstateweb.github.io/f2017-5-austyn-benyak/
 semester: fall-2017
 description: "honeymoon, a band"
 date: 2016-7-11 12:00:00

@@ -3,8 +3,8 @@ title: "Group 6 (Trey)"
 client: "Hops House Microbrewery"
 members: "Trey"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-6-hopps-house-trey
+livelink: https://kentstateweb.github.io/f2017-6-hopps-house-trey/
 description: "It’s all about the hops man!  At Hops House, we craft the tastiest of brews every week that will keep you coming back for more.  Our brews can only be found at Hops House, and our modern, chill environment is perfect for after-work drinks or a night out on the town."
 semester: fall-2017
 date: 2016-7-19 12:00:00

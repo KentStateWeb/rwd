@@ -3,8 +3,8 @@ title: "Group 7 (Emily)"
 client: "The Ohio Chop Shop Hair Salon"
 members: "Emily"
 layout: group
-link: TBD
-livelink: TBD
+link: https://github.com/KentStateWeb/f2017-group-7-emily-lavelle
+livelink: https://kentstateweb.github.io/f2017-group-7-emily-lavelle/
 description: "The Chop Shop is a high-end, unique hair salon in Akron, Ohio.  Our stylists bring their clients the freshest styles, and our location is a high-end, but friendly and fun atmosphere that keeps clients coming back again and again.  Visit The Ohio Chop Shop today for all of your hair, skin and nail needs!"
 semester: fall-2017
 date: 2016-7-11 12:00:00
