@@ -642,7 +642,7 @@ a.svg:after {
 	transform: translate(0,0);
 }
 
-.svg:hover .rwd-svg .mark {
+/*.svg:hover .rwd-svg .mark {
   animation: move .5s ease;
 	animation-play-state: running;
 	animation-fill-mode: forwards;
@@ -658,7 +658,7 @@ a.svg:after {
 	animation: move-right .3s ease;
 	animation-play-state: running;
 	animation-fill-mode: forwards;
-}
+}*/
 
 @keyframes move {
 	0% {

@@ -630,50 +630,7 @@ a.svg:after {
 	transform: translate(0,0);
 }
 
-.svg:hover .rwd-svg .mark {
-  animation: move .5s ease;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
 
-.svg:hover .code-left {
-	animation: move-left .3s ease;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-.svg:hover .code-right {
-	animation: move-right .3s ease;
-	animation-play-state: running;
-	animation-fill-mode: forwards;
-}
-
-@keyframes move {
-	0% {
-		transform: translate(0,0) scale(1.0);
-	}
-	100% {
-		transform: translate(13%,19%) scale(.8);
-	}
-}
-
-@keyframes move-left {
-	0% {
-		transform: translate(0,0);
-	}
-	100% {
-		transform: translate(-25%, 0);
-	}
-}
-
-@keyframes move-right {
-	0% {
-		transform: translate(0,0);
-	}
-	100% {
-		transform: translate(25%, 0);
-	}
-}
 
 @media screen and (min-width:600px) {
 
