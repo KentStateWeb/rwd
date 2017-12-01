@@ -103,6 +103,6 @@ Although there is nothing to submit, you may find it helpful to prepare some bul
 
 Use the following rubric to ensure you receive the highest possible grade for the assignment:
 
-* **5-6**: You and your partner showed all of the required components.  You were able to intelligently answer questions and showed critical thinking in your design decisions.  Your decisions matched your initial goals.  You discussed what your next steps would be, were you to complete the website. Both partners participated in the discussion and you also participated in the review of other group projects.
+* **5**: You and your partner showed all of the required components.  You were able to intelligently answer questions and showed critical thinking in your design decisions.  Your decisions matched your initial goals.  You discussed what your next steps would be, were you to complete the website. Both partners participated in the discussion and you also participated in the review of other group projects.
 * **3-4**: You and your partner presented, but some of the required items were missing.  You were unsure or unable to back up some of your design decisions, and weren't as convincing as you could have been.  One partner may have dominated the discussion.
 **0-2**: Your review lacked coherence and it is clear that you didn't put a lot of thought into your decisions or prepare for the discussion.  Next steps weren't discussed, and the client is left with a lot of questions.  You may not have participated at all in the class review by asking questions or giving feedback.
