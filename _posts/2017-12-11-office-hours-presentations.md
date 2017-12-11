@@ -63,7 +63,7 @@ During each presentation, each class member (and instructor) will use their own 
 
 ## Self & Group Assessment
 
-After Tuesday you'll still need to submit a separate survey that evaluates your individual and team performance.  Please wait until you've submitted your projects before taking the survey.  This is the last assignment you'll submit for RWD!
+After Tuesday, you'll still need to submit a separate survey that evaluates your individual and team performance.  Please wait until you've submitted your projects before taking the survey.  This is the last assignment you'll submit for RWD!
 
 <a class="button small" href="http://rwdkent.com/class/assignments/assessment/">Access the Group/Self Assessment</a>
 
