@@ -6,6 +6,8 @@ points: 5
 layout: assignment
 date: 2017-12-05 12:00:00
 semester: fall-2017
+status: assignment-completed
+
 ---
 
 As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them (usability), how they perform on  various browsers and devices (technical testing) and how accessible they are to all users (accessibility).  This testing plan will help you validate some of these concerns.
