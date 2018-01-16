@@ -3,7 +3,7 @@ layout: wide
 title: Syllabus - Advanced Responsive Web Design
 ---
 
-## Kent State University CCI 20826/40095-002 - 20827/50095-002
+## Kent State University CCI Course 40095-003/50095-003
 
 <dl class="detail-listing detail-listing--syllabus group">
   <div class="detail-list__column">
@@ -12,7 +12,7 @@ title: Syllabus - Advanced Responsive Web Design
     <dt>Instructor Email:</dt>
     <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
     <dt>Terms:</dt>
-    <dd>Spring 2018</dd>
+    <dd>Spring 2017</dd>
     <dt>Undergrad:</dt>
     <dd>CCI 40095-002 - 20826</dd>
   </div>
@@ -74,66 +74,61 @@ Most importantly, by the end of this course, students will be able to:
 
 ### Course Textbook and Materials
 
-Because this course is centered primarily around the completion of a collaborative client project, there are no required textbooks.  However, I will assign readings from a web-related book of your choice (see Book Report assignment).  These books will be provided by the instructor.
+Because this course is centered primarily around the completion of a collaborative client project, there are no required textbooks.  I will assign select readings from [Brad Frost's Atomic Design book](http://atomicdesign.bradfrost.com) and other websites as needed.
 
 
 ### Class Structure
 
-Classes will loosely run as follows:
+This will be a non-traditional class, as there won't be formal lectures or testing.  Classes will loosely run as follows:
 
-1.  Weekly group Scrum sessions: 15 minutes each (twice per week).  At the beginning of each class, each team lead will provide updates from the group on what they worked on during the previous week, any problems they are having and what they expect to focus on for the next week.
+1.  Weekly group Scrum sessions: 15 minutes each (1 in person, 1 virtual).  At the beginning of class, each team lead will provide updates from the group on what they worked on during the previous week, any problems they are having and what they expect to focus on for the next week.
 2.  Collaborative working time and consultation with the instructor during each class.
 3.  Solidifying tasks and planning for the upcoming sprint (Sprint Planning) at the end of each sprint.
 4.  Reviewing output from the previous sprint (Sprint Review) and evaluating the group's working process (Sprint Retrospective) every few weeks.
 5. Working outside of class (at least 2 hours per week) on project deliverables.
-6.  Mini topics/lectures from the instructor on Tuesdays, typically relating to the part of the project we're working on that week.
 
 ### Preparing for Class
 Students are expected to come to class prepared.  This means:
 
 * Readiness to fully participate in discussions, work sessions and update sessions.
 * Turning in assigned survey entries prior to each sprint.
-* Completing assigned tasks and updating teams each week.
-* Ensuring they have assigned tasks (cards) in Trello each week.
+* Completing assigned tasks and updating team lead each week.
 * Taking the initiative to communicate and collaborate with team members, as needed.
 
 ### Class Roles
 
 Officially, the Scrum framework (which we'll be using to organize the semester project) recognizes no specific roles or titles for development team members.  This ensures there are no barriers to collaboration - everyone is equally responsible for the end result.  
 
-However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.
+However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.  
 
----
+You may, with the permission of the instructor, choose to trade roles with another team member at the beginning of a sprint, if needed.  
 
-#### 1: Content Strategy & User Experience
+#### Content Strategy & User Experience
 
-**3 Members**
+**3 Members (with 1 designated lead)**
 
-The User Experience (UX) team is responsible for advocating for all functionality related to how users interact with the product and the goals and user flows that drive them.  This includes testing and getting feedback from actual end-users of the product.  They will be particularly immersed in developing and refining content, requesting content from stakeholders (by way of the account manager).   The UX team is responsible for documenting how the content must be developed to speak to their users.
+The User Experience (UX) team is responsible for advocating for all functionality related to how users interact with the product and the goals and user flows that drive them.  This includes testing and getting feedback from actual end-users of the product.  They will be particularly immersed in developing and refining content, requesting content from stakeholders (by way of the account manager.   The UX team is responsible for documenting how the content must be developed to speak to the users and their needs for future content development.
 
-<a href="/advanced/groups">See Detailed Responsibilities & Milestones</a>
+The User Experience team must work directly with visual designers to ensure design elements are derived from real content and all design interactions make sense for the users.  They must also be in continual contact with the CMS team, ensuring the appropriate content types are built out in the CMS and the CMS architecture accurately represents the flows and needs of the end user.   Additionally the UX team is responsible for building out the final content (including media, photos, text) into the CMS for release.
 
----
 
 #### Visual Design and Front-End Development
 
-**4 Members (2 on visual design, 2 on front-end)**
+**3 Members (with 1 designated lead, graduate student preferred)**
 
-The Visual Design team is responsible for the visual design patterns as well as the general design language to be utilized for the product.  While the design team may sketch and wireframe concepts in static design programs, design patterns must ultimately be developed into responsive design patterns that are in working condition.  Additionally, by the end of the product, a library of design patterns and brand language used in the website will be developed.  
+The Visual Design team is responsible for the visual design patterns as well as the general design language to be utilized for the product.  While the design team may sketch and wireframe concepts in static design programs, design patterns must ultimately be developed into responsive design patterns that are in working condition.  Additionally, by the end of the product, a library of design patterns and language used in the website will be developed.  
 
-<a href="/advanced/groups">See Detailed Responsibilities & Milestones</a>
+The Visual Design team must collaborate closely with the UX team to ensure appropriate patterns are being designed to accomplish user goals.  Additionally, the patterns should incorporate real content that has been developed and written by the UX team.  They visual design team must also collaborate with the CMS team, ensuring their design patterns are properly integrated into the CMS and that the patterns ultimately work together to establish a cohesive design in the final website.
 
----
 
 #### Content Management System and Back-End Development
 
-**2 Members (with 1 floating)**
+**3 Members (with 1 designated lead)**
 
-The Content Management System team is responsible for the final technical architecture that users will interact with, via the CMS.  They’ll also work closely on items that require more advanced database or dynamic functionality, including JavaScript.  This team will ultimately define the content structure and types in the CMS, building out HTML templates, CSS (SASS) and JavaScript that has been technically tested and takes performance and accessibility into account.  
+Content Content Management System team is responsible for the final technical architecture that users will interact with, via the CMS.  They’ll also work closely on items that require more advanced database or dynamic functionality, including JavaScript.  This team will ultimately define the content structure and types in the CMS, building out HTML templates, CSS (SASS) and JavaScript that has been technically tested and takes performance and accessibility into account.  
 
-<a href="/advanced/groups">See Detailed Responsibilities & Milestones</a>
+The CMS team will work closely with the content/UX team to ensure appropriate content types are developed and that those content types are intuitive for CMS users to input content.  They’ll also work closely with the visual design team, taking completed design patterns and integrating them into the final templates via HTML, CSS and JavaScript.  The CMS team will ultimately tie everything together for the public release.
 
----
 
 #### Non-classroom role:  Account Manager
 
@@ -152,11 +147,10 @@ Student learning will be assessed through the following types of work: in-class 
 
 This includes:
 
-* Attending 15 minute virtual Scrum twice per week (attendance taken by ScrumMaster)
+* Attending 15 minute virtual Scrum each week (attendance taken by Scrum Master)
 * Completing and logging their assigned tasks on Scrum Board at least 2 hours of project-related work per week
-* Attending each class
-* Completing a retrospective survey at the end of each Scrum (5 surveys) and retrospective presentation at the end of the course
-* Completing the Book Report Assignment
+* Attending each class, including 15 minute in-person Scrum
+* Completing a retrospective survey at the end of each Scrum (5 surveys)
 * Completing the peer evaluation survey at the end of the semester
 
 <dl>
@@ -165,35 +159,6 @@ This includes:
 </dl>
 
 There are **100** total possible points for the semester.
-
-<div class="table-float">
-<h4>Individual Assignments</h4>
-<table>
-<thead>
-  <th style="text-align:left;">Assignment</th>
-  <th style="text-align:left;">Points</th>
-</thead>
-<tbody>
-{% assign items = site.assignments_arwd | sort: 'date' %}
-{% for item in items %}
-	{% if item.type == 'mini' and item.semester == 'spring-2018' %}  
-	<tr>
-		<td>
-			<a href="{{ item.url }}">{{ item.title }}</a>
-		</td>
-		<td>
-			{{ item.points }}
-		</td>
-	</tr>
-	{% endif %}
-{% endfor %}
-	<tr>
-		<td><strong>TOTAL</strong></td>
-		<td><strong>35</strong></td>
-	</tr>
-</tbody>
-</table>
-</div>
 
 <div class="table-float">
 <h4>Retrospective Surveys</h4>
@@ -205,7 +170,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments_arwd | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'survey' and item.semester == 'spring-2018' %}  
+	{% if item.type == 'mini' and item.semester == 'spring-2017' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -218,7 +183,36 @@ There are **100** total possible points for the semester.
 {% endfor %}
 	<tr>
 		<td><strong>TOTAL</strong></td>
-		<td><strong>65</strong></td>
+		<td><strong>25</strong></td>
+	</tr>
+</tbody>
+</table>
+</div>
+
+<div class="table-float">
+<h4>Individual Assignments</h4>
+<table>
+<thead>
+  <th style="text-align:left;">Assignment</th>
+  <th style="text-align:left;">Points</th>
+</thead>
+<tbody>
+{% assign items = site.assignments_arwd | sort: 'date' %}
+{% for item in items %}
+	{% if item.type == 'survey' and item.semester == 'spring-2017' %}  
+	<tr>
+		<td>
+			<a href="{{ item.url }}">{{ item.title }}</a>
+		</td>
+		<td>
+			{{ item.points }}
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+	<tr>
+		<td><strong>TOTAL</strong></td>
+		<td><strong>75</strong></td>
 	</tr>
 </tbody>
 </table>
@@ -228,9 +222,9 @@ There are **100** total possible points for the semester.
 
 ### Attendance Policy
 
-Attending each of the 15 weeks is crucial.  I will allow **three missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
+Attending each of the 15 classes is crucial.  I will allow **two missed classes** for the semester.  All subsequent absences will only be accepted for the following reasons:  sickness (with medical note only), athletic event (with coach's note), religious observation, military responsibility (with documentation) and death in the family (with documentation).  
 
-Students who miss more than three classes without proper documentation will receive a 0 for their class attendance grade for the semester (10% of grade).
+Students who miss more than two classes without proper documentation will receive a 0 for their class attendance grade for the semester (10% of grade).
 
 In addition to class, there will be other required meetings or out-of-class working sessions.  Attendance at these sessions (dates and times agreed upon by the group) are critical and will be reflected in the participation grade.
 
@@ -275,7 +269,8 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 
 My office hours for this semester are:
 
-* Tuesdays: 3:00 - 3:45 p.m.
+* Tuesdays: 4:30 - 5:30 p.m.
+* Thursdays: 2:00 - 2:30 p.m.
 * By Appointment
 
 #### Email

@@ -1,23 +1,27 @@
 ---
 
-title: "Sprint Retrospective Survey 4"
+title: "Sprint Retrospective Survey 1"
 description: "Description of the assignment"
 type: "survey"
 points: 15
 layout: assignment
-date: 2018-04-13 12:00:00
-semester: spring-2018
-status: not-completed
+date: 2016-02-10 12:00:00
+semester: spring-2017
+status: assignment-completed
 
 ---
 
 Welcome to the Sprint Retrospective Survey for Advanced Responsive Web Design.  Please answer these questions honestly.  Your answers will be used to calculate your grade for this sprint.   You didn't have to complete every task perfectly in order to receive full credit.  You just have to be able to thoughtfully explain how your attempted to meet your commitment.
 
-Please be sure to take the survey by the due date (listed above) @ midnight.  Late submissions won't be accepted.
+Please be sure to take the survey by the due date (listed above) @ midnight.  Late submissions won't be accepted.  I will submit your grades will be submitted in Blackboard.
 
 You can see the rubric criteria used for grading below.  The questions in later surveys may change slightly over time based on prior responses.
 
-<a class="button small" href="https://kent.qualtrics.com/jfe/form/SV_ehW2TB033jEsMWV">Take Retrospective Survey 4</a>
+## Survey Link
+
+Please do not take the survey before Feb. 10.  It will take you about 15 - 20 minutes to complete.
+
+<a class="button" href="https://kent.qualtrics.com/SE/?SID=SV_5bU4P8wRlGtLQR7">Take Survey 1</a>
 
 ## Rubric
 

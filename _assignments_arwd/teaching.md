@@ -2,30 +2,18 @@
 title: "Graduate Student Teaching Assignment"
 description: "Description of the assignment"
 type: "mini"
-points: N/A
+points: (10)
 layout: assignment
 date: 2016-05-11 12:00:00
-semester: spring-2017
-status: assignment-completed
+semester: spring-2018
+status: not-completed
 
 ---
 
-As part of the graduate student assigned work for the semester, you'll be refreshing the class on the basics of ["Atomic Design"](http://atomicdesign.bradfrost.com) based on the short book by Brad Frost.  This information will be directly applicable to the project.
+Graduate students in the class will choose one of the future proposed topics to be taught by the instructor.  After being briefed by the instructor on that topic and the goals that should be covered, the graduate student will essentially teach the class that subject (with help from the instructor as needed).  
 
-## What To Do
-
-1.  Over the first 4 weeks of class, prepare a short lesson on a chapter from Atomic Design
-2.  Think about how the topics covered in those chapters might apply to what we are doing in class.
-3.  Talk to us for about 10 minutes on the topics from the book.  You may even ask a few questions or show examples to increase engagement.
-
-## Schedule
-
-We'll cover a chapter or two each class during the first part of the semester.  Here's the schedule you should follow:
-
-* Jan 26: Chapter 1 - Designing Systems and Chapter 2 - Atomic Design Methodology
-* Feb 2:  Chapter 3 - Tools of the Trade and Chapter 4 - The Atomic Workflow
-* Feb 9: Chapter 5 - Maintaining Design Systems
+Slides, demos and any other supplemental materials that will help student understanding are required.
 
 ## Grading
 
-There won't be a formal grade assigned for this particular project, but the grade will be factored in to the 10 points for Task Completion/Quality.
+This assignment is worth 10% of the graduate student grade.  If not completed, the 10 points will be deducted from the total grade (it will not show up as a separate assignment in Blackboard).

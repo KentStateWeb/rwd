@@ -5,9 +5,9 @@ description: "Description of the assignment"
 type: "survey"
 points: 15
 layout: assignment
-date: 2018-04-13 12:00:00
-semester: spring-2018
-status: not-completed
+date: 2016-04-21 12:00:00
+semester: spring-2017
+status: assignment-completed
 
 ---
 

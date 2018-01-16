@@ -1,12 +1,12 @@
 ---
 
-title: "Sprint Retrospective Survey and Presentation 5"
+title: "Sprint Retrospective Presentation 5"
 description: "Description of the assignment"
 type: "survey"
-points: 20
+points: 15
 layout: assignment
-date: 2018-05-08 12:00:00
-semester: spring-2018
+date: 2016-05-11 12:00:00
+semester: spring-2017
 status: not-completed
 
 ---

@@ -2,10 +2,10 @@
 title: "Overall Task Completion and Quality"
 description: "Description of the assignment"
 type: "mini"
-points: 5
+points: 10
 layout: assignment
 date: 2016-05-11 12:00:00
-semester: spring-2018
+semester: spring-2017
 status: not-completed
 
 ---
@@ -20,8 +20,8 @@ While attendance and participation is important, it's also important that you co
 
 ## Rubric
 
-**4-5:** Excellent overall task completion and quality.  You were always consistent in getting things done, putting in extra time when needed.
+**8-10:** Excellent overall task completion and quality.  You were always consistent in getting things done, putting in extra time when needed.
 
-**2-3:** You did an adequate job at completing tasks, but weren't always consistent in getting things done on time or at a professional quality level.  Some improvement is needed.
+**5-7:** You did an adequate job at completing tasks, but weren't always consistent in getting things done on time or at a professional quality level.  Some improvement is needed.
 
-**0-1:** Many tasks that you were assigned were not completed or weren't completed at a professional level.  Other team members had to finish your assigned work.
+**0-4:** Many tasks that you were assigned were not completed or weren't completed at a professional level.  Other team members had to finish your assigned work.

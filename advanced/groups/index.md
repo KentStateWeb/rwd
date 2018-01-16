@@ -7,9 +7,7 @@ title: Advanced RWD Groups
 
 Officially, Scrum recognizes no specific roles or titles for development team members.  This ensures there are no barriers to collaboration - everyone is equally responsible for the end result.  
 
-However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.  
-
-You may, with the permission of the instructor, choose to trade roles with another team member at the beginning of a sprint, if needed.  
+However, being a classroom team that does not meet 5 days a week, I am going to structure the development team into lightweight roles to help distinguish responsibilities and roles throughout the project.   
 
 
 ## Subgroups ##
@@ -18,13 +16,15 @@ You may, with the permission of the instructor, choose to trade roles with anoth
 
 <section>
 {% for item in items %}
-	{% if item.semester == 'spring-2017' %}
+<hr>
+	{% if item.semester == 'spring-2018' %}
 		<h3>{{ item.title }}</h3>
 		<dl>
 		<dt>Members</dt>
 		<dd>{{ item.members }}</dd>
 		</dl>
 		<p>{{ item.description }}</p>
+		{{ item.content }}
 	{% endif %}
 {% endfor %}
 </section>
