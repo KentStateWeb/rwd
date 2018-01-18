@@ -16,31 +16,31 @@ These are individual assignments  Please tell the instructor your choice by the 
 
 Books will be provided (either physical or digital copy).  Physical copies are noted, as there is only 1 copy available.
 
-##Presentations must include
+## Presentations must include
 A summary of the major topics from the book
 Examples from the book as well as from real-life
 At least 5 major ideas from the book that would be helpful to our project
 Slides and presentation style are up to you
 
-##Book Options
+## Book Options
 
-###Front-End / Design
+### Front-End / Design
 * Atomic Design by Brad Frost
 * Responsive Design: Patterns & Principles by Ethan Marcotte
 * On Web Typography by Jason Santa Maria
 
-###Content, Research & UX
+### Content, Research & UX
 * Content Strategy for Mobile by Karen McGrane
 * Practical Design Discovery by Dan Brown
 * Just Enough Research by Erika Hall
 * The Elements of Content Strategy by Erin Kissane
 
-###Project & Client Management, Web Design Process
+### Project & Client Management, Web Design Process
 * Project Management for Humans by Brett Harned (any 4 chapters of interest)
 * Going Responsive by Karen McGrane
 * Design is a Job by Mike Montierro
 
-###Backend /  Automated Tools / Content Management Systems
+### Backend /  Automated Tools / Content Management Systems
 * JavaScript for Web Designers by Mat Marquis
 * Responsible Responsive Design by Scott Jehl
 * SASS for Web Designers by Dan Cederholm
