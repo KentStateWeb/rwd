@@ -29,7 +29,7 @@ Books will be provided (either physical or digital copy).  Physical copies are n
 * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com)
 * [Responsive Design: Patterns & Principles by Ethan Marcotte](https://abookapart.com/products/responsive-design-patterns-principles)
 * [On Web Typography by Jason Santa Maria](https://abookapart.com/products/on-web-typography)
-* [The New CSS Layout](https://abookapart.com/products/the-new-css-layout)
+* [The New CSS Layout by Jen Simmons](https://abookapart.com/products/the-new-css-layout)
 
 ### Content, Research & UX
 
