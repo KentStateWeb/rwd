@@ -22,6 +22,20 @@ Books will be provided (either physical or digital copy).  Physical copies are n
 * At least 5 major ideas from the book that would be helpful to our project
 * Slides and presentation style are up to you, but some sort of visual aid is needed
 
+## Book Assignments & Due Dates
+
+* Feb 8: Nicole (Practical Design Discovery)
+* Feb 13: Trey (SASS for Web Designers)
+* Feb 15: Kenna (Design is a Job)
+* Feb 20: Lisa (Atomic Design)
+* March 1: Erik (Elements of Content Strategy)
+* March 8: Jordan (Content Strategy for Mobile)
+* March 15: Amrita (Web Typography)
+* March 22: Paul (Responsive Design Patterns & Principles)
+* April 5: Jacob (JavaScript for Web Designers)
+* April 12: Ciara (Responsible Responsive Design)
+
+
 ## Book Options
 
 ### Front-End / Design
