@@ -1,6 +1,6 @@
 ---
 title: "User Experience and Content Strategy"
-members: "TBD"
+members: "Erik, Jordan and Nicole"
 layout: group
 link: TBD
 description: "The User Experience (UX) team is responsible for advocating for all functionality related to how users interact with the product and the goals and user flows that drive them.  This includes testing and getting feedback from actual end-users of the product.  They will be particularly immersed in developing and refining content, requesting content from stakeholders (by way of the account manager.   The UX team is responsible for documenting how the content must be developed to speak to the users and their needs for future content development."

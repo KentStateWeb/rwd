@@ -1,6 +1,6 @@
 ---
 title: "Content Management System"
-members: "TBD"
+members: "Trey (Scrum Master), Jacob and Paul"
 layout: group
 link: TBD
 description: "Content Content Management System team is responsible for the final technical architecture that users will interact with, via the CMS.  They’ll also work closely on items that require more advanced database or dynamic functionality, including JavaScript.  This team will ultimately define the content structure and types in the CMS, building out HTML templates, CSS (SASS) and JavaScript that has been technically tested and takes performance and accessibility into account."
