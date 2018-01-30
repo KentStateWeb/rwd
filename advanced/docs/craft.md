@@ -20,7 +20,9 @@ Note:  MAMP Pro Must be running in order to access your site on your local compu
 ## Set up Craft CMS
 
 1.  Duplicate the craft/config/db-default.php file and call it db.php.  Edit it to include the LOCAL database name (assuming the password and user name are root).
-2.  Go to the local URL on your computer to install Craft (aka http://PROJECTNAME.web).  Go through the installation process.
+2. Important - change the public/htaccess file to be .htaccess.  
+3. In craft/config/general.php - change the LOCAL url to your actual local URL. (in two places)
+4. Go to the local URL on your computer to install Craft (aka http://PROJECTNAME.web).  Go through the installation process.
 
 ## Editing Craft CMS Template Files
 
