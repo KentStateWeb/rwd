@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Tower + GitHub
+title: Step 1 - Tower + GitHub
 ---
 
 Tower (which syncs with GitHub) allows you to commit and push changes to the files on your local computer to the GitHub repository, which is where all of the project files live.
@@ -12,7 +12,7 @@ Tower does NOT sync database changes.  Database changes include content you add 
 1.  Install Tower https://www.git-tower.com
 2.  Enter your personal GitHub credentials when setting up (use Authentication Basic Auth!)
 3.  Click the Cloud icon in the top left
-4.  Choose your user account in the sidebar and then click Clone on the "studentmedia" repository.
+4.  Choose your user account in the sidebar and then click Clone on the PROJECTNAME repository.
 5.  Choose a folder on your computer to clone the repository to.  You cannot change this directory later, so make a note of it.
 6.  Once cloning has finished, all of the files will be on your local computer for editing.
 

@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Creating Fields, Sections and Templates with Craft CMS
+title:  Step 4 - Creating Fields, Sections and Templates with Craft CMS
 ---
 
 ***Before Starting: Make sure that MAMP Pro is started and Craft has been set up the first time.  See [this article](craft.html) for more information.***
@@ -168,7 +168,7 @@ i.e for the title field it would be {{ entry.title }}
 
 ## Step 7: Test in the browser and commit to GitHub with Tower
 
-1. Go to http://studentmedia.web/DIRECTORYNAME (i.e. studentmedia.web/statistics)
+1. Go to http://PROJECTNAME.web/DIRECTORYNAME (i.e. PROJECTNAME.web/statistics)
 2. If everything is displaced on your page, you’re ready to commit your changes
 3. Open tower and commit any changed files
 4. Click push
@@ -180,5 +180,5 @@ i.e for the title field it would be {{ entry.title }}
 ***Important - Fields and sections do not sync between local and production environments, while changes to files and folders outside of Craft (such as templates folder) do.***  
 
 1. Recreate the section, fields, and entries exactly as you did in your local environment
-2. Go to http://kentstatestudentmedia.com/DIRECTORYNAME
+2. Go to http://PROJECTNAME.ideabasekent.com/DIRECTORYNAME
 3. Make sure everything is displaying correctly. If so, you’re done.
