@@ -5,7 +5,7 @@ description: "Description of the assignment"
 type: "survey"
 points: 10
 layout: assignment
-date: 2018-02-06 12:00:00
+date: 2018-02-08 12:00:00
 semester: spring-2018
 status: not-completed
 
@@ -19,9 +19,9 @@ You can see the rubric criteria used for grading below.  The questions in later 
 
 ## Survey Link
 
-Please do not take the survey before the due date.  It will take you about 15 - 20 minutes to complete.
+Please do not take the survey until 1 day before the due date.  It will take you about 15 - 20 minutes to complete.
 
-<a class="button" href="https://kent.qualtrics.com/SE/?SID=SV_5bU4P8wRlGtLQR7">Take Survey 1</a>
+<a class="button" href="https://kent.qualtrics.com/jfe/form/SV_cOsnA6rXYlHlPsF">Take Survey 1</a>
 
 ## Rubric
 
