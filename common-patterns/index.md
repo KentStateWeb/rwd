@@ -293,6 +293,29 @@ Scrolls user to a particular location up or down the page by clicking a link.  J
 
 ---
 
+## Anchored (Floating) Back to Top Navigation Button
+
+Arrow appears once scrolling has started and auto scrolls user back to top of the page
+
+**Uses**: HTML, CSS and JavaScript with Jquery
+
+<iframe height='265' scrolling='no' title='Anchored/Floating Back to Top Button' src='//codepen.io/challahan/embed/wmrgve/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/wmrgve/'>Anchored/Floating Back to Top Button</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+---
+
+## Animated Content Entry/Exit on User Scroll
+
+Animates in and out content via fade or slide transition when scrolling up and down.  Uses the third-party Delighters JavaScript library.
+
+**Uses**: HTML, CSS and JavaScript with Jquery and Third Party <a href="https://q42.github.io/delighters/">Delighters library</a>
+
+<iframe height='265' scrolling='no' title='Animated Content Entry Example (Delighters)' src='//codepen.io/challahan/embed/gegVjg/?height=265&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/challahan/pen/gegVjg/'>Animated Content Entry Example (Delighters)</a> by Christopher Hallahan (<a href='https://codepen.io/challahan'>@challahan</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+---
+
+
 ## Lazy Loading Plugins
 
 Options for intelligently loading content only when the user reaches that position on the page.  Note - these are more advanced, but provided in case you need them.
