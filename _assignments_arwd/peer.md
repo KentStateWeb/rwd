@@ -14,4 +14,4 @@ Since this project was a highly collaborative assignment, I want to hear from ea
 
 The survey can be completed starting Monday of finals week and must be completed by Friday of finals week at 5 p.m.
 
-<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_06Sbd8OuFvnWfyt">Take the Survey</a>
+<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_3fl2tkuoQeNyYyV">Take the Survey</a>
