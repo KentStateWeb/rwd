@@ -1,6 +1,6 @@
 ---
 
-title: "Sprint Retrospective Survey and Presentation 5"
+title: "Sprint Retrospective Presentation 5"
 description: "Description of the assignment"
 type: "survey"
 points: 20
@@ -11,7 +11,7 @@ status: not-completed
 
 ---
 
-You'll give a short, 5-10 minute individual presentation during our finals week class, in addition to finishing up any remaining sprint items.  
+You'll give a short, 5 minute individual presentation during our finals week class, in addition to finishing up any remaining sprint items.  
 
 The presentation will cover what you've contributed to the project throughout the semester, your successes, your challenges and what you'd improve upon.  This short presentation should include a visual (slides or website demonstration) to illustrate your main points.
 
