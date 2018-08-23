@@ -8,21 +8,21 @@ title: Syllabus - Responsive Web Design
 <dl class="detail-listing detail-listing--syllabus group">
   <div class="detail-list__column">
     <dt>Instructor Name:</dt>
-    <dd>Christopher Hallahan</dd>
+    <dd>Christopher Hallahan and David Roll</dd>
     <dt>Instructor Email:</dt>
-    <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a></dd>
+    <dd><a href="mailto:challahan@ideabasekent.com">challahan@ideabasekent.com</a> and <a href="mailto:droll@kent.edu">droll@kent.edu</a></dd>
     <dt>Terms:</dt>
-    <dd>Fall 2017</dd>
+    <dd>Fall 2018 (2 Sections)</dd>
     <dt>Undergrad:</dt>
-    <dd>CCI 46001-001 - CRN 20941</dd>
+    <dd>CCI 46001-001/002 - 11708/21459</dd>
   </div>
   <div class="detail-list__column">  
     <dt>Grad:</dt>
-    <dd>CCI 56001-001 - CRN 20942</dd>
+    <dd>CCI 56001-001/002 - 11709/21460</dd>
     <dt>Day/Time:</dt>
-    <dd>Tuesdays, 5:30 p.m. - 8:15 p.m.</dd>
+    <dd>Tuesdays, 5:30 p.m. - 8:15 p.m. or Tuesday/Thursday, 11 a.m. - 12:25 p.m.</dd>
     <dt>Room:</dt>
-    <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent</dd>
+    <dd><a href="http://www.ideabasekent.com/directions">IdeaBase</a>, Downtown Kent or Taylor Hall 331</dd>
   </div>
 </dl>
 
@@ -144,7 +144,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'mini' and item.semester == 'fall-2017' %}  
+	{% if item.type == 'mini' and item.semester == 'fall-2018' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -175,7 +175,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'challenge' and item.semester == 'fall-2017' %}  
+	{% if item.type == 'challenge' and item.semester == 'fall-2018' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -204,7 +204,7 @@ There are **100** total possible points for the semester.
 <tbody>
 {% assign items = site.assignments | sort: 'date' %}
 {% for item in items %}
-	{% if item.type == 'project' and item.semester == 'fall-2017' %}  
+	{% if item.type == 'project' and item.semester == 'fall-2018' %}  
 	<tr>
 		<td>
 			<a href="{{ item.url }}">{{ item.title }}</a>
@@ -274,17 +274,8 @@ Final letter grades will be assigned on the basis of the following table.  Gradu
 
 ### Communicating with the Instructor
 
-My office hours for this semester are:
+The instructor will announce office hours and communication instructions during the first class.
 
-* Tuesdays: 4:30 - 5:30 p.m.
-* Thursdays: 4:00 - 5:00 p.m.
-
-#### Email
-My email address is [challahan@ideabasekent.com](mailto:challahan@ideabasekent.com).  Here is my email policy:
-
-* I will usually respond within 24 hours during the week (Mon-Fri). Do not expect an immediate response.
-* I typically check email in the afternoons or evenings, not in the mornings.
-* I may not respond to email on weekends.
 
 ### University Policies and Procedures
 The following policies and procedures apply to students enrolled at Kent State University. For a complete listing of university policies, please visit the Policy Register page on the Kent State University website.

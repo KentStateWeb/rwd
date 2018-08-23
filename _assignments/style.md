@@ -4,9 +4,9 @@ description: "You understand the content of your website and have some ideas abo
 type: "project"
 points: 6
 layout: assignment
-date: 2017-11-07 12:00:00
-semester: fall-2017
-status: assignment-completed
+date: 2018-11-07 12:00:00
+semester: fall-2018
+#status: assignment-completed
 
 
 ---

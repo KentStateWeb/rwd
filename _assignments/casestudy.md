@@ -4,9 +4,9 @@ description: "Description of the assignment"
 type: "mini"
 points: 4
 layout: assignment
-date: 2017-09-05 12:00:00
-semester: fall-2017
-status: assignment-completed
+date: 2018-09-10 12:00:00
+semester: fall-2018
+#status: assignment-completed
 
 ---
 
@@ -115,20 +115,7 @@ In addition to the criteria listed above, a few slides should be included to hel
 
 To keep things interesting, we're going to choose "rolling" due dates at the start of each class.  You'll choose a date to present your case study during the first class, and it will be due at the beginning of class on that date.  
 
-**September 5**
-* Austyn and Jason - Website: The Great Discontent
-* Julie and Max - Website: Google Fonts Redesign
-* Emily and Jessica - Tool: Sketch
-* Trey and Chris - Topic: CSS Animations/Transitions
-
-**September 12**
-* Amrita and Jordan - Tool: Adobe XD
-* Maddie and Drew - Tool: Web Fonts (Google/TypeKit)
-
-**September 19**
-* Betsy and Jo - Tool: Google Analytics
-* Shane and Jacob - Website: Netflix
-* Nicole - Person/Company: HappyCogg
+Assignments and Due Dates TBD
 
 ---
 

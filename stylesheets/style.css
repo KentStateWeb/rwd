@@ -831,6 +831,7 @@ main {
 	 margin-top: 1em;
 	 width: 100%;
 	 box-shadow: 4px 4px 0px #393839;
+	 margin-bottom: 1em;
 }
 
 .supplemental-information-title {
@@ -855,7 +856,8 @@ aside img {
 	height: auto;
 	margin-top: 1em;
 	box-shadow: 4px 4px 0px rgb(240,99,116);
-	margin-bottom: 2em;
+	margin-bottom: 1.5em;
+	clear: left;
 }
 
 .instructor-aside {
@@ -885,6 +887,7 @@ aside section {
 		width: inherit;
 		margin-top: 1em;
 		width: 45%;
+		margin-bottom: 3em;
 	}
 }
 

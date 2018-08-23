@@ -9,6 +9,9 @@ title: Groups & Projects
 
 ## Groups + Projects ##
 
+Coming Soon for Fall 2018
+
+<!--
 {% assign items = site.groups | sort: "number" %}
 <ul>
 {% for item in items %}
@@ -17,6 +20,8 @@ title: Groups & Projects
 	{% endif %}
 {% endfor %}
 </ul>
+
+-->
 
 <h2>Group Work Rules & Expectations</h2>
 

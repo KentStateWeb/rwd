@@ -4,9 +4,9 @@ description: "Style your conference website using basic CSS."
 type: "challenge"
 points: 4
 layout: assignment
-date: 2017-09-26 12:00:00
-semester: fall-2017
-status: assignment-completed
+date: 2018-09-26 12:00:00
+semester: fall-2018
+#status: assignment-completed
 
 ---
 

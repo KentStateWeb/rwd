@@ -4,8 +4,8 @@ description: "We're now on our way to making a real, functioning website."
 type: "project"
 points: 15
 layout: assignment
-date: 2017-12-12 11:00:00
-semester: fall-2017
+date: 2018-12-12 11:00:00
+semester: fall-2018
 ---
 
 We're now on our way to making a real, functioning website.  For the purposes of this project, we will be producing three prototype templates that would eventually become the website.  Using these three templates, we would easily be able to do produce the rest of the site.
