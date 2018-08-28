@@ -43,6 +43,9 @@ The link included with each website is a starting point.  There may be other inf
 * [Casper](https://responsivewebdesign.com/podcast/casper/)
 * [Toledo Public Library](https://responsivewebdesign.com/podcast/toledo-public-library/)
 * [Google Fonts](https://responsivewebdesign.com/podcast/google-fonts/)
+* [FBI Crime Explorer](https://responsivewebdesign.com/podcast/fbi-crime-data-explorer/)
+* [Slack.com](https://responsivewebdesign.com/podcast/slack/)
+
 
 ---
 
@@ -102,6 +105,7 @@ These are some popular people and companies in the areas of web/interaction desi
 * [Sparkbox](http://seesparkbox.com) - Responsive web design agency in Dayton, OH, participants in many conferences and articles
 * [HappyCogg](http://happycog.com) - Web Strategy, Design and Development agency in Philadelphia, PA.  Led by Jeffrey Zeldman, who led the Web Standards movement and co-created An Event Apart, A List Apart and A Book Apart.
 * [Mule Design](http://muledesign.com) Interactive Design Agency in San Francisco, led by Erika Hall and Mike Monteiro, writers of many popular books and articles.
+* [Jen Simmons](http://jensimmons.com/) - I’m the host and executive producer of The Web Ahead, winner of the 2015 Net Award for Podcast of the Year.  I’m a Designer Advocate at Mozilla. I spend my time researching the coming revolution in graphic design on the web, speaking at conferences, writing about what I discover, and advocating for what we need next.
 
 ---
 
@@ -115,7 +119,12 @@ In addition to the criteria listed above, a few slides should be included to hel
 
 To keep things interesting, we're going to choose "rolling" due dates at the start of each class.  You'll choose a date to present your case study during the first class, and it will be due at the beginning of class on that date.  
 
-Assignments and Due Dates TBD
+**Assignments & Due Dates for Tuesday 5:45 Class**
+
+* September 4: 3 groups
+* September 11: 3 groups
+* September 18: 2 groups
+* September 25: 2 groups
 
 ---
 
