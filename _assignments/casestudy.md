@@ -119,12 +119,34 @@ In addition to the criteria listed above, a few slides should be included to hel
 
 To keep things interesting, we're going to choose "rolling" due dates at the start of each class.  You'll choose a date to present your case study during the first class, and it will be due at the beginning of class on that date.  
 
-**Assignments & Due Dates for Tuesday 5:45 Class**
+**Assignments & Due Dates for Tuesday 5:45 Class Only**
 
-* September 4: 3 groups
-* September 11: 3 groups
-* September 18: 2 groups
-* September 25: 2 groups
+*September 4: 3 groups*
+
+* Jacqueline + Andrew: HappyCogg
+* Ramsey + Izzy: Verge
+* Hayley + Megan Monsman: Mule Design
+
+*September 11: 3 groups*
+
+* Josh Townsend + Alex Molinari: Netflix
+* Carson + Alicia: Sketch
+* Sydni + Lucas: Sparkbox
+
+*September 18: 2 groups*
+
+* Brandon + Megan Wilburn: CMS
+* Caroline + Sam: Typekit (Website)
+
+*September 25: 2 groups*
+
+* Jordan + Bri: Adobe XD
+* Nick and Maddie: Google Analytics
+
+
+**Assignments & Due Dates for Tuesday/Thursday Class**
+
+See Instructor
 
 ---
 
