@@ -4,7 +4,7 @@ description: "You've received content for a website and would like to begin stru
 type: "challenge"
 points: 4
 layout: assignment
-date: 2018-09-12 12:00:00
+date: 2018-09-10 12:00:00
 semester: fall-2018
 #status: assignment-completed
 
