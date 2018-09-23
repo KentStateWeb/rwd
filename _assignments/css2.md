@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "challenge"
 points: 4
 layout: assignment
-date: 2018-10-03 12:00:00
+date: 2018-10-01 12:00:00
 semester: fall-2018
 #status: assignment-completed
 
