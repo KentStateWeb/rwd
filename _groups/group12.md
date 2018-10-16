@@ -8,7 +8,7 @@ livelink: TBD
 description: "We’re a child care center in Kent, Ohio specializing in creative learning experiences for your child, fostering educational exploration and relationship building opportunities that will last a lifetime"
 semester: fall-2018
 date: 2016-7-19 12:00:00
-number: 1
+number: 12
 ##pm: "../pm/group1-dan.pdf"
 
 ---

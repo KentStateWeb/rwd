@@ -20,7 +20,6 @@ Tuesday 5:30 Class:
 {% endfor %}
 </ul>
 
--->
 
 <h2>Group Work Rules & Expectations</h2>
 
