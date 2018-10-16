@@ -1,5 +1,5 @@
 ---
-title: "Group 6"
+title: "Group 2"
 client: "Hops House Microbrewery"
 members: "TBD"
 layout: group

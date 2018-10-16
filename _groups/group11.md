@@ -1,11 +1,11 @@
 ---
-title: "Group 9"
+title: "Group 11"
 client: "Barb’s Bridal Boutique"
 members: "TBD"
 layout: group
 link: TBD
 livelink: TBD
-semester: fall-2017
+semester: fall-2018
 description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
 date: 2016-7-11 12:00:00
 number: 9

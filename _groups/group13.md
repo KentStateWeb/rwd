@@ -1,12 +1,12 @@
 ---
-title: "Group 2"
+title: "Group 13"
 client: "Franklin County Family & Community Services"
 members: "TBD"
 layout: group
 link: TBD
 livelink: TBD
 description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
-semester: fall-2017
+semester: fall-2018
 date: 2016-7-11 12:00:00
 number: 2
 ##pm: "../pm/group2-jenna.pdf"
