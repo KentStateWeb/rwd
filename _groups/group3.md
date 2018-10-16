@@ -1,15 +1,15 @@
 ---
 title: "Group 3"
 client: "Off the Vine"
-members: "Chris & Jason"
+members: "TBD"
 layout: group
-link: https://github.com/KentStateWeb/f2017-3-jason-chris
-livelink: https://kentstateweb.github.io/f2017-3-jason-chris/
+link: TBD
+livelink: TBD
 description: "Off the Vine: A local winery in Geneva, Ohio that operates a small walk-in wine-bar."
-semester: fall-2017
+semester: fall-2018
 date: 2016-7-11 12:00:00
 number: 3
-pm: "../pm/group3.pdf"
+#pm: "../pm/group3.pdf"
 ---
 
 ## Goals

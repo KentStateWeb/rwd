@@ -1,12 +1,12 @@
 ---
 title: "Group 4"
 client: "Pets First! Veterinary Clinic"
-members: "Max & Drew"
+members: "TBD"
 layout: group
-link: https://github.com/KentStateWeb/f2017-group-4-max-and-dewey
-livelink: https://kentstateweb.github.io/f2017-group-4-max-and-dewey/
+link: TBD
+livelink: TBD
 description: "At Pets First! Veterinary Clinic, Akron, Ohio’s premier veterinary care provider, we know your pet is a valuable member of your family.  That’s why we treat your pets as one of our own, with affordance vaccinations and wellness care that will keep your furry companion happy and healthy."
-semester: fall-2017
+semester: fall-2018
 date: 2016-7-19 12:00:00
 number: 4
 pm: "../pm/group4.pdf"
