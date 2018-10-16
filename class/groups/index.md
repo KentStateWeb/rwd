@@ -9,13 +9,12 @@ title: Groups & Projects
 
 ## Groups + Projects ##
 
-Coming Soon for Fall 2018
+Tuesday 5:30 Class:
 
-<!--
 {% assign items = site.groups | sort: "number" %}
 <ul>
 {% for item in items %}
-	{% if item.semester == 'fall-2017' %}
+	{% if item.semester == 'fall-2018' %}
 	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
 	{% endif %}
 {% endfor %}
