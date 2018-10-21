@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "challenge"
 points: 6
 layout: assignment
-date: 2018-11-07 12:00:00
+date: 2018-11-05 12:00:00
 semester: fall-2018
 #status: assignment-completed
 
@@ -25,12 +25,53 @@ They'd like your recommendation as to whether they should do a do a full redesig
 
 In CodePen, you're going to translate the existing desktop-only home page into a responsive one.  You can either use the existing assets and content available on the website or create your own new design (this is a more advanced, but creative, approach)
 
+**Colors:**
+
+Light Brown: rgb(214,152,105)
+
+Grey: rgb(232,232,232)
+
+Orange: rgb(222,80,33)
+
+Red: rgb(139, 1, 0)
 
 
-If you're using the exiting assets, here they are:
+**Fonts:**
+
+Navigation and Body Copy:  Nunito https://fonts.google.com/specimen/Nunito
+Headlines:  Playfair Display https://fonts.google.com/specimen/Playfair+Display
 
 
-Coming Soon.
+**Images:**
+
+Facebook Icon:  https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_86,h_86,al_c,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.png
+
+Instagram Icon:  https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_86,h_86,al_c,usm_0.66_1.00_0.01/01c3aff52f2a4dffa526d7a9843d46ea.png
+
+Barroco Logo:  https://static.wixstatic.com/media/cb2e86_fd0bc32b806a49a396492eed7e36cd24~mv2.png/v1/fill/w_1200,h_542,al_c,usm_0.66_1.00_0.01/cb2e86_fd0bc32b806a49a396492eed7e36cd24~mv2.png
+
+Barroco Larchmere: https://static.wixstatic.com/media/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg/v1/fill/w_976,h_778,al_c,q_85,usm_0.66_1.00_0.01/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg
+
+Barroco Crocker Park:  https://static.wixstatic.com/media/cb2e86_4a123699e56142f9a271e2118987f9a9~mv2_d_4032_3024_s_4_2.jpg/v1/fill/w_976,h_778,al_c,q_85,usm_0.66_1.00_0.01/cb2e86_4a123699e56142f9a271e2118987f9a9~mv2_d_4032_3024_s_4_2.jpg
+
+Barroco Birdtown:  https://static.wixstatic.com/media/cb2e86_366d631e05ff463bacb0e51c866eb3cf~mv2.jpg/v1/fill/w_757,h_606,al_l,q_85/cb2e86_366d631e05ff463bacb0e51c866eb3cf~mv2.jpg
+
+Fancy Drink 2:  https://static.wixstatic.com/media/cb2e86_a34b967db150425aab42d22a81f58ed2~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_a34b967db150425aab42d22a81f58ed2~mv2.jpg
+
+Fancy Drink 3:  https://static.wixstatic.com/media/cb2e86_314a0fdce42a4af59bf09ac34a290e13~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_314a0fdce42a4af59bf09ac34a290e13~mv2.jpg
+
+Fancy Drink 4:  https://static.wixstatic.com/media/cb2e86_ea40f649a58b483a90419cfe7a5b721b~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_ea40f649a58b483a90419cfe7a5b721b~mv2.jpg
+
+Fancy Drink:  https://static.wixstatic.com/media/cb2e86_8db52b129a4c439f84c95985864b0a28~mv2.jpg/v1/fill/w_894,h_960,al_c,q_85/cb2e86_8db52b129a4c439f84c95985864b0a28~mv2.jpg
+
+Dancing Women in Orange Shirt: https://static.wixstatic.com/media/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg/v1/fill/w_2048,h_1169,al_c,q_90/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg
+
+
+**Videos**
+
+Main Intro Video:  https://video.wixstatic.com/video/cb2e86_a1af32d37aea4588a5a9c2ae8430c5d3/480p/mp4/file.mp4
+
+Live Music Video:  https://video.wixstatic.com/video/cb2e86_4d0cd688de5142199358caa0b799ca15/360p/mp4/file.mp4
 
 
 
