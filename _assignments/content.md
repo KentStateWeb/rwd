@@ -6,7 +6,7 @@ points: 5
 layout: assignment
 date: 2018-10-31 12:00:00
 semester: fall-2018
-#status: assignment-completed
+status: assignment-completed
 
 ---
 
