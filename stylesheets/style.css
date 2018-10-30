@@ -2153,3 +2153,63 @@ figure {
 	margin-top: 1.5em;
 	margin-bottom: 2em;
 }
+
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #232323;
+		color: white;
+	}
+
+	nav a {
+		color: white;
+	}
+
+	h1, h3 {
+		color: #229CB8;
+	}
+
+	.svg .letter {
+		fill: white;
+	}
+
+	.blog-post-summary p {
+		color: white;
+	}
+
+	dt {
+		color: white;
+	}
+
+	.class-entry h3 {
+		color: white;
+	}
+
+	nav a:hover, nav a:focus, .active a {
+		color: #229CB8;
+	}
+
+	.tagline-container:after {
+		background-color: #232323;
+	}
+
+	.gallery-item__description {
+		color: white;
+	}
+
+	h2 {
+		color: white;
+	}
+
+	main p a, main ul a {
+		color: #229CB8;
+	}
+
+ 	p a:hover, ul a:hover {
+		color: white;
+	}
+
+	p.introduction {
+		color: white;
+	}
+}
