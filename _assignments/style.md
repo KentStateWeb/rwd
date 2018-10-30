@@ -36,7 +36,28 @@ You can use any vector-based program for this assignment, such as Sketch (free t
 
 ---
 
-## Create Style Prototype
+## Create At Least One Small/Large Mockup
+
+Using your sketches and content from last week as a guide, create a mock-up or comp that shows your style tiles in use on a small screen and a large screen to show the 2 extremes of your design in use.  Unlike the abstract style prototype/style tile, these mockups should show the design elements as they would appear on an actual web page on your site.
+
+Don't mock up every page of your website, just show the elements from your style tiles in use on a single "page" of your website.  This could be the Home Page or Product Page, for example.
+
+Your mockup is just a picture of your website - we'll continue to make design decisions once we get into the browser in the coming weeks.
+
+You can use any vector-based program for this assignment, such as Sketch (free trial) or Adobe Illustrator to complete the mock-up.
+
+**A few things to note:**
+
+* Include real content, where necessary.  Lorem Ipsum is easy to generate, but it isn't realistic.
+* These are not final.  You should create an iterate on your style tiles rapidly, but with thought.  Think of these as sketching on screen.
+* You and your partner should work on these together.  This needs to be a collaboration.
+* We'll show your mockups and style tiles in class for additional feedback and critique that you'll use when creating your prototype/templates
+
+---
+
+## OPTIONAL: Create Style Prototype
+
+You can do this part if you'd like to challenge yourself.
 
 Represent one of your style tiles in HTML/CSS in CodePen or in a folder on your GitHub repository.  This very basic, but interactive and responsive style prototype should demonstrate basic components from your static style tiles on a web page, including:
 
@@ -54,25 +75,6 @@ If you are using CodePen for your prototype, CodePen only allows Pro users to up
 1.  Move your images into your GitHub repository's folder on your computer (location will vary).  I recommend removing all spaces and capital letters from your image file names.
 2.  Use the GitHub Desktop software to sync the changes to the folder you just made (commit and then push the changes)
 3.  In a few minutes you'll be able to access your image via your GitHub URL.  For example, if your image file is "image.jpg" and your repository URL is https://kentstateweb.github.io/mygroup-name/, then your image is accessible at https://kentstateweb.github.io/mygroup-name/image.jpg.  This is the URL you'll use for your IMG tags.
-
----
-
-## Create At Least One Small/Large Mockup
-
-Using your sketches and content from last week as a guide, create a mock-up or comp that shows your style tiles in use on a small screen and a large screen to show the 2 extremes of your design in use.  Unlike the abstract style prototype/style tile, these mockups should show the design elements as they would appear on an actual web page on your site.
-
-Don't mock up every page of your website, just show the elements from your style tiles in use on a single "page" of your website.  This could be the Home Page or Product Page, for example.
-
-Your mockup is just a picture of your website - we'll continue to make design decisions once we get into the browser in the coming weeks.
-
-You can use any vector-based program for this assignment, such as Sketch (free trial) or Adobe Illustrator to complete the mock-up.
-
-**A few things to note:**
-
-* Include real content, where necessary.  Lorem Ipsum is easy to generate, but it isn't realistic.
-* These are not final.  You should create an iterate on your style tiles rapidly, but with thought.  Think of these as sketching on screen.
-* You and your partner should work on these together.  This needs to be a collaboration.
-* We'll show your mockups and style tiles in class for additional feedback and critique that you'll use when creating your prototype/templates
 
 ---
 
