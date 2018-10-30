@@ -4,7 +4,7 @@ description: "Description of the assignment"
 type: "challenge"
 points: 6
 layout: assignment
-date: 2018-11-05 12:00:00
+date: 2018-11-12 12:00:00
 semester: fall-2018
 #status: assignment-completed
 
@@ -16,21 +16,26 @@ semester: fall-2018
 
 Their chief complaint is that the website isn't responsive!  Many people use the website from their phones to look at the restaurant's menu and look up location information.
 
-They'd like your recommendation as to whether they should do a do a full redesign or "retrofit" the website's current home page into a responsive one.  
+They'd like you to take elements from their current "desktop-only" website and make it a responsive one, making changes to the design as needed.  
 
 <a href="https://www.barrocoarepabar.com" class="button small">View Current Site</a>
-
+<a href="/files/barroco.png" class="button small">View Screenshot</a>
 
 ## What To Do
 
 In CodePen, you're going to translate the existing desktop-only home page into a responsive one.  You can either use the existing assets and content available on the website or create your own new design (this is a more advanced, but creative, approach).  You could also use a hybrid of old site and integrate some of your own ideas.
 
+Note: while you can inspect the code from their current site, the code is machine-generated from Wix and is nearly unreadable. I don't recommend using any of the existing code.
 
-1.  Fork this starter pen, which has starter content and HTML structure in place.  Feel free to change this content however you need:  https://codepen.io/challahan/pen/LggLvG/?editors=1000
+1.  Fork this starter pen, which has starter content and HTML structure in place.  Feel free to change this content however you need:  [https://codepen.io/challahan/pen/LggLvG/?editors=1000](https://codepen.io/challahan/pen/LggLvG/?editors=1000)
 
-2.  Use the assets and content below to begin styling your components (you might start from the header and work down).  You will have to add additional HTML and classes in order to effectively style your components.  
+2.  Use the assets and content below to begin styling your components (you might start from the header and work down).  You will have to add additional HTML and classes in order to effectively style your components.
 
-3.  Add the autoplay videos last.  Use [this tutorial](https://pawelgrzybek.com/background-video-made-easy/) for help placing a background video in the 2 areas indicted in the HTML.  We will go over this process in class, as it isn't the most simple process.  
+3.  Build your site mobile-first, choosing how items stack and in what order.  Then, add in your media queries to create grid or flex layouts as needed.
+
+4.  When building the navigation, we haven't yet learned how to do a collapsible menu. Find a creative way to display your navigation on small screens without resorting to the "hamburger" menu quite yet.
+
+4.  Add the autoplay videos last.  Use [this tutorial](https://pawelgrzybek.com/background-video-made-easy/) for help placing a background video in the 2 areas indicted in the HTML.  We will go over this process in class, as it isn't the most simple process.  
 
 
 ### Assets for Use
@@ -49,13 +54,17 @@ In CodePen, you're going to translate the existing desktop-only home page into a
 * Headlines:  [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 
-**Images:**
+**Icons & Logos:**
 
 [Facebook Icon](https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png/v1/fill/w_86,h_86,al_c,usm_0.66_1.00_0.01/0fdef751204647a3bbd7eaa2827ed4f9.png)
 
 [Instagram Icon](https://static.wixstatic.com/media/01c3aff52f2a4dffa526d7a9843d46ea.png/v1/fill/w_86,h_86,al_c,usm_0.66_1.00_0.01/01c3aff52f2a4dffa526d7a9843d46ea.png)
 
 [Barroco Logo](https://static.wixstatic.com/media/cb2e86_fd0bc32b806a49a396492eed7e36cd24~mv2.png/v1/fill/w_1200,h_542,al_c,usm_0.66_1.00_0.01/cb2e86_fd0bc32b806a49a396492eed7e36cd24~mv2.png)
+
+[Barroco Logo in Orange - in case you want to use it](https://s3-us-west-2.amazonaws.com/s.cdpn.io/259273/barroco-standalone.png)
+
+**Images:**
 
 [Barroco Larchmere Image](https://static.wixstatic.com/media/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg/v1/fill/w_976,h_778,al_c,q_85,usm_0.66_1.00_0.01/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg)
 
@@ -73,6 +82,10 @@ In CodePen, you're going to translate the existing desktop-only home page into a
 
 [Dancing Women in Orange Shirt](https://static.wixstatic.com/media/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg/v1/fill/w_2048,h_1169,al_c,q_90/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg)
 
+[Main Intro Video Still Image](https://static.wixstatic.com/media/cb2e86_a1af32d37aea4588a5a9c2ae8430c5d3f000.jpg/v1/fill/w_720,h_383,al_c,q_80,usm_0.33_1.00_0.00/cb2e86_a1af32d37aea4588a5a9c2ae8430c5d3f000.jpg)
+
+[Live Music Video Still Image](https://static.wixstatic.com/media/cb2e86_4d0cd688de5142199358caa0b799ca15f000.jpg/v1/fill/w_864,h_271,al_c,lg_1,q_80,usm_0.33_1.00_0.00/cb2e86_4d0cd688de5142199358caa0b799ca15f000.jpg)
+
 
 **Videos**
 
@@ -87,8 +100,8 @@ This is an open-ended assignment, meaning I have no specific expectations for th
 
 1.  Your assignment is marked up in proper HTML, using the correct elements as needed.
 2.  Your CSS is formatted properly with media queries starting at a small screen and then changing to a large screen.
-3.  You've used at a minimum one flexbox or grid property to position items side-by-side in appropriate places.
-4.  The design effectively replicates the content of the original website design, with design changes as appropriate to create the responsive site.  
+3.  You've used at a minimum one flexbox or grid property to position items side-by-side in appropriate places. You can mix and match flex and grid as appropriate.
+4.  The design effectively replicates the content of the original website design, with design changes as appropriate to create the responsive site. Don't want to include something? You can leave it out.
 
 ---
 
