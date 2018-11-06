@@ -12,11 +12,11 @@ We're now on our way to making a real, functioning website.  For the purposes of
 
 Instead of producing all of the templates at once, we'll split this assignment into 5 parts over the last part of the semester.
 
-1.  <a href="#1">Basic Wireframe Structure and Mockups: November 14</a>
-2.  <a href="#2">Patterns - Global: November 21</a>
-3.  <a href="#3">Patterns - Page Level: November 28</a>
-4.  <a href="#4">Combined Templates and Patterns - Instructor Review: December 5</a>
-5.  <a href="#5">Final Templates and Patterns: December 12</a>
+1.  <a href="#1">Basic Wireframe Structure and Mockups: Week 12</a>
+2.  <a href="#2">Patterns - Global: Week 13</a>
+3.  <a href="#3">Patterns - Page Level: Week 14</a>
+4.  <a href="#4">Combined Templates and Patterns - Instructor Review: Week 15</a>
+5.  <a href="#5">Final Templates and Patterns: Finals Week</a>
 
 ---
 
