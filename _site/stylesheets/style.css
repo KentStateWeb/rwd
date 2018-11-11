@@ -2154,6 +2154,11 @@ figure {
 	margin-bottom: 2em;
 }
 
+.group-list {
+	margin-top: 2em;
+	margin-bottom: 2.5em;
+}
+
 
 @media (prefers-color-scheme: dark) {
 	body {

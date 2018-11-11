@@ -9,12 +9,24 @@ title: Groups & Projects
 
 ## Groups + Projects ##
 
-Tuesday 5:30 Class:
+#### Chris Hallahan's Class
 
 {% assign items = site.groups | sort: "number" %}
-<ul>
+<ul class="group-list">
 {% for item in items %}
-	{% if item.semester == 'fall-2018' %}
+	{% if item.semester == 'fall-2018' and item.class == "hallahan" %}
+	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+
+#### Dave Roll's Class
+
+{% assign items = site.groups | sort: "number" %}
+<ul class="group-list">
+{% for item in items %}
+	{% if item.semester == 'fall-2018' and item.class != "hallahan" %}
 	<li><a href="{{ item.url }}">{{ item.title }}: {{ item.client}} ({{ item.members }})</a></li>
 	{% endif %}
 {% endfor %}
