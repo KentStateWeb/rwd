@@ -1,56 +1,54 @@
 ---
 title: "Group 13"
-client: "Franklin County Family & Community Services"
-members: "TBD"
+client: "Buckeye Bed and Breakfast"
+members: "Carson Robinson"
 layout: group
 link: TBD
 livelink: TBD
-class: hallahan
-description: "Franklin County Family & Community Services is a not-for-profit agency staffed by professional staff members and volunteers who empower individuals and families in the areas of support, advocacy, training and counseling."
 semester: fall-2018
+class: hallahan
+description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 date: 2016-7-11 12:00:00
 number: 13
-##pm: "../pm/group2-jenna.pdf"
----
 
+---
 
 ## Goals
 
 **What are your top goals as a business this year?**
 
-* Increase donations - our organization depends on funds from the community
-* Involve new volunteers and retain our current volunteers
-* Increase the amount of community members who utilize our services
-* Do a better job of informing community members of upcoming events, such as
+* Increase room reservations
+* Engage with past customers and increase returning customers
+* Increase specialty package sales, such as our "Sweatheart Package"
+* Provide better experiences for our customers through partnerships with surrounding area attractions
 
 **What would you like the website to be able to do for your users?**
 
-* Inform community members of the various programs and services offered to them, such as counseling, crisis intervention, workforce development and financial education
-* Encourage more fortunate community members to volunteer or donate
-* List upcoming events, including fund raising events
-* Explain our core mission and values
-* Less important - list careers and job openings
-* Allow people to contact us and our various departments
+* The website should show the various rooms that we have available to choose from, along with their rates and amenities for each
+* Allow customers to schedule and check reservations online
+* List attractions from the surrounding area that customers may be interested in seeing, such as shopping, restaurants, and wineries
+* Encourage customers to view and purchase a special occasion package, especially newly weds and couples celebrating an anniversary
+* Open up a dialogue between us and our customers through blogging and comments
+* Display testimonials from past customers
+* Allow customers to easily find our location on a map
 
 **Who are some of your top competitors?**
 
-We don't necessarily have competitors, but some surrounding communities have organizations similar to ours.  United Way also provides similar services, although we partner with them.
-
-* United Way: http://www.unitedway.org
-* Community Services of Stark: http://www.communityservicesofstark.org/index.php
-* Cobb County & Douglas County Community Services Boards: http://www.cobbcsb.com
-* North County Community Services: http://www.sdnccs.org
-* Greenleaf Family Center in http://greenleafctr.org - we like this one
+* Red Maple Inn: http://www.redmapleinn.com
+* The Mill House Bed and Breakfast: http://themillhouse.com
+* Whispering Pines Bed & Breakfast http://www.atwoodlake.com
+* Willow Brooke Bed & Breakfast: http://www.willowbrooke.com
 
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Non-Profit
-* Helpful
-* Community-Based
-* Supportive
-* Life-Saving
-
+* A fabulous getaway
+* Charming
+* Unique
+* Enchanting
+* Caring
+* Historic
+* Quaint
 
 ## Assets
 
@@ -58,9 +56,17 @@ We don't necessarily have competitors, but some surrounding communities have org
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group8/Group-8-Content.zip">Download Group 8 Content (Zip File)</a>
+<a href="/class/groups/assets/group6/Group-6-Content.zip">Download Group 6 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group8/FranklinCountyLogo-02.svg" alt="Franklin County" />
+<img src="/class/groups/assets/group6/buckeye.svg" alt="Buckeye Bed & Breadfast" />
 
-<a href="/class/groups/assets/group8/FranklinCountyLogo-02.svg">SVG File</a>
+<a href="/class/groups/assets/group6/buckeye.ai">AI (Illustrator) File</a>
+
+<a href="/class/groups/assets/group6/buckeye.eps">EPS (Vector) File</a>
+
+<a href="/class/groups/assets/group6/buckeye.svg">SVG File</a>
+
+### Brand Colors
+
+Acorn Brown: #61574B

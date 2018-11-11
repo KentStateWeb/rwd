@@ -8,7 +8,7 @@ semester: fall-2018
 class: hallahan
 description: Summit Street Family Restaurant, an american-style restaurant in Kent, OH known for their family-friendly atmosphere and reasonable prices.
 date: 2016-7-11 12:00:00
-number: 9
+number: -
 ---
 
 ## Goals

@@ -8,7 +8,7 @@ semester: fall-2018
 class: hallahan
 description: "William Thomas & Associates: A small, but growing, accounting firm that has prided itself in serving its local clientele across many generations."
 date: 2016-7-11 12:00:00
-number: 10
+number: -
 ---
 
 ## Goals

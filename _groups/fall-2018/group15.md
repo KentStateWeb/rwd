@@ -1,7 +1,7 @@
 ---
-title: "Group #"
+title: "Group 15"
 client: "Wrench Automotive"
-members: "TBD"
+members: "Alex Molinari"
 layout: group
 link: TBD
 livelink: TBD
@@ -9,7 +9,7 @@ class: hallahan
 description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
 semester: fall-2018
 date: 2016-7-11 12:00:00
-number: -
+number: 15
 ##pm: "../pm/group7-emily.pdf"
 ---
 

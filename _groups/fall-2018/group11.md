@@ -1,50 +1,50 @@
 ---
 title: "Group 11"
-client: "Barb’s Bridal Boutique"
-members: "TBD"
+client: "Wrench Automotive"
+members: "Andrew Maykut"
 layout: group
 link: TBD
 livelink: TBD
-semester: fall-2018
 class: hallahan
-description: "Barb’s Bridal Boutique, a small boutique in Ohio that specializes in bridal wear."
+description: Wrench Automotive, an automotive repair shop known for their personalized and high-quality service.
+semester: fall-2018
 date: 2016-7-11 12:00:00
 number: 11
-
+##pm: "../pm/group7-emily.pdf"
 ---
 
 ## Goals
 
 **What are your top goals as a business this year?**
 
-* Increase sales of designer dresses
-* Increase in-person traffic to our stores through free try-on appointments
-* Increase engagement on our social media
+* Increase service appointments by 25%
+* Increase word-of-mouth referrals by existing customers
+* Increase sales of product and maintenance services, such as tires and oil changes.  Offer coupons to encourage oil changes.
+* Increase new customers, especially those who find us via search engines
 
 **What would you like the website to be able to do for your users?**
 
-* Allow prospective customers to browse our dress catalog online
-* Encourage customers to come in and talk to our sales associates about their wedding
-* Allow customers to see stories from other brides and share their stories
-* Build trust with customers by introducing ourselves and our history
-* Allow customers to find our store location and hours easily
+* Inform customers of the variety of services we offer
+* Ensure customers know that we are a reputable and trusted shop that doesn't take advantage of its customers
+* Allow customers to schedule appointments online or via phone
+* Allow cutustomers to easily find us
+* Allow customers to get to know our staff members and business, which is locally owned
 
 **Who are some of your top competitors?**
 
-* The Dress: Bridal Boutique: http://thedress.staging4.net
-* B.Loved Bridal Boutique: http://blovedbridal.com
-* Elyse's Boutique: Bridal & Prom: http://www.elysesboutique.com  (we don't like their website, but they're a competitor)
+* Murphy's Autocare & Tire: http://www.murphysautocare.com - we really like this one
+* Willoughby Hills Auto Repair: http://whautorepair.com
+* Rick's #1 Auto: http://www.ricks1auto.com
+* Firestone Complete Auto Care: http://www.firestonecompleteautocare.com
 
 **If you could use a few adjectives to describe your company and desired website, what would they be?**
 
-* Modern
-* Sophisticated
-* Locally-owned (we have lived in Ohio all of our lives and operated this store for 25 years)
+* Customer-focused
+* Quality Service
+* Affordable
+* Friendly
 * Trusted
-* Trendy
-* Customer-First
-
-<!--http://evesbridalwear.co.za/product/prina/-->
+* Personalized
 
 ## Assets
 
@@ -52,17 +52,19 @@ number: 11
 
 A starter file with content, photos and more that you've received from the client.  
 
-<a href="/class/groups/assets/group1/Group-1-Content.zip">Download Group 1 Content (Zip File)</a>
+<a href="/class/groups/assets/group4/Group-4-Content.zip">Download Group 4 Content (Zip File)</a>
 
 ### Logo
-<img src="/class/groups/assets/group1/barb.svg" alt="Barb's Bridal Boutique" />
+<img src="/class/groups/assets/group4/wrench.svg" alt="Wrench Automotive" />
 
-<a href="/class/groups/assets/group1/barb.ai">AI (Illustrator) File</a>
+<a href="/class/groups/assets/group4/wrench.ai">AI (Illustrator) File</a>
 
-<a href="/class/groups/assets/group1/barb.eps">EPS (Vector) File</a>
+<a href="/class/groups/assets/group4/wrench.eps">EPS (Vector) File</a>
 
-<a href="/class/groups/assets/group1/barb.svg">SVG File</a>
+<a href="/class/groups/assets/group4/wrench.svg">SVG File</a>
 
 ### Brand Colors
 
-Blue: #445363
+Bone: E6E7E8
+
+Mechanic Red: #942A1F

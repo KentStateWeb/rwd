@@ -9,7 +9,7 @@ semester: fall-2018
 class: hallahan
 description: "Buckeye Bed & Breakfast: A bed & breakfast in Ohio whose clientele includes newlyweds and couples looking to get away from the hustle and bustle of daily life."
 date: 2016-7-11 12:00:00
-number: 8
+number: -
 
 ---
 

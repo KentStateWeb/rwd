@@ -1,7 +1,7 @@
 ---
 title: "Group 10"
 client: "Buckeye Bed and Breakfast"
-members: "TBD"
+members: "Ramsey Gavin"
 layout: group
 link: TBD
 livelink: TBD
