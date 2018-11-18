@@ -1,5 +1,5 @@
 ---
-title: "Usability Testing"
+title: "Usability & Performance Testing"
 description: "As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them. "
 type: "project"
 points: 5
