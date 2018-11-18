@@ -1,5 +1,5 @@
 ---
-title: "Usability and Technical Testing"
+title: "Usability Testing"
 description: "As you begin building your templates/prototype, you'll need to think about how real people will use and interact with them. "
 type: "project"
 points: 5
@@ -28,11 +28,26 @@ First, we need to consider the top goals for your website.  Then, we'll develop 
 
 2.  Based on each goal, create a task that a user will be able to complete using your website templates.  Note:  It's okay that your website is not complete yet.  You can test much of the functionality even when the website is not complete.  In fact, it's better to test early.  A task is typically scenario based and is something like "It's Saturday night around 8 and you'd like to see if Business Name is still open.  Find the answer using the website."  Tasks should frame real-life scenarios that your users might encounter and should not lead them directly to the answer.
 
-3.  On the day of testing, find a group to test your website.  One person will act as the facilitator while another group member or members(s) will take notes and record observations.
+3.  On the day of testing, find a group to test your website. Your website should be tested on at least 1 mobile device and 1 desktop or laptop device.  One person will act as the facilitator while another group member or members(s) will take notes and record observations.
 
 4.  Based on the results, summarize your notes into 4 recommendations for improvement or changes.
 
 
+### Performance & Accessibility Testing Exercise
+
+1.  In your Google sheet, list your 3 template pages that make up your prototype.
+
+2.  Run Google's new performance test on your LIVE website (note that the link on your computer will not work):  [https://web.dev](https://web.dev)
+
+3.  Take a screenshot of the results.  
+
+4.  Make at least one change to improve your score (this could include optimizing or resizing images or adding a metadata tag) and run the test again. Record the change you made in the Performance part of the spreadsheet.  You can see specific recommendations and details by selecting View Report.
+
+Note:  Simply following these guidelines does not ensure your website performant or accessible, but it's a good starting point.
+
+
+
+<!--
 ### Technical Testing Plan
 
 Unlike usability testing, technical testing resolves around the technology.  When developing your testing plan:
@@ -50,22 +65,21 @@ Unlike usability testing, technical testing resolves around the technology.  Whe
 Note:  Your performance results will not impact your grade in any way at this time.  It's just a benchmark from which you can make improvements.
 
 
-### Accessibility Testing Plan
+### Accessibility Testing Exercise
 
-This will be done on the day of testing.  
+Do this before handing in your assignment.
 
 1.  Run through the Web Accessibility Checklist at http://a11yproject.com/checklist.html and ensure your website has the applicable landmark roles, etc. and make fixes.  You can likely skip the Forms part.
 
 2.  Record any changes you made to make your website meet these requirements.
 
-Note:  Simply following this checklist does not ensure your website is compliant, but it's a good starting point.  The only way to truly test accessibility is to have real participants with disabilities test the site.
-
+-->
 
 ## How to Turn In the Assignment
 
 You'll be submitting the links to your Google Sheet (made publicly viewable) in your project repository.  Remember that you should use <a href="https://docs.google.com/a/kent.edu/spreadsheets/d/1cj8GdaVCttFxcbRQqckyU3X1SF-XetH4U9EHWElagiA/edit?usp=sharing">this template</a> to format your results.  The content will be filled in on the date of testing in class.
 
-1.  Create a publicly shareable Google Drive link that points to your testing results from (a) Usability testing summary + tasks, (b) Technical Testing and (c) Accessibility Testing.  Don't forget to make your links publicly accessible!
+1.  Create a publicly shareable Google Drive link that points to your testing results from (a) Usability testing summary + tasks and accessibility Testing.  Don't forget to make your links publicly accessible!
 2.  On your root index.html file, which is the Project Hub, add an H2 with Date: Usability and Technical Testing.
 3.  After you've committed and synced your changes via GitHub Desktop, you can submit both the timeline hyperlink and the link to the Google folder via Blackboard Learn.  Note: Don't link to the local version on your computer.  You need to access the live version on the web with the GitHub.io URL.
 
