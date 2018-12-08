@@ -12,7 +12,7 @@ Since this project was a complex assignment, I want to hear feedback from each g
 
 The survey must be completed by Thursday of finals week at 5 p.m.
 
-<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_6MCjefeZZPWBMFv">Take the Survey</a>
+<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_8vqm2ULdEwlCkfP">Take the Survey</a>
 
 ## Survey Questions
 
@@ -67,7 +67,7 @@ Reflect on your own performance during the project.
 
 Complete the survey online before the due date.  
 
-<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_6MCjefeZZPWBMFv">Take the Survey</a>
+<a class="button button-small" href="https://kent.qualtrics.com/jfe/form/SV_8vqm2ULdEwlCkfP">Take the Survey</a>
 
 ## Rubric
 
